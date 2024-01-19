@@ -1,0 +1,187 @@
+- name: News
+  fontAwesome: desktop
+  items:
+  - name: Engadget
+    url: http://www.engadget.com/
+  - name: Ars Technica
+    url: http://arstechnica.com/
+  - name: CNET
+    url: https://www.cnet.com/news/
+  - name: Windows Central
+    url: http://www.windowscentral.com/
+  - name: Tom's Hardware
+    url: http://www.tomshardware.com/
+  - name: AnandTech
+    url: http://anandtech.com/
+  - name: Consumer Reports
+    url: https://www.consumerreports.org/cro/news/index.htm
+  - name: myce
+    url: https://www.myce.com/
+- name: Forums
+  fontAwesome: forumbee
+  items:
+  - name: Slashdot
+    url: http://slashdot.org/
+  - name: DVD Talk
+    url: http://forum.dvdtalk.com/
+  - name: Hard Forum
+    url: http://www.hardforum.com/
+  - name: Cheap Ass Gamer
+    url: http://www.cheapassgamer.com/
+- name: Games
+  fontAwesome: gamepad
+  items:
+  - name: Polygon
+    url: http://www.polygon.com/
+  - name: Kotaku
+    url: http://www.kotaku.com/
+  - name: Nintendo Life
+    url: http://www.nintendolife.com/
+  - name: The Sixth Axis
+    url: http://www.thesixthaxis.com/
+  - name: COG Connected
+    url: https://cogconnected.com/
+  - name: Switch Player
+    url: http://switchplayer.net/
+  - name: Indie Retro News
+    url: http://www.indieretronews.com/
+  - name: TechRaptor
+    url: https://techraptor.net/
+  - name: IND13games
+    url: https://ind13.com/
+  - name: Old School Gamer Magazine
+    url: https://www.oldschoolgamermagazine.com/
+  - name: Tech-Gaming
+    url: https://www.tech-gaming.com/
+  - name: PSLS
+    url: http://www.playstationlifestyle.net/
+  - name: PlayStation Universe
+    url: http://www.psu.com/
+  - name: PSX Extreme
+    url: http://www.psxextreme.com/
+  - name: The Video Game Critic
+    url: https://videogamecritic.com/
+- name: Games
+  fontAwesome: gamepad
+  items:
+  - name: GameFAQs
+    url: http://www.gamefaqs.com/
+  - name: Games Done Quick
+    url: https://gamesdonequick.com/
+  - name: PSN Profiles
+    url: https://psnprofiles.com/
+  - name: My PlayStation
+    url: https://my.playstation.com/whatsnew
+  - name: PlayStation Blog
+    url: http://blog.us.playstation.com/
+- name: Ratings
+  fontAwesome: film
+  items:
+  - name: Rotten Tomatoes
+    url: http://www.rottentomatoes.com/
+  - name: IMDB
+    url: http://www.imdb.com/
+  - name: Metacritic
+    url: http://www.metacritic.com/game
+- name: Stores
+  fontAwesome: shopping-cart
+  items:
+  - name: Amazon
+    url: http://smile.amazon.com
+  - name: Humble Bundle
+    url: https://www.humblebundle.com/
+  - name: GOG
+    url: https://www.gog.com/
+  - name: Steam
+    url: http://store.steampowered.com/
+  - name: ebay
+    url: https://www.ebay.com/
+  - name: Limited Run Games
+    url: https://limitedrungames.com/
+  - name: PlayStation Store
+    url: https://store.playstation.com/en-us/latest
+  - name: PSPrices
+    url: https://psprices.com/region-us/index
+  - name: PSDeals
+    url: https://psdeals.net/us-store/discounts?type=games
+  - name: Hardcopygames
+    url: https://hardcopygames.com/
+  - name: Stictly Limited
+    url: https://www.strictlylimitedgames.com/
+  - name: iam8bit
+    url: https://www.iam8bit.com/collections/all
+  - name: itch.io
+    url: https://itch.io/
+  - name: OfferUp
+    url: https://offerup.com/
+- name: Mail
+  fontAwesome: envelope-o
+  items:
+  - name: Outlook
+    url: http://www.outlook.com
+  - name: Gmail
+    url: http://mail.google.com
+- name: Streaming
+  fontAwesome: th
+  items:
+  - name: YouTube
+    url: https://youtube.com
+  - name: Netflix
+    url: https://netflix.com
+  - name: Amazon Prime
+    url: https://smile.amazon.com/prime
+  - name: F1 TV
+    url: https://f1tv.formula1.com/en/
+  - name: Pluto TV
+    url: https://pluto.tv/tv/
+  - name: YouTube TV
+    url: https://tv.youtube.com
+  - name: Twitch
+    url: https://www.twitch.tv/
+  - name: Netflix Global Search
+    url: http://unogs.com/
+- name: General
+  fontAwesome: th
+  items:
+  - name: DuckDuckGo
+    url: https://duckduckgo.com/
+  - name: Outline
+    url: https://outline.com/
+- name: Game Wikis
+  fontAwesome: th
+  items:
+  - name: How Long to Beat
+    url: https://howlongtobeat.com/
+  - name: Dead Cells
+    url: https://deadcells.gamepedia.com/Dead_Cells_Wiki
+  - name: Graveyard Keeper
+    url: https://graveyardkeeper.gamepedia.com/Graveyard_Keeper_Wiki
+  - name: Moonlighter
+    url: https://moonlighter.gamepedia.com/Moonlighter_Wiki
+  - name: Stardew Valley
+    url: https://stardewvalleywiki.com/Stardew_Valley_Wiki
+  - name: Legend of Zelda
+    url: https://www.zeldadungeon.net/
+- name: MiSTer
+  fontAwesome: th
+  items:
+  - name: MiSTer FPGA Forum
+    url: https://misterfpga.org/
+  - name: MiSTer Wiki
+    url: https://github.com/MiSTer-devel/Main_MiSTer/wiki
+  - name: Mr Fusion
+    url: https://github.com/MiSTer-devel/mr-fusion
+  - name: theypsilon/Update_All_MiSTer
+    url: https://github.com/theypsilon/Update_All_MiSTer
+  - name: ScummVM
+    url: https://github.com/bbond007/MiSTer_ScummVM
+  - name: MiSTer-devel/Updater_script_MiSTer
+    url: https://github.com/MiSTer-devel/Updater_script_MiSTer
+  - name: Jotego Binaries
+    url: https://github.com/jotego/jtbin
+  - name: Creative Music Sound System
+    url: https://github.com/chimaera66/Creative-Music-Sound-System-for-MiSTer
+  - name: MiSTer Super Attract Mode
+    url: https://github.com/mrchrisster/MiSTer_SAM
+  - name: MiSTer MIDI Interface
+    url: https://www.legacypixels.com/mister/midi.html

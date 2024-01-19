@@ -1,0 +1,19 @@
+---
+layout: page
+title: Photos
+permalink: /photos/
+---
+
+<p>
+    The photos are stored on OneDrive. If you'd like access, send me an email (my contact info is down below).
+</p>
+
+{% for album in site.data.albums %}
+{% if album.isVisible == true %}
+<img width="350" src="/assets/albums/{{ album.file }}" />
+<a href="{{ album.url }}" target="_blank">
+    <h1>{{ album.date }} - {{ album.name }}</h1>
+</a>
+<br/>
+{% endif %}
+{% endfor %}

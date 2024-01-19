@@ -1,0 +1,16 @@
+---
+layout: page
+title: Favorites
+permalink: /favorites/
+---
+
+{% for category in site.data.favorites %}
+<h1>{{ category.name }}</h1>
+<ul>
+    {% for item in category.items %}
+    <li><a href="{{ item.url }}" target="_blank">{{ item.name }}</a></li>
+    {% endfor %}
+</ul>
+{% endfor %}
+
+
