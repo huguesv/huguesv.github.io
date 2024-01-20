@@ -1,6 +1,8 @@
 ---
 ---
 
+$content-width: 80%;
+
 @import "minima";
 
 .button {
@@ -24,4 +26,19 @@
 
 .button:visited {
     color: $text-color;
+}
+
+.card {
+    vertical-align: top;
+    width: 400px;
+    height: 240px;
+    display: inline-block;
+}
+
+.card-image {
+    width: 250px;
+}
+
+.card-text {
+    margin-top: 10px;
 }
