@@ -5,8 +5,6 @@
     url: http://www.engadget.com/
   - name: Ars Technica
     url: http://arstechnica.com/
-  - name: CNET
-    url: https://www.cnet.com/news/
   - name: Windows Central
     url: http://www.windowscentral.com/
   - name: Tom's Hardware
@@ -15,8 +13,6 @@
     url: http://anandtech.com/
   - name: Consumer Reports
     url: https://www.consumerreports.org/cro/news/index.htm
-  - name: myce
-    url: https://www.myce.com/
 - name: Forums
   fontAwesome: forumbee
   items:
@@ -33,39 +29,37 @@
   items:
   - name: Polygon
     url: http://www.polygon.com/
+  - name: The Sixth Axis
+    url: http://www.thesixthaxis.com/
   - name: Kotaku
     url: http://www.kotaku.com/
   - name: Nintendo Life
     url: http://www.nintendolife.com/
-  - name: The Sixth Axis
-    url: http://www.thesixthaxis.com/
-  - name: COG Connected
-    url: https://cogconnected.com/
-  - name: Switch Player
-    url: http://switchplayer.net/
-  - name: Indie Retro News
-    url: http://www.indieretronews.com/
-  - name: TechRaptor
-    url: https://techraptor.net/
-  - name: IND13games
-    url: https://ind13.com/
-  - name: Old School Gamer Magazine
-    url: https://www.oldschoolgamermagazine.com/
-  - name: Tech-Gaming
-    url: https://www.tech-gaming.com/
   - name: PSLS
     url: http://www.playstationlifestyle.net/
   - name: PlayStation Universe
     url: http://www.psu.com/
-  - name: PSX Extreme
-    url: http://www.psxextreme.com/
+  - name: COG Connected
+    url: https://cogconnected.com/
+  - name: TechRaptor
+    url: https://techraptor.net/
+  - name: Tech-Gaming
+    url: https://www.tech-gaming.com/
+  - name: Indie Retro News
+    url: http://www.indieretronews.com/
   - name: The Video Game Critic
     url: https://videogamecritic.com/
+  - name: IND13games
+    url: https://ind13.com/
+  - name: Old School Gamer Magazine
+    url: https://www.oldschoolgamermagazine.com/
 - name: Games
   fontAwesome: gamepad
   items:
   - name: GameFAQs
     url: http://www.gamefaqs.com/
+  - name: How Long to Beat
+    url: https://howlongtobeat.com/
   - name: Games Done Quick
     url: https://gamesdonequick.com/
   - name: PSN Profiles
@@ -102,8 +96,6 @@
     url: https://store.playstation.com/en-us/latest
   - name: PSPrices
     url: https://psprices.com/region-us/index
-  - name: PSDeals
-    url: https://psdeals.net/us-store/discounts?type=games
   - name: Hardcopygames
     url: https://hardcopygames.com/
   - name: Stictly Limited
@@ -140,28 +132,6 @@
     url: https://www.twitch.tv/
   - name: Netflix Global Search
     url: http://unogs.com/
-- name: General
-  fontAwesome: th
-  items:
-  - name: DuckDuckGo
-    url: https://duckduckgo.com/
-  - name: Outline
-    url: https://outline.com/
-- name: Game Wikis
-  fontAwesome: th
-  items:
-  - name: How Long to Beat
-    url: https://howlongtobeat.com/
-  - name: Dead Cells
-    url: https://deadcells.gamepedia.com/Dead_Cells_Wiki
-  - name: Graveyard Keeper
-    url: https://graveyardkeeper.gamepedia.com/Graveyard_Keeper_Wiki
-  - name: Moonlighter
-    url: https://moonlighter.gamepedia.com/Moonlighter_Wiki
-  - name: Stardew Valley
-    url: https://stardewvalleywiki.com/Stardew_Valley_Wiki
-  - name: Legend of Zelda
-    url: https://www.zeldadungeon.net/
 - name: MiSTer
   fontAwesome: th
   items:
