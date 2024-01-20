@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Site redesigned for 2024"
+date: 2024-01-20
+categories: web
+---
+Welcome to my updated personal web site.
+
+For the first time in over 20 years, I'm switching away from ASP.NET.
+
+This new version of the site is static pages built with Jekyll and hosted on GitHub Pages.
+
+The benefit of this new setup is that hosting is free on GitHub Pages, and it includes
+support for custom domain and https.
+
+There's less content than there was on the old site. I might add some of it back in the future.
+
+I'm also using the default Jekyll 'minima' theme for now, I haven't had time to research available themes yet.
+
+
