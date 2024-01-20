@@ -4,19 +4,14 @@ title: Photos
 permalink: /photos/
 ---
 
-<p>
-    The photos are stored on OneDrive. If you'd like access, send me an email (my contact info is down below).
-</p>
-
-<br />
-<br />
-
 <ul>
     {% for album in site.data.albums %}
     {% if album.isVisible == true %}
     <li class="card">
-        <img class="card-image" src="/assets/albums/{{ album.file }}" />
-        <p class="card-text"><a href="{{ album.url }}" target="_blank">{{ album.date }} - {{ album.name }}</a></p>
+        <a href="{{ album.url }}" target="_blank">
+            <img class="card-image" src="/assets/albums/{{ album.file }}" alt="{{ album.date }}" />
+        </a>
+        <p class="card-text">{{ album.date }} - {{ album.name }}</p>
         <br />
     </li>
     {% endif %}

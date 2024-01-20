@@ -14,6 +14,7 @@ $content-width: 80%;
     border-right: 1px solid $text-color;
     border-bottom: 1px solid $text-color;
     border-left: 1px solid $text-color;
+    border-radius: 4px;
     line-height: 45px;
     white-space: nowrap;
 }
@@ -31,12 +32,12 @@ $content-width: 80%;
 .card {
     vertical-align: top;
     width: 400px;
-    height: 240px;
+    height: 280px;
     display: inline-block;
 }
 
 .card-image {
-    width: 250px;
+    width: 275px;
 }
 
 .card-text {
