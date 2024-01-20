@@ -5,12 +5,12 @@ permalink: /favorites/
 ---
 
 {% for category in site.data.favorites %}
-<h1>{{ category.name }}</h1>
-<ul>
+<h2>{{ category.name }}</h2>
     {% for item in category.items %}
-    <li><a href="{{ item.url }}" target="_blank">{{ item.name }}</a></li>
+    <a class="button" href="{{ item.url }}" target="_blank">{{ item.name }}</a>
     {% endfor %}
-</ul>
+<br />
+<br />
 {% endfor %}
 
 
