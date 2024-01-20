@@ -1,0 +1,200 @@
+- name: Hugues Valois
+  fontAwesome: th
+  items:
+  - name: Public Favorites
+    url: /favorites
+  - name: Private Favorites
+    url: /favorites-private
+  - name: Redump Favorites
+    url: /favorites-redump
+- name: Redump
+  fontAwesome: th
+  items:
+  - name: Home
+    url: http://redump.org
+  - name: Downloads
+    url: http://redump.org/downloads/
+  - name: Wip
+    url: http://redump.org/discs-wip/
+  - name: Wiki
+    url: http://wiki.redump.org/
+- name: Discs
+  fontAwesome: th
+  items:
+  - name: Acorn Archimedes
+    url: http://redump.org/discs/system/arch/
+  - name: Apple Macintosh
+    url: http://redump.org/discs/system/mac/
+  - name: Atari Jaguar
+    url: http://redump.org/discs/system/ajcd/
+  - name: Audio CD
+    url: http://redump.org/discs/system/audio-cd/
+  - name: Bandai Pippin
+    url: http://redump.org/discs/system/pippin/
+  - name: Bandai Playdia Quick Interactive System
+    url: http://redump.org/discs/system/qis/
+  - name: BD-Video
+    url: http://redump.org/discs/system/bd-video/
+  - name: Commodore Amiga CD
+    url: http://redump.org/discs/system/acd/
+  - name: Commodore Amiga CD32
+    url: http://redump.org/discs/system/cd32/
+  - name: Commodore Amiga CDTV
+    url: http://redump.org/discs/system/cdtv/
+  - name: DVD-Video
+    url: http://redump.org/discs/system/dvd-video/
+  - name: Fujitsu FM Towns
+    url: http://redump.org/discs/system/fmt/
+  - name: funworld Photo Play
+    url: http://redump.org/discs/system/fpp/
+  - name: Hasbrow VideoNow
+    url: http://redump.org/discs/system/hvn/
+  - name: Hasbrow VideoNow Color
+    url: http://redump.org/discs/system/hvnc/
+  - name: Hasbrow VideoNow Jr.
+    url: http://redump.org/discs/system/hvnjr/
+  - name: Hasbrow VideoNow XP
+    url: http://redump.org/discs/system/hvnxp/
+  - name: HD DVD-Video
+    url: http://redump.org/discs/system/hddvd-video/
+  - name: IBM PC compatible
+    url: http://redump.org/discs/system/pc/
+  - name: Incredible Technologies Eagle
+    url: http://redump.org/discs/system/ite/
+  - name: Konami e-Amusement
+    url: http://redump.org/discs/system/kea/
+  - name: Konami FireBeat
+    url: http://redump.org/discs/system/kfb/
+  - name: Konami M2
+    url: http://redump.org/discs/system/km2/
+  - name: Konami System 573
+    url: http://redump.org/discs/system/ks573/
+  - name: Konami System GV
+    url: http://redump.org/discs/system/ksgv/
+  - name: Konami Twinkle
+    url: http://redump.org/discs/system/kt/
+  - name: Mattel Fisher-Price iXL
+    url: http://redump.org/discs/system/ixl/
+  - name: Mattel HyperScan
+    url: http://redump.org/discs/system/hs/
+  - name: Memorex Visual Information System
+    url: http://redump.org/discs/system/vis/
+  - name: Microsoft Xbox
+    url: http://redump.org/discs/system/xbox/
+  - name: Microsoft Xbox 360
+    url: http://redump.org/discs/system/xbox360/
+  - name: Microsoft Xbox One
+    url: http://redump.org/discs/system/xboxone/
+  - name: Microsoft Xbox Series X
+    url: http://redump.org/discs/system/xboxsx/
+  - name: Namco - Sega - Nintendo Triforce
+    url: http://redump.org/discs/system/trf/
+  - name: Namco System 12
+    url: http://redump.org/discs/system/ns12/
+  - name: Namco System 246
+    url: http://redump.org/discs/system/ns246/
+  - name: Navisoft Naviken 2.1
+    url: http://redump.org/discs/system/navi21/
+  - name: NEC PC Engine & TurboGrafx CD
+    url: http://redump.org/discs/system/pce/
+  - name: NEC PC-88 series
+    url: http://redump.org/discs/system/pc-88/
+  - name: NEC PC-98 series
+    url: http://redump.org/discs/system/pc-98/
+  - name: NEC PC-FX & PC-FXGA
+    url: http://redump.org/discs/system/pc-fx/
+  - name: Neo Geo CD
+    url: http://redump.org/discs/system/ngcd/
+  - name: Nintendo GameCube
+    url: http://redump.org/discs/system/gc/
+  - name: Nintendo Wii
+    url: http://redump.org/discs/system/wii/
+  - name: Nintendo Wii U
+    url: http://redump.org/discs/system/wiiu/
+  - name: Palm OS
+    url: http://redump.org/discs/system/palm/
+  - name: Panasonic 3DO
+    url: http://redump.org/discs/system/3do/
+  - name: Panasonic M2
+    url: http://redump.org/discs/system/m2/
+  - name: Philips CD-i
+    url: http://redump.org/discs/system/cdi/
+  - name: Photo CD
+    url: http://redump.org/discs/system/photo-cd/
+  - name: PlayStation GameShark Updates
+    url: http://redump.org/discs/system/psxgs/
+  - name: Pocket PC
+    url: http://redump.org/discs/system/ppc/
+  - name: Sega Chihiro
+    url: http://redump.org/discs/system/chihiro/
+  - name: Sega Dreamcast
+    url: http://redump.org/discs/system/dc/
+  - name: Sega Lindbergh
+    url: http://redump.org/discs/system/lindbergh/
+  - name: Sega Mega CD & Sega CD
+    url: http://redump.org/discs/system/mcd/
+  - name: Sega Naomi
+    url: http://redump.org/discs/system/naomi/
+  - name: Sega Naomi 2
+    url: http://redump.org/discs/system/naomi2/
+  - name: Sega Prologue 21
+    url: http://redump.org/discs/system/sp21/
+  - name: Sega RingEdge
+    url: http://redump.org/discs/system/sre/
+  - name: Sega RingEdge 2
+    url: http://redump.org/discs/system/sre2/
+  - name: Sega Saturn
+    url: http://redump.org/discs/system/ss/
+  - name: Sega Titan Video
+    url: http://redump.org/discs/system/stv/
+  - name: Sharp X68000
+    url: http://redump.org/discs/system/x68k/
+  - name: Sony PlayStation
+    url: http://redump.org/discs/system/psx/
+  - name: Sony PlayStation 2
+    url: http://redump.org/discs/system/ps2/
+  - name: Sony PlayStation 3
+    url: http://redump.org/discs/system/ps3/
+  - name: Sony PlayStation 4
+    url: http://redump.org/discs/system/ps4/
+  - name: Sony PlayStation 5
+    url: http://redump.org/discs/system/ps5/
+  - name: Sony PlayStation Portable
+    url: http://redump.org/discs/system/psp/
+  - name: TAB-Austria Quizard
+    url: http://redump.org/discs/system/quizard/
+  - name: Tao iKTV
+    url: http://redump.org/discs/system/iktv/
+  - name: Tomy Kiss-Site
+    url: http://redump.org/discs/system/ksite/
+  - name: Video CD
+    url: http://redump.org/discs/system/vcd/
+  - name: VM Labs NUON
+    url: http://redump.org/discs/system/nuon/
+  - name: VTech V.Flash & V.Smile Pro
+    url: http://redump.org/discs/system/vflash/
+  - name: ZAPiT Games Game Wave
+    url: http://redump.org/discs/system/gamewave/
+- name: Latest
+  fontAwesome: th
+  items:
+  - name: Latest PS1
+    url: http://redump.org/discs/sort/added/dir/desc/system/psx
+  - name: Latest PS2
+    url: http://redump.org/discs/sort/added/dir/desc/system/ps2
+  - name: Latest PS3
+    url: http://redump.org/discs/sort/added/dir/desc/system/ps3
+  - name: Latest PS4
+    url: http://redump.org/discs/sort/added/dir/desc/system/ps4
+  - name: Latest XBOX
+    url: http://redump.org/discs/sort/added/dir/desc/system/xbox
+  - name: Latest XBOX360
+    url: http://redump.org/discs/sort/added/dir/desc/system/xbox360
+  - name: Latest XBOXONE
+    url: http://redump.org/discs/sort/added/dir/desc/system/xboxone
+  - name: Latest GameCube
+    url: http://redump.org/discs/sort/added/dir/desc/system/gc
+  - name: Latest Wii
+    url: http://redump.org/discs/sort/added/dir/desc/system/wii
+  - name: Latest Wii U
+    url: http://redump.org/discs/sort/added/dir/desc/system/wiiu

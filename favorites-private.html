@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Favorites
-permalink: /favorites/
-visible: true
+title: Private Favorites
+permalink: /favorites-private/
+visible: false
 ---
 
-{% for category in site.data.favorites %}
+{% for category in site.data.favorites-private %}
 <h3>{{ category.name }}</h3>
     {% for item in category.items %}
 <a class="button" href="{{ item.url }}" target="_blank">{{ item.name }}</a>

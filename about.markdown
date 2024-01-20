@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+visible: true
 ---
 
 This is my personal web site.

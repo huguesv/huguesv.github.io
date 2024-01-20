@@ -1,0 +1,869 @@
+- name: Hugues Valois
+  fontAwesome: th
+  items:
+  - name: Public Favorites
+    url: /favorites
+  - name: Private Favorites
+    url: /favorites-private
+  - name: Redump Favorites
+    url: /favorites-redump
+- name: Preservation
+  fontAwesome: th
+  items:
+  - name: No-Intro
+    url: http://datomatic.no-intro.org/
+  - name: Redump
+    url: http://redump.org/
+  - name: Redump Wiki
+    url: http://wiki.redump.org/
+  - name: EverDrive DB
+    url: https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database
+  - name: SerialStation
+    url: https://serialstation.com/
+  - name: Switch Title Keys
+    url: https://github.com/malikis/ns
+  - name: WiiBrew Title Database
+    url: http://wiiubrew.org/wiki/Title_database
+  - name: DSi TMD Files
+    url: https://gbatemp.net/threads/tmd-files-preservation.471610/
+  - name: Video Game Preservation Collective
+    url: https://www.preservegames.org/
+  - name: PS3 IRD DB (aldostools.org)
+    url: https://ps3.aldostools.org/ird.html
+  - name: PS3 IRD DB (free.fr)
+    url: http://ps3ird.free.fr/
+  - name: PS3 IRD DB (MidnightChannel)
+    url: https://archive.midnightchannel.net/SonyPS/PS3/Disc%20Repair/
+  - name: NusRipper
+    url: https://github.com/zedseven/NusRipper
+  - name: Preserve CD-i!
+    url: https://preserve-cdi.blogspot.com/
+- name: Reddit
+  fontAwesome: th
+  items:
+  - name: r/emulation
+    url: https://www.reddit.com/r/emulation/
+  - name: r/fpgagaming/
+    url: https://www.reddit.com/r/fpgagaming/
+  - name: r/MiSTerProject
+    url: https://www.reddit.com/r/MiSTerProject/
+  - name: r/EmuDev
+    url: https://www.reddit.com/r/EmuDev/
+  - name: r/CSharp
+    url: https://www.reddit.com/r/csharp/
+  - name: r/DotNet
+    url: https://www.reddit.com/r/dotnet/
+  - name: r/Roms
+    url: https://www.reddit.com/r/Roms/
+  - name: r/DataHoarder
+    url: https://www.reddit.com/r/DataHoarder/
+  - name: r/dosgaming
+    url: https://www.reddit.com/r/dosgaming/
+  - name: r/dos
+    url: https://www.reddit.com/r/DOS/
+  - name: r/msdos
+    url: https://www.reddit.com/r/MSDOS/
+  - name: r/retrogaming
+    url: https://www.reddit.com/r/retrogaming/
+  - name: r/retrogamedev
+    url: https://www.reddit.com/r/retrogamedev/
+  - name: r/gamedev
+    url: https://www.reddit.com/r/gamedev/
+  - name: r/midi
+    url: https://www.reddit.com/r/midi/
+  - name: r/Sierra
+    url: https://www.reddit.com/r/opendirectories/
+  - name: r/GamePreservationists
+    url: https://www.reddit.com/r/GamePreservationists/
+  - name: r/MechanicalKeyboards
+    url: https://www.reddit.com/r/MechanicalKeyboards/
+- name: News
+  fontAwesome: th
+  items:
+  - name: Logic-Sunrise
+    url: http://www.logic-sunrise.com/
+  - name: Wololo.net
+    url: http://wololo.net/
+  - name: GBA Temp
+    url: http://gbatemp.net/index.php?act=home
+  - name: Planet Emulation
+    url: http://www.planetemu.net/news
+  - name: EmuCR
+    url: http://www.emucr.com/
+  - name: PSXHAX
+    url: https://www.psxhax.com/
+  - name: Emu-France
+    url: http://www.emu-france.com/
+  - name: AEP Emulation Page
+    url: https://www.aep-emu.de/
+  - name: CS.RIN.RU
+    url: https://cs.rin.ru/forum/index.php
+  - name: RetroRoms
+    url: https://www.retroroms.info/
+  - name: Atari Forum
+    url: https://www.atari-forum.com/index.php
+  - name: Emulation General Wiki
+    url: https://emulation.gametechwiki.com/index.php/Main_Page
+- name: MiSTer Shops
+  fontAwesome: th
+  items:
+  - name: MiSTer Add-Ons Shop
+    url: https://misteraddons.com/
+  - name: MiSTer UK Shop
+    url: https://misterfpga.co.uk/
+  - name: MiSTer Multisystem
+    url: http://www.heber.co.uk/product/multisystem/
+  - name: RMC - The Store
+    url: https://rmcretro.store/
+- name: Releases
+  fontAwesome: th
+  items:
+  - name: ROM-NEWS
+    url: http://rom-news.org/3ds
+  - name: PreDB.me
+    url: http://predb.me/
+  - name: Subscene
+    url: http://www.subscene.com/
+  - name: NSW Releases
+    url: http://www.nswdb.com/
+  - name: GOG Database
+    url: https://www.gogdb.org/
+  - name: dats.site
+    url: https://dats.site/home.php
+  - name: srrDB
+    url: https://www.srrdb.com/
+- name: Releases
+  fontAwesome: th
+  items:
+  - name: 3DS Releases
+    url: http://www.3dsdb.com/
+  - name: Renascene (PSP)
+    url: http://renascene.com/
+  - name: Renascene (PS1)
+    url: http://renascene.com/ps1
+  - name: Renascene (PS3)
+    url: http://renascene.com/ps3
+  - name: abgx360
+    url: http://abgx360.hadzz.com/
+  - name: C-64 Scene Database
+    url: https://csdb.dk/
+- name: Hardware
+  fontAwesome: th
+  items:
+  - name: Supercard DSTWO
+    url: http://eng.supercard.sc/manual/dstwo/download.htm
+  - name: R4iDS Official
+    url: http://www.r4ids.cn/
+  - name: Brook Super Converter
+    url: http://www.brookaccessory.com/detail/33917374/
+  - name: TFT Central LCD Monitor Info
+    url: https://www.tftcentral.co.uk/
+- name: Classic
+  fontAwesome: th
+  items:
+  - name: Lost Treasures Fr
+    url: http://www.abandonware-france.org/
+  - name: Replacement Docs
+    url: http://www.replacementdocs.com/
+  - name: Software Preservation Society
+    url: http://www.softpres.org/
+  - name: Kryoflux
+    url: http://www.kryoflux.com/
+  - name: Team Europe
+    url: http://team-europe.blogspot.com/
+  - name: SNES Central
+    url: http://www.snescentral.com/index.php
+  - name: Universal Hint System
+    url: http://www.uhs-hints.com/hints/allhints.php
+  - name: 128bit.me
+    url: http://128bit.me/index.php?action=forum
+  - name: Sierra Help
+    url: http://sierrahelp.com/
+  - name: MAME No Filler
+    url: http://forum.arcadecontrols.com/index.php/topic,149708.0.html
+  - name: WinWorld
+    url: https://winworldpc.com/library/operating-systems
+  - name: Good Old Days
+    url: http://www.goodolddays.net/
+  - name: Vetusware
+    url: https://vetusware.com/
+- name: Music
+  fontAwesome: th
+  items:
+  - name: Smashing Pumpkins
+    url: http://www.smashingpumpkins.com/
+  - name: Netphoria
+    url: http://forums.netphoria.org
+  - name: SPFC
+    url: http://www.spfc.org/main.html
+  - name: archive.org - Smashing Pumpkins
+    url: http://www.archive.org/details/SmashingPumpkins
+  - name: archive.org - Zwan
+    url: http://www.archive.org/details/Zwan
+  - name: Reflecting In The Chrome
+    url: http://www.reflectinginthechrome.com/home.html
+- name: Emulators
+  fontAwesome: th
+  items:
+  - name: ScummVM
+    url: http://www.scummvm.org/
+  - name: MAME
+    url: http://www.mame.net/
+  - name: Bizhawk
+    url: https://github.com/TASVideos/BizHawk
+  - name: Mednafen
+    url: http://mednafen.sourceforge.net/
+  - name: LibRetro Blog
+    url: https://www.libretro.com/index.php/category/blog/
+  - name: LibRetroRT
+    url: https://github.com/Aftnet/LibretroRT
+  - name: BlastEm - Genesis (C)
+    url: https://www.retrodev.com/blastem/
+- name: Emulators
+  fontAwesome: th
+  items:
+  - name: Dolphin
+    url: https://dolphin-emu.org/
+  - name: Citra 3DS
+    url: http://citra-emu.org/
+  - name: decaf-emu
+    url: https://github.com/decaf-emu/decaf-emu
+  - name: Cemu
+    url: http://cemu.info/
+  - name: Ryujinx
+    url: https://github.com/gdkchan/Ryujinx
+  - name: Yuzu
+    url: https://yuzu-emu.org/
+  - name: BigPEmu
+    url: https://www.richwhitehouse.com/jaguar/index.php
+- name: Emulators
+  fontAwesome: th
+  items:
+  - name: PCSX2
+    url: http://www.pcsx2.net/
+  - name: PCSX2 GitHub
+    url: https://github.com/PCSX2/pcsx2
+  - name: Play!
+    url: https://github.com/jpd002/Play-
+  - name: PPSSPP
+    url: http://www.ppsspp.org/index.html
+  - name: Vita3K
+    url: https://github.com/Vita3K/Vita3K
+  - name: RPCS3
+    url: https://github.com/RPCS3/rpcs3
+  - name: XQEMU
+    url: https://github.com/xqemu/xqemu
+  - name: Xenia
+    url: https://github.com/benvanik/xenia
+  - name: GPCS4
+    url: https://github.com/Inori/GPCS4
+- name: Emulators
+  fontAwesome: th
+  items:
+  - name: Dos Emulator (Rust)
+    url: https://github.com/Lichtso/DOS-Emulator
+  - name: SheepShaver
+    url: https://sheepshaver.cebix.net/
+- name: Emulators
+  fontAwesome: th
+  items:
+  - name: EMU7800 - Atari 2600+7800 (C#)
+    url: https://emu7800.github.io/
+  - name: ProjectPSX (C#)
+    url: https://github.com/BluestormDNA/ProjectPSX
+  - name: GBG (Closed Source)
+    url: https://bgb.bircd.org/
+- name: Emulators (Inactive)
+  fontAwesome: th
+  items:
+  - name: Virtu - Apple IIe (C#)
+    url: https://github.com/digital-jellyfish/Virtu
+  - name: Cogwheel - Sega SMS+GG (C#)
+    url: http://benryves.com/projects/cogwheel
+  - name: Sharp C64 (C#)
+    url: https://sourceforge.net/projects/sharp-c64/
+  - name: Soywiz PSP (D)
+    url: https://github.com/soywiz-archive/pspemu
+  - name: Soywiz PSP (C#)
+    url: https://github.com/cspspemu/cspspemu
+  - name: XNA Sharp NES (C#)
+    url: http://code.google.com/p/xnasharpnes/
+  - name: GBA (C#)
+    url: https://github.com/UncleFirefox/GBAEmu
+- name: Frontends
+  fontAwesome: th
+  items:
+  - name: Playnite
+    url: https://playnite.link/
+  - name: Metropolis Launcher
+    url: https://metropolis-launcher.net/
+- name: Tools
+  fontAwesome: th
+  items:
+  - name: XDelta GUI
+    url: http://thejbnet.com/progs/xgui/
+  - name: GameArchives
+    url: https://github.com/maxton/GameArchives
+  - name: DiscImageCreator
+    url: https://github.com/saramibreak/DiscImageCreator
+  - name: Rufus USB Boot
+    url: http://rufus.akeo.ie/
+  - name: SAMdisk
+    url: https://simonowen.com/samdisk/
+- name: Sierra
+  fontAwesome: th
+  items:
+  - name: Sound Drivers
+    url: http://www.rarefied.org/sci/drivers.html
+  - name: Al Lowe's Humor Site
+    url: http://www.allowe.com/
+  - name: Sierra Game Demos
+    url: http://www.sierrahelp.com/Misc/Demos.html
+  - name: King's Quest IV Manual
+    url: http://www.virtualapple.org/docs/document-4.html
+  - name: Sierra Planet
+    url: http://sierraplanet.net/
+  - name: SCI Companion
+    url: https://github.com/icefallgames/SCICompanion
+  - name: AGD Studio
+    url: https://github.com/tonyt73/AGD-Studio
+  - name: Space Quest II Remake
+    url: https://infamousadventures.itch.io/space-quest-ii-vga-remake
+  - name: The Sierra Chest
+    url: http://www.sierrachest.com/
+  - name: MIDI Music Adventure
+    url: http://www.midimusicadventures.com/
+  - name: GitHub Historical Source
+    url: https://github.com/historicalsource?tab=repositories
+- name: Computers
+  fontAwesome: th
+  items:
+  - name: Steem Engine
+    url: http://steem.atari.st/
+  - name: DOSBox
+    url: http://sourceforge.net/projects/dosbox
+  - name: MSA Converter (Atari ST)
+    url: http://msaconverter.free.fr/index.html
+  - name: Ciderpress
+    url: http://ciderpress.sourceforge.net/
+  - name: XRoar Dragon32/64
+    url: http://www.6809.org.uk/dragon/xroar.shtml
+  - name: Open Emu
+    url: http://openemu.sourceforge.net/
+  - name: NAGI
+    url: https://github.com/sonneveld/nagi
+  - name: WinCDEmu
+    url: https://sysprogs.com/wincdemu/
+  - name: WinCDEmu GitHub
+    url: https://github.com/sysprogs/WinCDEmu
+- name: Bellevue
+  fontAwesome: th
+  items:
+  - name: Downtown Bellevue Network
+    url: http://downtownbellevue.com/
+  - name: City of Bellevue
+    url: https://www.bellevuewa.gov/city-news
+  - name: Overlake Medical
+    url: https://www.overlakehospital.org/locations
+  - name: Dentist - William Peterson
+    url: http://www.williamjpetersondds.com/
+- name: Seattle
+  fontAwesome: th
+  items:
+  - name: WSDOT Blog
+    url: https://wsdotblog.blogspot.com/
+  - name: King County Public Health
+    url: http://www.kingcounty.gov/healthservices/health/ehs/foodsafety/inspections.aspx
+  - name: Weather
+    url: http://www.weather.com/weather/tenday/98004
+  - name: Smith Tower
+    url: http://smithtower.com/Observation.html
+  - name: University of Washington TV
+    url: http://www.uwtv.org/
+  - name: Seattle Public Library
+    url: http://www.spl.org/
+  - name: King County Library System
+    url: http://www.kcls.org/
+  - name: Seattle Burke Gilman Trail
+    url: https://www.seattle.gov/parks/find/parks/burke-gilman-trail
+- name: Japan Shopping
+  fontAwesome: th
+  items:
+  - name: Buyee
+    url: https://buyee.jp/?lang=en
+  - name: Yahoo! Auction Proxy
+    url: https://www.jauce.com/
+- name: Japanese Language
+  fontAwesome: th
+  items:
+  - name: JapanesePod101
+    url: https://www.japanesepod101.com/
+- name: Japan Tourism
+  fontAwesome: th
+  items:
+  - name: Asia Travel Bug
+    url: https://asiatravelbug.com/
+  - name: Japan Cheapo
+    url: https://japancheapo.com/
+  - name: Japan Web Magazine
+    url: https://jw-webmagazine.com/
+  - name: Abroad in Japan
+    url: https://www.abroadinjapan.com/
+  - name: Good Samaritan Club
+    url: https://goodsamaritanclub.org/
+- name: Japan Customs / Airport
+  fontAwesome: th
+  items:
+  - name: Visit Japan Web
+    url: https://www.vjw.digital.go.jp/main/#/vjwpco001
+  - name: Narita Airport
+    url: https://www.narita-airport.jp/en
+  - name: Airport Bus TYO-NRT
+    url: https://tyo-nrt.com/en
+- name: Japan Transport
+  fontAwesome: th
+  items:
+  - name: Japan Airlines
+    url: https://www.jal.co.jp/jp/en/
+  - name: Japan Transit Planner by Jorudan
+    url: https://world.jorudan.co.jp/mln/en/
+  - name: Japan Travel by Navitime
+    url: https://japantravel.navitime.com/en/area/jp/route/
+  - name: Japan Experience (JR pass)
+    url: https://www.japan-experience.com/
+- name: Hawaii
+  fontAwesome: th
+  items:
+  - name: VRBO
+    url: http://www.vrbo.com/
+  - name: Honolulu Shuttle
+    url: http://www.honolulushuttleservices.com/
+  - name: Jack Harter Helicopters
+    url: http://www.helicopters-kauai.com/
+  - name: Blue Hawaiian Helicopters
+    url: http://www.bluehawaiian.com/
+  - name: Hawaii Web
+    url: http://www.hawaiiweb.com/html/mainFrame.html
+  - name: Maui Official Site
+    url: http://www.gohawaii.com/maui
+  - name: "Maui: Gannon's"
+    url: http://www.gannonsrestaurant.com/
+- name: Videogame Stores
+  fontAwesome: th
+  items:
+  - name: Nicalis
+    url: https://store.nicalis.com/
+  - name: Solaris Japan
+    url: http://solarisjapan.com/products/PlayStation-Network-Pointcard-5000.html
+- name: Misc
+  fontAwesome: th
+  items:
+  - name: OpenStreetMap
+    url: http://www.openstreetmap.org/
+  - name: Open UHS
+    url: http://freshmeat.net/projects/openuhs
+  - name: VPN Providers
+    url: http://torrentfreak.com/which-vpn-providers-really-take-anonymity-seriously-111007/
+  - name: GameCopyWorld
+    url: http://m0004.gamecopyworld.com/games/gcw.php
+  - name: Daemon Tools Game DB
+    url: http://forum.daemon-tools.cc/gamedb.php
+  - name: Address Report
+    url: https://www.addressreport.com/
+  - name: Google Public DNS
+    url: https://developers.google.com/speed/public-dns/
+  - name: File Push
+    url: https://filepush.co/
+  - name: Microsoft Company Store
+    url: https://store.ecompanystore.com/microsoft
+- name: Software
+  fontAwesome: th
+  items:
+  - name: aseprite
+    url: https://www.aseprite.org/
+  - name: Privoxy
+    url: http://www.privoxy.org/
+  - name: MegaBasterd
+    url: https://github.com/tonikelope/megabasterd
+  - name: BetterJoyForCemu
+    url: https://github.com/Davidobot/BetterJoyForCemu
+  - name: BetterJoyForDolphin
+    url: https://github.com/yuk27/BetterJoyForDolphin
+  - name: Romcenter
+    url: https://www.romcenter.com/
+  - name: Calibre
+    url: https://github.com/kovidgoyal/calibre
+  - name: Carnac
+    url: http://code52.org/carnac/
+  - name: darktable
+    url: https://www.darktable.org/
+  - name: Windows Powertoys
+    url: https://github.com/microsoft/PowerToys
+  - name: VidCoder
+    url: https://github.com/RandomEngy/VidCoder
+  - name: eDex
+    url: https://github.com/GitSquared/edex-ui
+  - name: HD Tune
+    url: https://www.hdtune.com/
+  - name: Stablebit Scanner
+    url: https://stablebit.com/Scanner
+- name: Programming C#
+  fontAwesome: th
+  items:
+  - name: SharpDX Tutorials
+    url: http://english.r2d2rigo.es/sharpdx-tutorials/
+  - name: Console Framework
+    url: https://github.com/elw00d/consoleframework
+  - name: Guis.cs
+    url: https://github.com/migueldeicaza/gui.cs
+- name: Programming Retro
+  fontAwesome: th
+  items:
+  - name: Retro Game Coders (C64)
+    url: https://retrogamecoders.com/
+- name: Programming DOS
+  fontAwesome: th
+  items:
+  - name: Retro Programming
+    url: http://www.retroprogramming.com/
+  - name: Programmer's Corner
+    url: https://www.pcorner.com/list/C
+  - name: Programming the Mouse
+    url: https://courses.cs.washington.edu/courses/cse477/00sp/projectwebs/groupb/PS2-mouse/Prog_mouse.html
+  - name: Awesome DOS
+    url: https://github.com/balintkissdev/awesome-dos
+- name: GitHub - DOS
+  fontAwesome: th
+  items:
+  - name: berk76/tc_libs
+    url: https://github.com/berk76/tc_libs
+  - name: berk76/tetris
+    url: https://github.com/berk76/tetris
+  - name: jasaldivara/retro-dos-graphics
+    url: https://github.com/jasaldivara/retro-dos-graphics
+  - name: johangardhage/dos-bcdemos
+    url: https://github.com/johangardhage/dos-bcdemos
+  - name: johangardhage/dos-tpdemos
+    url: https://github.com/johangardhage/dos-tpdemos
+  - name: devaurelian/ramview
+    url: https://github.com/devaurelian/ramview
+  - name: qb40/soundblaster
+    url: https://github.com/qb40/soundblaster
+  - name: dzutrinh/2048
+    url: https://github.com/dzutrinh/2048
+  - name: TheFakeMontyOnTheRun/castelo-de-viana
+    url: https://github.com/TheFakeMontyOnTheRun/castelo-de-viana
+  - name: TheFakeMontyOnTheRun/dungeons-of-noudar
+    url: https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar
+  - name: Fortyseven/RA_1993
+    url: https://github.com/Fortyseven/RA_1993
+- name: Programming Rust
+  fontAwesome: th
+  items:
+  - name: The Rust Programming Language
+    url: https://doc.rust-lang.org/book/title-page.html
+  - name: tui-rs
+    url: https://github.com/fdehau/tui-rs
+  - name: VS2017 Rust Extension
+    url: https://github.com/ZoeyR/rls-vs2017
+- name: Programming .NET
+  fontAwesome: th
+  items:
+  - name: Blazor Sample
+    url: https://github.com/SteveSandersonMS/BlazeOrbital
+  - name: Monogame.Extended
+    url: https://www.monogameextended.net/
+- name: Educational
+  fontAwesome: th
+  items:
+  - name: Khan Academy
+    url: http://www.khanacademy.org/
+  - name: Snap!
+    url: http://byob.berkeley.edu/
+  - name: Free Tech Books
+    url: http://www.freetechbooks.com/
+  - name: Fit for Fifty
+    url: http://fit450.com/HTML/5BX_Intro.html
+- name: Hacking BluRay
+  fontAwesome: th
+  items:
+  - name: BlurayTestAndDecrypt
+    url: https://forum.doom9.org/showthread.php?t=173796
+  - name: MakeMKV
+    url: http://makemkv.com/
+  - name: UHD Drive Flashing
+    url: https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634
+- name: Hacking PS
+  fontAwesome: th
+  items:
+  - name: PlayStation Firmware MediaFire
+    url: https://www.mediafire.com/ofws#61eiba4qagzbu
+  - name: PSX-Download-Helper
+    url: https://github.com/KOPElan/PSX-Download-Helper
+- name: Hacking PS3
+  fontAwesome: th
+  items:
+  - name: PS3 Dev wiki
+    url: http://www.psdevwiki.com/ps3/Main_Page
+  - name: PS3 Dev wiki - Title IDs
+    url: http://www.psdevwiki.com/ps3/Talk:PARAM.SFO
+  - name: fail0verflow PS3 Tools github
+    url: https://github.com/daryl317/fail0verflow-PS3-tools
+  - name: PS3 Firmware Collection
+    url: https://gbatemp.net/threads/ps3-firmware-collection.447574/
+  - name: PS3 Hybrid Firmware
+    url: https://www.psx-place.com/threads/update-ps3-hfw-hybrid-firmware-4-85-1-ps3xploit-han-flash-tools-restored-for-4-85-ofw-users.23094/
+  - name: PARAM.SFO Languages
+    url: http://www.psdevwiki.com/ps3/PARAM.SFO#LANG
+  - name: PS3 Unpkg
+    url: https://github.com/elmonta/ps3_unpkg-
+  - name: PS3 Disc Dumper
+    url: https://github.com/13xforever/ps3-disc-dumper/tree/master
+- name: Hacking VITA
+  fontAwesome: th
+  items:
+  - name: PS Vita Dev Wiki
+    url: http://www.vitadevwiki.com/index.php?title=Main_Page
+  - name: Vita QCMA
+    url: https://codestation.github.io/qcma/
+  - name: Vita Mail Writer
+    url: https://github.com/tomtomdu80/vitamailwriter
+  - name: Vita PkgDecrypt
+    url: https://github.com/St4rk/PkgDecrypt
+  - name: VPKShellIconExt
+    url: https://github.com/wmltogether/VPKShellIconExt
+- name: Hacking PSP
+  fontAwesome: th
+  items:
+  - name: PSP Kirk Engine
+    url: https://github.com/tpunix/kirk_engine
+  - name: NPDRM Free
+    url: https://github.com/qwikrazor87/npdrm_free
+  - name: Pro PSP Firmware
+    url: http://code.google.com/p/procfw/
+- name: Hacking PS4
+  fontAwesome: th
+  items:
+  - name: PS4 Dev Wiki
+    url: http://www.psdevwiki.com/ps4/
+  - name: PS4-4.05-Kernel-Exploit
+    url: https://github.com/Cryptogenic/PS4-4.05-Kernel-Exploit
+  - name: PS4-5.05-Kernel-Exploit
+    url: https://github.com/Cryptogenic/PS4-5.05-Kernel-Exploit
+  - name: https://gbatemp.net/threads/aio-ps4-exploit-guide.497858/
+    url: PS4 Exploit Guide
+  - name: LibOrbisPkg
+    url: https://github.com/maxton/LibOrbisPkg
+- name: Hacking Switch
+  fontAwesome: th
+  items:
+  - name: No-Intro Dumping Guide
+    url: https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide
+  - name: NH Switch Guide
+    url: https://nh-server.github.io/switch-guide/
+  - name: Kosmos
+    url: https://github.com/AtlasNX/Kosmos/releases
+  - name: 4NXCI
+    url: https://github.com/The-4n/4NXCI/releases
+  - name: Kosmos Joonie86 Ppatches
+    url: https://github.com/Joonie86/hekate/releases
+  - name: NSC Builder
+    url: https://github.com/julesontheroad/NSC_BUILDER/releases
+  - name: ChoiDuJour
+    url: https://switchtools.sshnuke.net/
+  - name: Lockpick RCM
+    url: https://github.com/shchmue/Lockpick_RCM/releases
+  - name: Tegra RCM GUI
+    url: https://github.com/eliboa/TegraRcmGUI
+  - name: Goldleaf
+    url: https://github.com/XorTroll/Goldleaf/releases
+  - name: nxdumptool
+    url: https://github.com/DarkMatterCore/nxdumptool/releases/tag/v1.1.5
+- name: Hacking Switch
+  fontAwesome: th
+  items:
+  - name: Atmosphere
+    url: https://github.com/Atmosphere-NX/Atmosphere
+  - name: NCA Encrypt/Decrypt
+    url: https://github.com/switch-stuff/NAX0-Crypter
+- name: Hacking NES Mini
+  fontAwesome: th
+  items:
+  - name: Hakchi2
+    url: https://github.com/TeamShinkansen/hakchi2/releases/
+  - name: SNES Compatibility
+    url: https://docs.google.com/spreadsheets/d/12HKfz4ZQBy6Ip5awvh8t2aV5cVswYlnsdKxn9xoIW2Y/edit#gid=2014317767
+- name: Hacking Wii U
+  fontAwesome: th
+  items:
+  - name: WiiU Brew
+    url: http://wiiubrew.org/wiki/Main_Page
+  - name: uTikDownloadHelper
+    url: https://github.com/DanTheMan827/uTikDownloadHelper
+  - name: FunKiiU
+    url: https://github.com/llakssz/FunKiiU
+  - name: wiiu-things
+    url: https://github.com/ihaveamac/wiiu-things
+  - name: wudump
+    url: https://github.com/FIX94/wudump
+  - name: wud2app
+    url: https://github.com/FIX94/wud2app
+  - name: wupinstaller
+    url: https://github.com/Yardape8000/wupinstaller/tree/y1.2.1
+  - name: sign_patcher
+    url: https://github.com/dimok789/sign_patcher
+  - name: spiik
+    url: https://github.com/marco-calautti/spiik
+- name: Hacking 3DS
+  fontAwesome: th
+  items:
+  - name: 3D Brew
+    url: http://www.3dbrew.org/wiki/Main_Page
+  - name: 3DS-rom-tools
+    url: https://github.com/ihaveamac/3DS-rom-tools
+  - name: FunKeyCIA
+    url: https://github.com/llakssz/FunKeyCIA/
+  - name: make_cdn_cia
+    url: https://github.com/YodaDaCoda/make_cdn_cia
+  - name: FBI
+    url: https://github.com/Steveice10/FBI
+  - name: 3ds-xorpads
+    url: https://github.com/xorpad/3ds-xorpads
+  - name: 3dscrypto-tools
+    url: https://github.com/yellows8/3dscrypto-tools
+  - name: CIAngel
+    url: https://github.com/llakssz/CIAngel
+  - name: HackingToolkit3DS
+    url: https://github.com/Asia81/HackingToolkit3DS
+  - name: Convert 3DS to CIA
+    url: https://github.com/maorninja/Follow-up-Guide
+  - name: 3DS guide
+    url: https://3ds.guide/
+  - name: FBI Ticket Installer
+    url: https://fbiticket.uk/?sort=titleID
+  - name: freeshop
+    url: https://notabug.org/btucker/freeShop
+  - name: GroovyFX
+    url: https://github.com/Ptrk25/GroovyFX
+  - name: PlaiCDN
+    url: https://github.com/Plailect/PlaiCDN
+  - name: nustool
+    url: https://github.com/SciresM/nustool
+  - name: Shameless
+    url: https://github.com/HouseBreaker/Shameless/
+  - name: 3DS Explorer
+    url: https://code.google.com/p/3dsexplorer/
+- name: Hacking Wii
+  fontAwesome: th
+  items:
+  - name: libWiiSharp
+    url: https://github.com/dnasdw/libwiisharp
+  - name: nusdownloader
+    url: https://code.google.com/p/nusdownloader/
+  - name: PyNUSD
+    url: https://github.com/WiiDatabase/PyNUSD
+- name: Hacking DS
+  fontAwesome: th
+  items:
+  - name: Tinke DS Viewer
+    url: https://github.com/pleonex/tinke/
+- name: Hacking XBOX
+  fontAwesome: th
+  items:
+  - name: XBE Format
+    url: http://www.caustik.com/cxbx/download/xbe.htm
+- name: Hacking
+  fontAwesome: th
+  items:
+  - name: Darthsternie's Firmware Archive
+    url: https://darthsternie.net/
+- name: Modern Classics
+  fontAwesome: th
+  items:
+  - name: Super Mario Bros. X2
+    url: http://codehaus.wohlsoft.ru/
+- name: Empty
+  fontAwesome: th
+  items:
+  - name: Language Names
+    url: https://www.omniglot.com/language/names.htm
+- name: Computers
+  fontAwesome: th
+  items:
+  - name: NZXT
+    url: https://www.letsbld.com/
+  - name: Origin
+    url: https://www.originpc.com/
+  - name: iBuyPower
+    url: https://www.ibuypower.com/
+  - name: CyberPowerPC
+    url: https://www.cyberpowerpc.com/
+  - name: MainGear
+    url: https://maingear.com/
+  - name: Corsair
+    url: https://www.corsair.com/us/en/Categories/Products/Systems/c/Cor_Systems
+- name: Images
+  fontAwesome: th
+  items:
+  - name: Unsplash
+    url: https://unsplash.com/
+  - name: Iconfinder
+    url: https://www.iconfinder.com/
+- name: Finance
+  fontAwesome: th
+  items:
+  - name: IRS Direct Pay
+    url: https://www.irs.gov/payments/direct-pay
+  - name: Expat Attorneys
+    url: https://www.expatriationattorneys.com/
+- name: Apartments
+  fontAwesome: th
+  items:
+  - name: Zumper.com
+    url: https://www.zumper.com/
+  - name: Apartments.com
+    url: https://www.apartments.com/
+  - name: Apartment Ratings
+    url: https://www.apartmentratings.com/
+- name: Cities
+  fontAwesome: th
+  items:
+  - name: Safest cities WA
+    url: https://backgroundchecks.org/safest-cities-in-washington.html
+  - name: Crime Rate WA
+    url: http://www.usa.com/rank/washington-state--crime-index--city-rank.htm
+- name: Portland, OR
+  fontAwesome: th
+  items:
+  - name: Quarterworld
+    url: https://www.quarterworldarcade.com/
+- name: Hiking
+  fontAwesome: th
+  items:
+  - name: Best Day Hiking Seattle
+    url: https://www.outsideonline.com/2404959/6-great-hikes-do-seattle
+- name: Video Editing
+  fontAwesome: th
+  items:
+  - name: Shotcut
+    url: https://shotcut.org/
+  - name: OpenShot
+    url: https://www.openshot.org/
+  - name: Vidcutter
+    url: https://github.com/ozmartian/vidcutter
+  - name: DaVinci Resolve
+    url: https://www.blackmagicdesign.com/products/davinciresolve
+  - name: Kdenlive
+    url: https://kdenlive.org/en/
+- name: Events
+  fontAwesome: th
+  items:
+  - name: Vintage Computer Festival
+    url: https://vcfed.org/events/vintage-computer-festival-west/
+- name: Blogs
+  fontAwesome: rss
+  items:
+  - name: Scott Hanselman
+    url: http://www.hanselman.com/blog/
+  - name: Visual Studio Blog
+    url: https://devblogs.microsoft.com/visualstudio/
