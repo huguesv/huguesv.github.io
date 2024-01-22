@@ -7,37 +7,19 @@
     url: /favorites-private
   - name: Redump Favorites
     url: /favorites-redump
-- name: Preservation
+  - name: Hacking Favorites
+    url: /favorites-hacking
+- name: Usenet Indexers
   fontAwesome: th
   items:
-  - name: No-Intro
-    url: http://datomatic.no-intro.org/
-  - name: Redump
-    url: http://redump.org/
-  - name: Redump Wiki
-    url: http://wiki.redump.org/
-  - name: EverDrive DB
-    url: https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database
-  - name: SerialStation
-    url: https://serialstation.com/
-  - name: Switch Title Keys
-    url: https://github.com/malikis/ns
-  - name: WiiBrew Title Database
-    url: http://wiiubrew.org/wiki/Title_database
-  - name: DSi TMD Files
-    url: https://gbatemp.net/threads/tmd-files-preservation.471610/
-  - name: Video Game Preservation Collective
-    url: https://www.preservegames.org/
-  - name: PS3 IRD DB (aldostools.org)
-    url: https://ps3.aldostools.org/ird.html
-  - name: PS3 IRD DB (free.fr)
-    url: http://ps3ird.free.fr/
-  - name: PS3 IRD DB (MidnightChannel)
-    url: https://archive.midnightchannel.net/SonyPS/PS3/Disc%20Repair/
-  - name: NusRipper
-    url: https://github.com/zedseven/NusRipper
-  - name: Preserve CD-i!
-    url: https://preserve-cdi.blogspot.com/
+  - name: NzbPlanet
+    url: https://www.nzbplanet.net/
+  - name: NzbGeek
+    url: https://nzbgeek.info/dashboard.php
+  - name: NzbIndex
+    url: https://nzbindex.nl/
+  - name: NzbForYou
+    url: https://www.nzbforyou.com/index
 - name: Reddit
   fontAwesome: th
   items:
@@ -77,6 +59,55 @@
     url: https://www.reddit.com/r/GamePreservationists/
   - name: r/MechanicalKeyboards
     url: https://www.reddit.com/r/MechanicalKeyboards/
+  - name: r/PcRetailers
+    url: https://www.reddit.com/r/PcRetailers/
+  - name: r/MiniPCs
+    url: https://www.reddit.com/r/MiniPCs/
+  - name: r/BeelinkOfficial
+    url: https://www.reddit.com/r/BeelinkOfficial/
+  - name: r/Monitors
+    url: https://www.reddit.com/r/Monitors/
+  - name: r/oled_monitors
+    url: https://www.reddit.com/r/oled_monitors/
+  - name: r/OLED_Gaming
+    url: https://www.reddit.com/r/OLED_Gaming/
+  - name: r/pcgaming
+    url: https://www.reddit.com/r/pcgaming/
+  - name: r/buildapc
+    url: https://www.reddit.com/r/buildapc/
+  - name: r/PcBuild
+    url: https://www.reddit.com/r/PcBuild/
+- name: Preservation
+  fontAwesome: th
+  items:
+  - name: No-Intro
+    url: http://datomatic.no-intro.org/
+  - name: Redump
+    url: http://redump.org/
+  - name: Redump Wiki
+    url: http://wiki.redump.org/
+  - name: EverDrive DB
+    url: https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database
+  - name: SerialStation
+    url: https://serialstation.com/
+  - name: Switch Title Keys
+    url: https://github.com/malikis/ns
+  - name: WiiBrew Title Database
+    url: http://wiiubrew.org/wiki/Title_database
+  - name: DSi TMD Files
+    url: https://gbatemp.net/threads/tmd-files-preservation.471610/
+  - name: Video Game Preservation Collective
+    url: https://www.preservegames.org/
+  - name: PS3 IRD DB (aldostools.org)
+    url: https://ps3.aldostools.org/ird.html
+  - name: PS3 IRD DB (free.fr)
+    url: http://ps3ird.free.fr/
+  - name: PS3 IRD DB (MidnightChannel)
+    url: https://archive.midnightchannel.net/SonyPS/PS3/Disc%20Repair/
+  - name: NusRipper
+    url: https://github.com/zedseven/NusRipper
+  - name: Preserve CD-i!
+    url: https://preserve-cdi.blogspot.com/
 - name: News
   fontAwesome: th
   items:
@@ -386,6 +417,10 @@
     url: http://www.kcls.org/
   - name: Seattle Burke Gilman Trail
     url: https://www.seattle.gov/parks/find/parks/burke-gilman-trail
+  - name: The Bellingham Herald
+    url: https://www.bellinghamherald.com/
+  - name: Seattle NorthCountry
+    url: https://www.seattlenorthcountry.com/
 - name: Japan Shopping
   fontAwesome: th
   items:
@@ -507,6 +542,16 @@
     url: https://www.hdtune.com/
   - name: Stablebit Scanner
     url: https://stablebit.com/Scanner
+  - name: Anki
+    url: https://apps.ankiweb.net/
+  - name: ACDSee
+    url: https://www.acdsee.com/en/index/
+  - name: Affinity Photo
+    url: https://affinity.serif.com/en-us/photo/
+  - name: DaVinci Resolve 18
+    url: https://www.blackmagicdesign.com/products/davinciresolve
+  - name: 5KPlayer
+    url: https://www.5kplayer.com/
 - name: Programming C#
   fontAwesome: th
   items:
@@ -584,199 +629,6 @@
     url: http://www.freetechbooks.com/
   - name: Fit for Fifty
     url: http://fit450.com/HTML/5BX_Intro.html
-- name: Hacking BluRay
-  fontAwesome: th
-  items:
-  - name: BlurayTestAndDecrypt
-    url: https://forum.doom9.org/showthread.php?t=173796
-  - name: MakeMKV
-    url: http://makemkv.com/
-  - name: UHD Drive Flashing
-    url: https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634
-- name: Hacking PS
-  fontAwesome: th
-  items:
-  - name: PlayStation Firmware MediaFire
-    url: https://www.mediafire.com/ofws#61eiba4qagzbu
-  - name: PSX-Download-Helper
-    url: https://github.com/KOPElan/PSX-Download-Helper
-- name: Hacking PS3
-  fontAwesome: th
-  items:
-  - name: PS3 Dev wiki
-    url: http://www.psdevwiki.com/ps3/Main_Page
-  - name: PS3 Dev wiki - Title IDs
-    url: http://www.psdevwiki.com/ps3/Talk:PARAM.SFO
-  - name: fail0verflow PS3 Tools github
-    url: https://github.com/daryl317/fail0verflow-PS3-tools
-  - name: PS3 Firmware Collection
-    url: https://gbatemp.net/threads/ps3-firmware-collection.447574/
-  - name: PS3 Hybrid Firmware
-    url: https://www.psx-place.com/threads/update-ps3-hfw-hybrid-firmware-4-85-1-ps3xploit-han-flash-tools-restored-for-4-85-ofw-users.23094/
-  - name: PARAM.SFO Languages
-    url: http://www.psdevwiki.com/ps3/PARAM.SFO#LANG
-  - name: PS3 Unpkg
-    url: https://github.com/elmonta/ps3_unpkg-
-  - name: PS3 Disc Dumper
-    url: https://github.com/13xforever/ps3-disc-dumper/tree/master
-- name: Hacking VITA
-  fontAwesome: th
-  items:
-  - name: PS Vita Dev Wiki
-    url: http://www.vitadevwiki.com/index.php?title=Main_Page
-  - name: Vita QCMA
-    url: https://codestation.github.io/qcma/
-  - name: Vita Mail Writer
-    url: https://github.com/tomtomdu80/vitamailwriter
-  - name: Vita PkgDecrypt
-    url: https://github.com/St4rk/PkgDecrypt
-  - name: VPKShellIconExt
-    url: https://github.com/wmltogether/VPKShellIconExt
-- name: Hacking PSP
-  fontAwesome: th
-  items:
-  - name: PSP Kirk Engine
-    url: https://github.com/tpunix/kirk_engine
-  - name: NPDRM Free
-    url: https://github.com/qwikrazor87/npdrm_free
-  - name: Pro PSP Firmware
-    url: http://code.google.com/p/procfw/
-- name: Hacking PS4
-  fontAwesome: th
-  items:
-  - name: PS4 Dev Wiki
-    url: http://www.psdevwiki.com/ps4/
-  - name: PS4-4.05-Kernel-Exploit
-    url: https://github.com/Cryptogenic/PS4-4.05-Kernel-Exploit
-  - name: PS4-5.05-Kernel-Exploit
-    url: https://github.com/Cryptogenic/PS4-5.05-Kernel-Exploit
-  - name: https://gbatemp.net/threads/aio-ps4-exploit-guide.497858/
-    url: PS4 Exploit Guide
-  - name: LibOrbisPkg
-    url: https://github.com/maxton/LibOrbisPkg
-- name: Hacking Switch
-  fontAwesome: th
-  items:
-  - name: No-Intro Dumping Guide
-    url: https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide
-  - name: NH Switch Guide
-    url: https://nh-server.github.io/switch-guide/
-  - name: Kosmos
-    url: https://github.com/AtlasNX/Kosmos/releases
-  - name: 4NXCI
-    url: https://github.com/The-4n/4NXCI/releases
-  - name: Kosmos Joonie86 Ppatches
-    url: https://github.com/Joonie86/hekate/releases
-  - name: NSC Builder
-    url: https://github.com/julesontheroad/NSC_BUILDER/releases
-  - name: ChoiDuJour
-    url: https://switchtools.sshnuke.net/
-  - name: Lockpick RCM
-    url: https://github.com/shchmue/Lockpick_RCM/releases
-  - name: Tegra RCM GUI
-    url: https://github.com/eliboa/TegraRcmGUI
-  - name: Goldleaf
-    url: https://github.com/XorTroll/Goldleaf/releases
-  - name: nxdumptool
-    url: https://github.com/DarkMatterCore/nxdumptool/releases/tag/v1.1.5
-- name: Hacking Switch
-  fontAwesome: th
-  items:
-  - name: Atmosphere
-    url: https://github.com/Atmosphere-NX/Atmosphere
-  - name: NCA Encrypt/Decrypt
-    url: https://github.com/switch-stuff/NAX0-Crypter
-- name: Hacking NES Mini
-  fontAwesome: th
-  items:
-  - name: Hakchi2
-    url: https://github.com/TeamShinkansen/hakchi2/releases/
-  - name: SNES Compatibility
-    url: https://docs.google.com/spreadsheets/d/12HKfz4ZQBy6Ip5awvh8t2aV5cVswYlnsdKxn9xoIW2Y/edit#gid=2014317767
-- name: Hacking Wii U
-  fontAwesome: th
-  items:
-  - name: WiiU Brew
-    url: http://wiiubrew.org/wiki/Main_Page
-  - name: uTikDownloadHelper
-    url: https://github.com/DanTheMan827/uTikDownloadHelper
-  - name: FunKiiU
-    url: https://github.com/llakssz/FunKiiU
-  - name: wiiu-things
-    url: https://github.com/ihaveamac/wiiu-things
-  - name: wudump
-    url: https://github.com/FIX94/wudump
-  - name: wud2app
-    url: https://github.com/FIX94/wud2app
-  - name: wupinstaller
-    url: https://github.com/Yardape8000/wupinstaller/tree/y1.2.1
-  - name: sign_patcher
-    url: https://github.com/dimok789/sign_patcher
-  - name: spiik
-    url: https://github.com/marco-calautti/spiik
-- name: Hacking 3DS
-  fontAwesome: th
-  items:
-  - name: 3D Brew
-    url: http://www.3dbrew.org/wiki/Main_Page
-  - name: 3DS-rom-tools
-    url: https://github.com/ihaveamac/3DS-rom-tools
-  - name: FunKeyCIA
-    url: https://github.com/llakssz/FunKeyCIA/
-  - name: make_cdn_cia
-    url: https://github.com/YodaDaCoda/make_cdn_cia
-  - name: FBI
-    url: https://github.com/Steveice10/FBI
-  - name: 3ds-xorpads
-    url: https://github.com/xorpad/3ds-xorpads
-  - name: 3dscrypto-tools
-    url: https://github.com/yellows8/3dscrypto-tools
-  - name: CIAngel
-    url: https://github.com/llakssz/CIAngel
-  - name: HackingToolkit3DS
-    url: https://github.com/Asia81/HackingToolkit3DS
-  - name: Convert 3DS to CIA
-    url: https://github.com/maorninja/Follow-up-Guide
-  - name: 3DS guide
-    url: https://3ds.guide/
-  - name: FBI Ticket Installer
-    url: https://fbiticket.uk/?sort=titleID
-  - name: freeshop
-    url: https://notabug.org/btucker/freeShop
-  - name: GroovyFX
-    url: https://github.com/Ptrk25/GroovyFX
-  - name: PlaiCDN
-    url: https://github.com/Plailect/PlaiCDN
-  - name: nustool
-    url: https://github.com/SciresM/nustool
-  - name: Shameless
-    url: https://github.com/HouseBreaker/Shameless/
-  - name: 3DS Explorer
-    url: https://code.google.com/p/3dsexplorer/
-- name: Hacking Wii
-  fontAwesome: th
-  items:
-  - name: libWiiSharp
-    url: https://github.com/dnasdw/libwiisharp
-  - name: nusdownloader
-    url: https://code.google.com/p/nusdownloader/
-  - name: PyNUSD
-    url: https://github.com/WiiDatabase/PyNUSD
-- name: Hacking DS
-  fontAwesome: th
-  items:
-  - name: Tinke DS Viewer
-    url: https://github.com/pleonex/tinke/
-- name: Hacking XBOX
-  fontAwesome: th
-  items:
-  - name: XBE Format
-    url: http://www.caustik.com/cxbx/download/xbe.htm
-- name: Hacking
-  fontAwesome: th
-  items:
-  - name: Darthsternie's Firmware Archive
-    url: https://darthsternie.net/
 - name: Modern Classics
   fontAwesome: th
   items:
@@ -790,6 +642,8 @@
 - name: Computers
   fontAwesome: th
   items:
+  - name: Computer Concepts
+    url: https://computerconceptsbothell.com/
   - name: NZXT
     url: https://www.letsbld.com/
   - name: Origin
@@ -802,6 +656,8 @@
     url: https://maingear.com/
   - name: Corsair
     url: https://www.corsair.com/us/en/Categories/Products/Systems/c/Cor_Systems
+  - name: Build Redux
+    url: https://buildredux.com/
 - name: Images
   fontAwesome: th
   items:

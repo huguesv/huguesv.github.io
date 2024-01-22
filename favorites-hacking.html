@@ -1,0 +1,15 @@
+---
+layout: page
+title: Hacking Favorites
+permalink: /favorites-hacking/
+visible: false
+---
+
+{% for category in site.data.favorites-hacking%}
+<h3>{{ category.name }}</h3>
+    {% for item in category.items %}
+<a class="button" href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+    {% endfor %}
+<br />
+<br />
+{% endfor %}

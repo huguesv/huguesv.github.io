@@ -7,6 +7,8 @@
     url: /favorites-private
   - name: Redump Favorites
     url: /favorites-redump
+  - name: Hacking Favorites
+    url: /favorites-hacking
 - name: Redump
   fontAwesome: th
   items:

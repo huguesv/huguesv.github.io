@@ -13,6 +13,8 @@
     url: http://anandtech.com/
   - name: Consumer Reports
     url: https://www.consumerreports.org/cro/news/index.htm
+  - name: Cleantech News
+    url: https://cleantechnica.com/
 - name: Forums
   fontAwesome: forumbee
   items:
@@ -53,6 +55,10 @@
     url: https://ind13.com/
   - name: Old School Gamer Magazine
     url: https://www.oldschoolgamermagazine.com/
+  - name: Video Games Chronicle
+    url: https://www.videogameschronicle.com/
+  - name: Video Chums
+    url: https://videochums.com/
 - name: Games
   fontAwesome: gamepad
   items:
@@ -82,6 +88,8 @@
   items:
   - name: Amazon
     url: http://smile.amazon.com
+  - name: Woot
+    url: http://woot.com
   - name: Humble Bundle
     url: https://www.humblebundle.com/
   - name: GOG
@@ -106,6 +114,8 @@
     url: https://itch.io/
   - name: OfferUp
     url: https://offerup.com/
+  - name: Kobo
+    url: https://kobo.com
 - name: Mail
   fontAwesome: envelope-o
   items:
