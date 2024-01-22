@@ -1,0 +1,23 @@
+---
+layout: home
+---
+
+<div class="text-center">
+    <img id="slider" />
+    <br />
+    <h1>Welcome!</h1>
+</div>
+
+<script>
+    var images = [
+    {% for slider in site.data.sliders %}
+    {% if slider.isVisible == true %}
+        "{{slider.file}}",
+    {% endif %}
+    {% endfor %}
+    ];
+
+    var image = images[Math.round(Math.random() * images.length)];
+    var imageUrl = "/assets/slider/" + image;
+    document.getElementById("slider").setAttribute("src", imageUrl);
+</script>
