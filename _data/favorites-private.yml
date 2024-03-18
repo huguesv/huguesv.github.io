@@ -5,6 +5,8 @@
     url: /favorites
   - name: Private Favorites
     url: /favorites-private
+  - name: Programming Favorites
+    url: /favorites-programming
   - name: Redump Favorites
     url: /favorites-redump
   - name: Hacking Favorites
@@ -27,8 +29,8 @@
     url: https://www.reddit.com/r/emulation/
   - name: r/fpgagaming/
     url: https://www.reddit.com/r/fpgagaming/
-  - name: r/MiSTerProject
-    url: https://www.reddit.com/r/MiSTerProject/
+  - name: r/MiSTerFPGA
+    url: https://www.reddit.com/r/MiSTerFPGA/
   - name: r/EmuDev
     url: https://www.reddit.com/r/EmuDev/
   - name: r/CSharp
@@ -163,6 +165,18 @@
     url: https://dats.site/home.php
   - name: srrDB
     url: https://www.srrdb.com/
+- name: Cars
+  fontAwesome: th
+  items:
+  - name: Honda Roadside Assistance
+    url: https://owners.honda.com/vehicles/roadside-assistance
+  - name: Bellevue Honda
+    url: https://www.bellevuehonda.com/
+- name: Streaming
+  fontAwesome: th
+  items:
+  - name: Race Replay
+    url: https://watchf1full.com/
 - name: Releases
   fontAwesome: th
   items:
@@ -421,6 +435,8 @@
     url: https://www.bellinghamherald.com/
   - name: Seattle NorthCountry
     url: https://www.seattlenorthcountry.com/
+  - name: Skagit Valley Tulip Festival
+    url: https://tulipfestival.org/
 - name: Japan Shopping
   fontAwesome: th
   items:
@@ -490,6 +506,13 @@
     url: https://store.nicalis.com/
   - name: Solaris Japan
     url: http://solarisjapan.com/products/PlayStation-Network-Pointcard-5000.html
+- name: Stores
+  fontAwesome: th
+  items:
+  - name: Seattle Surplus Stores
+    url: https://www.greaterseattleonthecheap.com/surplus-stores-and-auctions-salvage-materials-and-discount-supplies/
+  - name: SurplusGizmos
+    url: https://www.surplusgizmos.com/
 - name: Misc
   fontAwesome: th
   items:
@@ -511,6 +534,19 @@
     url: https://filepush.co/
   - name: Microsoft Company Store
     url: https://store.ecompanystore.com/microsoft
+  - name: M-Audio BX3
+    url: https://m-audio.com/bx3
+- name: Software - Mac
+  fontAwesome: th
+  items:
+  - name: PeaZip
+    url: https://peazip.github.io/peazip-macos.html
+  - name: NMac Ked
+    url: https://nmac.to/now/
+  - name: YYY
+    url: XXX
+  - name: YYY
+    url: XXX
 - name: Software
   fontAwesome: th
   items:
@@ -552,6 +588,22 @@
     url: https://www.blackmagicdesign.com/products/davinciresolve
   - name: 5KPlayer
     url: https://www.5kplayer.com/
+  - name: CPU-Z
+    url: https://www.cpuid.com/softwares/cpu-z.html
+  - name: CoreTemp
+    url: https://www.alcpu.com/CoreTemp/
+  - name: Fan Control
+    url: https://getfancontrol.com/
+  - name: mpv
+    url: https://mpv.io/
+  - name: Obsidian
+    url: https://obsidian.md/
+  - name: Obsidian Plugin - remotely-save
+    url: https://github.com/remotely-save/remotely-save
+  - name: Files
+    url: https://github.com/files-community/Files
+  - name: Nerd Fonts
+    url: https://www.nerdfonts.com/font-downloads
 - name: Programming C#
   fontAwesome: th
   items:
@@ -693,6 +745,8 @@
   items:
   - name: Quarterworld
     url: https://www.quarterworldarcade.com/
+  - name: Portland Retro Gaming Expo (September)
+    url: https://www.retrogamingexpo.com/
 - name: Hiking
   fontAwesome: th
   items:
@@ -716,6 +770,20 @@
   items:
   - name: Vintage Computer Festival
     url: https://vcfed.org/events/vintage-computer-festival-west/
+- name: Chairs
+  fontAwesome: rss
+  items:
+  - name: Steelcase
+    url: https://www.steelcase.com/products/office-chairs/gesture/
+  - name: Union and Scale FlexFit
+    url: https://www.staples.com/union-scale-flexfit-hyken-ergonomic-mesh-swivel-task-chair-black-un59460/product_990119
+- name: Media
+  fontAwesome: th
+  items:
+  - name: Blu-ray Authority
+    url: https://blurayauthority.com/
+  - name: All 4K Releases
+    url: https://docs.google.com/spreadsheets/d/1XgBqUDMwN-_CvbQssa7KVY_j56kimrgfePAH7i3dStM/edit?pli=1#gid=583459674
 - name: Blogs
   fontAwesome: rss
   items:

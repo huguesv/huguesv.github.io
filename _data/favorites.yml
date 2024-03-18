@@ -87,7 +87,7 @@
   fontAwesome: shopping-cart
   items:
   - name: Amazon
-    url: http://smile.amazon.com
+    url: http://www.amazon.com
   - name: Woot
     url: http://woot.com
   - name: Humble Bundle
@@ -100,6 +100,8 @@
     url: https://www.ebay.com/
   - name: Limited Run Games
     url: https://limitedrungames.com/
+  - name: Limited Run Games (Amazon)
+    url: https://www.amazon.com/stores/page/CFCC52C3-11E2-45EE-800C-C98322700090
   - name: PlayStation Store
     url: https://store.playstation.com/en-us/latest
   - name: PSPrices
@@ -116,6 +118,8 @@
     url: https://offerup.com/
   - name: Kobo
     url: https://kobo.com
+  - name: OMG Japan
+    url: https://omgjapan.com/
 - name: Mail
   fontAwesome: envelope-o
   items:
@@ -142,6 +146,15 @@
     url: https://www.twitch.tv/
   - name: Netflix Global Search
     url: http://unogs.com/
+- name: Sports
+  fontAwesome: th
+  items:
+  - name: Formula 1
+    url: https://www.formula1.com/
+  - name: Tennis
+    url: https://www.atptour.com/en/tournaments
+  - name: Hockey
+    url: https://www.nhl.com/
 - name: MiSTer
   fontAwesome: th
   items:

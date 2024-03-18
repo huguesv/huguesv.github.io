@@ -5,6 +5,8 @@
     url: /favorites
   - name: Private Favorites
     url: /favorites-private
+  - name: Programming Favorites
+    url: /favorites-programming
   - name: Redump Favorites
     url: /favorites-redump
   - name: Hacking Favorites
@@ -18,6 +20,8 @@
     url: http://redump.org/downloads/
   - name: Wip
     url: http://redump.org/discs-wip/
+  - name: Statistics
+    url: http://redump.org/statistics/
   - name: Wiki
     url: http://wiki.redump.org/
 - name: Discs

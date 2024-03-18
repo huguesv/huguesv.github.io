@@ -1,0 +1,363 @@
+- name: Hugues Valois
+  fontAwesome: th
+  items:
+  - name: Public Favorites
+    url: /favorites
+  - name: Private Favorites
+    url: /favorites-private
+  - name: Programming Favorites
+    url: /favorites-programming
+  - name: Redump Favorites
+    url: /favorites-redump
+  - name: Hacking Favorites
+    url: /favorites-hacking
+- name: .NET Avalonia
+  fontAwesome: th
+  items:
+  - name: r/AvaloniaUI
+    url: https://www.reddit.com/r/AvaloniaUI/
+  - name: Avalonia
+    url: https://github.com/AvaloniaUI/Avalonia
+  - name: Avalonia.Labs
+    url: https://github.com/AvaloniaUI/Avalonia.Labs
+  - name: FluentAvalonia
+    url: https://github.com/amwx/FluentAvalonia
+  - name: Avalonia + MVVM + Reactive UI Samples
+    url: https://github.com/stars/raid-teyar/lists/avalonia
+  - name: AngelSix YouTube Tutorials
+    url: https://www.youtube.com/watch?v=YhKuZImznEE&list=PLrW43fNmjaQWMhFHxS1jpQ34TkHroHJLb
+  - name: CustomTitleBarTemplate Sample
+    url: https://github.com/FrankenApps/Avalonia-CustomTitleBarTemplate
+- name: .NET GitHub Actions Blogs
+  fontAwesome: th
+  items:
+  - name: Publish Code Coverage
+    url: https://josh-ops.com/posts/github-code-coverage/
+  - name: .NET Framework
+    url: https://timheuer.com/blog/building-net-framework-apps-using-github-actions/
+  - name: Coveralls
+    url: https://www.michalbialecki.com/2020/01/30/pimp-your-repo-with-github-actions/
+  - name: OpenCover Badge Generator
+    url: https://github.com/marketplace/actions/opencover-badge-generator
+- name: .NET MVVM
+  fontAwesome: th
+  items:
+  - name: Community Toolkit
+    url: https://github.com/CommunityToolkit/dotnet
+  - name: Community Toolkit Documentation
+    url: https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/
+  - name: ReactiveUI
+    url: https://github.com/reactiveui/reactiveui
+  - name: Stylet
+    url: https://github.com/canton7/Stylet
+  - name: MvvmCross
+    url: https://github.com/MvvmCross/MvvmCross
+- name: .NET WPF
+  fontAwesome: th
+  items:
+  - name: WPF UI
+    url: https://github.com/lepoco/wpfui
+  - name: ModernWpf
+    url: https://github.com/Kinnara/ModernWpf
+- name: .NET WPF Blogs
+  fontAwesome: th
+  items:
+  - name: WPF Custom Title Bar
+    url: https://engy.us/blog/2020/01/01/implementing-a-custom-window-title-bar-in-wpf/
+- name: .NET Foundation
+  fontAwesome: th
+  items:
+  - name: dotnet
+    url: https://github.com/dotnet/dotnet
+  - name: runtime
+    url: https://github.com/dotnet/runtime
+  - name: wpf
+    url: https://github.com/dotnet/wpf
+  - name: winforms
+    url: https://github.com/dotnet/winforms
+  - name: aspnetcore
+    url: https://github.com/dotnet/aspnetcore
+  - name: roslyn
+    url: https://github.com/dotnet/roslyn
+  - name: csharplang
+    url: https://github.com/dotnet/csharplang
+  - name: format
+    url: https://github.com/dotnet/format
+- name: .NET Tools
+  fontAwesome: th
+  items:
+  - name: SharpLab
+    url: https://sharplab.io/
+  - name: Library.Template
+    url: https://github.com/AArnott/Library.Template
+- name: C# Tools
+  fontAwesome: th
+  items:
+  - name: CSharpier
+    url: https://csharpier.com/
+- name: .NET Libraries
+  fontAwesome: th
+  items:
+  - name: language-ext
+    url: https://github.com/louthy/language-ext#functional-effects-and-io
+  - name: Catel
+    url: https://github.com/catel/catel
+  - name: Cocona
+    url: https://github.com/mayuki/Cocona
+  - name: SkiaSharp
+    url: https://github.com/mono/SkiaSharp
+  - name: LiteDB
+    url: https://github.com/mbdavid/litedb
+  - name: SharpDX (archived)
+    url: https://github.com/sharpdx/SharpDX
+  - name: SDL2-CS (Ryujinx fork)
+    url: https://github.com/Ryujinx/SDL2-CS
+  - name: NAudio
+    url: https://github.com/naudio/NAudio
+  - name: Terminal.Gui
+    url: https://github.com/gui-cs/Terminal.Gui
+  - name: Terminal.Gui Designer
+    url: https://github.com/gui-cs/TerminalGuiDesigner
+  - name: Modern.Forms
+    url: https://github.com/modern-forms/Modern.Forms
+  - name: ScottPlot
+    url: https://github.com/ScottPlot/ScottPlot
+  - name: LiveCharts2
+    url: https://github.com/beto-rodriguez/LiveCharts2
+  - name: Microsoft.Data.Sqlite overview
+    url: https://learn.microsoft.com/en-us/dotnet/standard/data/sqlite
+  - name: System.CommandLine overview
+    url: https://learn.microsoft.com/en-us/dotnet/standard/commandline/
+  - name: FluentValidation
+    url: https://github.com/FluentValidation/FluentValidation
+  - name: EventCounters Tutorial
+    url: https://learn.microsoft.com/en-us/dotnet/core/diagnostics/event-counter-perf
+  - name: NUKE
+    url: https://nuke.build/
+  - name: MudBlazor
+    url: https://github.com/MudBlazor/MudBlazor/
+- name: .NET Preservation Libraries
+  fontAwesome: th
+  items:
+  - name: LibIRD
+    url: https://github.com/Deterous/LibIRD
+- name: .NET Testing Libraries
+  fontAwesome: th
+  items:
+  - name: AutoFixture
+    url: https://github.com/AutoFixture/AutoFixture
+  - name: Bogus
+    url: https://github.com/bchavez/Bogus
+  - name: coverlet
+    url: https://github.com/coverlet-coverage/coverlet
+- name: .NET Archive Libraries
+  fontAwesome: th
+  items:
+  - name: UnrarNative
+    url: https://github.com/huang-zhibiao/Zhibiao/tree/master/src/Zhibiao.UnrarNative
+  - name: SevenZipSharp
+    url: https://github.com/squid-box/SevenZipSharp
+  - name: SevenZipSharp.Interop
+    url: https://github.com/luuksommers/SevenZipSharp.Interop/
+  - name: tiny7z
+    url: https://github.com/daPhie79/tiny7z
+  - name: managed-lzma
+    url: https://github.com/weltkante/managed-lzma
+- name: WinUI
+  fontAwesome: th
+  items:
+  - name: WinUI-Gallery
+    url: https://github.com/microsoft/winui-gallery
+  - name: Design and code Windows apps
+    url: https://learn.microsoft.com/en-us/windows/apps/design/
+- name: C Libraries
+  fontAwesome: th
+  items:
+  - name: libsoundio
+    url: http://libsound.io/
+  - name: greatest (C testing library)
+    url: https://github.com/silentbicycle/greatest
+- name: .NET Samples
+  fontAwesome: th
+  items:
+  - name: dotnet-console-demo
+    url: https://github.com/jasonterando/dotnet-console-demo
+  - name: .NET Workshops and Presentations
+    url: https://github.com/dotnet-presentations
+  - name: Blazing Pizza Workshop
+    url: https://github.com/csharpfritz/BlazingPizzaWorkshop
+- name: Retro - Genesis / Mega Drive
+  fontAwesome: th
+  items:
+  - name: SGDK
+    url: https://github.com/Stephane-D/SGDK
+- name: Retro - SNES
+  fontAwesome: th
+  items:
+  - name: SNES Dev Wiki
+    url: https://snes.nesdev.org/wiki/SNESdev_Wiki
+- name: Retro - NES
+  fontAwesome: th
+  items:
+  - name: NES Dev Wiki
+    url: https://www.nesdev.org/wiki/Nesdev_Wiki
+  - name: NESFab Tutorial - Maze Game
+    url: https://pubby.games/nesfab/maze_tutorial.html
+- name: Retro - GameBoy
+  fontAwesome: th
+  items:
+  - name: Gameboy Dev Wiki
+    url: https://gbdev.gg8.se/wiki/articles/Main_Page
+  - name: Gameboy Tile Designer
+    url: https://www.devrs.com/gb/hmgd/gbtd.html
+  - name: GBTD/GBMB
+    url: https://github.com/gbdk-2020/GBTD_GBMB
+  - name: Pan Docs
+    url: https://gbdev.io/pandocs/
+- name: Retro - 6502
+  fontAwesome: th
+  items:
+  - name: Merlin 32 Cross Assembler
+    url: https://brutaldeluxe.fr/products/crossdevtools/merlin/index.html
+  - name: Visual 6502
+    url: http://www.visual6502.org/welcome.html
+  - name: Easy 6502 Tutorial
+    url: https://skilldrick.github.io/easy6502/
+- name: Retro - PC
+  fontAwesome: th
+  items:
+  - name: MS QuickC Programming Documentation
+    url: https://www.pcjs.org/documents/books/mspl13/c/mspqc/
+  - name: Microsoft Programmer's Library 1.3
+    url: https://www.pcjs.org/documents/books/mspl13/
+  - name: James Mackenzie's Blog
+    url: https://www.jamesfmackenzie.com/
+  - name: Stack Overflow - Keyboard Handling
+    url: https://stackoverflow.com/questions/40961527/checking-if-a-key-is-down-in-ms-dos-c-c
+- name: Retro - Sound
+  fontAwesome: th
+  items:
+  - name: Programming the MPU-401 in UART mode
+    url: http://www.piclist.com/techref/io/serial/midi/mpu.html
+  - name: OPL chip wiki
+    url: https://moddingwiki.shikadi.net/wiki/OPL_chip
+  - name: AdPlug
+    url: https://adplug.github.io/
+  - name: OPL3 Programmer's Guide
+    url: https://www.fit.vutbr.cz/~arnost/opl/opl3.html
+  - name: Adlib Music Files
+    url: http://www.retroarchive.org/cdrom/nightowl-005/050A/index.html
+  - name: Adlib Tracker II
+    url: http://www.adlibtracker.net/index.php
+  - name: OPL2 ASM Test
+    url: https://github.com/leonardo-ono/Assembly8086OPL2AdlibHardwareLevelProgrammingTest
+  - name: How to program for the AdLib YouTube Video
+    url: https://www.youtube.com/watch?v=XKy1cE4EYMk
+  - name: Music Players and Libraries
+    url: http://www.dcee.net/Files/Programm/Sound/
+- name: Web
+  fontAwesome: th
+  items:
+  - name: Playwright
+    url: https://playwright.dev/
+- name: SwiftUI
+  fontAwesome: th
+  items:
+  - name: SwiftUI Tutorials
+    url: https://developer.apple.com/tutorials/swiftui
+- name: GitHub Pages
+  fontAwesome: th
+  items:
+  - name: Quickstart for GitHub Pages
+    url: https://docs.github.com/en/pages/quickstart
+  - name: Managing Custom Domain
+    url: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+  - name: Jekyll
+    url: https://jekyllrb.com/
+  - name: Jekyll Minima Theme
+    url: https://github.com/jekyll/minima/tree/master
+  - name: Jekyll webrick error
+    url: https://github.com/jekyll/jekyll/issues/8523
+- name: Hosting
+  fontAwesome: th
+  items:
+  - name: Railway
+    url: https://railway.app/
+- name: ASP.NET
+  fontAwesome: th
+  items:
+  - name: AspNetStatic
+    url: https://github.com/ZarehD/AspNetStatic
+  - name: ASP.NET documentation
+    url: https://learn.microsoft.com/en-us/aspnet/core/
+- name: Uno Platform
+  fontAwesome: th
+  items:
+  - name: Uno Platform
+    url: https://platform.uno/
+  - name: Calculator Sample
+    url: https://calculator.platform.uno/
+- name: Javascript Libraries
+  fontAwesome: th
+  items:
+  - name: mermaid
+    url: https://github.com/mermaid-js/mermaid
+- name: Languages
+  fontAwesome: th
+  items:
+  - name: Zig
+    url: https://ziglang.org/
+  - name: Verona
+    url: https://github.com/microsoft/verona
+  - name: Rust Programming Language Book
+    url: https://doc.rust-lang.org/book/
+- name: Misc
+  fontAwesome: th
+  items:
+  - name: Spice86 (PC Emulator and RE Tool)
+    url: https://github.com/OpenRakis/Spice86
+  - name: rvx (Retro VoXel graphics framework)
+    url: https://github.com/mausimus/rvx
+  - name: Crossrunner (Apple IIgs)
+    url: https://www.crossrunner.gs/
+  - name: Microsoft Public GDK
+    url: https://github.com/microsoft/gdk
+  - name: VB - C# Code Converter VS Extension
+    url: https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.CodeConverter
+  - name: Lazarus (Delphi IDE)
+    url: https://www.lazarus-ide.org/
+  - name: QB64
+    url: https://qb64.com/
+  - name: Free Pascal
+    url: https://www.freepascal.org/
+- name: Game Development - Godot
+  fontAwesome: th
+  items:
+  - name: Godot
+    url: https://godotengine.org/
+  - name: Godot demo projects
+    url: https://github.com/godotengine/godot-demo-projects
+- name: Game Development - Unreal
+  fontAwesome: th
+  items:
+  - name: UnrealSharp
+    url: https://github.com/UnrealSharp/UnrealSharp
+- name: Game Development - XNA/MonoGame
+  fontAwesome: th
+  items:
+  - name: MonoGame
+    url: https://monogame.net/
+  - name: MonoGame-Samples
+    url: https://github.com/CartBlanche/MonoGame-Samples
+- name: Game Development - Software
+  fontAwesome: th
+  items:
+  - name: Tiled
+    url: https://www.mapeditor.org/
+  - name: DOSBox-X
+    url: https://github.com/joncampbell123/dosbox-x
+- name: Icons
+  fontAwesome: th
+  items:
+  - name: Noun Project
+    url: https://thenounproject.com/

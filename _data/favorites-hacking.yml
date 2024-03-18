@@ -5,6 +5,8 @@
     url: /favorites
   - name: Private Favorites
     url: /favorites-private
+  - name: Programming Favorites
+    url: /favorites-programming
   - name: Redump Favorites
     url: /favorites-redump
   - name: Hacking Favorites
