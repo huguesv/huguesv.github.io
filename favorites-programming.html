@@ -5,7 +5,7 @@ permalink: /favorites-programming/
 visible: false
 ---
 
-{% for category in site.data.favorites-private %}
+{% for category in site.data.favorites-programming %}
 <h3>{{ category.name }}</h3>
     {% for item in category.items %}
 <a class="button" href="{{ item.url }}" target="_blank">{{ item.name }}</a>
