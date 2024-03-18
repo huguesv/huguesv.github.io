@@ -136,6 +136,8 @@
     url: https://nuke.build/
   - name: MudBlazor
     url: https://github.com/MudBlazor/MudBlazor/
+  - name: GameArchives
+    url: https://github.com/maxton/GameArchives
 - name: .NET Preservation Libraries
   fontAwesome: th
   items:
@@ -203,6 +205,8 @@
     url: https://www.nesdev.org/wiki/Nesdev_Wiki
   - name: NESFab Tutorial - Maze Game
     url: https://pubby.games/nesfab/maze_tutorial.html
+  - name: FamiStudio
+    url: https://famistudio.org/
 - name: Retro - GameBoy
   fontAwesome: th
   items:
@@ -356,8 +360,3 @@
     url: https://www.mapeditor.org/
   - name: DOSBox-X
     url: https://github.com/joncampbell123/dosbox-x
-- name: Icons
-  fontAwesome: th
-  items:
-  - name: Noun Project
-    url: https://thenounproject.com/

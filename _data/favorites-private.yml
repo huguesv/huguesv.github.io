@@ -110,6 +110,12 @@
     url: https://github.com/zedseven/NusRipper
   - name: Preserve CD-i!
     url: https://preserve-cdi.blogspot.com/
+  - name: Hit Save!
+    url: https://hitsave.org/
+  - name: Dumping.Guide
+    url: https://dumping.guide/start
+  - name: Redump Source Code 2010
+    url: https://github.com/Dremora/redump
 - name: News
   fontAwesome: th
   items:
@@ -137,6 +143,8 @@
     url: https://www.atari-forum.com/index.php
   - name: Emulation General Wiki
     url: https://emulation.gametechwiki.com/index.php/Main_Page
+  - name: Retro Game Corps
+    url: https://retrogamecorps.com/
 - name: MiSTer Shops
   fontAwesome: th
   items:
@@ -192,6 +200,8 @@
     url: http://abgx360.hadzz.com/
   - name: C-64 Scene Database
     url: https://csdb.dk/
+  - name: The OPL Archive
+    url: https://opl.wafflenet.com/
 - name: Hardware
   fontAwesome: th
   items:
@@ -232,6 +242,14 @@
     url: http://www.goodolddays.net/
   - name: Vetusware
     url: https://vetusware.com/
+  - name: AmigaVision (Collection)
+    url: https://amiga.vision/
+  - name: DiscMaster
+    url: https://discmaster.textfiles.com/
+  - name: RetroArchive
+    url: http://www.retroarchive.org/cdrom/index.html
+  - name: Steve's Computer Collection
+    url: https://oldcomputers.net/
 - name: Music
   fontAwesome: th
   items:
@@ -264,6 +282,10 @@
     url: https://github.com/Aftnet/LibretroRT
   - name: BlastEm - Genesis (C)
     url: https://www.retrodev.com/blastem/
+  - name: PCjs
+    url: https://www.pcjs.org/
+  - name: Rigel Engine (Duke Nukem II)
+    url: https://github.com/lethal-guitar/RigelEngine
 - name: Emulators
   fontAwesome: th
   items:
@@ -351,10 +373,18 @@
     url: https://github.com/maxton/GameArchives
   - name: DiscImageCreator
     url: https://github.com/saramibreak/DiscImageCreator
+  - name: UmdImageCreator
+    url: https://github.com/saramibreak/UmdImageCreator
+  - name: Redumper
+    url: https://github.com/superg/redumper
   - name: Rufus USB Boot
     url: http://rufus.akeo.ie/
   - name: SAMdisk
     url: https://simonowen.com/samdisk/
+  - name: DxWnd
+    url: https://sourceforge.net/projects/dxwnd/
+  - name: PS-Multi-Tools
+    url: https://github.com/SvenGDK/PS-Multi-Tools
 - name: Sierra
   fontAwesome: th
   items:
@@ -378,6 +408,8 @@
     url: http://www.sierrachest.com/
   - name: MIDI Music Adventure
     url: http://www.midimusicadventures.com/
+  - name: The Sierra Adventure Book
+    url: https://thesierraadventure.com/
   - name: GitHub Historical Source
     url: https://github.com/historicalsource?tab=repositories
 - name: Computers
@@ -562,6 +594,8 @@
     url: https://github.com/yuk27/BetterJoyForDolphin
   - name: Romcenter
     url: https://www.romcenter.com/
+  - name: igir (Rom Collection Manager)
+    url: https://github.com/emmercm/igir
   - name: Calibre
     url: https://github.com/kovidgoyal/calibre
   - name: Carnac
@@ -604,6 +638,10 @@
     url: https://github.com/files-community/Files
   - name: Nerd Fonts
     url: https://www.nerdfonts.com/font-downloads
+  - name: RAD - Reality Adlib Tracker
+    url: https://www.3eality.com/productions/reality-adlib-tracker
+  - name: VGCollect
+    url: https://vgcollect.com/
 - name: Programming C#
   fontAwesome: th
   items:
@@ -717,6 +755,8 @@
     url: https://unsplash.com/
   - name: Iconfinder
     url: https://www.iconfinder.com/
+  - name: Noun Project
+    url: https://thenounproject.com/
 - name: Finance
   fontAwesome: th
   items:
