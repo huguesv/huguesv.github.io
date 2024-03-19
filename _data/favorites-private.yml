@@ -298,9 +298,7 @@
   - name: Cemu
     url: http://cemu.info/
   - name: Ryujinx
-    url: https://github.com/gdkchan/Ryujinx
-  - name: Yuzu
-    url: https://yuzu-emu.org/
+    url: https://github.com/Ryujinx/Ryujinx
   - name: BigPEmu
     url: https://www.richwhitehouse.com/jaguar/index.php
 - name: Emulators

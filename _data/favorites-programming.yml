@@ -106,6 +106,10 @@
     url: https://github.com/mayuki/Cocona
   - name: SkiaSharp
     url: https://github.com/mono/SkiaSharp
+  - name: Silk.NET
+    url: https://github.com/dotnet/Silk.NET
+  - name: opentk
+    url: https://github.com/opentk/opentk
   - name: LiteDB
     url: https://github.com/mbdavid/litedb
   - name: SharpDX (archived)
