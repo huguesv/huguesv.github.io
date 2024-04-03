@@ -1,0 +1,139 @@
+- name: Hugues Valois
+  fontAwesome: th
+  items:
+  - name: Public Favorites
+    url: /favorites
+  - name: Private Favorites
+    url: /favorites-private
+  - name: Programming Favorites
+    url: /favorites-programming
+  - name: Redump Favorites
+    url: /favorites-redump
+  - name: Emulation Favorites
+    url: /favorites-emulation
+  - name: Hacking Favorites
+    url: /favorites-hacking
+  - name: Archive Favorites
+    url: /favorites-archive
+
+- name: Users (Active)
+  fontAwesome: th
+  items:
+  - name: CVLT OF MIRRORS
+    url: https://archive.org/details/@cvlt_of_mirrors
+  - name: ChadMaster
+    url: https://archive.org/details/@chadmaster
+  - name: neozeede (old software)
+    url: https://archive.org/details/@neozeede
+  - name: K1rkl4nd (console manuals)
+    url: https://archive.org/details/@k1rkl4nd
+  - name: SNESManualArchive (console manuals)
+    url: https://archive.org/details/@snesmanualarchive
+
+- name: No-Intro Collections (Active)
+  fontAwesome: th
+  items:
+  - name: No-Intro Packs
+    url: https://archive.org/details/ni-romsets
+  - name: No-Intro Private Packs
+    url: https://archive.org/details/no-intro-priv
+  - name: No-Intro Private Dats
+    url: https://archive.org/details/no-intro-priv-dat
+  - name: 3DS Encrypted - Part 1
+    url: https://archive.org/details/3ds-main-encrypted
+  - name: 3DS Encrypted - Part 2
+    url: https://archive.org/details/3ds-main-encrypted-p2
+
+- name: Redump Collections (Active)
+  fontAwesome: th
+  items:
+  - name: Wii RVZ USA
+    url: https://archive.org/details/wii_rvz_usa
+
+- name: Misc Collections (Active)
+  fontAwesome: th
+  items:
+  - name: HTGDB Gamepacks
+    url: https://archive.org/details/htgdb-gamepacks
+  - name: MAME Roms Merged
+    url: https://archive.org/details/mame-merged
+  - name: MAME Chds Merged
+    url: https://archive.org/details/MAME_0.225_CHDs_merged
+  - name: MAME Software Merged
+    url: https://archive.org/details/mame-sl
+  - name: MAME Support
+    url: https://archive.org/details/mame-support
+
+- name: MiSTeR Collections (Active)
+  fontAwesome: th
+  items:
+  - name: 0Mhz DOS Collection
+    url: https://archive.org/details/0mhz-dos
+  - name: AmigaVision
+    url: https://archive.org/details/amigavision-2023.12.25
+  - name: MacPack for FPGA
+    url: https://archive.org/details/macpack
+
+- name: MiSTeR (Inactive)
+  fontAwesome: th
+  items:
+  - name: Sharp X68000 Starter Pack
+    url: https://archive.org/details/mister_x68k
+  - name: MS-DOS Play It By Year Collection
+    url: https://archive.org/details/tdl-hdd
+  - name: Tandy and PCjr Play It By Year Collection
+    url: https://archive.org/details/tandy-pcjr-hdd
+  - name: Apple II Play It By Year Collection
+    url: https://archive.org/details/apple-ii-play-it-by-year-collection-v-0.1
+  - name: Amiga Play It By Year Collection
+    url: https://archive.org/details/amiga-play-it-by-year-collection
+  - name: MiSTeR Windows VHDs
+    url: https://archive.org/details/mi-ster-windows-vhds
+  - name: Neo Geo Ultra Pack
+    url: https://archive.org/details/neo-geo-mister-fgpa-ultra-pack
+
+- name: Computers (Active)
+  fontAwesome: th
+  items:
+  - name: Code Wheels
+    url: https://archive.org/details/code-wheels
+
+- name: Computers (Inactive)
+  fontAwesome: th
+  items:
+  - name: Classic Mac Disk Images Collection
+    url: https://archive.org/details/ClassicMacImages
+  - name: Sierra Source Code Collection
+    url: https://archive.org/details/sierrasourcecode
+  - name: Gruby's IBM PC Compatibles Floppy Images
+    url: https://archive.org/details/grubys-ibm-pc-compatibles-floppy-images
+
+- name: Consoles (Active)
+  fontAwesome: th
+  items:
+  - name: Nintendo - Super Famicom - MSU1
+    url: https://archive.org/details/nintendo-super-famicom-msu1
+
+- name: Consoles (Inactive)
+  fontAwesome: th
+  items:
+  - name: VGM Complete Cartridge Collection
+    url: https://archive.org/details/vgm-complete-cartridge-collection.-7z
+
+- name: Users (Inactive)
+  fontAwesome: th
+  items:
+  - name: Forest of Illusion
+    url: https://archive.org/details/@rvt-r
+
+- name: Tools
+  fontAwesome: th
+  items:
+  - name: UMDumper
+    url: https://archive.org/details/umdumper.-7z
+
+- name: GitHub
+  fontAwesome: th
+  items:
+  - name: Historical Source
+    url: https://github.com/historicalsource

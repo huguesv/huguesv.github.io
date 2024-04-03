@@ -9,8 +9,12 @@
     url: /favorites-programming
   - name: Redump Favorites
     url: /favorites-redump
+  - name: Emulation Favorites
+    url: /favorites-emulation
   - name: Hacking Favorites
     url: /favorites-hacking
+  - name: Archive Favorites
+    url: /favorites-archive
 - name: Redump
   fontAwesome: th
   items:

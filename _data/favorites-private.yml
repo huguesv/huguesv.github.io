@@ -9,8 +9,12 @@
     url: /favorites-programming
   - name: Redump Favorites
     url: /favorites-redump
+  - name: Emulation Favorites
+    url: /favorites-emulation
   - name: Hacking Favorites
     url: /favorites-hacking
+  - name: Archive Favorites
+    url: /favorites-archive
 - name: Usenet Indexers
   fontAwesome: th
   items:
@@ -265,103 +269,6 @@
     url: http://www.archive.org/details/Zwan
   - name: Reflecting In The Chrome
     url: http://www.reflectinginthechrome.com/home.html
-- name: Emulators
-  fontAwesome: th
-  items:
-  - name: ScummVM
-    url: http://www.scummvm.org/
-  - name: MAME
-    url: http://www.mame.net/
-  - name: Bizhawk
-    url: https://github.com/TASVideos/BizHawk
-  - name: Mednafen
-    url: http://mednafen.sourceforge.net/
-  - name: LibRetro Blog
-    url: https://www.libretro.com/index.php/category/blog/
-  - name: LibRetroRT
-    url: https://github.com/Aftnet/LibretroRT
-  - name: BlastEm - Genesis (C)
-    url: https://www.retrodev.com/blastem/
-  - name: PCjs
-    url: https://www.pcjs.org/
-  - name: Rigel Engine (Duke Nukem II)
-    url: https://github.com/lethal-guitar/RigelEngine
-- name: Emulators
-  fontAwesome: th
-  items:
-  - name: Dolphin
-    url: https://dolphin-emu.org/
-  - name: Citra 3DS
-    url: http://citra-emu.org/
-  - name: decaf-emu
-    url: https://github.com/decaf-emu/decaf-emu
-  - name: Cemu
-    url: http://cemu.info/
-  - name: Ryujinx
-    url: https://github.com/Ryujinx/Ryujinx
-  - name: BigPEmu
-    url: https://www.richwhitehouse.com/jaguar/index.php
-- name: Emulators
-  fontAwesome: th
-  items:
-  - name: PCSX2
-    url: http://www.pcsx2.net/
-  - name: PCSX2 GitHub
-    url: https://github.com/PCSX2/pcsx2
-  - name: Play!
-    url: https://github.com/jpd002/Play-
-  - name: PPSSPP
-    url: http://www.ppsspp.org/index.html
-  - name: Vita3K
-    url: https://github.com/Vita3K/Vita3K
-  - name: RPCS3
-    url: https://github.com/RPCS3/rpcs3
-  - name: XQEMU
-    url: https://github.com/xqemu/xqemu
-  - name: Xenia
-    url: https://github.com/benvanik/xenia
-  - name: GPCS4
-    url: https://github.com/Inori/GPCS4
-- name: Emulators
-  fontAwesome: th
-  items:
-  - name: Dos Emulator (Rust)
-    url: https://github.com/Lichtso/DOS-Emulator
-  - name: SheepShaver
-    url: https://sheepshaver.cebix.net/
-- name: Emulators
-  fontAwesome: th
-  items:
-  - name: EMU7800 - Atari 2600+7800 (C#)
-    url: https://emu7800.github.io/
-  - name: ProjectPSX (C#)
-    url: https://github.com/BluestormDNA/ProjectPSX
-  - name: GBG (Closed Source)
-    url: https://bgb.bircd.org/
-- name: Emulators (Inactive)
-  fontAwesome: th
-  items:
-  - name: Virtu - Apple IIe (C#)
-    url: https://github.com/digital-jellyfish/Virtu
-  - name: Cogwheel - Sega SMS+GG (C#)
-    url: http://benryves.com/projects/cogwheel
-  - name: Sharp C64 (C#)
-    url: https://sourceforge.net/projects/sharp-c64/
-  - name: Soywiz PSP (D)
-    url: https://github.com/soywiz-archive/pspemu
-  - name: Soywiz PSP (C#)
-    url: https://github.com/cspspemu/cspspemu
-  - name: XNA Sharp NES (C#)
-    url: http://code.google.com/p/xnasharpnes/
-  - name: GBA (C#)
-    url: https://github.com/UncleFirefox/GBAEmu
-- name: Frontends
-  fontAwesome: th
-  items:
-  - name: Playnite
-    url: https://playnite.link/
-  - name: Metropolis Launcher
-    url: https://metropolis-launcher.net/
 - name: Tools
   fontAwesome: th
   items:
@@ -408,8 +315,6 @@
     url: http://www.midimusicadventures.com/
   - name: The Sierra Adventure Book
     url: https://thesierraadventure.com/
-  - name: GitHub Historical Source
-    url: https://github.com/historicalsource?tab=repositories
 - name: Computers
   fontAwesome: th
   items:
