@@ -15,6 +15,7 @@
     url: /favorites-hacking
   - name: Archive Favorites
     url: /favorites-archive
+
 - name: Usenet Indexers
   fontAwesome: th
   items:
@@ -26,6 +27,7 @@
     url: https://nzbindex.nl/
   - name: NzbForYou
     url: https://www.nzbforyou.com/index
+
 - name: Reddit
   fontAwesome: th
   items:
@@ -43,6 +45,10 @@
     url: https://www.reddit.com/r/dotnet/
   - name: r/Roms
     url: https://www.reddit.com/r/Roms/
+  - name: r/PiratedGames/
+    url: https://www.reddit.com/r/PiratedGames/
+  - name: r/FREEMEDIAHECKYEAH/
+    url: https://www.reddit.com/r/FREEMEDIAHECKYEAH/
   - name: r/DataHoarder
     url: https://www.reddit.com/r/DataHoarder/
   - name: r/dosgaming
@@ -65,6 +71,12 @@
     url: https://www.reddit.com/r/GamePreservationists/
   - name: r/MechanicalKeyboards
     url: https://www.reddit.com/r/MechanicalKeyboards/
+  - name: r/formula1/
+    url: https://www.reddit.com/r/formula1/
+
+- name: Reddit PC Hardware
+  fontAwesome: th
+  items:
   - name: r/PcRetailers
     url: https://www.reddit.com/r/PcRetailers/
   - name: r/MiniPCs
@@ -83,6 +95,7 @@
     url: https://www.reddit.com/r/buildapc/
   - name: r/PcBuild
     url: https://www.reddit.com/r/PcBuild/
+
 - name: Preservation
   fontAwesome: th
   items:
@@ -120,6 +133,9 @@
     url: https://dumping.guide/start
   - name: Redump Source Code 2010
     url: https://github.com/Dremora/redump
+  - name: PlayStation 3 Center
+    url: https://www.playstation3-center.com/
+
 - name: News
   fontAwesome: th
   items:
@@ -149,6 +165,9 @@
     url: https://emulation.gametechwiki.com/index.php/Main_Page
   - name: Retro Game Corps
     url: https://retrogamecorps.com/
+  - name: Torrminatorr
+    url: https://torrminatorr.com/
+
 - name: MiSTer Shops
   fontAwesome: th
   items:
@@ -160,6 +179,7 @@
     url: http://www.heber.co.uk/product/multisystem/
   - name: RMC - The Store
     url: https://rmcretro.store/
+
 - name: Releases
   fontAwesome: th
   items:
@@ -177,6 +197,7 @@
     url: https://dats.site/home.php
   - name: srrDB
     url: https://www.srrdb.com/
+
 - name: Cars
   fontAwesome: th
   items:
@@ -184,11 +205,13 @@
     url: https://owners.honda.com/vehicles/roadside-assistance
   - name: Bellevue Honda
     url: https://www.bellevuehonda.com/
+
 - name: Streaming
   fontAwesome: th
   items:
   - name: Race Replay
     url: https://watchf1full.com/
+
 - name: Releases
   fontAwesome: th
   items:
@@ -206,6 +229,7 @@
     url: https://csdb.dk/
   - name: The OPL Archive
     url: https://opl.wafflenet.com/
+
 - name: Hardware
   fontAwesome: th
   items:
@@ -217,6 +241,7 @@
     url: http://www.brookaccessory.com/detail/33917374/
   - name: TFT Central LCD Monitor Info
     url: https://www.tftcentral.co.uk/
+
 - name: Classic
   fontAwesome: th
   items:
@@ -236,8 +261,6 @@
     url: http://www.uhs-hints.com/hints/allhints.php
   - name: 128bit.me
     url: http://128bit.me/index.php?action=forum
-  - name: Sierra Help
-    url: http://sierrahelp.com/
   - name: MAME No Filler
     url: http://forum.arcadecontrols.com/index.php/topic,149708.0.html
   - name: WinWorld
@@ -248,12 +271,17 @@
     url: https://vetusware.com/
   - name: AmigaVision (Collection)
     url: https://amiga.vision/
+  - name: AmigaVision GitHub
+    url: https://github.com/amigavision/AmigaVision
   - name: DiscMaster
     url: https://discmaster.textfiles.com/
   - name: RetroArchive
     url: http://www.retroarchive.org/cdrom/index.html
   - name: Steve's Computer Collection
     url: https://oldcomputers.net/
+  - name: 0MHz DOS Collection
+    url: https://0mhz.net/
+
 - name: Music
   fontAwesome: th
   items:
@@ -263,12 +291,9 @@
     url: http://forums.netphoria.org
   - name: SPFC
     url: http://www.spfc.org/main.html
-  - name: archive.org - Smashing Pumpkins
-    url: http://www.archive.org/details/SmashingPumpkins
-  - name: archive.org - Zwan
-    url: http://www.archive.org/details/Zwan
   - name: Reflecting In The Chrome
     url: http://www.reflectinginthechrome.com/home.html
+
 - name: Tools
   fontAwesome: th
   items:
@@ -290,6 +315,7 @@
     url: https://sourceforge.net/projects/dxwnd/
   - name: PS-Multi-Tools
     url: https://github.com/SvenGDK/PS-Multi-Tools
+
 - name: Sierra
   fontAwesome: th
   items:
@@ -297,8 +323,6 @@
     url: http://www.rarefied.org/sci/drivers.html
   - name: Al Lowe's Humor Site
     url: http://www.allowe.com/
-  - name: Sierra Game Demos
-    url: http://www.sierrahelp.com/Misc/Demos.html
   - name: King's Quest IV Manual
     url: http://www.virtualapple.org/docs/document-4.html
   - name: Sierra Planet
@@ -315,27 +339,7 @@
     url: http://www.midimusicadventures.com/
   - name: The Sierra Adventure Book
     url: https://thesierraadventure.com/
-- name: Computers
-  fontAwesome: th
-  items:
-  - name: Steem Engine
-    url: http://steem.atari.st/
-  - name: DOSBox
-    url: http://sourceforge.net/projects/dosbox
-  - name: MSA Converter (Atari ST)
-    url: http://msaconverter.free.fr/index.html
-  - name: Ciderpress
-    url: http://ciderpress.sourceforge.net/
-  - name: XRoar Dragon32/64
-    url: http://www.6809.org.uk/dragon/xroar.shtml
-  - name: Open Emu
-    url: http://openemu.sourceforge.net/
-  - name: NAGI
-    url: https://github.com/sonneveld/nagi
-  - name: WinCDEmu
-    url: https://sysprogs.com/wincdemu/
-  - name: WinCDEmu GitHub
-    url: https://github.com/sysprogs/WinCDEmu
+
 - name: Bellevue
   fontAwesome: th
   items:
@@ -347,6 +351,7 @@
     url: https://www.overlakehospital.org/locations
   - name: Dentist - William Peterson
     url: http://www.williamjpetersondds.com/
+
 - name: Seattle
   fontAwesome: th
   items:
@@ -372,6 +377,11 @@
     url: https://www.seattlenorthcountry.com/
   - name: Skagit Valley Tulip Festival
     url: https://tulipfestival.org/
+  - name: Seattle Retro Gaming Expo
+    url: http://seattleretro.org/
+  - name: Washington State Fair
+    url: https://www.thefair.com/washington-state-fair/
+
 - name: Japan Shopping
   fontAwesome: th
   items:
@@ -379,11 +389,13 @@
     url: https://buyee.jp/?lang=en
   - name: Yahoo! Auction Proxy
     url: https://www.jauce.com/
+
 - name: Japanese Language
   fontAwesome: th
   items:
   - name: JapanesePod101
     url: https://www.japanesepod101.com/
+
 - name: Japan Tourism
   fontAwesome: th
   items:
@@ -397,6 +409,7 @@
     url: https://www.abroadinjapan.com/
   - name: Good Samaritan Club
     url: https://goodsamaritanclub.org/
+
 - name: Japan Customs / Airport
   fontAwesome: th
   items:
@@ -406,6 +419,7 @@
     url: https://www.narita-airport.jp/en
   - name: Airport Bus TYO-NRT
     url: https://tyo-nrt.com/en
+
 - name: Japan Transport
   fontAwesome: th
   items:
@@ -417,6 +431,7 @@
     url: https://japantravel.navitime.com/en/area/jp/route/
   - name: Japan Experience (JR pass)
     url: https://www.japan-experience.com/
+
 - name: Hawaii
   fontAwesome: th
   items:
@@ -434,6 +449,7 @@
     url: http://www.gohawaii.com/maui
   - name: "Maui: Gannon's"
     url: http://www.gannonsrestaurant.com/
+
 - name: Videogame Stores
   fontAwesome: th
   items:
@@ -441,6 +457,7 @@
     url: https://store.nicalis.com/
   - name: Solaris Japan
     url: http://solarisjapan.com/products/PlayStation-Network-Pointcard-5000.html
+
 - name: Stores
   fontAwesome: th
   items:
@@ -448,6 +465,7 @@
     url: https://www.greaterseattleonthecheap.com/surplus-stores-and-auctions-salvage-materials-and-discount-supplies/
   - name: SurplusGizmos
     url: https://www.surplusgizmos.com/
+
 - name: Misc
   fontAwesome: th
   items:
@@ -471,6 +489,7 @@
     url: https://store.ecompanystore.com/microsoft
   - name: M-Audio BX3
     url: https://m-audio.com/bx3
+
 - name: Software - Mac
   fontAwesome: th
   items:
@@ -482,6 +501,7 @@
     url: XXX
   - name: YYY
     url: XXX
+
 - name: Software
   fontAwesome: th
   items:
@@ -539,12 +559,17 @@
     url: https://github.com/remotely-save/remotely-save
   - name: Files
     url: https://github.com/files-community/Files
+  - name: WizTree
+    url: https://diskanalyzer.com/
+  - name: WinDirStat
+    url: https://windirstat.net/download.html
   - name: Nerd Fonts
     url: https://www.nerdfonts.com/font-downloads
   - name: RAD - Reality Adlib Tracker
     url: https://www.3eality.com/productions/reality-adlib-tracker
   - name: VGCollect
     url: https://vgcollect.com/
+
 - name: Programming C#
   fontAwesome: th
   items:
@@ -554,11 +579,13 @@
     url: https://github.com/elw00d/consoleframework
   - name: Guis.cs
     url: https://github.com/migueldeicaza/gui.cs
+
 - name: Programming Retro
   fontAwesome: th
   items:
   - name: Retro Game Coders (C64)
     url: https://retrogamecoders.com/
+
 - name: Programming DOS
   fontAwesome: th
   items:
@@ -570,6 +597,7 @@
     url: https://courses.cs.washington.edu/courses/cse477/00sp/projectwebs/groupb/PS2-mouse/Prog_mouse.html
   - name: Awesome DOS
     url: https://github.com/balintkissdev/awesome-dos
+
 - name: GitHub - DOS
   fontAwesome: th
   items:
@@ -595,6 +623,7 @@
     url: https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar
   - name: Fortyseven/RA_1993
     url: https://github.com/Fortyseven/RA_1993
+
 - name: Programming Rust
   fontAwesome: th
   items:
@@ -604,6 +633,7 @@
     url: https://github.com/fdehau/tui-rs
   - name: VS2017 Rust Extension
     url: https://github.com/ZoeyR/rls-vs2017
+
 - name: Programming .NET
   fontAwesome: th
   items:
@@ -611,6 +641,7 @@
     url: https://github.com/SteveSandersonMS/BlazeOrbital
   - name: Monogame.Extended
     url: https://www.monogameextended.net/
+
 - name: Educational
   fontAwesome: th
   items:
@@ -622,16 +653,19 @@
     url: http://www.freetechbooks.com/
   - name: Fit for Fifty
     url: http://fit450.com/HTML/5BX_Intro.html
+
 - name: Modern Classics
   fontAwesome: th
   items:
   - name: Super Mario Bros. X2
     url: http://codehaus.wohlsoft.ru/
+
 - name: Empty
   fontAwesome: th
   items:
   - name: Language Names
     url: https://www.omniglot.com/language/names.htm
+
 - name: Computers
   fontAwesome: th
   items:
@@ -651,6 +685,7 @@
     url: https://www.corsair.com/us/en/Categories/Products/Systems/c/Cor_Systems
   - name: Build Redux
     url: https://buildredux.com/
+
 - name: Images
   fontAwesome: th
   items:
@@ -660,6 +695,7 @@
     url: https://www.iconfinder.com/
   - name: Noun Project
     url: https://thenounproject.com/
+
 - name: Finance
   fontAwesome: th
   items:
@@ -667,6 +703,7 @@
     url: https://www.irs.gov/payments/direct-pay
   - name: Expat Attorneys
     url: https://www.expatriationattorneys.com/
+
 - name: Apartments
   fontAwesome: th
   items:
@@ -676,6 +713,7 @@
     url: https://www.apartments.com/
   - name: Apartment Ratings
     url: https://www.apartmentratings.com/
+
 - name: Cities
   fontAwesome: th
   items:
@@ -683,6 +721,7 @@
     url: https://backgroundchecks.org/safest-cities-in-washington.html
   - name: Crime Rate WA
     url: http://www.usa.com/rank/washington-state--crime-index--city-rank.htm
+
 - name: Portland, OR
   fontAwesome: th
   items:
@@ -690,11 +729,13 @@
     url: https://www.quarterworldarcade.com/
   - name: Portland Retro Gaming Expo (September)
     url: https://www.retrogamingexpo.com/
+
 - name: Hiking
   fontAwesome: th
   items:
   - name: Best Day Hiking Seattle
     url: https://www.outsideonline.com/2404959/6-great-hikes-do-seattle
+
 - name: Video Editing
   fontAwesome: th
   items:
@@ -708,11 +749,13 @@
     url: https://www.blackmagicdesign.com/products/davinciresolve
   - name: Kdenlive
     url: https://kdenlive.org/en/
+
 - name: Events
   fontAwesome: th
   items:
   - name: Vintage Computer Festival
     url: https://vcfed.org/events/vintage-computer-festival-west/
+
 - name: Chairs
   fontAwesome: rss
   items:
@@ -720,6 +763,7 @@
     url: https://www.steelcase.com/products/office-chairs/gesture/
   - name: Union and Scale FlexFit
     url: https://www.staples.com/union-scale-flexfit-hyken-ergonomic-mesh-swivel-task-chair-black-un59460/product_990119
+
 - name: Media
   fontAwesome: th
   items:
@@ -727,6 +771,7 @@
     url: https://blurayauthority.com/
   - name: All 4K Releases
     url: https://docs.google.com/spreadsheets/d/1XgBqUDMwN-_CvbQssa7KVY_j56kimrgfePAH7i3dStM/edit?pli=1#gid=583459674
+
 - name: Blogs
   fontAwesome: rss
   items:

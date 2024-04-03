@@ -15,6 +15,7 @@
     url: /favorites-hacking
   - name: Archive Favorites
     url: /favorites-archive
+
 - name: .NET Avalonia
   fontAwesome: th
   items:
@@ -32,6 +33,9 @@
     url: https://www.youtube.com/watch?v=YhKuZImznEE&list=PLrW43fNmjaQWMhFHxS1jpQ34TkHroHJLb
   - name: CustomTitleBarTemplate Sample
     url: https://github.com/FrankenApps/Avalonia-CustomTitleBarTemplate
+  - name: Fluent Icons for Avalonia
+    url: https://avaloniaui.github.io/icons.html
+
 - name: .NET GitHub Actions Blogs
   fontAwesome: th
   items:
@@ -43,6 +47,9 @@
     url: https://www.michalbialecki.com/2020/01/30/pimp-your-repo-with-github-actions/
   - name: OpenCover Badge Generator
     url: https://github.com/marketplace/actions/opencover-badge-generator
+  - name: Test Reports
+    url: https://seankilleen.com/2024/03/beautiful-net-test-reports-using-github-actions/
+
 - name: .NET MVVM
   fontAwesome: th
   items:
@@ -56,6 +63,7 @@
     url: https://github.com/canton7/Stylet
   - name: MvvmCross
     url: https://github.com/MvvmCross/MvvmCross
+
 - name: .NET WPF
   fontAwesome: th
   items:
@@ -63,11 +71,13 @@
     url: https://github.com/lepoco/wpfui
   - name: ModernWpf
     url: https://github.com/Kinnara/ModernWpf
+
 - name: .NET WPF Blogs
   fontAwesome: th
   items:
   - name: WPF Custom Title Bar
     url: https://engy.us/blog/2020/01/01/implementing-a-custom-window-title-bar-in-wpf/
+
 - name: .NET Foundation
   fontAwesome: th
   items:
@@ -87,6 +97,7 @@
     url: https://github.com/dotnet/csharplang
   - name: format
     url: https://github.com/dotnet/format
+
 - name: .NET Tools
   fontAwesome: th
   items:
@@ -94,11 +105,13 @@
     url: https://sharplab.io/
   - name: Library.Template
     url: https://github.com/AArnott/Library.Template
+
 - name: C# Tools
   fontAwesome: th
   items:
   - name: CSharpier
     url: https://csharpier.com/
+
 - name: .NET Libraries
   fontAwesome: th
   items:
@@ -146,11 +159,13 @@
     url: https://github.com/MudBlazor/MudBlazor/
   - name: GameArchives
     url: https://github.com/maxton/GameArchives
+
 - name: .NET Preservation Libraries
   fontAwesome: th
   items:
   - name: LibIRD
     url: https://github.com/Deterous/LibIRD
+
 - name: .NET Testing Libraries
   fontAwesome: th
   items:
@@ -160,6 +175,7 @@
     url: https://github.com/bchavez/Bogus
   - name: coverlet
     url: https://github.com/coverlet-coverage/coverlet
+
 - name: .NET Archive Libraries
   fontAwesome: th
   items:
@@ -173,6 +189,7 @@
     url: https://github.com/daPhie79/tiny7z
   - name: managed-lzma
     url: https://github.com/weltkante/managed-lzma
+
 - name: WinUI
   fontAwesome: th
   items:
@@ -180,6 +197,7 @@
     url: https://github.com/microsoft/winui-gallery
   - name: Design and code Windows apps
     url: https://learn.microsoft.com/en-us/windows/apps/design/
+
 - name: C Libraries
   fontAwesome: th
   items:
@@ -187,6 +205,7 @@
     url: http://libsound.io/
   - name: greatest (C testing library)
     url: https://github.com/silentbicycle/greatest
+
 - name: .NET Samples
   fontAwesome: th
   items:
@@ -196,16 +215,21 @@
     url: https://github.com/dotnet-presentations
   - name: Blazing Pizza Workshop
     url: https://github.com/csharpfritz/BlazingPizzaWorkshop
+  - name: Let's Learn .NET - Containers
+    url: https://learn.microsoft.com/en-us/collections/8xkdspykzej5j0
+
 - name: Retro - Genesis / Mega Drive
   fontAwesome: th
   items:
   - name: SGDK
     url: https://github.com/Stephane-D/SGDK
+
 - name: Retro - SNES
   fontAwesome: th
   items:
   - name: SNES Dev Wiki
     url: https://snes.nesdev.org/wiki/SNESdev_Wiki
+
 - name: Retro - NES
   fontAwesome: th
   items:
@@ -215,6 +239,7 @@
     url: https://pubby.games/nesfab/maze_tutorial.html
   - name: FamiStudio
     url: https://famistudio.org/
+
 - name: Retro - GameBoy
   fontAwesome: th
   items:
@@ -226,6 +251,7 @@
     url: https://github.com/gbdk-2020/GBTD_GBMB
   - name: Pan Docs
     url: https://gbdev.io/pandocs/
+
 - name: Retro - 6502
   fontAwesome: th
   items:
@@ -235,6 +261,7 @@
     url: http://www.visual6502.org/welcome.html
   - name: Easy 6502 Tutorial
     url: https://skilldrick.github.io/easy6502/
+
 - name: Retro - PC
   fontAwesome: th
   items:
@@ -246,6 +273,7 @@
     url: https://www.jamesfmackenzie.com/
   - name: Stack Overflow - Keyboard Handling
     url: https://stackoverflow.com/questions/40961527/checking-if-a-key-is-down-in-ms-dos-c-c
+
 - name: Retro - Sound
   fontAwesome: th
   items:
@@ -267,16 +295,21 @@
     url: https://www.youtube.com/watch?v=XKy1cE4EYMk
   - name: Music Players and Libraries
     url: http://www.dcee.net/Files/Programm/Sound/
+
 - name: Web
   fontAwesome: th
   items:
   - name: Playwright
     url: https://playwright.dev/
+  - name: Fluent UI React Components
+    url: https://react.fluentui.dev/
+
 - name: SwiftUI
   fontAwesome: th
   items:
   - name: SwiftUI Tutorials
     url: https://developer.apple.com/tutorials/swiftui
+
 - name: GitHub Pages
   fontAwesome: th
   items:
@@ -290,11 +323,13 @@
     url: https://github.com/jekyll/minima/tree/master
   - name: Jekyll webrick error
     url: https://github.com/jekyll/jekyll/issues/8523
+
 - name: Hosting
   fontAwesome: th
   items:
   - name: Railway
     url: https://railway.app/
+
 - name: ASP.NET
   fontAwesome: th
   items:
@@ -302,6 +337,7 @@
     url: https://github.com/ZarehD/AspNetStatic
   - name: ASP.NET documentation
     url: https://learn.microsoft.com/en-us/aspnet/core/
+
 - name: Uno Platform
   fontAwesome: th
   items:
@@ -309,11 +345,13 @@
     url: https://platform.uno/
   - name: Calculator Sample
     url: https://calculator.platform.uno/
+
 - name: Javascript Libraries
   fontAwesome: th
   items:
   - name: mermaid
     url: https://github.com/mermaid-js/mermaid
+
 - name: Languages
   fontAwesome: th
   items:
@@ -323,6 +361,7 @@
     url: https://github.com/microsoft/verona
   - name: Rust Programming Language Book
     url: https://doc.rust-lang.org/book/
+
 - name: Misc
   fontAwesome: th
   items:
@@ -342,6 +381,7 @@
     url: https://qb64.com/
   - name: Free Pascal
     url: https://www.freepascal.org/
+
 - name: Game Development - Godot
   fontAwesome: th
   items:
@@ -349,11 +389,13 @@
     url: https://godotengine.org/
   - name: Godot demo projects
     url: https://github.com/godotengine/godot-demo-projects
+
 - name: Game Development - Unreal
   fontAwesome: th
   items:
   - name: UnrealSharp
     url: https://github.com/UnrealSharp/UnrealSharp
+
 - name: Game Development - XNA/MonoGame
   fontAwesome: th
   items:
@@ -361,6 +403,7 @@
     url: https://monogame.net/
   - name: MonoGame-Samples
     url: https://github.com/CartBlanche/MonoGame-Samples
+
 - name: Game Development - Software
   fontAwesome: th
   items:

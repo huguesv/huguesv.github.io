@@ -132,6 +132,14 @@
   - name: UMDumper
     url: https://archive.org/details/umdumper.-7z
 
+- name: Live Music Archive
+  fontAwesome: th
+  items:
+  - name: archive.org - Smashing Pumpkins
+    url: http://www.archive.org/details/SmashingPumpkins
+  - name: archive.org - Zwan
+    url: http://www.archive.org/details/Zwan
+
 - name: GitHub
   fontAwesome: th
   items:

@@ -15,13 +15,17 @@
     url: /favorites-hacking
   - name: Archive Favorites
     url: /favorites-archive
+
 - name: Game Engines
   fontAwesome: th
   items:
   - name: ScummVM
     url: http://www.scummvm.org/
+  - name: Dream
+    url: https://aarongiles.com/dreamm/
   - name: Rigel Engine (Duke Nukem II)
     url: https://github.com/lethal-guitar/RigelEngine
+
 - name: Emulators
   fontAwesome: th
   items:
@@ -39,6 +43,11 @@
     url: https://www.retrodev.com/blastem/
   - name: PCjs
     url: https://www.pcjs.org/
+  - name: 86Box
+    url: https://github.com/86Box/86Box
+  - name: 86Box Roms
+    url: https://github.com/86Box/roms
+
 - name: Emulators
   fontAwesome: th
   items:
@@ -49,11 +58,14 @@
   - name: decaf-emu
     url: https://github.com/decaf-emu/decaf-emu
   - name: Cemu
-    url: http://cemu.info/
+    url: https://github.com/cemu-project/Cemu
   - name: Ryujinx
     url: https://github.com/Ryujinx/Ryujinx
+  - name: Suyu
+    url: https://suyu.dev/
   - name: BigPEmu
     url: https://www.richwhitehouse.com/jaguar/index.php
+
 - name: Emulators
   fontAwesome: th
   items:
@@ -69,12 +81,11 @@
     url: https://github.com/Vita3K/Vita3K
   - name: RPCS3
     url: https://github.com/RPCS3/rpcs3
-  - name: XQEMU
-    url: https://github.com/xqemu/xqemu
+  - name: xemu
+    url: https://github.com/xemu-project/xemu
   - name: Xenia
     url: https://github.com/benvanik/xenia
-  - name: GPCS4
-    url: https://github.com/Inori/GPCS4
+
 - name: Emulators
   fontAwesome: th
   items:
@@ -82,6 +93,23 @@
     url: https://github.com/Lichtso/DOS-Emulator
   - name: SheepShaver
     url: https://sheepshaver.cebix.net/
+  - name: SameBoy - Game Boy (C)
+    url: https://github.com/LIJI32/SameBoy
+  - name: NanoBoyAdvance - Game Boy Advance (C++)
+    url: https://github.com/nba-emu/NanoBoyAdvance
+  - name: Mesen2 - Multi (C++)
+    url: https://github.com/SourMesen/Mesen2
+  - name: Nuked-MD - MegaDrive (C)
+    url: https://github.com/nukeykt/Nuked-MD
+  - name: Nuked-MD-FPGA - MegaDrive (FPGA)
+    url: https://github.com/nukeykt/Nuked-MD-FPGA
+  - name: GPCS4
+    url: https://github.com/Inori/GPCS4
+  - name: psOff - PS4 (C++)
+    url: https://github.com/SysRay/psOff_public
+  - name: gbe-plus - Game Boy + Advance (C++)
+    url: https://github.com/shonumi/gbe-plus
+
 - name: Emulators
   fontAwesome: th
   items:
@@ -91,6 +119,39 @@
     url: https://github.com/BluestormDNA/ProjectPSX
   - name: GBG (Closed Source)
     url: https://bgb.bircd.org/
+  - name: Kettle - Chip8 (C#)
+    url: https://github.com/ikeras/Kettle
+
+- name: Computers
+  fontAwesome: th
+  items:
+  - name: Steem Engine
+    url: http://steem.atari.st/
+  - name: DOSBox
+    url: http://sourceforge.net/projects/dosbox
+  - name: AppleWin
+    url: https://github.com/AppleWin/AppleWin
+  - name: MSA Converter (Atari ST)
+    url: http://msaconverter.free.fr/index.html
+  - name: Ciderpress
+    url: http://ciderpress.sourceforge.net/
+  - name: XRoar Dragon32/64
+    url: http://www.6809.org.uk/dragon/xroar.shtml
+  - name: Open Emu
+    url: http://openemu.sourceforge.net/
+  - name: NAGI
+    url: https://github.com/sonneveld/nagi
+  - name: WinCDEmu
+    url: https://sysprogs.com/wincdemu/
+  - name: WinCDEmu GitHub
+    url: https://github.com/sysprogs/WinCDEmu
+  - name: CLK - Multi (C++)
+    url: https://github.com/TomHarte/CLK
+  - name: Reinette II - Apple II (Python)
+    url: https://github.com/ArthurFerreira2/reinette-II-plus-dot-py
+  - name: Chips - Multi System Library (C)
+    url: https://github.com/floooh/chips
+
 - name: Emulators (Inactive)
   fontAwesome: th
   items:
@@ -108,6 +169,59 @@
     url: http://code.google.com/p/xnasharpnes/
   - name: GBA (C#)
     url: https://github.com/UncleFirefox/GBAEmu
+  - name: ProjectDMG - Game Boy (C#)
+    url: https://github.com/BluestormDNA/ProjectDMG
+  - name: Aeon-Staging - DOS (C#)
+    url: https://github.com/maximilien-noal/Aeon-Staging
+  - name: fungbc - Game Boy (F#)
+    url: https://github.com/andreasjhkarlsson/fungbc
+  - name: Space-Owner - Space Invaders 8080 (C#)
+    url: https://github.com/fsdp15/Space-Owner---Space-Invaders-Intel-8080-Emulator
+
+- name: Emulators (Inactive)
+  fontAwesome: th
+  items:
+  - name: Zenga - Sega SMS (JavaScript)
+    url: https://github.com/friol/zenga
+  - name: TermBoy - Game Boy (Go)
+    url: https://github.com/dobyrch/termboy-go
+  - name: gomeboycolor - Game Boy (Go)
+    url: https://github.com/djhworld/gomeboycolor
+  - name: gambatte-terminal - Game Boy (Python)
+    url: https://github.com/vxgmichel/gambatte-terminal
+  - name: eboy - Game Boy (Emacs)
+    url: https://github.com/vreeze/eboy
+  - name: LLD_gbemu - Game Boy Tutorial (C)
+    url: https://github.com/rockytriton/LLD_gbemu
+  - name: MagenBoy - Game Boy (Rust)
+    url: https://github.com/alloncm/MagenBoy
+  - name: Hermes - Game Boy (C++)
+    url: https://github.com/NicolasSegl/Hermes
+  - name: Azayaka - Game Boy (C++)
+    url: https://github.com/7thSamurai/Azayaka
+  - name: GBCEmulator - Game Boy (C++)
+    url: https://bitbucket.org/mathmer/gbcemulator
+  - name: core86 - WIP 8086 (Rust)
+    url: https://github.com/jafarlihi/core86
+  - name: gg - WIP GameGear (Rust)
+    url: https://github.com/ioncodes/gg
+  - name: boytacean - Game Boy (Rust)
+    url: https://github.com/joamag/boytacean
+  - name: yagb - Game Boy (TypeScript)
+    url: https://github.com/DirtyHairy/yagb
+  - name: SwiftBoy - Game Boy (Swift)
+    url: https://github.com/MBCook/SwiftBoy
+  - name: libemulation - Multi (C++)
+    url: https://github.com/openemulator/libemulation
+  - name: libemulation fork - Multi (C++)
+    url: https://github.com/mr-stivo/libemulation
+  - name: EvrestEmule - NES (JavaScript)
+    url: https://github.com/FBDev64/EvrestEmule-v2
+  - name: nes-py - NES (Python)
+    url: https://github.com/Kautenja/nes-py
+  - name: XQEMU - XBOX (C)
+    url: https://github.com/xqemu/xqemu
+
 - name: Frontends
   fontAwesome: th
   items:
@@ -115,3 +229,9 @@
     url: https://playnite.link/
   - name: Metropolis Launcher
     url: https://metropolis-launcher.net/
+
+- name: Misc
+  fontAwesome: th
+  items:
+  - name: goldberg - Steam Emulator
+    url: https://gitlab.com/Mr_Goldberg/goldberg_emulator

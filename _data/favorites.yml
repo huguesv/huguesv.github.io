@@ -15,6 +15,7 @@
     url: https://www.consumerreports.org/cro/news/index.htm
   - name: Cleantech News
     url: https://cleantechnica.com/
+
 - name: Forums
   fontAwesome: forumbee
   items:
@@ -26,6 +27,7 @@
     url: http://www.hardforum.com/
   - name: Cheap Ass Gamer
     url: http://www.cheapassgamer.com/
+
 - name: Games
   fontAwesome: gamepad
   items:
@@ -61,6 +63,9 @@
     url: https://videochums.com/
   - name: Read Only Memo
     url: https://www.readonlymemo.com/
+  - name: Life Is XBox
+    url: https://www.lifeisxbox.eu/
+
 - name: Games
   fontAwesome: gamepad
   items:
@@ -76,6 +81,7 @@
     url: https://my.playstation.com/whatsnew
   - name: PlayStation Blog
     url: http://blog.us.playstation.com/
+
 - name: Ratings
   fontAwesome: film
   items:
@@ -85,6 +91,7 @@
     url: http://www.imdb.com/
   - name: Metacritic
     url: http://www.metacritic.com/game
+
 - name: Stores
   fontAwesome: shopping-cart
   items:
@@ -122,6 +129,7 @@
     url: https://kobo.com
   - name: OMG Japan
     url: https://omgjapan.com/
+
 - name: Mail
   fontAwesome: envelope-o
   items:
@@ -129,6 +137,7 @@
     url: http://www.outlook.com
   - name: Gmail
     url: http://mail.google.com
+
 - name: Streaming
   fontAwesome: th
   items:
@@ -148,15 +157,19 @@
     url: https://www.twitch.tv/
   - name: Netflix Global Search
     url: http://unogs.com/
+
 - name: Sports
   fontAwesome: th
   items:
   - name: Formula 1
     url: https://www.formula1.com/
+  - name: Autosport
+    url: https://www.autosport.com/
   - name: Tennis
     url: https://www.atptour.com/en/tournaments
   - name: Hockey
     url: https://www.nhl.com/
+
 - name: MiSTer
   fontAwesome: th
   items:

@@ -15,6 +15,7 @@
     url: /favorites-hacking
   - name: Archive Favorites
     url: /favorites-archive
+
 - name: Redump
   fontAwesome: th
   items:
@@ -28,6 +29,7 @@
     url: http://redump.org/statistics/
   - name: Wiki
     url: http://wiki.redump.org/
+
 - name: Discs
   fontAwesome: th
   items:
@@ -185,6 +187,7 @@
     url: http://redump.org/discs/system/vflash/
   - name: ZAPiT Games Game Wave
     url: http://redump.org/discs/system/gamewave/
+
 - name: Latest
   fontAwesome: th
   items:

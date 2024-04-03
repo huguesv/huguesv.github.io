@@ -15,6 +15,7 @@
     url: /favorites-hacking
   - name: Archive Favorites
     url: /favorites-archive
+
 - name: Hacking BluRay
   fontAwesome: th
   items:
@@ -24,6 +25,7 @@
     url: http://makemkv.com/
   - name: UHD Drive Flashing
     url: https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634
+
 - name: Hacking PS
   fontAwesome: th
   items:
@@ -31,6 +33,7 @@
     url: https://www.mediafire.com/ofws#61eiba4qagzbu
   - name: PSX-Download-Helper
     url: https://github.com/KOPElan/PSX-Download-Helper
+
 - name: Hacking PS3
   fontAwesome: th
   items:
@@ -50,6 +53,7 @@
     url: https://github.com/elmonta/ps3_unpkg-
   - name: PS3 Disc Dumper
     url: https://github.com/13xforever/ps3-disc-dumper/tree/master
+
 - name: Hacking VITA
   fontAwesome: th
   items:
@@ -63,6 +67,7 @@
     url: https://github.com/St4rk/PkgDecrypt
   - name: VPKShellIconExt
     url: https://github.com/wmltogether/VPKShellIconExt
+
 - name: Hacking PSP
   fontAwesome: th
   items:
@@ -72,6 +77,7 @@
     url: https://github.com/qwikrazor87/npdrm_free
   - name: Pro PSP Firmware
     url: http://code.google.com/p/procfw/
+
 - name: Hacking PS4
   fontAwesome: th
   items:
@@ -85,6 +91,7 @@
     url: PS4 Exploit Guide
   - name: LibOrbisPkg
     url: https://github.com/maxton/LibOrbisPkg
+
 - name: Hacking Switch
   fontAwesome: th
   items:
@@ -110,6 +117,7 @@
     url: https://github.com/XorTroll/Goldleaf/releases
   - name: nxdumptool
     url: https://github.com/DarkMatterCore/nxdumptool/releases/tag/v1.1.5
+
 - name: Hacking Switch
   fontAwesome: th
   items:
@@ -117,6 +125,7 @@
     url: https://github.com/Atmosphere-NX/Atmosphere
   - name: NCA Encrypt/Decrypt
     url: https://github.com/switch-stuff/NAX0-Crypter
+
 - name: Hacking NES Mini
   fontAwesome: th
   items:
@@ -124,6 +133,7 @@
     url: https://github.com/TeamShinkansen/hakchi2/releases/
   - name: SNES Compatibility
     url: https://docs.google.com/spreadsheets/d/12HKfz4ZQBy6Ip5awvh8t2aV5cVswYlnsdKxn9xoIW2Y/edit#gid=2014317767
+
 - name: Hacking Wii U
   fontAwesome: th
   items:
@@ -145,6 +155,7 @@
     url: https://github.com/dimok789/sign_patcher
   - name: spiik
     url: https://github.com/marco-calautti/spiik
+
 - name: Hacking 3DS
   fontAwesome: th
   items:
@@ -184,6 +195,7 @@
     url: https://github.com/HouseBreaker/Shameless/
   - name: 3DS Explorer
     url: https://code.google.com/p/3dsexplorer/
+
 - name: Hacking Wii
   fontAwesome: th
   items:
@@ -193,16 +205,19 @@
     url: https://code.google.com/p/nusdownloader/
   - name: PyNUSD
     url: https://github.com/WiiDatabase/PyNUSD
+
 - name: Hacking DS
   fontAwesome: th
   items:
   - name: Tinke DS Viewer
     url: https://github.com/pleonex/tinke/
+
 - name: Hacking XBOX
   fontAwesome: th
   items:
   - name: XBE Format
     url: http://www.caustik.com/cxbx/download/xbe.htm
+
 - name: Hacking
   fontAwesome: th
   items:
