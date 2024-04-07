@@ -139,6 +139,8 @@
     url: https://github.com/gui-cs/Terminal.Gui
   - name: Terminal.Gui Designer
     url: https://github.com/gui-cs/TerminalGuiDesigner
+  - name: Spectre.Console
+    url: https://github.com/spectreconsole/spectre.console
   - name: Modern.Forms
     url: https://github.com/modern-forms/Modern.Forms
   - name: ScottPlot
@@ -159,6 +161,8 @@
     url: https://github.com/MudBlazor/MudBlazor/
   - name: GameArchives
     url: https://github.com/maxton/GameArchives
+  - name: BLAKE3
+    url: https://github.com/xoofx/Blake3.NET
 
 - name: .NET Preservation Libraries
   fontAwesome: th
@@ -175,6 +179,8 @@
     url: https://github.com/bchavez/Bogus
   - name: coverlet
     url: https://github.com/coverlet-coverage/coverlet
+  - name: Machine.Specifications
+    url: https://github.com/machine/machine.specifications
 
 - name: .NET Archive Libraries
   fontAwesome: th
@@ -381,6 +387,14 @@
     url: https://qb64.com/
   - name: Free Pascal
     url: https://www.freepascal.org/
+  - name: Open Source Insights
+    url: https://deps.dev/
+
+- name: Reference
+  fontAwesome: th
+  items:
+  - name: x86 and amd64 instruction reference
+    url: https://www.felixcloutier.com/x86/index.html
 
 - name: Game Development - Godot
   fontAwesome: th

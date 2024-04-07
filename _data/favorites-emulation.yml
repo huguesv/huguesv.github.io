@@ -95,6 +95,8 @@
     url: https://sheepshaver.cebix.net/
   - name: SameBoy - Game Boy (C)
     url: https://github.com/LIJI32/SameBoy
+  - name: PyBoy - Game Boy (Python)
+    url: https://github.com/Baekalfen/PyBoy
   - name: NanoBoyAdvance - Game Boy Advance (C++)
     url: https://github.com/nba-emu/NanoBoyAdvance
   - name: Mesen2 - Multi (C++)

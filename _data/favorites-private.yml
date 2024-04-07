@@ -517,6 +517,8 @@
     url: https://github.com/yuk27/BetterJoyForDolphin
   - name: Romcenter
     url: https://www.romcenter.com/
+  - name: RomSorter
+    url: https://github.com/drakewill-CRL/ROMSorter
   - name: igir (Rom Collection Manager)
     url: https://github.com/emmercm/igir
   - name: Calibre
@@ -569,6 +571,8 @@
     url: https://www.3eality.com/productions/reality-adlib-tracker
   - name: VGCollect
     url: https://vgcollect.com/
+  - name: Simplenote
+    url: https://simplenote.com/
 
 - name: Programming C#
   fontAwesome: th
@@ -733,8 +737,30 @@
 - name: Hiking
   fontAwesome: th
   items:
+  - name: AllTrails
+    url: https://www.alltrails.com/
+  - name: Washington Trails Association
+    url: https://www.wta.org/
+
+- name: Hiking Top Lists
+  fontAwesome: th
+  items:
   - name: Best Day Hiking Seattle
     url: https://www.outsideonline.com/2404959/6-great-hikes-do-seattle
+  - name: 16 Top-Rated Hiking Trails near Spokane
+    url: https://www.planetware.com/washington/top-rated-hiking-trails-near-spokane-us-wa-154.htm
+  - name: 14 Top-Rated Waterfalls in Washington
+    url: https://www.planetware.com/washington/top-rated-waterfalls-in-washington-state-us-wa-160.htm
+  - name: 21 Top-Rated Tourist Attractions in Montana
+    url: https://www.planetware.com/tourist-attractions/montana-usmt.htm
+  - name: Pacific Coast Scenic Waterfalls
+    url: https://www.scenicwa.com/pacific-coast-scenic-waterfalls
+  - name: 10 Waterfall Hikes Near Bend
+    url: https://oregonisforadventure.com/waterfalls-near-bend/
+  - name: 12 Stunning Washington Waterfall Hikes
+    url: https://thenatureseeker.com/the-10-best-waterfall-hikes-to-explore-in-washington-state/
+  - name: 30 Waterfalls and Hikes in Washington
+    url: https://www.outdoorproject.com/travel/30-must-see-waterfalls-hikes-washington
 
 - name: Video Editing
   fontAwesome: th
@@ -771,6 +797,80 @@
     url: https://blurayauthority.com/
   - name: All 4K Releases
     url: https://docs.google.com/spreadsheets/d/1XgBqUDMwN-_CvbQssa7KVY_j56kimrgfePAH7i3dStM/edit?pli=1#gid=583459674
+
+- name: MIDI Hardware
+  fontAwesome: th
+  items:
+  - name: Akai Professional
+    url: https://www.akaipro.com/index.html
+  - name: MPK Mini Plus
+    url: https://www.akaipro.com/mpk-mini-plus
+  - name: Arturia KeyStep 37
+    url: https://www.arturia.com/products/hybrid-synths/keystep-37/overview
+  - name: Arturia MiniLab 3
+    url: https://www.arturia.com/products/hybrid-synths/minilab-3/overview
+  - name: Arturia MicroFreak
+    url: https://www.arturia.com/products/hardware-synths/microfreak/overview
+  - name: nanobox lemondrop
+    url: https://1010music.com/product/lemondrop
+  - name: Kork Minilogue Xd
+    url: https://www.korg.com/us/products/synthesizers/minilogue_xd/
+  - name: Korg Modwave
+    url: https://www.korg.com/us/products/synthesizers/modwave/
+  - name: MiniDexed
+    url: https://github.com/probonopd/MiniDexed
+  - name: Dexed
+    url: https://github.com/asb2m10/dexed
+  - name: Teenage Engineering
+    url: https://teenage.engineering/
+  - name: mt32-pi
+    url: https://github.com/dwhinham/mt32-pi
+
+- name: MIDI Software
+  fontAwesome: th
+  items:
+  - name: AudioKit Synth One
+    url: https://audiokitpro.com/synth/
+  - name: Cakewalk
+    url: https://www.bandlab.com/products/cakewalk
+  - name: MidiEditor
+    url: https://github.com/markusschwenk/midieditor/
+  - name: Zynthian Open Synth Platform
+    url: https://zynthian.org/
+  - name: King of FM Synth (Mac and iOS)
+    url: https://www.synthtopia.com/content/2023/05/03/new-free-synth-is-king-of-fm/
+  - name: Reaper
+    url: https://www.reaper.fm/
+  - name: xMIDI
+    url: https://github.com/mordolpl/xMIDI
+  - name: Ableton Live 11 Lite
+    url: https://www.ableton.com/en/products/live-lite/
+
+- name: MIDI Hardware Articles
+  fontAwesome: th
+  items:
+  - name: The best portable (and affordable) USB MIDI controllers (2019)
+    url: https://www.engadget.com/2019-12-04-best-portable-and-affordable-usb-midi-controllers.html
+
+- name: MIDI YouTube Videos
+  fontAwesome: th
+  items:
+  - name: MPK mini plus Hardware Overview | Akai Professional
+    url: https://www.youtube.com/watch?v=Ak8uWjCynbM
+
+- name: Music Learning
+  fontAwesome: th
+  items:
+  - name: teoria
+    url: https://www.teoria.com/
+
+- name: Hugo Repositories
+  fontAwesome: th
+  items:
+  - name: Phylactere
+    url: https://github.com/HugoAllaire/Phylactere
+  - name: Wordle
+    url: https://github.com/HugoAllaire/Wordle
 
 - name: Blogs
   fontAwesome: rss

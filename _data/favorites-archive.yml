@@ -23,6 +23,8 @@
     url: https://archive.org/details/@cvlt_of_mirrors
   - name: ChadMaster
     url: https://archive.org/details/@chadmaster
+  - name: Storage Manager
+    url: https://archive.org/details/@storage_manager
   - name: neozeede (old software)
     url: https://archive.org/details/@neozeede
   - name: K1rkl4nd (console manuals)
@@ -63,6 +65,10 @@
     url: https://archive.org/details/mame-sl
   - name: MAME Support
     url: https://archive.org/details/mame-support
+  - name: English Translation ROMs Collection
+    url: https://archive.org/details/En-ROMs
+  - name: TOSEC 2023
+    url: https://archive.org/details/tosec-main
 
 - name: MiSTeR Collections (Active)
   fontAwesome: th
