@@ -16,17 +16,7 @@
   - name: Archive Favorites
     url: /favorites-archive
 
-- name: Game Engines
-  fontAwesome: th
-  items:
-  - name: ScummVM
-    url: http://www.scummvm.org/
-  - name: Dream
-    url: https://aarongiles.com/dreamm/
-  - name: Rigel Engine (Duke Nukem II)
-    url: https://github.com/lethal-guitar/RigelEngine
-
-- name: Emulators
+- name: Multi Systems
   fontAwesome: th
   items:
   - name: MAME
@@ -39,56 +29,52 @@
     url: https://www.libretro.com/index.php/category/blog/
   - name: LibRetroRT
     url: https://github.com/Aftnet/LibretroRT
-  - name: BlastEm - Genesis (C)
-    url: https://www.retrodev.com/blastem/
-  - name: PCjs
-    url: https://www.pcjs.org/
-  - name: 86Box
-    url: https://github.com/86Box/86Box
-  - name: 86Box Roms
-    url: https://github.com/86Box/roms
+  - name: CLK - Multi (C++)
+    url: https://github.com/TomHarte/CLK
+  - name: Open Emu (for Mac Only)
+    url: http://openemu.sourceforge.net/
 
-- name: Emulators
+- name: Consoles
   fontAwesome: th
   items:
-  - name: Dolphin
-    url: https://dolphin-emu.org/
-  - name: Citra 3DS
-    url: http://citra-emu.org/
-  - name: decaf-emu
-    url: https://github.com/decaf-emu/decaf-emu
-  - name: Cemu
+  - name: Dolphin - GameCube and Wii (C++)
+    url: https://github.com/dolphin-emu/dolphin
+  - name: Cemu - Wii U (C++)
     url: https://github.com/cemu-project/Cemu
-  - name: Ryujinx
+  - name: decaf-emu - Wii U (C++)
+    url: https://github.com/decaf-emu/decaf-emu
+  - name: Ryujinx - Switch (C#)
     url: https://github.com/Ryujinx/Ryujinx
-  - name: Suyu
+  - name: Suyu - Switch (C++)
     url: https://suyu.dev/
-  - name: BigPEmu
+  - name: Lemonade - 3DS (C++)
+    url: https://github.com/Lemonade-emu/Lemonade
+
+- name: Consoles
+  fontAwesome: th
+  items:
+  - name: PCSX2 GitHub - PS2 (C++)
+    url: https://github.com/PCSX2/pcsx2
+  - name: Play! - PS2 (C++)
+    url: https://github.com/jpd002/Play-
+  - name: PPSSPP - PSP (C++)
+    url: https://github.com/hrydgard/ppsspp
+  - name: Vita3K - PSVITA (C++)
+    url: https://github.com/Vita3K/Vita3K
+  - name: RPCS3 - PS3 (C++)
+    url: https://github.com/RPCS3/rpcs3
+  - name: xemu - Xbox (C)
+    url: https://github.com/xemu-project/xemu
+  - name: Xenia - Xbox 360 (C++)
+    url: https://github.com/benvanik/xenia
+  - name: BigPEmu - Jaguar (Closed Source)
     url: https://www.richwhitehouse.com/jaguar/index.php
 
-- name: Emulators
+- name: Consoles
   fontAwesome: th
   items:
-  - name: PCSX2
-    url: http://www.pcsx2.net/
-  - name: PCSX2 GitHub
-    url: https://github.com/PCSX2/pcsx2
-  - name: Play!
-    url: https://github.com/jpd002/Play-
-  - name: PPSSPP
-    url: http://www.ppsspp.org/index.html
-  - name: Vita3K
-    url: https://github.com/Vita3K/Vita3K
-  - name: RPCS3
-    url: https://github.com/RPCS3/rpcs3
-  - name: xemu
-    url: https://github.com/xemu-project/xemu
-  - name: Xenia
-    url: https://github.com/benvanik/xenia
-
-- name: Emulators
-  fontAwesome: th
-  items:
+  - name: BlastEm - Genesis (C)
+    url: https://www.retrodev.com/blastem/
   - name: Dos Emulator (Rust)
     url: https://github.com/Lichtso/DOS-Emulator
   - name: SheepShaver
@@ -105,60 +91,30 @@
     url: https://github.com/nukeykt/Nuked-MD
   - name: Nuked-MD-FPGA - MegaDrive (FPGA)
     url: https://github.com/nukeykt/Nuked-MD-FPGA
-  - name: GPCS4
+  - name: GPCS4 - PS4 (C++)
     url: https://github.com/Inori/GPCS4
   - name: psOff - PS4 (C++)
     url: https://github.com/SysRay/psOff_public
   - name: gbe-plus - Game Boy + Advance (C++)
     url: https://github.com/shonumi/gbe-plus
+  - name: mgba - Game Boy Advance (C)
+    url: https://github.com/mgba-emu/mgba
+  - name: GBG - Game Boy (Closed Source)
+    url: https://bgb.bircd.org/
 
-- name: Emulators
+- name: Consoles
   fontAwesome: th
   items:
   - name: EMU7800 - Atari 2600+7800 (C#)
-    url: https://emu7800.github.io/
-  - name: ProjectPSX (C#)
+    url: https://github.com/emu7800/emu7800.github.io
+  - name: ProjectPSX - PS1 (C#)
     url: https://github.com/BluestormDNA/ProjectPSX
-  - name: GBG (Closed Source)
-    url: https://bgb.bircd.org/
   - name: Kettle - Chip8 (C#)
     url: https://github.com/ikeras/Kettle
 
-- name: Computers
+- name: Consoles (Inactive)
   fontAwesome: th
   items:
-  - name: Steem Engine
-    url: http://steem.atari.st/
-  - name: DOSBox
-    url: http://sourceforge.net/projects/dosbox
-  - name: AppleWin
-    url: https://github.com/AppleWin/AppleWin
-  - name: MSA Converter (Atari ST)
-    url: http://msaconverter.free.fr/index.html
-  - name: Ciderpress
-    url: http://ciderpress.sourceforge.net/
-  - name: XRoar Dragon32/64
-    url: http://www.6809.org.uk/dragon/xroar.shtml
-  - name: Open Emu
-    url: http://openemu.sourceforge.net/
-  - name: NAGI
-    url: https://github.com/sonneveld/nagi
-  - name: WinCDEmu
-    url: https://sysprogs.com/wincdemu/
-  - name: WinCDEmu GitHub
-    url: https://github.com/sysprogs/WinCDEmu
-  - name: CLK - Multi (C++)
-    url: https://github.com/TomHarte/CLK
-  - name: Reinette II - Apple II (Python)
-    url: https://github.com/ArthurFerreira2/reinette-II-plus-dot-py
-  - name: Chips - Multi System Library (C)
-    url: https://github.com/floooh/chips
-
-- name: Emulators (Inactive)
-  fontAwesome: th
-  items:
-  - name: Virtu - Apple IIe (C#)
-    url: https://github.com/digital-jellyfish/Virtu
   - name: Cogwheel - Sega SMS+GG (C#)
     url: http://benryves.com/projects/cogwheel
   - name: Sharp C64 (C#)
@@ -180,7 +136,7 @@
   - name: Space-Owner - Space Invaders 8080 (C#)
     url: https://github.com/fsdp15/Space-Owner---Space-Invaders-Intel-8080-Emulator
 
-- name: Emulators (Inactive)
+- name: Consoles (Inactive)
   fontAwesome: th
   items:
   - name: Zenga - Sega SMS (JavaScript)
@@ -224,6 +180,48 @@
   - name: XQEMU - XBOX (C)
     url: https://github.com/xqemu/xqemu
 
+- name: Computers
+  fontAwesome: th
+  items:
+  - name: PCjs - PC (JavaScript)
+    url: https://github.com/jeffpar/pcjs
+  - name: 86Box - PC (C)
+    url: https://github.com/86Box/86Box
+  - name: 86Box Roms
+    url: https://github.com/86Box/roms
+  - name: Steem SSE - Atari ST (C++)
+    url: https://sourceforge.net/projects/steemsse/
+  - name: AppleWin - Apple II (C++)
+    url: https://github.com/AppleWin/AppleWin
+  - name: XRoar Dragon32/64 - Coco (C)
+    url: http://www.6809.org.uk/dragon/xroar.shtml
+  - name: Reinette II - Apple II (Python)
+    url: https://github.com/ArthurFerreira2/reinette-II-plus-dot-py
+  - name: Chips - Multi System Library (C)
+    url: https://github.com/floooh/chips
+
+- name: Computers (Inactive)
+  fontAwesome: th
+  items:
+  - name: DOSBox - PC (C++)
+    url: http://sourceforge.net/projects/dosbox
+  - name: Steem Engine - Atari ST (C++)
+    url: http://steem.atari.st/
+  - name: Virtu - Apple IIe (C#)
+    url: https://github.com/digital-jellyfish/Virtu
+
+- name: Engines
+  fontAwesome: th
+  items:
+  - name: ScummVM
+    url: http://www.scummvm.org/
+  - name: Dream
+    url: https://aarongiles.com/dreamm/
+  - name: Rigel Engine (Duke Nukem II)
+    url: https://github.com/lethal-guitar/RigelEngine
+  - name: NAGI
+    url: https://github.com/sonneveld/nagi
+
 - name: Frontends
   fontAwesome: th
   items:
@@ -232,8 +230,16 @@
   - name: Metropolis Launcher
     url: https://metropolis-launcher.net/
 
-- name: Misc
+- name: Tools
   fontAwesome: th
   items:
+  - name: MSA Converter (Atari ST)
+    url: http://msaconverter.free.fr/index.html
+  - name: Ciderpress
+    url: http://ciderpress.sourceforge.net/
+  - name: WinCDEmu
+    url: https://sysprogs.com/wincdemu/
+  - name: WinCDEmu GitHub
+    url: https://github.com/sysprogs/WinCDEmu
   - name: goldberg - Steam Emulator
     url: https://gitlab.com/Mr_Goldberg/goldberg_emulator
