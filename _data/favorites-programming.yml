@@ -221,6 +221,8 @@
     url: https://github.com/dotnet-presentations
   - name: Blazing Pizza Workshop
     url: https://github.com/csharpfritz/BlazingPizzaWorkshop
+  - name: Blazor Sample
+    url: https://github.com/SteveSandersonMS/BlazeOrbital
   - name: Let's Learn .NET - Containers
     url: https://learn.microsoft.com/en-us/collections/8xkdspykzej5j0
 
@@ -309,6 +311,12 @@
     url: https://playwright.dev/
   - name: Fluent UI React Components
     url: https://react.fluentui.dev/
+
+- name: Web Samples
+  fontAwesome: th
+  items:
+  - name: RecreatedApps
+    url: https://github.com/CodingWithLewis/RecreatedApps
 
 - name: SwiftUI
   fontAwesome: th
@@ -415,6 +423,8 @@
   items:
   - name: MonoGame
     url: https://monogame.net/
+  - name: Monogame.Extended
+    url: https://www.monogameextended.net/
   - name: MonoGame-Samples
     url: https://github.com/CartBlanche/MonoGame-Samples
 
@@ -425,3 +435,13 @@
     url: https://www.mapeditor.org/
   - name: DOSBox-X
     url: https://github.com/joncampbell123/dosbox-x
+
+- name: Programming Rust
+  fontAwesome: th
+  items:
+  - name: The Rust Programming Language
+    url: https://doc.rust-lang.org/book/title-page.html
+  - name: tui-rs
+    url: https://github.com/fdehau/tui-rs
+  - name: VS2017 Rust Extension
+    url: https://github.com/ZoeyR/rls-vs2017

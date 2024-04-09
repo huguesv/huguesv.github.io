@@ -57,6 +57,10 @@
 - name: Hacking VITA
   fontAwesome: th
   items:
+  - name: Vita Guide
+    url: https://vita.hacks.guide/
+  - name: Renascene Vita
+    url: https://renascene.com/psv/
   - name: PS Vita Dev Wiki
     url: http://www.vitadevwiki.com/index.php?title=Main_Page
   - name: Vita QCMA
@@ -67,10 +71,52 @@
     url: https://github.com/St4rk/PkgDecrypt
   - name: VPKShellIconExt
     url: https://github.com/wmltogether/VPKShellIconExt
+  - name: VitaShell
+    url: https://github.com/TheOfficialFloW/VitaShell
+  - name: NoNpDrm
+    url: https://github.com/TheOfficialFloW/NoNpDrm
+  - name: Henkaku
+    url: https://enso.henkaku.xyz/
+  - name: psvpfstools
+    url: https://github.com/motoharu-gosuto/psvpfstools
+  - name: PSVGameSD
+    url: https://github.com/motoharu-gosuto/psvgamesd
+  - name: PSVGameSD Article
+    url: https://www.psxhax.com/threads/psvgamesd-ps-vita-virtual-game-card-by-motoharu-gosuto-arrives.2784/
+  - name: NoNpDrm Key RIF Extractor
+    url: https://www.psxhax.com/threads/nonpdrm-key-rif-extractor-for-ps-vita-by-some1cp-s1cp.2786/
+  - name: blastrock/pkgj
+    url: https://github.com/blastrock/pkgj
+  - name: psse-decrypt (PSM)
+    url: https://github.com/LiEnby/psse-decrypt
+  - name: Yoti/pkg2zip
+    url: https://github.com/Yoti/pkg2zip
+  - name: lusid1/pkg2zip
+    url: https://github.com/lusid1/pkg2zip
+  - name: Decrypt PSN Store Vita Wiki
+    url: https://www.gamebrew.org/wiki/Decrypt_PSN_Store_Vita
+  - name: NPS-Browser (Android)
+    url: https://github.com/IllusionMan1212/NPS-Browser
+  - name: NPS-Browser (Fork)
+    url: https://github.com/simryang/nps_browser
+  - name: PSVITA-PKGJ-DATADB
+    url: https://github.com/txy7795679/PSVITA-PKGJ-DATADB
+  - name: NPS_JP
+    url: https://github.com/1jtp8sobiu/NPS_JP
+
+
+
+
+
+
 
 - name: Hacking PSP
   fontAwesome: th
   items:
+  - name: PSP Custom Firmware Guide (2024)
+    url: https://www.pspunk.com/psp-cfw/
+  - name: PSP Ident
+    url: https://github.com/Yoti/psp_pspident
   - name: PSP Kirk Engine
     url: https://github.com/tpunix/kirk_engine
   - name: NPDRM Free
@@ -83,14 +129,24 @@
   items:
   - name: PS4 Dev Wiki
     url: http://www.psdevwiki.com/ps4/
-  - name: PS4-4.05-Kernel-Exploit
-    url: https://github.com/Cryptogenic/PS4-4.05-Kernel-Exploit
-  - name: PS4-5.05-Kernel-Exploit
-    url: https://github.com/Cryptogenic/PS4-5.05-Kernel-Exploit
-  - name: https://gbatemp.net/threads/aio-ps4-exploit-guide.497858/
-    url: PS4 Exploit Guide
+  - name: PS4 Exploit Guide
+    url: https://gbatemp.net/threads/aio-ps4-exploit-guide.497858/
+  - name: nodemcu-pyflasher (is that useful anymore)
+    url: https://github.com/marcelstoer/nodemcu-pyflasher
   - name: LibOrbisPkg
     url: https://github.com/maxton/LibOrbisPkg
+  - name: LibOrbisPkg Decryption Information
+    url: https://github.com/maxton/LibOrbisPkg/wiki/PKG-Information#ok-whatever-but-just-tell-me-how-do-i-decrypt-some-pkg-i-have
+  - name: pkg_pfs_tool
+    url: https://github.com/flatz/pkg_pfs_tool
+  - name: PS4 Official Firmwares
+    url: https://darksoftware.xyz/PS4/FWlist#
+
+- name: Hacking PS5
+  fontAwesome: th
+  items:
+  - name: ps5-pkg
+    url: https://github.com/1jtp8sobiu/ps5-pkg
 
 - name: Hacking Switch
   fontAwesome: th
@@ -109,7 +165,7 @@
     url: https://github.com/julesontheroad/NSC_BUILDER/releases
   - name: ChoiDuJour
     url: https://switchtools.sshnuke.net/
-  - name: Lockpick RCM
+  - name: Lockpick RCM (dead)
     url: https://github.com/shchmue/Lockpick_RCM/releases
   - name: Tegra RCM GUI
     url: https://github.com/eliboa/TegraRcmGUI
@@ -155,10 +211,36 @@
     url: https://github.com/dimok789/sign_patcher
   - name: spiik
     url: https://github.com/marco-calautti/spiik
+  - name: Injectiine
+    url: https://github.com/CatmanFan/Injectiine
+  - name: cdecrypt
+    url: https://github.com/VitaSmith/cdecrypt
+  - name: neobrain/cdecrypt (outdated)
+    url: https://github.com/neobrain/cdecrypt
+  - name: NUSspli
+    url: https://github.com/V10lator/NUSspli
+  - name: Bloquer Mises a Jour Article
+    url: https://www.logic-sunrise.com/news-950209-wii-u-bloquer-les-mises-a-jour-de-votre-wii-u-sans-dns-et-sans-spoof.html
+  - name: Block System Updates Article
+    url: https://gbatemp.net/threads/block-wii-u-system-updates-without-dns-blocking.477944/
+  - name: Haxchi
+    url: https://github.com/smealum/haxchi
+  - name: Haxchi Mod Article
+    url: https://gbatemp.net/threads/haxchi-mod-custom-rednand-launch-title.448397/
+  - name: Building iosuhax on Windows
+    url: https://gbatemp.net/threads/building-iosuhax-on-windows.447023/
+  - name: FlimFlam69 5.5.1 IOSU + Kernel Exploit Guide
+    url: https://github.com/FlimFlam69/WiiUTutorial/wiki
+  - name: Wii U USB Loading Guide
+    url: https://gbatemp.net/threads/wii-u-usb-loading-install-wiiu-games-to-usb-or-internal-memory.445514/
+  - name: Stable Nand Dumper Article
+    url: https://gbatemp.net/threads/stable-nand-dumper-rednand.446819/
 
 - name: Hacking 3DS
   fontAwesome: th
   items:
+  - name: 3DS Hacks guide
+    url: https://3ds.hacks.guide/
   - name: 3D Brew
     url: http://www.3dbrew.org/wiki/Main_Page
   - name: 3DS-rom-tools
@@ -179,8 +261,6 @@
     url: https://github.com/Asia81/HackingToolkit3DS
   - name: Convert 3DS to CIA
     url: https://github.com/maorninja/Follow-up-Guide
-  - name: 3DS guide
-    url: https://3ds.guide/
   - name: FBI Ticket Installer
     url: https://fbiticket.uk/?sort=titleID
   - name: freeshop
@@ -195,6 +275,12 @@
     url: https://github.com/HouseBreaker/Shameless/
   - name: 3DS Explorer
     url: https://code.google.com/p/3dsexplorer/
+  - name: nds-bootstrap
+    url: https://github.com/DS-Homebrew/nds-bootstrap
+  - name: 3dsconv
+    url: https://github.com/ihaveamac/3dsconv
+  - name: 3dsencryptv4 (use with pycryptodome on python 2.7)
+    url: https://archive.org/details/3dsEncryptV4
 
 - name: Hacking Wii
   fontAwesome: th
@@ -217,6 +303,10 @@
   items:
   - name: XBE Format
     url: http://www.caustik.com/cxbx/download/xbe.htm
+  - name: Patch 360 ISO
+    url: https://github.com/Qubits01/patch_xiso
+  - name: XVD and XVC Tool
+    url: https://github.com/emoose/xvdtool
 
 - name: Hacking
   fontAwesome: th

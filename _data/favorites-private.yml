@@ -51,6 +51,8 @@
     url: https://www.reddit.com/r/FREEMEDIAHECKYEAH/
   - name: r/DataHoarder
     url: https://www.reddit.com/r/DataHoarder/
+  - name: r/ps3hacks
+    url: https://www.reddit.com/r/ps3hacks/
   - name: r/dosgaming
     url: https://www.reddit.com/r/dosgaming/
   - name: r/dos
@@ -66,11 +68,15 @@
   - name: r/midi
     url: https://www.reddit.com/r/midi/
   - name: r/Sierra
+    url: https://www.reddit.com/r/Sierra/
+  - name: r/opendirectories
     url: https://www.reddit.com/r/opendirectories/
   - name: r/GamePreservationists
     url: https://www.reddit.com/r/GamePreservationists/
   - name: r/MechanicalKeyboards
     url: https://www.reddit.com/r/MechanicalKeyboards/
+  - name: r/SurfaceLinux/
+    url: https://www.reddit.com/r/SurfaceLinux/
   - name: r/formula1/
     url: https://www.reddit.com/r/formula1/
 
@@ -179,6 +185,8 @@
     url: http://www.heber.co.uk/product/multisystem/
   - name: RMC - The Store
     url: https://rmcretro.store/
+  - name: MiSTer Multisystem User Manual
+    url: https://www.rmcretro.com/assets/manuals/MiSTer_Multisystem_manual_and_operational_guide_November2021_V2r3.pdf
 
 - name: Releases
   fontAwesome: th
@@ -281,6 +289,12 @@
     url: https://oldcomputers.net/
   - name: 0MHz DOS Collection
     url: https://0mhz.net/
+  - name: EmuMovies
+    url: https://emumovies.com/
+  - name: PSP UMD Video and Music Checklist
+    url: https://docs.google.com/spreadsheets/d/1sdw_JpFOMHv3ASk5RyWXGmv80xyec4v1rSEgXkeF-RE/edit?pli=1#gid=0
+  - name: Renascene Vita Excel Sheet
+    url: https://disk.yandex.ru/d/9p7MpG3lHyyZFA
 
 - name: Music
   fontAwesome: th
@@ -315,6 +329,14 @@
     url: https://sourceforge.net/projects/dxwnd/
   - name: PS-Multi-Tools
     url: https://github.com/SvenGDK/PS-Multi-Tools
+  - name: yt-dlp
+    url: https://github.com/yt-dlp
+  - name: itchiodl
+    url: https://github.com/Emersont1/itchio
+  - name: Archive.org-Downloader
+    url: https://github.com/MiniGlome/Archive.org-Downloader#readme
+  - name: gogcli
+    url: https://github.com/Magnitus-/gogcli
 
 - name: Sierra
   fontAwesome: th
@@ -502,6 +524,12 @@
   - name: YYY
     url: XXX
 
+- name: Software - Android
+  fontAwesome: th
+  items:
+  - name: SmartTube
+    url: https://github.com/yuliskov/SmartTube
+
 - name: Software
   fontAwesome: th
   items:
@@ -541,8 +569,12 @@
     url: https://apps.ankiweb.net/
   - name: ACDSee
     url: https://www.acdsee.com/en/index/
+  - name: FastStone Image Viewer
+    url: https://www.faststone.org/FSViewerDetail.htm
   - name: Affinity Photo
     url: https://affinity.serif.com/en-us/photo/
+  - name: Paint.NET
+    url: https://www.getpaint.net/download.html
   - name: DaVinci Resolve 18
     url: https://www.blackmagicdesign.com/products/davinciresolve
   - name: 5KPlayer
@@ -573,6 +605,16 @@
     url: https://vgcollect.com/
   - name: Simplenote
     url: https://simplenote.com/
+  - name: SumatraPDF
+    url: https://github.com/sumatrapdfreader/sumatrapdf
+  - name: VLC
+    url: https://www.videolan.org/
+  - name: Bluray Playback with libaacs
+    url: https://forum.doom9.org/showthread.php?p=1886086#post1886086
+  - name: Win11 Context Menu Customization
+    url: https://www.elevenforum.com/t/disable-show-more-options-context-menu-in-windows-11.1589/
+  - name: Audacity
+    url: https://github.com/audacity/audacity
 
 - name: Programming C#
   fontAwesome: th
@@ -627,24 +669,6 @@
     url: https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar
   - name: Fortyseven/RA_1993
     url: https://github.com/Fortyseven/RA_1993
-
-- name: Programming Rust
-  fontAwesome: th
-  items:
-  - name: The Rust Programming Language
-    url: https://doc.rust-lang.org/book/title-page.html
-  - name: tui-rs
-    url: https://github.com/fdehau/tui-rs
-  - name: VS2017 Rust Extension
-    url: https://github.com/ZoeyR/rls-vs2017
-
-- name: Programming .NET
-  fontAwesome: th
-  items:
-  - name: Blazor Sample
-    url: https://github.com/SteveSandersonMS/BlazeOrbital
-  - name: Monogame.Extended
-    url: https://www.monogameextended.net/
 
 - name: Educational
   fontAwesome: th
@@ -864,13 +888,23 @@
   - name: teoria
     url: https://www.teoria.com/
 
-- name: Hugo Repositories
-  fontAwesome: th
+- name: GOG
+  fontAwesome: rss
   items:
-  - name: Phylactere
-    url: https://github.com/HugoAllaire/Phylactere
-  - name: Wordle
-    url: https://github.com/HugoAllaire/Wordle
+  - name: Delisted Games 1
+    url: https://delistedgames.com/all-delisted-gog-games/
+  - name: Delisted Games 2
+    url: https://www.pcgamingwiki.com/wiki/List_of_games_delisted_from_GOG.com
+  - name: MD5-for-GOG
+    url: https://github.com/GOG-Games-com/MD5-for-GOG.com
+  - name: gogverify
+    url: https://github.com/DorianRudolph/gogverify
+
+- name: Games
+  fontAwesome: rss
+  items:
+  - name: Kq1redux
+    url: http://www.edenwaith.com/products/kq1redux/
 
 - name: Blogs
   fontAwesome: rss

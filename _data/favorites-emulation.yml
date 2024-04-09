@@ -49,6 +49,8 @@
     url: https://suyu.dev/
   - name: Lemonade - 3DS (C++)
     url: https://github.com/Lemonade-emu/Lemonade
+  - name: Lime3DS - 3DS (C++)
+    url: https://github.com/Lime3DS/Lime3DS
 
 - name: Consoles
   fontAwesome: th
@@ -243,3 +245,10 @@
     url: https://github.com/sysprogs/WinCDEmu
   - name: goldberg - Steam Emulator
     url: https://gitlab.com/Mr_Goldberg/goldberg_emulator
+
+- name: Guides
+  fontAwesome: th
+  items:
+  - name: FMTowns Video Guide
+    url: https://www.youtube.com/watch?v=BNvky_aPhxE
+

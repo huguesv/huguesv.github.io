@@ -157,6 +157,8 @@
     url: https://www.twitch.tv/
   - name: Netflix Global Search
     url: http://unogs.com/
+  - name: Hoopla
+    url: https://www.hoopladigital.com/
 
 - name: Sports
   fontAwesome: th
