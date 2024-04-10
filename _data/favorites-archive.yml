@@ -31,6 +31,12 @@
     url: https://archive.org/details/@k1rkl4nd
   - name: SNESManualArchive (console manuals)
     url: https://archive.org/details/@snesmanualarchive
+  - name: DFXThomas (Disk Images)
+    url: https://archive.org/details/@dfxthomas
+  - name: RevengeOfTheHubz (Scans)
+    url: https://archive.org/details/@revengeofthehubz
+  - name: JustAnotherArchivist (Repo Bundles)
+    url: https://archive.org/details/@justanotherarchivist
 
 - name: No-Intro Collections (Active)
   fontAwesome: th
@@ -103,6 +109,10 @@
   items:
   - name: Code Wheels
     url: https://archive.org/details/code-wheels
+  - name: Total Replay (Apple II)
+    url: https://archive.org/details/TotalReplay
+  - name: Total Replay II (Apple II)
+    url: https://archive.org/details/TotalReplay2
 
 - name: Computers (Inactive)
   fontAwesome: th
@@ -113,18 +123,38 @@
     url: https://archive.org/details/sierrasourcecode
   - name: Gruby's IBM PC Compatibles Floppy Images
     url: https://archive.org/details/grubys-ibm-pc-compatibles-floppy-images
+  - name: UnRenamed AppleI-II-III-GS-Lisa
+    url: https://archive.org/details/UnRenamedFiles-AppleI-II-III-GS-Lisa
+  - name: No Intro IBM - PC and Compatibles Sets
+    url: https://archive.org/details/NoIntroIBMPc
+  - name: MSDN Collection
+    url: https://archive.org/details/msdn-full
+  - name: MSDN Collection 2023
+    url: https://archive.org/details/msdn_2023
+  - name: MSDN Search
+    url: https://archive.org/search?query=msdn
 
 - name: Consoles (Active)
   fontAwesome: th
   items:
   - name: Nintendo - Super Famicom - MSU1
     url: https://archive.org/details/nintendo-super-famicom-msu1
+  - name: Nintendo - Switch - Firmwares
+    url: https://archive.org/details/nintendo-switch-global-firmwares
 
 - name: Consoles (Inactive)
   fontAwesome: th
   items:
   - name: VGM Complete Cartridge Collection
     url: https://archive.org/details/vgm-complete-cartridge-collection.-7z
+  - name: Sony Playstation Vita (USA) Full Set [NoNpDRM]
+    url: https://archive.org/details/sony-playstation-vita-usa-full-set-nonpdrm-format
+  - name: Sony Playstation Vita (USA) Full Set [NoNpDRM] (DLC & UPDATES)
+    url: https://archive.org/details/sony-playstation-vita-usa-full-set-nonpdrm-format-dlc-updates
+  - name: Nintendo Wii U [eShop] (USA) Full Set WUA Format (Embedded DLC &  Updates) + Virtual Console
+    url: https://archive.org/details/nintendo-wii-u-eshop-usa-full-set-wua-format-embedded-dlc-updates
+  - name: Wii U: Retail NUS [USA]
+    url: https://archive.org/details/wii-u-retail-nus-usa
 
 - name: Users (Inactive)
   fontAwesome: th

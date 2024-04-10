@@ -275,6 +275,8 @@
     url: https://winworldpc.com/library/operating-systems
   - name: Good Old Days
     url: http://www.goodolddays.net/
+  - name: Planet Emulation - Atari ST
+    url: https://www.planetemu.net/machine/atari-st
   - name: Vetusware
     url: https://vetusware.com/
   - name: AmigaVision (Collection)
@@ -374,6 +376,18 @@
   - name: Dentist - William Peterson
     url: http://www.williamjpetersondds.com/
 
+- name: Health
+  fontAwesome: th
+  items:
+  - name: Microsoft Embold Health
+    url: https://microsoft.emboldhealth.com
+  - name: Benefit Solver
+    url: https://www2.benefitsolver.com/benefits/BenefitSolverView
+  - name: Crossover Health
+    url: https://microsoft.crossoverhealth.com/signin
+  - name: HealthCare.gov
+    url: https://www.healthcare.gov/
+
 - name: Seattle
   fontAwesome: th
   items:
@@ -403,6 +417,8 @@
     url: http://seattleretro.org/
   - name: Washington State Fair
     url: https://www.thefair.com/washington-state-fair/
+  - name: Northwest Railway Museum
+    url: https://trainmuseum.org/
 
 - name: Japan Shopping
   fontAwesome: th

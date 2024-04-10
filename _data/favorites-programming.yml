@@ -105,6 +105,8 @@
     url: https://sharplab.io/
   - name: Library.Template
     url: https://github.com/AArnott/Library.Template
+  - name: CentralisedPackageConverter
+    url: https://github.com/Webreaper/CentralisedPackageConverter
 
 - name: C# Tools
   fontAwesome: th
