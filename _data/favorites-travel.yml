@@ -1,0 +1,87 @@
+- name: Hugues Valois
+  fontAwesome: th
+  items:
+  - name: Public Favorites
+    url: /favorites
+  - name: Private Favorites
+    url: /favorites-private
+  - name: Programming Favorites
+    url: /favorites-programming
+  - name: Redump Favorites
+    url: /favorites-redump
+  - name: Emulation Favorites
+    url: /favorites-emulation
+  - name: Hacking Favorites
+    url: /favorites-hacking
+  - name: Travel Favorites
+    url: /favorites-travel
+  - name: Archive Favorites
+    url: /favorites-archive
+
+- name: Japan Shopping
+  fontAwesome: th
+  items:
+  - name: Buyee
+    url: https://buyee.jp/?lang=en
+  - name: Yahoo! Auction Proxy
+    url: https://www.jauce.com/
+
+- name: Japanese Language
+  fontAwesome: th
+  items:
+  - name: JapanesePod101
+    url: https://www.japanesepod101.com/
+
+- name: Japan Tourism
+  fontAwesome: th
+  items:
+  - name: Asia Travel Bug
+    url: https://asiatravelbug.com/
+  - name: Japan Cheapo
+    url: https://japancheapo.com/
+  - name: Japan Web Magazine
+    url: https://jw-webmagazine.com/
+  - name: Abroad in Japan
+    url: https://www.abroadinjapan.com/
+  - name: Good Samaritan Club
+    url: https://goodsamaritanclub.org/
+
+- name: Japan Customs / Airport
+  fontAwesome: th
+  items:
+  - name: Visit Japan Web
+    url: https://www.vjw.digital.go.jp/main/#/vjwpco001
+  - name: Narita Airport
+    url: https://www.narita-airport.jp/en
+  - name: Airport Bus TYO-NRT
+    url: https://tyo-nrt.com/en
+
+- name: Japan Transport
+  fontAwesome: th
+  items:
+  - name: Japan Airlines
+    url: https://www.jal.co.jp/jp/en/
+  - name: Japan Transit Planner by Jorudan
+    url: https://world.jorudan.co.jp/mln/en/
+  - name: Japan Travel by Navitime
+    url: https://japantravel.navitime.com/en/area/jp/route/
+  - name: Japan Experience (JR pass)
+    url: https://www.japan-experience.com/
+
+- name: Hawaii
+  fontAwesome: th
+  items:
+  - name: VRBO
+    url: http://www.vrbo.com/
+  - name: Honolulu Shuttle
+    url: http://www.honolulushuttleservices.com/
+  - name: Jack Harter Helicopters
+    url: http://www.helicopters-kauai.com/
+  - name: Blue Hawaiian Helicopters
+    url: http://www.bluehawaiian.com/
+  - name: Hawaii Web
+    url: http://www.hawaiiweb.com/html/mainFrame.html
+  - name: Maui Official Site
+    url: http://www.gohawaii.com/maui
+  - name: "Maui: Gannon's"
+    url: http://www.gannonsrestaurant.com/

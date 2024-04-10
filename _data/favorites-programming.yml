@@ -13,6 +13,8 @@
     url: /favorites-emulation
   - name: Hacking Favorites
     url: /favorites-hacking
+  - name: Travel Favorites
+    url: /favorites-travel
   - name: Archive Favorites
     url: /favorites-archive
 
@@ -165,6 +167,10 @@
     url: https://github.com/maxton/GameArchives
   - name: BLAKE3
     url: https://github.com/xoofx/Blake3.NET
+  - name: Console Framework
+    url: https://github.com/elw00d/consoleframework
+  - name: Guis.cs
+    url: https://github.com/migueldeicaza/gui.cs
 
 - name: .NET Preservation Libraries
   fontAwesome: th
@@ -227,6 +233,8 @@
     url: https://github.com/SteveSandersonMS/BlazeOrbital
   - name: Let's Learn .NET - Containers
     url: https://learn.microsoft.com/en-us/collections/8xkdspykzej5j0
+  - name: SharpDX Tutorials
+    url: http://english.r2d2rigo.es/sharpdx-tutorials/
 
 - name: Retro - Genesis / Mega Drive
   fontAwesome: th
@@ -284,6 +292,44 @@
   - name: Stack Overflow - Keyboard Handling
     url: https://stackoverflow.com/questions/40961527/checking-if-a-key-is-down-in-ms-dos-c-c
 
+- name: Retro - DOS
+  fontAwesome: th
+  items:
+  - name: Retro Programming
+    url: http://www.retroprogramming.com/
+  - name: Programmer's Corner
+    url: https://www.pcorner.com/list/C
+  - name: Programming the Mouse
+    url: https://courses.cs.washington.edu/courses/cse477/00sp/projectwebs/groupb/PS2-mouse/Prog_mouse.html
+  - name: Awesome DOS
+    url: https://github.com/balintkissdev/awesome-dos
+
+- name: Retro - DOS - GitHub
+  fontAwesome: th
+  items:
+  - name: berk76/tc_libs
+    url: https://github.com/berk76/tc_libs
+  - name: berk76/tetris
+    url: https://github.com/berk76/tetris
+  - name: jasaldivara/retro-dos-graphics
+    url: https://github.com/jasaldivara/retro-dos-graphics
+  - name: johangardhage/dos-bcdemos
+    url: https://github.com/johangardhage/dos-bcdemos
+  - name: johangardhage/dos-tpdemos
+    url: https://github.com/johangardhage/dos-tpdemos
+  - name: devaurelian/ramview
+    url: https://github.com/devaurelian/ramview
+  - name: qb40/soundblaster
+    url: https://github.com/qb40/soundblaster
+  - name: dzutrinh/2048
+    url: https://github.com/dzutrinh/2048
+  - name: TheFakeMontyOnTheRun/castelo-de-viana
+    url: https://github.com/TheFakeMontyOnTheRun/castelo-de-viana
+  - name: TheFakeMontyOnTheRun/dungeons-of-noudar
+    url: https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar
+  - name: Fortyseven/RA_1993
+    url: https://github.com/Fortyseven/RA_1993
+
 - name: Retro - Sound
   fontAwesome: th
   items:
@@ -305,6 +351,12 @@
     url: https://www.youtube.com/watch?v=XKy1cE4EYMk
   - name: Music Players and Libraries
     url: http://www.dcee.net/Files/Programm/Sound/
+
+- name: Retro - C64
+  fontAwesome: th
+  items:
+  - name: Retro Game Coders (C64)
+    url: https://retrogamecoders.com/
 
 - name: Emulation Documentation
   fontAwesome: th

@@ -13,6 +13,8 @@
     url: /favorites-emulation
   - name: Hacking Favorites
     url: /favorites-hacking
+  - name: Travel Favorites
+    url: /favorites-travel
   - name: Archive Favorites
     url: /favorites-archive
 

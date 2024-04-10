@@ -13,8 +13,74 @@
     url: /favorites-emulation
   - name: Hacking Favorites
     url: /favorites-hacking
+  - name: Travel Favorites
+    url: /favorites-travel
   - name: Archive Favorites
     url: /favorites-archive
+
+- name: Bellevue
+  fontAwesome: th
+  items:
+  - name: Downtown Bellevue Network
+    url: http://downtownbellevue.com/
+  - name: City of Bellevue
+    url: https://www.bellevuewa.gov/city-news
+  - name: Overlake Medical
+    url: https://www.overlakehospital.org/locations
+  - name: Dentist - William Peterson
+    url: http://www.williamjpetersondds.com/
+
+- name: Seattle
+  fontAwesome: th
+  items:
+  - name: WSDOT Blog
+    url: https://wsdotblog.blogspot.com/
+  - name: King County Public Health
+    url: http://www.kingcounty.gov/healthservices/health/ehs/foodsafety/inspections.aspx
+  - name: Weather
+    url: http://www.weather.com/weather/tenday/98004
+  - name: Smith Tower
+    url: http://smithtower.com/Observation.html
+  - name: University of Washington TV
+    url: http://www.uwtv.org/
+  - name: Seattle Public Library
+    url: http://www.spl.org/
+  - name: King County Library System
+    url: http://www.kcls.org/
+  - name: Seattle Burke Gilman Trail
+    url: https://www.seattle.gov/parks/find/parks/burke-gilman-trail
+  - name: The Bellingham Herald
+    url: https://www.bellinghamherald.com/
+  - name: Seattle NorthCountry
+    url: https://www.seattlenorthcountry.com/
+  - name: Skagit Valley Tulip Festival
+    url: https://tulipfestival.org/
+  - name: Seattle Retro Gaming Expo
+    url: http://seattleretro.org/
+  - name: Washington State Fair
+    url: https://www.thefair.com/washington-state-fair/
+  - name: Northwest Railway Museum
+    url: https://trainmuseum.org/
+
+- name: Cars
+  fontAwesome: th
+  items:
+  - name: Honda Roadside Assistance
+    url: https://owners.honda.com/vehicles/roadside-assistance
+  - name: Bellevue Honda
+    url: https://www.bellevuehonda.com/
+
+- name: Health
+  fontAwesome: th
+  items:
+  - name: Microsoft Embold Health
+    url: https://microsoft.emboldhealth.com
+  - name: Benefit Solver
+    url: https://www2.benefitsolver.com/benefits/BenefitSolverView
+  - name: Crossover Health
+    url: https://microsoft.crossoverhealth.com/signin
+  - name: HealthCare.gov
+    url: https://www.healthcare.gov/
 
 - name: Usenet Indexers
   fontAwesome: th
@@ -206,14 +272,6 @@
   - name: srrDB
     url: https://www.srrdb.com/
 
-- name: Cars
-  fontAwesome: th
-  items:
-  - name: Honda Roadside Assistance
-    url: https://owners.honda.com/vehicles/roadside-assistance
-  - name: Bellevue Honda
-    url: https://www.bellevuehonda.com/
-
 - name: Streaming
   fontAwesome: th
   items:
@@ -364,130 +422,6 @@
   - name: The Sierra Adventure Book
     url: https://thesierraadventure.com/
 
-- name: Bellevue
-  fontAwesome: th
-  items:
-  - name: Downtown Bellevue Network
-    url: http://downtownbellevue.com/
-  - name: City of Bellevue
-    url: https://www.bellevuewa.gov/city-news
-  - name: Overlake Medical
-    url: https://www.overlakehospital.org/locations
-  - name: Dentist - William Peterson
-    url: http://www.williamjpetersondds.com/
-
-- name: Health
-  fontAwesome: th
-  items:
-  - name: Microsoft Embold Health
-    url: https://microsoft.emboldhealth.com
-  - name: Benefit Solver
-    url: https://www2.benefitsolver.com/benefits/BenefitSolverView
-  - name: Crossover Health
-    url: https://microsoft.crossoverhealth.com/signin
-  - name: HealthCare.gov
-    url: https://www.healthcare.gov/
-
-- name: Seattle
-  fontAwesome: th
-  items:
-  - name: WSDOT Blog
-    url: https://wsdotblog.blogspot.com/
-  - name: King County Public Health
-    url: http://www.kingcounty.gov/healthservices/health/ehs/foodsafety/inspections.aspx
-  - name: Weather
-    url: http://www.weather.com/weather/tenday/98004
-  - name: Smith Tower
-    url: http://smithtower.com/Observation.html
-  - name: University of Washington TV
-    url: http://www.uwtv.org/
-  - name: Seattle Public Library
-    url: http://www.spl.org/
-  - name: King County Library System
-    url: http://www.kcls.org/
-  - name: Seattle Burke Gilman Trail
-    url: https://www.seattle.gov/parks/find/parks/burke-gilman-trail
-  - name: The Bellingham Herald
-    url: https://www.bellinghamherald.com/
-  - name: Seattle NorthCountry
-    url: https://www.seattlenorthcountry.com/
-  - name: Skagit Valley Tulip Festival
-    url: https://tulipfestival.org/
-  - name: Seattle Retro Gaming Expo
-    url: http://seattleretro.org/
-  - name: Washington State Fair
-    url: https://www.thefair.com/washington-state-fair/
-  - name: Northwest Railway Museum
-    url: https://trainmuseum.org/
-
-- name: Japan Shopping
-  fontAwesome: th
-  items:
-  - name: Buyee
-    url: https://buyee.jp/?lang=en
-  - name: Yahoo! Auction Proxy
-    url: https://www.jauce.com/
-
-- name: Japanese Language
-  fontAwesome: th
-  items:
-  - name: JapanesePod101
-    url: https://www.japanesepod101.com/
-
-- name: Japan Tourism
-  fontAwesome: th
-  items:
-  - name: Asia Travel Bug
-    url: https://asiatravelbug.com/
-  - name: Japan Cheapo
-    url: https://japancheapo.com/
-  - name: Japan Web Magazine
-    url: https://jw-webmagazine.com/
-  - name: Abroad in Japan
-    url: https://www.abroadinjapan.com/
-  - name: Good Samaritan Club
-    url: https://goodsamaritanclub.org/
-
-- name: Japan Customs / Airport
-  fontAwesome: th
-  items:
-  - name: Visit Japan Web
-    url: https://www.vjw.digital.go.jp/main/#/vjwpco001
-  - name: Narita Airport
-    url: https://www.narita-airport.jp/en
-  - name: Airport Bus TYO-NRT
-    url: https://tyo-nrt.com/en
-
-- name: Japan Transport
-  fontAwesome: th
-  items:
-  - name: Japan Airlines
-    url: https://www.jal.co.jp/jp/en/
-  - name: Japan Transit Planner by Jorudan
-    url: https://world.jorudan.co.jp/mln/en/
-  - name: Japan Travel by Navitime
-    url: https://japantravel.navitime.com/en/area/jp/route/
-  - name: Japan Experience (JR pass)
-    url: https://www.japan-experience.com/
-
-- name: Hawaii
-  fontAwesome: th
-  items:
-  - name: VRBO
-    url: http://www.vrbo.com/
-  - name: Honolulu Shuttle
-    url: http://www.honolulushuttleservices.com/
-  - name: Jack Harter Helicopters
-    url: http://www.helicopters-kauai.com/
-  - name: Blue Hawaiian Helicopters
-    url: http://www.bluehawaiian.com/
-  - name: Hawaii Web
-    url: http://www.hawaiiweb.com/html/mainFrame.html
-  - name: Maui Official Site
-    url: http://www.gohawaii.com/maui
-  - name: "Maui: Gannon's"
-    url: http://www.gannonsrestaurant.com/
-
 - name: Videogame Stores
   fontAwesome: th
   items:
@@ -546,7 +480,7 @@
   - name: SmartTube
     url: https://github.com/yuliskov/SmartTube
 
-- name: Software
+- name: Software - Windows
   fontAwesome: th
   items:
   - name: aseprite
@@ -632,60 +566,6 @@
   - name: Audacity
     url: https://github.com/audacity/audacity
 
-- name: Programming C#
-  fontAwesome: th
-  items:
-  - name: SharpDX Tutorials
-    url: http://english.r2d2rigo.es/sharpdx-tutorials/
-  - name: Console Framework
-    url: https://github.com/elw00d/consoleframework
-  - name: Guis.cs
-    url: https://github.com/migueldeicaza/gui.cs
-
-- name: Programming Retro
-  fontAwesome: th
-  items:
-  - name: Retro Game Coders (C64)
-    url: https://retrogamecoders.com/
-
-- name: Programming DOS
-  fontAwesome: th
-  items:
-  - name: Retro Programming
-    url: http://www.retroprogramming.com/
-  - name: Programmer's Corner
-    url: https://www.pcorner.com/list/C
-  - name: Programming the Mouse
-    url: https://courses.cs.washington.edu/courses/cse477/00sp/projectwebs/groupb/PS2-mouse/Prog_mouse.html
-  - name: Awesome DOS
-    url: https://github.com/balintkissdev/awesome-dos
-
-- name: GitHub - DOS
-  fontAwesome: th
-  items:
-  - name: berk76/tc_libs
-    url: https://github.com/berk76/tc_libs
-  - name: berk76/tetris
-    url: https://github.com/berk76/tetris
-  - name: jasaldivara/retro-dos-graphics
-    url: https://github.com/jasaldivara/retro-dos-graphics
-  - name: johangardhage/dos-bcdemos
-    url: https://github.com/johangardhage/dos-bcdemos
-  - name: johangardhage/dos-tpdemos
-    url: https://github.com/johangardhage/dos-tpdemos
-  - name: devaurelian/ramview
-    url: https://github.com/devaurelian/ramview
-  - name: qb40/soundblaster
-    url: https://github.com/qb40/soundblaster
-  - name: dzutrinh/2048
-    url: https://github.com/dzutrinh/2048
-  - name: TheFakeMontyOnTheRun/castelo-de-viana
-    url: https://github.com/TheFakeMontyOnTheRun/castelo-de-viana
-  - name: TheFakeMontyOnTheRun/dungeons-of-noudar
-    url: https://github.com/TheFakeMontyOnTheRun/dungeons-of-noudar
-  - name: Fortyseven/RA_1993
-    url: https://github.com/Fortyseven/RA_1993
-
 - name: Educational
   fontAwesome: th
   items:
@@ -704,7 +584,7 @@
   - name: Super Mario Bros. X2
     url: http://codehaus.wohlsoft.ru/
 
-- name: Empty
+- name: Languages
   fontAwesome: th
   items:
   - name: Language Names
