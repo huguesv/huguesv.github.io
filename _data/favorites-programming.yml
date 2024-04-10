@@ -304,6 +304,102 @@
   - name: Music Players and Libraries
     url: http://www.dcee.net/Files/Programm/Sound/
 
+- name: Emulation Documentation
+  fontAwesome: th
+  items:
+  - name: emudev.de (gb, nes, c64, si, snes)
+    url: https://emudev.de/
+  - name: Architecture of Consoles
+    url: https://www.copetti.org/writings/consoles/
+  - name: Emulator 101
+    url: http://www.emulator101.com/
+  - name: Computer Archeology
+    url: https://computerarcheology.com/
+  - name: Building an FPGA Game Boy emulator
+    url: https://eli.lipsitz.net/posts/fpga-gameboy-emulator/
+  - name: Channel F VES wiki
+    url: https://channelf.se/veswiki/index.php
+  - name: Nandgame
+    url: https://nandgame.com/
+  - name: Building Emulators in F# (Atari ST)
+    url: https://github.com/7sharp9/Atari-St-Emulator
+  - name: GameRoy - JIT compilation in GB emulation
+    url: https://rodrigodd.github.io/2023/09/02/gameroy-jit.html
+
+- name: Emulation - NES
+  fontAwesome: th
+  items:
+  - name: Instruction Set - 6502
+    url: https://www.masswerk.at/6502/6502_instruction_set.html
+  - name: Opcode matrix - 6502/6510/8500/8502
+    url: https://www.oxyron.de/html/opcodes02.html
+  - name: NES schematic
+    url: https://wiki.console5.com/wiki/File:NES-001-Schematic---CPU,-PPU,-RAM,-CIC.png#file
+
+- name: Emulation - Game Boy
+  fontAwesome: th
+  items:
+  - name: gbops, an accurate opcode table for the Game Boy
+    url: https://izik1.github.io/gbops/
+  - name: Game Boy Programming Manual 1.1
+    url: https://archive.org/details/GameBoyProgManVer1.1/mode/2up
+  - name: Decoding Game Boy Z80 Opcodes
+    url: https://gb-archive.github.io/salvage/decoding_gbz80_opcodes/Decoding%20Gamboy%20Z80%20Opcodes.html
+  - name: Game Boy Sound Hardware
+    url: https://gbdev.gg8.se/wiki/articles/Gameboy_sound_hardware
+  - name: gbz80(7) CPU opcode reference
+    url: https://rgbds.gbdev.io/docs/v0.6.1/gbz80.7
+  - name: Game Boy LR35902 instruction set
+    url: https://pastraiser.com/cpu/gameboy/gameboy_opcodes.html
+  - name: Game Boy Complete Technical Reference
+    url: https://gekkio.fi/files/gb-docs/gbctr.pdf
+  - name: Pandocs
+    url: https://gbdev.io/pandocs/
+  - name: Pandocs rendering internals
+    url: https://github.com/ISSOtm/pandocs/blob/rendering-internals/src/Rendering_Internals.md
+  - name: Nitty Gritty Game Boy Cycle Timing
+    url: http://blog.kevtris.org/blogfiles/Nitty%20Gritty%20Gameboy%20VRAM%20Timing.txt
+  - name: Cycle Accurate Game Boy Docs (Old and Unmaintained)
+    url: https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf
+
+- name: Emulation 8080
+  fontAwesome: th
+  items:
+  - name: Intel 8080 instruction set
+    url: https://www.pastraiser.com/cpu/i8080/i8080_opcodes.html
+  - name: Intel 8080 Assembly Language Programming Manual
+    url: https://altairclone.com/downloads/manuals/8080%20Programmers%20Manual.pdf
+
+- name: Emulation Testing
+  fontAwesome: th
+  items:
+  - name: Testing your CPU emulator
+    url: https://raddad772.github.io/2022/06/18/testing-your-emulator.html
+  - name: ProcessorTests (JSON)
+    url: https://github.com/TomHarte/ProcessorTests
+  - name: gameboy-test-roms
+    url: https://github.com/c-sp/gameboy-test-roms
+  - name: sm83-test-data
+    url: https://github.com/adtennant/sm83-test-data
+
+- name: Emulation Discussions
+  fontAwesome: th
+  items:
+  - name: reddit - best documented console
+    url: https://www.reddit.com/r/EmuDev/comments/yna6ae/what_is_the_best_documented_console/
+  - name: reddit - cycle boundary
+    url: https://www.reddit.com/r/EmuDev/comments/11x9741/cycle_boundary_in_cycleexact_emulators/
+  - name: reddit - c64 info
+    url: https://www.reddit.com/r/EmuDev/comments/164lrkv/what_should_be_my_next_step_for_developing_a_c64/
+  - name: reddit - gb and nes emulators in TS and Rust
+    url: https://www.reddit.com/r/EmuDev/comments/14p5qbw/so_ive_been_busy_writing_emulators/
+  - name: GB sound emulation
+    url: https://www.reddit.com/r/EmuDev/comments/5gkwi5/gb_apu_sound_emulation/
+  - name: NES PPU PPUADDR
+    url: https://www.reddit.com/r/EmuDev/comments/14pq3es/nes_how_does_the_ppu_knows_when_to_write_high_or/
+  - name: Game Boy - Help with DAA
+    url: https://forums.nesdev.org/viewtopic.php?t=15944
+
 - name: Web
   fontAwesome: th
   items:

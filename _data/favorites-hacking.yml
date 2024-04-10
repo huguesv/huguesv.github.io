@@ -25,6 +25,8 @@
     url: http://makemkv.com/
   - name: UHD Drive Flashing
     url: https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634
+  - name: FindVUK on Doom9
+    url: https://forum.doom9.org/showthread.php?t=172472
 
 - name: Hacking PS
   fontAwesome: th
@@ -39,6 +41,8 @@
   items:
   - name: PS3 Dev wiki
     url: http://www.psdevwiki.com/ps3/Main_Page
+  - name: PS3 on Brewology
+    url: https://store.brewology.com/
   - name: PS3 Dev wiki - Title IDs
     url: http://www.psdevwiki.com/ps3/Talk:PARAM.SFO
   - name: fail0verflow PS3 Tools github
@@ -53,6 +57,22 @@
     url: https://github.com/elmonta/ps3_unpkg-
   - name: PS3 Disc Dumper
     url: https://github.com/13xforever/ps3-disc-dumper/tree/master
+  - name: ps3xport
+    url: https://github.com/kakaroto/ps3xport
+  - name: PyPS3tools
+    url: https://github.com/littlebalup/PyPS3tools
+  - name: pkgi-ps3
+    url: https://github.com/bucanero/pkgi-ps3
+  - name: PlayStation 3 bgtoolset
+    url: https://www.ps3toolset.com/bgtoolset/
+  - name: Jailbreaking using bgtoolset
+    url: https://www.psx-place.com/threads/guide-jailbreaking-with-bgtoolset.33461/
+  - name: Jailbreak 4.91 with PS3 toolset video
+    url: https://www.youtube.com/watch?v=LIVu3Px3eXY
+  - name: PS3HEN v3.3.0 Article
+    url: https://www.psx-place.com/threads/official-ps3hen-v3-3-0-hfw-released-for-4-91-firmware-from-team-ps3xploit.43199/
+  - name: Coro
+    url: https://ps3addict.github.io/
 
 - name: Hacking VITA
   fontAwesome: th

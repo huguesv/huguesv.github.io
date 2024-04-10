@@ -33,6 +33,8 @@
     url: https://github.com/TomHarte/CLK
   - name: Open Emu (for Mac Only)
     url: http://openemu.sourceforge.net/
+  - name: jsmoo (JavaScript)
+    url: https://github.com/raddad772/jsmoo
 
 - name: Consoles
   fontAwesome: th
