@@ -279,6 +279,18 @@
     url: http://www.visual6502.org/welcome.html
   - name: Easy 6502 Tutorial
     url: https://skilldrick.github.io/easy6502/
+  - name: cc65
+    url: https://github.com/cc65/cc65
+  - name: ca65 Users Guide
+    url: https://www.cc65.org/doc/ca65.html
+  - name: ACME Cross Assembler
+    url: https://sourceforge.net/projects/acme-crossass/
+  - name: Ophis Cross Assembler
+    url: https://github.com/michaelcmartin/Ophis
+  - name: 6502.org Tutorials
+    url: http://6502.org/tutorials/
+  - name: vasm assembler
+    url: http://sun.hasenbraten.de/vasm/  
 
 - name: Retro - PC
   fontAwesome: th
@@ -357,6 +369,14 @@
   items:
   - name: Retro Game Coders (C64)
     url: https://retrogamecoders.com/
+  - name: C64Studio
+    url: https://github.com/GeorgRottensteiner/C64Studio/
+
+- name: Retro - Assembly
+  fontAwesome: th
+  items:
+  - name: ChibiAkumas Tutorials
+    url: https://www.chibiakumas.com/
 
 - name: Emulation Documentation
   fontAwesome: th
@@ -583,8 +603,6 @@
   items:
   - name: Tiled
     url: https://www.mapeditor.org/
-  - name: DOSBox-X
-    url: https://github.com/joncampbell123/dosbox-x
 
 - name: Programming Rust
   fontAwesome: th

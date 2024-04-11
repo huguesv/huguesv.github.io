@@ -189,6 +189,8 @@
 - name: Computers
   fontAwesome: th
   items:
+  - name: DOSBox-X
+    url: https://github.com/joncampbell123/dosbox-x
   - name: PCjs - PC (JavaScript)
     url: https://github.com/jeffpar/pcjs
   - name: 86Box - PC (C)

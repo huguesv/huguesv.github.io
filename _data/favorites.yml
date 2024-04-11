@@ -129,6 +129,10 @@
     url: https://kobo.com
   - name: OMG Japan
     url: https://omgjapan.com/
+  - name: Keychron
+    url: https://www.keychron.com/
+  - name: NuPhy
+    url: https://nuphy.com/
 
 - name: Mail
   fontAwesome: envelope-o
@@ -149,12 +153,14 @@
     url: https://smile.amazon.com/prime
   - name: F1 TV
     url: https://f1tv.formula1.com/en/
+  - name: Twitch
+    url: https://www.twitch.tv/
+  - name: Peacock
+    url: https://www.peacocktv.com/
   - name: Pluto TV
     url: https://pluto.tv/tv/
   - name: YouTube TV
     url: https://tv.youtube.com
-  - name: Twitch
-    url: https://www.twitch.tv/
   - name: Netflix Global Search
     url: http://unogs.com/
   - name: Hoopla

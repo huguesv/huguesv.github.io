@@ -109,6 +109,8 @@
     url: https://www.reddit.com/r/csharp/
   - name: r/DotNet
     url: https://www.reddit.com/r/dotnet/
+  - name: r/formula1/
+    url: https://www.reddit.com/r/formula1/
   - name: r/Roms
     url: https://www.reddit.com/r/Roms/
   - name: r/PiratedGames/
@@ -141,10 +143,12 @@
     url: https://www.reddit.com/r/GamePreservationists/
   - name: r/MechanicalKeyboards
     url: https://www.reddit.com/r/MechanicalKeyboards/
+  - name: r/ErgoMechKeyboards
+    url: https://www.reddit.com/r/ErgoMechKeyboards/
   - name: r/SurfaceLinux/
     url: https://www.reddit.com/r/SurfaceLinux/
-  - name: r/formula1/
-    url: https://www.reddit.com/r/formula1/
+  - name: r/tokipona/
+    url: https://www.reddit.com/r/tokipona/
 
 - name: Reddit PC Hardware
   fontAwesome: th
@@ -303,8 +307,8 @@
     url: http://eng.supercard.sc/manual/dstwo/download.htm
   - name: R4iDS Official
     url: http://www.r4ids.cn/
-  - name: Brook Super Converter
-    url: http://www.brookaccessory.com/detail/33917374/
+  - name: Brook Accessories
+    url: https://www.brookaccessory.com/index.html
   - name: TFT Central LCD Monitor Info
     url: https://www.tftcentral.co.uk/
 
@@ -335,7 +339,7 @@
     url: http://www.goodolddays.net/
   - name: Planet Emulation - Atari ST
     url: https://www.planetemu.net/machine/atari-st
-  - name: Vetusware
+  - name: Vetusware (Abandonware)
     url: https://vetusware.com/
   - name: AmigaVision (Collection)
     url: https://amiga.vision/
@@ -355,6 +359,22 @@
     url: https://docs.google.com/spreadsheets/d/1sdw_JpFOMHv3ASk5RyWXGmv80xyec4v1rSEgXkeF-RE/edit?pli=1#gid=0
   - name: Renascene Vita Excel Sheet
     url: https://disk.yandex.ru/d/9p7MpG3lHyyZFA
+  - name: Hidden Palace
+    url: https://hiddenpalace.org/Main_Page
+  - name: bitsavers.org
+    url: https://bitsavers.org/
+
+- name: Books
+  fontAwesome: th
+  items:
+  - name: Mobilism
+    url: https://forum.mobilism.me/
+  - name: MobileRead
+    url: https://www.mobileread.com/forums/
+  - name: Library Genesis
+    url: https://libgen.li/index.php
+  - name: PDF Drive
+    url: https://www.pdfdrive.com/
 
 - name: Music
   fontAwesome: th
@@ -381,6 +401,8 @@
     url: https://github.com/saramibreak/UmdImageCreator
   - name: Redumper
     url: https://github.com/superg/redumper
+  - name: Aaru
+    url: https://github.com/aaru-dps/Aaru
   - name: Rufus USB Boot
     url: http://rufus.akeo.ie/
   - name: SAMdisk
@@ -461,6 +483,8 @@
     url: https://store.ecompanystore.com/microsoft
   - name: M-Audio BX3
     url: https://m-audio.com/bx3
+  - name: Web Patcher (ips, ppf, etc)
+    url: https://hack64.net/tools/patcher.php
 
 - name: Software - Mac
   fontAwesome: th
@@ -515,8 +539,6 @@
     url: https://www.hdtune.com/
   - name: Stablebit Scanner
     url: https://stablebit.com/Scanner
-  - name: Anki
-    url: https://apps.ankiweb.net/
   - name: ACDSee
     url: https://www.acdsee.com/en/index/
   - name: FastStone Image Viewer
@@ -589,6 +611,12 @@
   items:
   - name: Language Names
     url: https://www.omniglot.com/language/names.htm
+  - name: Anki (Flash Cards)
+    url: https://apps.ankiweb.net/
+  - name: Japanese Pod 101
+    url: https://www.japanesepod101.com/
+  - name: Genki Books
+    url: https://omgjapan.com/pages/genki
 
 - name: Computers
   fontAwesome: th
@@ -645,6 +673,8 @@
     url: https://backgroundchecks.org/safest-cities-in-washington.html
   - name: Crime Rate WA
     url: http://www.usa.com/rank/washington-state--crime-index--city-rank.htm
+  - name: Niche - Places to Live Rankings
+    url: https://www.niche.com/places-to-live/rankings/
 
 - name: Portland, OR
   fontAwesome: th
