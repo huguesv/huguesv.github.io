@@ -363,6 +363,8 @@
     url: https://hiddenpalace.org/Main_Page
   - name: bitsavers.org
     url: https://bitsavers.org/
+  - name: Myrient
+    url: https://myrient.erista.me/
 
 - name: Books
   fontAwesome: th
@@ -375,6 +377,8 @@
     url: https://libgen.li/index.php
   - name: PDF Drive
     url: https://www.pdfdrive.com/
+  - name: Anna's Archive
+    url: https://annas-archive.org/
 
 - name: Music
   fontAwesome: th
