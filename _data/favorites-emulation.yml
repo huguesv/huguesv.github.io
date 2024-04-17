@@ -45,6 +45,8 @@
     url: https://github.com/dolphin-emu/dolphin
   - name: Cemu - Wii U (C++)
     url: https://github.com/cemu-project/Cemu
+  - name: Cemu - WudCompress
+    url: https://github.com/cemu-project/WudCompress
   - name: decaf-emu - Wii U (C++)
     url: https://github.com/decaf-emu/decaf-emu
   - name: Ryujinx - Switch (C#)

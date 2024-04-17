@@ -37,6 +37,8 @@
     url: https://github.com/FrankenApps/Avalonia-CustomTitleBarTemplate
   - name: Fluent Icons for Avalonia
     url: https://avaloniaui.github.io/icons.html
+  - name: Avalonia.Css
+    url: https://github.com/liwuqingxin/Avalonia.Css
 
 - name: .NET GitHub Actions Blogs
   fontAwesome: th
@@ -290,7 +292,7 @@
   - name: 6502.org Tutorials
     url: http://6502.org/tutorials/
   - name: vasm assembler
-    url: http://sun.hasenbraten.de/vasm/  
+    url: http://sun.hasenbraten.de/vasm/
 
 - name: Retro - PC
   fontAwesome: th
@@ -409,6 +411,12 @@
     url: https://www.oxyron.de/html/opcodes02.html
   - name: NES schematic
     url: https://wiki.console5.com/wiki/File:NES-001-Schematic---CPU,-PPU,-RAM,-CIC.png#file
+  - name: 6502sharp Library
+    url: https://github.com/jose-garcia-gaxiola/6502csharp
+  - name: dotnes
+    url: https://www.nuget.org/packages/dotnes/0.1.0-alpha1
+  - name: Poly6502
+    url: https://github.com/MrPolymorph/Poly6502
 
 - name: Emulation - Game Boy
   fontAwesome: th
