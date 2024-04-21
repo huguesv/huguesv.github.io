@@ -60,6 +60,12 @@
   - name: Wii RVZ USA
     url: https://archive.org/details/wii_rvz_usa
 
+- name: Redump Collections (Inactive)
+  fontAwesome: th
+  items:
+  - name: PC Compatible Collection A
+    url: https://archive.org/details/redump_pc_A
+
 - name: Misc Collections (Active)
   fontAwesome: th
   items:
@@ -115,6 +121,8 @@
     url: https://archive.org/details/TotalReplay
   - name: Total Replay II (Apple II)
     url: https://archive.org/details/TotalReplay2
+  - name: Sierra PC CD/DVD Collection
+    url: https://archive.org/details/20231202_20231202_0059
 
 - name: Computers (Inactive)
   fontAwesome: th
@@ -135,6 +143,10 @@
     url: https://archive.org/details/msdn_2023
   - name: MSDN Search
     url: https://archive.org/search?query=msdn
+  - name: AdLib Tracker II
+    url: https://archive.org/details/AdlibTrackerII
+  - name: DOS MOD Trackers
+    url: https://archive.org/details/MODTRACKERS
 
 - name: Consoles (Active)
   fontAwesome: th

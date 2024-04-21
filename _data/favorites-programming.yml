@@ -249,6 +249,8 @@
   items:
   - name: SNES Dev Wiki
     url: https://snes.nesdev.org/wiki/SNESdev_Wiki
+  - name: Super Famicom Wiki
+    url: https://wiki.superfamicom.org/
 
 - name: Retro - NES
   fontAwesome: th
@@ -463,6 +465,8 @@
     url: https://github.com/c-sp/gameboy-test-roms
   - name: sm83-test-data
     url: https://github.com/adtennant/sm83-test-data
+  - name: jsmoo-json-tests
+    url: https://github.com/raddad772/jsmoo-json-tests
 
 - name: Emulation Discussions
   fontAwesome: th

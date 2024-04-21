@@ -65,6 +65,8 @@
     url: https://www.readonlymemo.com/
   - name: Life Is XBox
     url: https://www.lifeisxbox.eu/
+  - name: TrueAchievements
+    url: https://www.trueachievements.com/
 
 - name: Games
   fontAwesome: gamepad
