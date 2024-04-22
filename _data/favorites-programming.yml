@@ -555,6 +555,8 @@
     url: https://ziglang.org/
   - name: Verona
     url: https://github.com/microsoft/verona
+  - name: Nim
+    url: https://nim-lang.org/
   - name: Rust Programming Language Book
     url: https://doc.rust-lang.org/book/
 

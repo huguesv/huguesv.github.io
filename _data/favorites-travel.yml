@@ -18,6 +18,16 @@
   - name: Archive Favorites
     url: /favorites-archive
 
+- name: Road Trips
+  fontAwesome: th
+  items:
+  - name: Road Trippers
+    url: https://roadtrippers.com/
+  - name: Furkot
+    url: https://trips.furkot.com/
+  - name: r/roadtrip
+    url: https://www.reddit.com/r/roadtrip/
+
 - name: Japan Shopping
   fontAwesome: th
   items:
