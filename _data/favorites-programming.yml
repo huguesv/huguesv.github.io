@@ -111,6 +111,8 @@
     url: https://github.com/AArnott/Library.Template
   - name: CentralisedPackageConverter
     url: https://github.com/Webreaper/CentralisedPackageConverter
+  - name: CsWin32
+    url: https://github.com/microsoft/cswin32
 
 - name: C# Tools
   fontAwesome: th
@@ -173,6 +175,10 @@
     url: https://github.com/elw00d/consoleframework
   - name: Guis.cs
     url: https://github.com/migueldeicaza/gui.cs
+  - name: pinvoke
+    url: https://github.com/dotnet/pinvoke
+  - name: MeltySynth
+    url: https://github.com/sinshu/meltysynth
 
 - name: .NET Preservation Libraries
   fontAwesome: th
@@ -237,6 +243,8 @@
     url: https://learn.microsoft.com/en-us/collections/8xkdspykzej5j0
   - name: SharpDX Tutorials
     url: http://english.r2d2rigo.es/sharpdx-tutorials/
+  - name: NAudio MIDI Playback
+    url: https://markheath.net/post/naudio-midi-playback-soundfont-meltysynth
 
 - name: Retro - Genesis / Mega Drive
   fontAwesome: th

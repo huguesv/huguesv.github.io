@@ -303,6 +303,8 @@
     url: https://github.com/ihaveamac/3dsconv
   - name: 3dsencryptv4 (use with pycryptodome on python 2.7)
     url: https://archive.org/details/3dsEncryptV4
+  - name: Luma3DS
+    url: https://github.com/LumaTeam/Luma3DS
 
 - name: Hacking Wii
   fontAwesome: th
