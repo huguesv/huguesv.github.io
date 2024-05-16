@@ -149,6 +149,8 @@
     url: https://www.reddit.com/r/SurfaceLinux/
   - name: r/tokipona/
     url: https://www.reddit.com/r/tokipona/
+  - name: r/persona
+    url: https://www.reddit.com/r/PERSoNA/
 
 - name: Reddit PC Hardware
   fontAwesome: th
@@ -365,6 +367,8 @@
     url: https://hiddenpalace.org/Main_Page
   - name: bitsavers.org
     url: https://bitsavers.org/
+  - name: VOGONS
+    url: https://www.vogons.org/index.php
   - name: Myrient
     url: https://myrient.erista.me/
 
@@ -449,6 +453,8 @@
     url: http://www.midimusicadventures.com/
   - name: The Sierra Adventure Book
     url: https://thesierraadventure.com/
+  - name: AGI Programmer's Wiki
+    url: http://agiwiki.sierrahelp.com/index.php/Main_Page
 
 - name: Videogame Stores
   fontAwesome: th
@@ -514,7 +520,9 @@
   fontAwesome: th
   items:
   - name: aseprite
-    url: https://www.aseprite.org/
+    url: https://github.com/aseprite/aseprite
+  - name: LibreSprite
+    url: https://github.com/LibreSprite/LibreSprite
   - name: Privoxy
     url: http://www.privoxy.org/
   - name: MegaBasterd
@@ -553,8 +561,6 @@
     url: https://affinity.serif.com/en-us/photo/
   - name: Paint.NET
     url: https://www.getpaint.net/download.html
-  - name: DaVinci Resolve 18
-    url: https://www.blackmagicdesign.com/products/davinciresolve
   - name: 5KPlayer
     url: https://www.5kplayer.com/
   - name: CPU-Z
@@ -803,6 +809,10 @@
     url: https://github.com/mordolpl/xMIDI
   - name: Ableton Live 11 Lite
     url: https://www.ableton.com/en/products/live-lite/
+  - name: lmms
+    url: https://github.com/LMMS/lmms
+  - name: FL Studio
+    url: https://www.image-line.com/fl-studio/
 
 - name: MIDI Hardware Articles
   fontAwesome: th

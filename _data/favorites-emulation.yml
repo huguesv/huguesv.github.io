@@ -201,6 +201,8 @@
     url: https://github.com/86Box/86Box
   - name: 86Box Roms
     url: https://github.com/86Box/roms
+  - name: MartyPC - PC (Rust)
+    url: https://github.com/dbalsom/martypc
   - name: Steem SSE - Atari ST (C++)
     url: https://sourceforge.net/projects/steemsse/
   - name: AppleWin - Apple II (C++)

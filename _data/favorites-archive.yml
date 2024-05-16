@@ -147,6 +147,8 @@
     url: https://archive.org/details/AdlibTrackerII
   - name: DOS MOD Trackers
     url: https://archive.org/details/MODTRACKERS
+  - name: eXoWin3x 2.0
+    url: https://archive.org/details/exowin3x_202107
 
 - name: Consoles (Active)
   fontAwesome: th

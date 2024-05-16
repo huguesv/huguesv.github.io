@@ -18,7 +18,7 @@
   - name: Archive Favorites
     url: /favorites-archive
 
-- name: Road Trips
+- name: Road Trips and Planning
   fontAwesome: th
   items:
   - name: Road Trippers
@@ -27,6 +27,14 @@
     url: https://trips.furkot.com/
   - name: r/roadtrip
     url: https://www.reddit.com/r/roadtrip/
+  - name: Wanderlog
+    url: https://wanderlog.com/
+  - name: AllTrails
+    url: https://www.alltrails.com/
+  - name: MapChart
+    url: https://www.mapchart.net/usa-counties.html
+  - name: CrimeGrade
+    url: https://crimegrade.org/crime-in-my-area/
 
 - name: Japan Shopping
   fontAwesome: th

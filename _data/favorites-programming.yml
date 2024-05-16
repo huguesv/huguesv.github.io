@@ -39,6 +39,14 @@
     url: https://avaloniaui.github.io/icons.html
   - name: Avalonia.Css
     url: https://github.com/liwuqingxin/Avalonia.Css
+  - name: AvaloniaILSpy
+    url: https://github.com/icsharpcode/AvaloniaILSpy
+  - name: AvaloniaEdit
+    url: https://github.com/AvaloniaUI/AvaloniaEdit
+  - name: RoslynPad
+    url: https://github.com/roslynpad/roslynpad
+  - name: YouTubeDownloader
+    url: https://github.com/Tyrrrz/YoutubeDownloader
 
 - name: .NET GitHub Actions Blogs
   fontAwesome: th
@@ -76,11 +84,13 @@
   - name: ModernWpf
     url: https://github.com/Kinnara/ModernWpf
 
-- name: .NET WPF Blogs
+- name: .NET Blogs
   fontAwesome: th
   items:
   - name: WPF Custom Title Bar
     url: https://engy.us/blog/2020/01/01/implementing-a-custom-window-title-bar-in-wpf/
+  - name: DotNetCore DeflateStream changes
+    url: https://learn.microsoft.com/en-us/dotnet/core/compatibility/core-libraries/6.0/partial-byte-reads-in-streams
 
 - name: .NET Foundation
   fontAwesome: th
@@ -245,6 +255,10 @@
     url: http://english.r2d2rigo.es/sharpdx-tutorials/
   - name: NAudio MIDI Playback
     url: https://markheath.net/post/naudio-midi-playback-soundfont-meltysynth
+  - name: realworlddotnet (aspnetmvc)
+    url: https://github.com/Erikvdv/realworlddotnet
+  - name: realworldapiminimal (aspnetminapi)
+    url: https://github.com/Erikvdv/realworldapiminimal
 
 - name: Retro - Genesis / Mega Drive
   fontAwesome: th
@@ -411,6 +425,8 @@
     url: https://github.com/7sharp9/Atari-St-Emulator
   - name: GameRoy - JIT compilation in GB emulation
     url: https://rodrigodd.github.io/2023/09/02/gameroy-jit.html
+  - name: No Execute!
+    url: http://www.emulators.com/docs/nx25_nostradamus.htm
 
 - name: Emulation - NES
   fontAwesome: th
@@ -589,6 +605,8 @@
     url: https://www.freepascal.org/
   - name: Open Source Insights
     url: https://deps.dev/
+  - name: jsign
+    url: https://github.com/ebourg/jsign
 
 - name: Reference
   fontAwesome: th
@@ -603,6 +621,12 @@
     url: https://godotengine.org/
   - name: Godot demo projects
     url: https://github.com/godotengine/godot-demo-projects
+
+- name: Game Development - Stride
+  fontAwesome: th
+  items:
+  - name: Stride
+    url: https://www.stride3d.net/
 
 - name: Game Development - Unreal
   fontAwesome: th
