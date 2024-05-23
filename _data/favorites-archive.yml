@@ -83,6 +83,12 @@
     url: https://archive.org/details/En-ROMs
   - name: TOSEC 2023
     url: https://archive.org/details/tosec-main
+  - name: TOSEC Firmware and OS
+    url: https://archive.org/details/tosec_fw_os
+  - name: PICOwesome
+    url: https://archive.org/details/picowesome-v-1.5-apr-12-2024
+  - name: Pico 8
+    url: https://archive.org/details/pico-8-all-versions-collection
 
 - name: MiSTeR Collections (Active)
   fontAwesome: th
@@ -149,6 +155,8 @@
     url: https://archive.org/details/MODTRACKERS
   - name: eXoWin3x 2.0
     url: https://archive.org/details/exowin3x_202107
+  - name: Amiga Game Disk Collection
+    url: https://archive.org/details/amiga_game_disk_collection
 
 - name: Consoles (Active)
   fontAwesome: th

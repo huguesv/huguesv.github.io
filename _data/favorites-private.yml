@@ -267,8 +267,10 @@
     url: http://rom-news.org/3ds
   - name: PreDB.me
     url: http://predb.me/
-  - name: Subscene
-    url: http://www.subscene.com/
+  - name: Subdl
+    url: https://subdl.com/
+  - name: SubSource
+    url: https://subsource.net/
   - name: NSW Releases
     url: http://www.nswdb.com/
   - name: GOG Database
