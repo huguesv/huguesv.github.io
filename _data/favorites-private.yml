@@ -151,6 +151,16 @@
     url: https://www.reddit.com/r/tokipona/
   - name: r/persona
     url: https://www.reddit.com/r/PERSoNA/
+  - name: r/samsung
+    url: https://www.reddit.com/r/samsung/
+  - name: r/PickAnAndroidForMe/
+    url: https://www.reddit.com/r/PickAnAndroidForMe/
+  - name: r/Smartphones/
+    url: https://www.reddit.com/r/Smartphones/
+  - name: r/Android/
+    url: https://www.reddit.com/r/Android/
+  - name: r/androidafterlife/
+    url: https://www.reddit.com/r/androidafterlife/
 
 - name: Reddit PC Hardware
   fontAwesome: th
