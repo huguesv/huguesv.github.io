@@ -611,6 +611,8 @@
     url: https://www.elevenforum.com/t/disable-show-more-options-context-menu-in-windows-11.1589/
   - name: Audacity
     url: https://github.com/audacity/audacity
+  - name: Windows Terminal Themes
+    url: https://windowsterminalthemes.dev/
 
 - name: Educational
   fontAwesome: th

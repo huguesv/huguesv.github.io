@@ -83,6 +83,8 @@
     url: https://github.com/lepoco/wpfui
   - name: ModernWpf
     url: https://github.com/Kinnara/ModernWpf
+  - name: WPF Samples
+    url: https://github.com/microsoft/WPF-Samples
 
 - name: .NET Blogs
   fontAwesome: th
@@ -189,6 +191,8 @@
     url: https://github.com/dotnet/pinvoke
   - name: MeltySynth
     url: https://github.com/sinshu/meltysynth
+  - name: Aelian.FFT
+    url: https://github.com/Aelian-Software/Aelian.FFT
 
 - name: .NET Preservation Libraries
   fontAwesome: th
