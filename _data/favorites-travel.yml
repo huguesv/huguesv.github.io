@@ -43,6 +43,8 @@
     url: https://www.recreation.gov/
   - name: bnbfinder
     url: https://www.bnbfinder.com/
+  - name: Wyndham Rewards
+    url: https://www.wyndhamhotels.com/wyndham-rewards/my-account
 
 - name: Japan Shopping
   fontAwesome: th

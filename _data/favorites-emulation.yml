@@ -59,6 +59,8 @@
     url: https://github.com/Lime3DS/Lime3DS
   - name: Citra-Enhanced
     url: https://github.com/Gamer64ytb/Citra-Enhanced
+  - name: Sudachi
+    url: https://github.com/sudachi-emu/sudachi
 
 - name: Consoles
   fontAwesome: th
