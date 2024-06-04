@@ -41,6 +41,8 @@
   items:
   - name: Expedia
     url: https://expedia.com/
+  - name: Booking.com
+    url: https://booking.com/
   - name: recreation.gov
     url: https://www.recreation.gov/
   - name: bnbfinder
