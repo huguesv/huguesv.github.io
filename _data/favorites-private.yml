@@ -519,10 +519,6 @@
     url: https://peazip.github.io/peazip-macos.html
   - name: NMac Ked
     url: https://nmac.to/now/
-  - name: YYY
-    url: XXX
-  - name: YYY
-    url: XXX
 
 - name: Software - Android
   fontAwesome: th
