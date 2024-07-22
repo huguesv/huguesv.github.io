@@ -563,6 +563,10 @@
     url: https://github.com/ZarehD/AspNetStatic
   - name: ASP.NET documentation
     url: https://learn.microsoft.com/en-us/aspnet/core/
+  - name: Fast Endpoints
+    url: https://fast-endpoints.com/
+  - name: DotVVM
+    url: https://www.dotvvm.com/
 
 - name: Uno Platform
   fontAwesome: th

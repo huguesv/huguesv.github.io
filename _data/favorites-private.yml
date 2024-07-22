@@ -223,6 +223,8 @@
     url: https://github.com/Dremora/redump
   - name: PlayStation 3 Center
     url: https://www.playstation3-center.com/
+  - name: APrip (PSX Protection Bypass)
+    url: https://github.com/alex-free/aprip
 
 - name: News
   fontAwesome: th
@@ -313,6 +315,12 @@
     url: https://csdb.dk/
   - name: The OPL Archive
     url: https://opl.wafflenet.com/
+
+- name: Mobile Hardware
+  fontAwesome: th
+  items:
+  - name: CMF by Nothing
+    url: https://cmf.tech/
 
 - name: Hardware
   fontAwesome: th
@@ -861,6 +869,12 @@
   items:
   - name: Kq1redux
     url: http://www.edenwaith.com/products/kq1redux/
+
+- name: Security
+  fontAwesome: th
+  items:
+  - name: Internet Crime Complaint Center
+    url: https://www.ic3.gov/
 
 - name: Blogs
   fontAwesome: rss

@@ -7,6 +7,8 @@
     url: http://arstechnica.com/
   - name: Windows Central
     url: http://www.windowscentral.com/
+  - name: Android Central
+    url: https://www.androidcentral.com/
   - name: Tom's Hardware
     url: http://www.tomshardware.com/
   - name: AnandTech
@@ -84,6 +86,14 @@
   - name: PlayStation Blog
     url: http://blog.us.playstation.com/
 
+- name: Online Games
+  fontAwesome: gamepad
+  items:
+  - name: Waffle
+    url: https://wafflegame.net/daily
+  - name: Wordle
+    url: https://www.nytimes.com/games/wordle/index.html
+
 - name: Ratings
   fontAwesome: film
   items:
@@ -101,40 +111,48 @@
     url: http://www.amazon.com
   - name: Woot
     url: http://woot.com
-  - name: Humble Bundle
-    url: https://www.humblebundle.com/
-  - name: GOG
-    url: https://www.gog.com/
-  - name: Steam
-    url: http://store.steampowered.com/
   - name: ebay
     url: https://www.ebay.com/
   - name: Limited Run Games
     url: https://limitedrungames.com/
   - name: Limited Run Games (Amazon)
     url: https://www.amazon.com/stores/page/CFCC52C3-11E2-45EE-800C-C98322700090
-  - name: PlayStation Store
-    url: https://store.playstation.com/en-us/latest
-  - name: PSPrices
-    url: https://psprices.com/region-us/index
   - name: Hardcopygames
     url: https://hardcopygames.com/
   - name: Stictly Limited
     url: https://www.strictlylimitedgames.com/
   - name: iam8bit
     url: https://www.iam8bit.com/collections/all
-  - name: itch.io
-    url: https://itch.io/
   - name: OfferUp
     url: https://offerup.com/
-  - name: Kobo
-    url: https://kobo.com
   - name: OMG Japan
     url: https://omgjapan.com/
   - name: Keychron
     url: https://www.keychron.com/
   - name: NuPhy
     url: https://nuphy.com/
+
+- name: Digital Stores
+  fontAwesome: shopping-cart
+  items:
+  - name: GOG
+    url: https://www.gog.com/
+  - name: Steam
+    url: http://store.steampowered.com/
+  - name: Amazon Prime Gaming
+    url: https://gaming.amazon.com/home
+  - name: PlayStation Store
+    url: https://store.playstation.com/en-us/latest
+  - name: PSPrices
+    url: https://psprices.com/region-us/index
+  - name: Humble Bundle
+    url: https://www.humblebundle.com/
+  - name: itch.io
+    url: https://itch.io/
+  - name: Kobo
+    url: https://kobo.com
+  - name: ZOOM Platform
+    url: https://www.zoom-platform.com/
 
 - name: Mail
   fontAwesome: envelope-o

@@ -89,6 +89,8 @@
     url: https://archive.org/details/picowesome-v-1.5-apr-12-2024
   - name: Pico 8
     url: https://archive.org/details/pico-8-all-versions-collection
+  - name: infidelity SNES ports
+    url: https://archive.org/details/@infidelity
 
 - name: MiSTeR Collections (Active)
   fontAwesome: th

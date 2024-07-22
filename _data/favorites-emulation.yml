@@ -235,6 +235,10 @@
     url: https://github.com/lethal-guitar/RigelEngine
   - name: NAGI
     url: https://github.com/sonneveld/nagi
+  - name: FreeCol
+    url: https://www.freecol.org/
+  - name: FreeCiv
+    url: https://www.freeciv.org/
 
 - name: Frontends
   fontAwesome: th
