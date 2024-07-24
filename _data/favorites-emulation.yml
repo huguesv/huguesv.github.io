@@ -31,8 +31,10 @@
     url: http://mednafen.sourceforge.net/
   - name: LibRetro Blog
     url: https://www.libretro.com/index.php/category/blog/
-  - name: LibRetroRT
-    url: https://github.com/Aftnet/LibretroRT
+  - name: LibRetro Buildbot
+    url: https://buildbot.libretro.com/
+  - name: RetroArch
+    url: https://retroarch.com/index.php
   - name: CLK - Multi (C++)
     url: https://github.com/TomHarte/CLK
   - name: Open Emu (for Mac Only)
