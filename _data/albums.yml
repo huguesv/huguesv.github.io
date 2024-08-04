@@ -1,8 +1,43 @@
 - isVisible: true
-  url: https://1drv.ms/a/s!Aqm-P08YuP3EiKQcxpjlOv1cMEQwiQ?e=5mI80g
-  name: Road trip
+  url: https://1drv.ms/a/s!Aqm-P08YuP3EiMQYB77z2tkOuvfAtw?e=mI7OrT
+  name: Road Trip Part 1 - Washington, Idaho, Montana, Wyoming
   date: 2024-06
-  file: 2024-06-Roadtrip.jpg
+  file: 2024-06-DevilsTower.jpg
+- isVisible: true
+  url: https://1drv.ms/a/s!Aqm-P08YuP3EiMQZTvIY1UVO-q6ugg?e=YRLU1x
+  name: Road Trip Part 2 - South Dakota, Minnesota
+  date: 2024-06
+  file: 2024-06-Badlands.jpg
+- isVisible: true
+  url: https://1drv.ms/a/s!Aqm-P08YuP3EiMQaQHqUbMCd6YouFw?e=wkXYVd
+  name: Road Trip Part 3 - Wisconsin, Ohio, New York, Vermont
+  date: 2024-06
+  file: 2024-06-Madison.jpg
+- isVisible: true
+  url: https://1drv.ms/a/s!Aqm-P08YuP3EiMQbGlF-m6bfL_JXLg?e=EGhfM5
+  name: Road Trip Part 4 - Quebec
+  date: 2024-06
+  file: 2024-06-Montreal.jpg
+- isVisible: true
+  url: https://1drv.ms/a/s!Aqm-P08YuP3EiMQcOZSvrnu8NbJpcA?e=RTfiEh
+  name: Road Trip Part 5 - Vermont, New Hampshire, Massachusetts, Rhode Island, Connecticut
+  date: 2024-07
+  file: 2024-07-Newport.jpg
+- isVisible: true
+  url: https://1drv.ms/a/s!Aqm-P08YuP3EiMQd6r2iuaS-S1Xw1w?e=upVnct
+  name: Road Trip Part 6 - New Jersey, Pennsylvania
+  date: 2024-07
+  file: 2024-07-Philadelphia.jpg
+- isVisible: true
+  url: https://1drv.ms/a/s!Aqm-P08YuP3EiMQe8qiAhoi8LP3zJw?e=frEA27
+  name: Road Trip Part 7 - Ohio, Indiana, Illinois, Missouri
+  date: 2024-07
+  file: 2024-07-StLouis.jpg
+- isVisible: true
+  url: https://1drv.ms/a/s!Aqm-P08YuP3EiMQfVkbU5tGT-ddycg?e=DnP7jA
+  name: Road Trip Part 8 - Kansas, Colorado, Utah, Idaho
+  date: 2024-07
+  file: 2024-07-Utah.jpg
 - isVisible: true
   url: https://1drv.ms/a/s!Aqm-P08YuP3EiIouGKH_8qp0W5rIvw?e=jVhUQO
   name: Lake Serene and Bridal Veil Falls
