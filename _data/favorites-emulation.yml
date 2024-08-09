@@ -215,6 +215,8 @@
     url: https://github.com/ArthurFerreira2/reinette-II-plus-dot-py
   - name: Chips - Multi System Library (C)
     url: https://github.com/floooh/chips
+  - name: Zen - Z80/ZX Spectrum (C#)
+    url: https://github.com/stevehjohn/Zen
 
 - name: Computers (Inactive)
   fontAwesome: th

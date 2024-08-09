@@ -523,6 +523,24 @@
     url: https://playwright.dev/
   - name: Fluent UI React Components
     url: https://react.fluentui.dev/
+  - name: Astro
+    url: https://astro.build/
+  - name: Gatsby
+    url: https://www.gatsbyjs.com/
+  - name: Tailwind CSS
+    url: https://tailwindcss.com/
+
+- name: Databases
+  fontAwesome: th
+  items:
+  - name: RavenDB
+    url: https://ravendb.net/
+  - name: RavenDB (GitHub)
+    url: https://github.com/ravendb/ravendb
+  - name: LiteDB
+    url: https://www.litedb.org/
+  - name: LiteDB (GitHub)
+    url: https://github.com/mbdavid/LiteDB
 
 - name: Web Samples
   fontAwesome: th
@@ -593,6 +611,12 @@
     url: https://nim-lang.org/
   - name: Rust Programming Language Book
     url: https://doc.rust-lang.org/book/
+
+- name: Compilers
+  fontAwesome: th
+  items:
+  - name: ANTLR
+    url: https://www.antlr.org/index.html
 
 - name: Misc
   fontAwesome: th
@@ -669,3 +693,9 @@
     url: https://github.com/fdehau/tui-rs
   - name: VS2017 Rust Extension
     url: https://github.com/ZoeyR/rls-vs2017
+
+- name: Security
+  fontAwesome: th
+  items:
+  - name: Signing VSIX Packages
+    url: https://learn.microsoft.com/en-us/visualstudio/extensibility/signing-vsix-packages?view=vs-2022

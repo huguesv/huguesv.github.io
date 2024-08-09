@@ -39,6 +39,8 @@
     url: https://archive.org/details/@revengeofthehubz
   - name: JustAnotherArchivist (Repo Bundles)
     url: https://archive.org/details/@justanotherarchivist
+  - name: Seventy7
+    url: https://archive.org/details/@seventy777
 
 - name: No-Intro Collections (Active)
   fontAwesome: th
@@ -59,6 +61,8 @@
   items:
   - name: Wii RVZ USA
     url: https://archive.org/details/wii_rvz_usa
+  - name: BMB Karaoke
+    url: https://archive.org/details/BMB-Karaoke-CDi
 
 - name: Redump Collections (Inactive)
   fontAwesome: th
@@ -91,6 +95,10 @@
     url: https://archive.org/details/pico-8-all-versions-collection
   - name: infidelity SNES ports
     url: https://archive.org/details/@infidelity
+  - name: Nintendo - Super Famicom - MSU1
+    url: https://archive.org/details/nintendo-super-famicom-msu1/
+  - name: BMB Karaoke CVD Series (non-redump)
+    url: https://archive.org/details/bmb-karaoke-cvd-series-japan-video-cd
 
 - name: MiSTeR Collections (Active)
   fontAwesome: th
@@ -181,6 +189,8 @@
     url: https://archive.org/details/nintendo-wii-u-eshop-usa-full-set-wua-format-embedded-dlc-updates
   - name: Wii U - Retail NUS [USA]
     url: https://archive.org/details/wii-u-retail-nus-usa
+  - name: romhacking.net 20240801
+    url: https://archive.org/details/romhacking.net-20240801
 
 - name: Users (Inactive)
   fontAwesome: th

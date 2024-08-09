@@ -37,6 +37,10 @@
     url: http://www.polygon.com/
   - name: The Sixth Axis
     url: http://www.thesixthaxis.com/
+  - name: Video Games Chronicle
+    url: https://www.videogameschronicle.com/
+  - name: Eurogamer
+    url: https://www.eurogamer.net/
   - name: Kotaku
     url: http://www.kotaku.com/
   - name: Nintendo Life
@@ -59,8 +63,6 @@
     url: https://ind13.com/
   - name: Old School Gamer Magazine
     url: https://www.oldschoolgamermagazine.com/
-  - name: Video Games Chronicle
-    url: https://www.videogameschronicle.com/
   - name: Video Chums
     url: https://videochums.com/
   - name: Read Only Memo

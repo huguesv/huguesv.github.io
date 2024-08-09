@@ -225,6 +225,10 @@
     url: https://www.playstation3-center.com/
   - name: APrip (PSX Protection Bypass)
     url: https://github.com/alex-free/aprip
+  - name: Media Preservation Frontend (MPF)
+    url: https://github.com/SabreTools/MPF
+  - name: ps3-disc-dumper
+    url: https://github.com/13xforever/ps3-disc-dumper
 
 - name: News
   fontAwesome: th
@@ -407,6 +411,8 @@
     url: https://www.pdfdrive.com/
   - name: Anna's Archive
     url: https://annas-archive.org/
+  - name: Free Magazines Online
+    url: https://freemagazines.top/
 
 - name: Music
   fontAwesome: th
@@ -451,6 +457,8 @@
     url: https://github.com/MiniGlome/Archive.org-Downloader#readme
   - name: gogcli
     url: https://github.com/Magnitus-/gogcli
+  - name: WinSetView
+    url: https://github.com/LesFerch/WinSetView
 
 - name: Sierra
   fontAwesome: th
@@ -619,6 +627,14 @@
     url: https://github.com/audacity/audacity
   - name: Windows Terminal Themes
     url: https://windowsterminalthemes.dev/
+  - name: WordTsar
+    url: http://wordtsar.ca/
+
+- name: Software - Linux
+  fontAwesome: th
+  items:
+  - name: bazzite
+    url: https://bazzite.gg/
 
 - name: Educational
   fontAwesome: th
