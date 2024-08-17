@@ -40,7 +40,7 @@
   - name: Weather
     url: http://www.weather.com/weather/tenday/98004
   - name: Smith Tower
-    url: http://smithtower.com/Observation.html
+    url: http://smithtower.com/
   - name: University of Washington TV
     url: http://www.uwtv.org/
   - name: Seattle Public Library
@@ -109,6 +109,10 @@
     url: https://www.reddit.com/r/csharp/
   - name: r/DotNet
     url: https://www.reddit.com/r/dotnet/
+  - name: r/VisualStudio
+    url: https://www.reddit.com/r/VisualStudio/
+  - name: r/vscode
+    url: https://www.reddit.com/r/vscode/
   - name: r/formula1/
     url: https://www.reddit.com/r/formula1/
   - name: r/Roms
@@ -629,6 +633,12 @@
     url: https://windowsterminalthemes.dev/
   - name: WordTsar
     url: http://wordtsar.ca/
+  - name: Lossless Cut
+    url: https://github.com/mifi/lossless-cut
+  - name: Affinity (Photo Editing)
+    url: https://affinity.serif.com/en-us/
+  - name: Scoop Package Manager
+    url: https://scoop.sh/
 
 - name: Software - Linux
   fontAwesome: th
