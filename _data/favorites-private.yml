@@ -381,6 +381,8 @@
     url: https://www.cpc-power.com/cpcarchives/index.php?page=accueil
   - name: RetroArchive
     url: http://www.retroarchive.org/cdrom/index.html
+  - name: IBMPC.org
+    url: https://ibm-pc.org/
   - name: Steve's Computer Collection
     url: https://oldcomputers.net/
   - name: 0MHz DOS Collection

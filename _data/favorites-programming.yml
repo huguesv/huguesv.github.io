@@ -85,6 +85,8 @@
     url: https://github.com/Kinnara/ModernWpf
   - name: WPF Samples
     url: https://github.com/microsoft/WPF-Samples
+  - name: Midi Piano
+    url: https://github.com/coffeesurplus/midipiano/
 
 - name: .NET Blogs
   fontAwesome: th
@@ -193,6 +195,12 @@
     url: https://github.com/sinshu/meltysynth
   - name: Aelian.FFT
     url: https://github.com/Aelian-Software/Aelian.FFT
+  - name: ShapeEngine
+    url: https://github.com/DaveGreen-Games/ShapeEngine
+  - name: Raylib
+    url: https://github.com/raysan5/raylib
+  - name: Raylib-CSharp
+    url: https://github.com/MrScautHD/Raylib-CSharp
 
 - name: .NET Preservation Libraries
   fontAwesome: th

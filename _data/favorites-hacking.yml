@@ -299,6 +299,8 @@
     url: https://archive.org/details/3dsEncryptV4
   - name: Luma3DS
     url: https://github.com/LumaTeam/Luma3DS
+  - name: MSET9
+    url: https://github.com/zoogie/MSET9
 
 - name: Hacking Wii
   fontAwesome: th
