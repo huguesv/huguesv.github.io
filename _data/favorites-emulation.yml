@@ -113,6 +113,8 @@
     url: https://github.com/mgba-emu/mgba
   - name: GBG - Game Boy (Closed Source)
     url: https://bgb.bircd.org/
+  - name: VirtualBoyGo
+    url: https://github.com/CidVonHighwind/VirtualBoyGo
 
 - name: Consoles
   fontAwesome: th

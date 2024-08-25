@@ -691,6 +691,8 @@
   items:
   - name: Tiled
     url: https://www.mapeditor.org/
+  - name: Webtyler
+    url: https://wareya.github.io/webtyler/
 
 - name: Programming Rust
   fontAwesome: th

@@ -746,6 +746,14 @@
   - name: Portland Retro Gaming Expo (September)
     url: https://www.retrogamingexpo.com/
 
+- name: Dallas, TX
+  fontAwesome: th
+  items:
+  - name: Time Rift Arcade
+    url: https://timeriftarcade.com/
+  - name: Electric Starship Arcade
+    url: https://electricstarshiparcade.com/
+
 - name: Hiking
   fontAwesome: th
   items:
