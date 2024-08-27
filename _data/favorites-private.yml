@@ -417,8 +417,16 @@
     url: https://www.pdfdrive.com/
   - name: Anna's Archive
     url: https://annas-archive.org/
+
+- name: Magazines
+  fontAwesome: th
+  items:
+  - name: Retromags
+    url: https://www.retromags.com/
   - name: Free Magazines Online
     url: https://freemagazines.top/
+  - name: DownMagaz
+    url: https://downmagaz.net/
 
 - name: Music
   fontAwesome: th
