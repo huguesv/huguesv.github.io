@@ -105,6 +105,10 @@
     url: http://www.imdb.com/
   - name: Metacritic
     url: http://www.metacritic.com/game
+  - name: Book Marks
+    url: https://bookmarks.reviews/
+  - name: The StoryGraph
+    url: https://www.thestorygraph.com/
 
 - name: Stores
   fontAwesome: shopping-cart

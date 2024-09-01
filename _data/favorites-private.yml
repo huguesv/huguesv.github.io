@@ -81,6 +81,8 @@
     url: https://microsoft.crossoverhealth.com/signin
   - name: HealthCare.gov
     url: https://www.healthcare.gov/
+  - name: Fight Your Health Insurance
+    url: https://fighthealthinsurance.com/
 
 - name: Usenet Indexers
   fontAwesome: th
@@ -99,7 +101,7 @@
   items:
   - name: r/emulation
     url: https://www.reddit.com/r/emulation/
-  - name: r/fpgagaming/
+  - name: r/fpgagaming
     url: https://www.reddit.com/r/fpgagaming/
   - name: r/MiSTerFPGA
     url: https://www.reddit.com/r/MiSTerFPGA/
@@ -113,13 +115,19 @@
     url: https://www.reddit.com/r/VisualStudio/
   - name: r/vscode
     url: https://www.reddit.com/r/vscode/
-  - name: r/formula1/
+  - name: r/nextjs
+    url: https://www.reddit.com/r/nextjs/
+  - name: r/react
+    url: https://www.reddit.com/r/react/
+  - name: r/typescript
+    url: https://www.reddit.com/r/typescript/
+  - name: r/formula1
     url: https://www.reddit.com/r/formula1/
   - name: r/Roms
     url: https://www.reddit.com/r/Roms/
-  - name: r/PiratedGames/
+  - name: r/PiratedGames
     url: https://www.reddit.com/r/PiratedGames/
-  - name: r/FREEMEDIAHECKYEAH/
+  - name: r/FREEMEDIAHECKYEAH
     url: https://www.reddit.com/r/FREEMEDIAHECKYEAH/
   - name: r/DataHoarder
     url: https://www.reddit.com/r/DataHoarder/
@@ -165,6 +173,8 @@
     url: https://www.reddit.com/r/Android/
   - name: r/androidafterlife/
     url: https://www.reddit.com/r/androidafterlife/
+  - name: r/InternetIsBeautiful
+    url: https://www.reddit.com/r/InternetIsBeautiful/
 
 - name: Reddit PC Hardware
   fontAwesome: th
@@ -269,6 +279,8 @@
 - name: MiSTer Shops
   fontAwesome: th
   items:
+  - name: Retro Remake
+    url: https://retroremake.co/
   - name: MiSTer Add-Ons Shop
     url: https://misteraddons.com/
   - name: MiSTer UK Shop
@@ -403,6 +415,8 @@
     url: https://www.vogons.org/index.php
   - name: Myrient
     url: https://myrient.erista.me/
+  - name: WePlayDOS
+    url: https://weplaydos.games/
 
 - name: Books
   fontAwesome: th
@@ -427,6 +441,12 @@
     url: https://freemagazines.top/
   - name: DownMagaz
     url: https://downmagaz.net/
+  - name: pdfmagazinesclub
+    url: https://pdfmagazines.club/
+  - name: Classic Computer Magazine Archive
+    url: https://www.atarimagazines.com/
+  - name: Retro Gamer Google Drive
+    url: https://drive.google.com/drive/folders/11dDQY4Q8rIjAYgtprw7b1t52tslYz4KS
 
 - name: Music
   fontAwesome: th
@@ -473,6 +493,8 @@
     url: https://github.com/Magnitus-/gogcli
   - name: WinSetView
     url: https://github.com/LesFerch/WinSetView
+  - name: spotube
+    url: https://github.com/KRTirtho/spotube
 
 - name: Sierra
   fontAwesome: th
@@ -633,6 +655,10 @@
     url: https://github.com/sumatrapdfreader/sumatrapdf
   - name: VLC
     url: https://www.videolan.org/
+  - name: VLC libdvdcss
+    url: https://www.videolan.org/developers/libdvdcss.html
+  - name: Redump Wiki BD-Video Key Extraction
+    url: http://wiki.redump.org/index.php?title=BD-Video_Key_Extraction
   - name: Bluray Playback with libaacs
     url: https://forum.doom9.org/showthread.php?p=1886086#post1886086
   - name: Win11 Context Menu Customization

@@ -537,24 +537,56 @@
     url: https://www.gatsbyjs.com/
   - name: Tailwind CSS
     url: https://tailwindcss.com/
+  - name: Next.js
+    url: https://nextjs.org/
 
 - name: Databases
   fontAwesome: th
   items:
+  - name: PostgreSQL
+    url: https://www.postgresql.org/
   - name: RavenDB
     url: https://ravendb.net/
   - name: RavenDB (GitHub)
     url: https://github.com/ravendb/ravendb
+  - name: MongoDB
+    url: https://www.mongodb.com/
+  - name: Mongoose OM
+    url: https://mongoosejs.com/
   - name: LiteDB
     url: https://www.litedb.org/
   - name: LiteDB (GitHub)
     url: https://github.com/mbdavid/LiteDB
+  - name: Supabase
+    url: https://supabase.com/
+  - name: SQLite
+    url: https://www.sqlite.org/
+  - name: Turso (SQLite for Production)
+    url: https://turso.tech/
+  - name: PlanetScale (MySQL)
+    url: https://planetscale.com/
+  - name: Drizzle ORM
+    url: https://orm.drizzle.team/
+  - name: Prisma ORM
+    url: https://www.prisma.io/
+
+- name: Hosting
+  fontAwesome: th
+  items:
+  - name: Vercel (Node, Python, Postgres)
+    url: https://vercel.com/
 
 - name: Web Samples
   fontAwesome: th
   items:
   - name: RecreatedApps
     url: https://github.com/CodingWithLewis/RecreatedApps
+
+- name: Web Templates
+  fontAwesome: th
+  items:
+  - name: supastarter (Next.js, Nuxt, Sveltekit)
+    url: https://supastarter.dev/
 
 - name: SwiftUI
   fontAwesome: th
