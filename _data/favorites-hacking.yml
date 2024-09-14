@@ -318,7 +318,7 @@
   - name: Tinke DS Viewer
     url: https://github.com/pleonex/tinke/
 
-- name: Hacking XBOX
+- name: Hacking Xbox
   fontAwesome: th
   items:
   - name: XBE Format
@@ -327,6 +327,8 @@
     url: https://github.com/Qubits01/patch_xiso
   - name: XVD and XVC Tool
     url: https://github.com/emoose/xvdtool
+  - name: Xbox One Research
+    url: https://xboxoneresearch.github.io/
 
 - name: Hacking
   fontAwesome: th

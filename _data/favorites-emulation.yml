@@ -267,6 +267,8 @@
     url: https://github.com/sysprogs/WinCDEmu
   - name: goldberg - Steam Emulator
     url: https://gitlab.com/Mr_Goldberg/goldberg_emulator
+  - name: Applesauce
+    url: https://applesaucefdc.com/
 
 - name: Guides
   fontAwesome: th

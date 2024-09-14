@@ -41,6 +41,22 @@
     url: https://archive.org/details/@justanotherarchivist
   - name: Seventy7
     url: https://archive.org/details/@seventy777
+  - name: madhattersez
+    url: https://archive.org/details/@madhattersez
+  - name: digitoxin
+    url: https://archive.org/details/@digitoxin
+  - name: purplenekonova
+    url: https://archive.org/details/@purple-nekonova
+
+- name: Users (Inactive)
+  fontAwesome: th
+  items:
+  - name: Forest of Illusion
+    url: https://archive.org/details/@rvt-r
+  - name: A Woz A Day
+    url: https://archive.org/details/wozaday
+  - name: Apple II Canada Flux
+    url: https://archive.org/details/@disk_blitz
 
 - name: No-Intro Collections (Active)
   fontAwesome: th
@@ -169,6 +185,10 @@
     url: https://archive.org/details/exowin3x_202107
   - name: Amiga Game Disk Collection
     url: https://archive.org/details/amiga_game_disk_collection
+  - name: Apple II Flux Reads Jan 2023
+    url: https://archive.org/details/flux_reads_january_2023
+  - name: Apple II Flux Reads Winter 2023
+    url: https://archive.org/details/Flux_Flavors_Winter_2023
 
 - name: Consoles (Active)
   fontAwesome: th
@@ -193,22 +213,6 @@
     url: https://archive.org/details/wii-u-retail-nus-usa
   - name: romhacking.net 20240801
     url: https://archive.org/details/romhacking.net-20240801
-
-- name: Users (Active)
-  fontAwesome: th
-  items:
-  - name: madhattersez
-    url: https://archive.org/details/@madhattersez
-  - name: digitoxin
-    url: https://archive.org/details/@digitoxin
-  - name: purplenekonova
-    url: https://archive.org/details/@purple-nekonova
-
-- name: Users (Inactive)
-  fontAwesome: th
-  items:
-  - name: Forest of Illusion
-    url: https://archive.org/details/@rvt-r
 
 - name: Tools
   fontAwesome: th

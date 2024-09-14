@@ -272,11 +272,31 @@
   - name: realworldapiminimal (aspnetminapi)
     url: https://github.com/Erikvdv/realworldapiminimal
 
+- name: Retro - General
+  fontAwesome: th
+  items:
+  - name: 8bitworkshop
+    url: https://8bitworkshop.com/
+  - name: QB64PE
+    url: https://www.qb64phoenix.com/
+  - name: Tic-80
+    url: https://tic80.com/
+  - name: Turbo Rascal
+    url: https://retrogamecoders.com/introduction-to-trse-programming/
+
 - name: Retro - Genesis / Mega Drive
   fontAwesome: th
   items:
   - name: SGDK
     url: https://github.com/Stephane-D/SGDK
+
+- name: Retro - SMS
+  fontAwesome: th
+  items:
+  - name: devkitSMS
+    url: https://github.com/sverx/devkitSMS
+  - name: devkitSMS example game
+    url: https://github.com/jflores82/raposadosol
 
 - name: Retro - SNES
   fontAwesome: th
@@ -295,6 +315,8 @@
     url: https://pubby.games/nesfab/maze_tutorial.html
   - name: FamiStudio
     url: https://famistudio.org/
+  - name: NESFab
+    url: https://pubby.games/nesfab.html
 
 - name: Retro - GameBoy
   fontAwesome: th
@@ -402,6 +424,12 @@
   - name: Music Players and Libraries
     url: http://www.dcee.net/Files/Programm/Sound/
 
+- name: Retro - Apple II
+  fontAwesome: th
+  items:
+  - name: Apple II graphics
+    url: https://nicole.express/2024/phasing-in-and-out-of-existence.html
+
 - name: Retro - C64
   fontAwesome: th
   items:
@@ -409,6 +437,11 @@
     url: https://retrogamecoders.com/
   - name: C64Studio
     url: https://github.com/GeorgRottensteiner/C64Studio/
+
+- name: Retro - Tandy Coco
+  items:
+  - name: awesome-coco
+    url: https://github.com/dougmasten/awesome-coco
 
 - name: Retro - Assembly
   fontAwesome: th
@@ -537,8 +570,40 @@
     url: https://www.gatsbyjs.com/
   - name: Tailwind CSS
     url: https://tailwindcss.com/
+  - name: Tailwind Play
+    url: https://play.tailwindcss.com/
+  - name: TailwindFlex
+    url: https://tailwindflex.com/
+  - name: TW Elements
+    url: https://tw-elements.com/
   - name: Next.js
     url: https://nextjs.org/
+  - name: Next.js Weekly
+    url: https://nextjsweekly.com/
+  - name: NestJS
+    url: https://nestjs.com/
+  - name: shadcn
+    url: https://ui.shadcn.com/
+  - name: React Hook form
+    url: https://react-hook-form.com/
+  - name: quick-lint-js
+    url: https://quick-lint-js.com/
+
+- name: Web Tutorials
+  items:
+  - name: safak repositories
+    url: https://github.com/safak?tab=repositories
+
+- name: Node.js Runtimes
+  fontAwesome: th
+  items:
+  - name: Node.js
+    url: https://nodejs.org/
+  - name: Bun
+    url: https://bun.sh/
+  - name: Deno
+    url: https://deno.com/
+
 
 - name: Databases
   fontAwesome: th
@@ -569,6 +634,8 @@
     url: https://orm.drizzle.team/
   - name: Prisma ORM
     url: https://www.prisma.io/
+  - name: 2023 State of Databases for Serverless and Edge
+    url: https://leerob.substack.com/p/databases-serverless-edge
 
 - name: Hosting
   fontAwesome: th

@@ -61,6 +61,10 @@
     url: https://www.thefair.com/washington-state-fair/
   - name: Northwest Railway Museum
     url: https://trainmuseum.org/
+  - name: The Urbanist
+    url: https://www.theurbanist.org/
+  - name: Shredding Service
+    url: https://www.proshred.com/seattle/
 
 - name: Cars
   fontAwesome: th
@@ -125,10 +129,14 @@
     url: https://www.reddit.com/r/formula1/
   - name: r/Roms
     url: https://www.reddit.com/r/Roms/
+  - name: r/Roms Megathread
+    url: https://r-roms.github.io/
   - name: r/PiratedGames
     url: https://www.reddit.com/r/PiratedGames/
   - name: r/FREEMEDIAHECKYEAH
     url: https://www.reddit.com/r/FREEMEDIAHECKYEAH/
+  - name: r/FREEMEDIAHECKYEAH Wiki
+    url: https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/
   - name: r/DataHoarder
     url: https://www.reddit.com/r/DataHoarder/
   - name: r/ps3hacks
@@ -175,6 +183,14 @@
     url: https://www.reddit.com/r/androidafterlife/
   - name: r/InternetIsBeautiful
     url: https://www.reddit.com/r/InternetIsBeautiful/
+  - name: r/BellevueWA
+    url: https://www.reddit.com/r/BellevueWA/
+  - name: r/Seattle
+    url: https://www.reddit.com/r/Seattle/
+  - name: r/kingcounty
+    url: https://www.reddit.com/r/kingcounty/
+  - name: r/Washington
+    url: https://www.reddit.com/r/Washington/
 
 - name: Reddit PC Hardware
   fontAwesome: th
@@ -237,6 +253,12 @@
     url: https://github.com/Dremora/redump
   - name: PlayStation 3 Center
     url: https://www.playstation3-center.com/
+  - name: Photo Scanner Recommendations
+    url: https://www.reddit.com/r/DataHoarder/comments/1f7evx5/what_is_the_current_best_affordable_scanner_for/
+
+- name: Preservation Tools
+  fontAwesome: th
+  items:
   - name: APrip (PSX Protection Bypass)
     url: https://github.com/alex-free/aprip
   - name: Media Preservation Frontend (MPF)
@@ -417,6 +439,8 @@
     url: https://myrient.erista.me/
   - name: WePlayDOS
     url: https://weplaydos.games/
+  - name: King's Quest VI Demake
+    url: https://www.atarimania.com/game-atari-st-king-s-quest-vi-heir-today-gone-tomorrow_43026.html
 
 - name: Books
   fontAwesome: th
@@ -543,6 +567,8 @@
   items:
   - name: OpenStreetMap
     url: http://www.openstreetmap.org/
+  - name: GPS Visualizer
+    url: https://www.gpsvisualizer.com/
   - name: Open UHS
     url: http://freshmeat.net/projects/openuhs
   - name: VPN Providers
@@ -707,6 +733,8 @@
   items:
   - name: Language Names
     url: https://www.omniglot.com/language/names.htm
+  - name: Language ISO 639.2 Codes
+    url: https://www.loc.gov/standards/iso639-2/php/code_list.php
   - name: Anki (Flash Cards)
     url: https://apps.ankiweb.net/
   - name: Japanese Pod 101
@@ -743,6 +771,8 @@
     url: https://www.iconfinder.com/
   - name: Noun Project
     url: https://thenounproject.com/
+  - name: Pexels
+    url: https://www.pexels.com/
 
 - name: Finance
   fontAwesome: th
@@ -761,6 +791,8 @@
     url: https://www.apartments.com/
   - name: Apartment Ratings
     url: https://www.apartmentratings.com/
+  - name: Furnished Finder
+    url: https://www.furnishedfinder.com/
 
 - name: Cities
   fontAwesome: th
