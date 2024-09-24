@@ -29,6 +29,8 @@
     url: https://github.com/AvaloniaUI/Avalonia.Labs
   - name: FluentAvalonia
     url: https://github.com/amwx/FluentAvalonia
+  - name: awesome-avalonia
+    url: https://github.com/AvaloniaCommunity/awesome-avalonia
   - name: Avalonia + MVVM + Reactive UI Samples
     url: https://github.com/stars/raid-teyar/lists/avalonia
   - name: AngelSix YouTube Tutorials
@@ -201,6 +203,12 @@
     url: https://github.com/raysan5/raylib
   - name: Raylib-CSharp
     url: https://github.com/MrScautHD/Raylib-CSharp
+
+- name: Java Libraries
+  fontAwesome: th
+  items:
+  - name: DiskImageReader
+    url: https://github.com/mng1dev/DiskImageReader
 
 - name: .NET Preservation Libraries
   fontAwesome: th
@@ -588,6 +596,10 @@
     url: https://react-hook-form.com/
   - name: quick-lint-js
     url: https://quick-lint-js.com/
+  - name: Radix
+    url: https://www.radix-ui.com/
+  - name: Orval
+    url: https://orval.dev/
 
 - name: Web Tutorials
   items:
@@ -793,6 +805,12 @@
   - name: Webtyler
     url: https://wareya.github.io/webtyler/
 
+- name: Game Development - Samples
+  fontAwesome: th
+  items:
+  - name: doom-sharp
+    url: https://github.com/wcabus/doom-sharp
+
 - name: Programming Rust
   fontAwesome: th
   items:
@@ -802,6 +820,14 @@
     url: https://github.com/fdehau/tui-rs
   - name: VS2017 Rust Extension
     url: https://github.com/ZoeyR/rls-vs2017
+
+- name: Programming Go
+  fontAwesome: th
+  items:
+  - name: JetBrains Go Rest Guide
+    url: https://www.jetbrains.com/guide/go/tutorials/rest_api_series/stdlib/
+  - name: Boot.dev Blog
+    url: https://blog.boot.dev/
 
 - name: Security
   fontAwesome: th

@@ -223,6 +223,8 @@
     url: http://redump.org/
   - name: Redump Wiki
     url: http://wiki.redump.org/
+  - name: TOSEC
+    url: https://www.tosecdev.org/
   - name: EverDrive DB
     url: https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database
   - name: SerialStation
