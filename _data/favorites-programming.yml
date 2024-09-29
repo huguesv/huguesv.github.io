@@ -325,6 +325,8 @@
     url: https://famistudio.org/
   - name: NESFab
     url: https://pubby.games/nesfab.html
+  - name: NES Audio (APU)
+    url: https://www.emulationonline.com/systems/nes/apu-audio/
 
 - name: Retro - GameBoy
   fontAwesome: th
@@ -337,6 +339,8 @@
     url: https://github.com/gbdk-2020/GBTD_GBMB
   - name: Pan Docs
     url: https://gbdev.io/pandocs/
+  - name: Rust adventure
+    url: https://medium.com/codex/rust-adventure-to-develop-a-game-boy-emulator-part-2-cpu-registers-macros-23691dc83cdb
 
 - name: Retro - 6502
   fontAwesome: th
