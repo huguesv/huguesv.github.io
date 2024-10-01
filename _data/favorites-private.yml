@@ -65,6 +65,8 @@
     url: https://www.theurbanist.org/
   - name: Shredding Service
     url: https://www.proshred.com/seattle/
+  - name: Abandoned Places in Washington
+    url: https://urbexunderground.com/abandoned-places-in-washington/
 
 - name: Cars
   fontAwesome: th
@@ -87,6 +89,8 @@
     url: https://www.healthcare.gov/
   - name: Fight Your Health Insurance
     url: https://fighthealthinsurance.com/
+  - name: WA Health Plan Finder
+    url: https://www.wahealthplanfinder.org/us/en/tools-and-resources/health-care-education/cost-savings-options.html
 
 - name: Usenet Indexers
   fontAwesome: th
