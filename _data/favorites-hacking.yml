@@ -197,6 +197,8 @@
     url: https://github.com/Atmosphere-NX/Atmosphere
   - name: NCA Encrypt/Decrypt
     url: https://github.com/switch-stuff/NAX0-Crypter
+  - name: LibHac
+    url: https://github.com/Thealexbarney/LibHac.git
 
 - name: Hacking NES Mini
   fontAwesome: th

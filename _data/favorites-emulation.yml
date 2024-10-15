@@ -53,14 +53,16 @@
     url: https://github.com/cemu-project/WudCompress
   - name: decaf-emu - Wii U (C++)
     url: https://github.com/decaf-emu/decaf-emu
-  - name: Ryujinx - Switch (C#)
-    url: https://github.com/Ryujinx/Ryujinx
   - name: Suyu - Switch (C++)
     url: https://suyu.dev/
+  - name: Sudachi - Switch (C++)
+    url: https://sudachi.emuplace.app/
+  - name: Ryujinx Mirror - Switch (C#)
+    url: https://git.naxdy.org/Mirror/Ryujinx
   - name: Lime3DS - 3DS (C++)
     url: https://github.com/Lime3DS/Lime3DS
-  - name: Citra-Enhanced
-    url: https://github.com/Gamer64ytb/Citra-Enhanced
+  - name: Madarine - 3DS (C++)
+    url: https://github.com/mandarine3ds/mandarine
 
 - name: Consoles
   fontAwesome: th

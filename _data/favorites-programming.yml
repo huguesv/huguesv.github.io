@@ -165,6 +165,8 @@
     url: https://github.com/gui-cs/TerminalGuiDesigner
   - name: Spectre.Console
     url: https://github.com/spectreconsole/spectre.console
+  - name: Consolonia
+    url: https://github.com/jinek/Consolonia
   - name: Modern.Forms
     url: https://github.com/modern-forms/Modern.Forms
   - name: ScottPlot
@@ -203,6 +205,8 @@
     url: https://github.com/raysan5/raylib
   - name: Raylib-CSharp
     url: https://github.com/MrScautHD/Raylib-CSharp
+  - name: NSwag
+    url: https://github.com/RicoSuter/NSwag
 
 - name: Java Libraries
   fontAwesome: th
@@ -279,6 +283,8 @@
     url: https://github.com/Erikvdv/realworlddotnet
   - name: realworldapiminimal (aspnetminapi)
     url: https://github.com/Erikvdv/realworldapiminimal
+  - name: modular-monolith-with-ddd
+    url: https://github.com/kgrzybek/modular-monolith-with-ddd
 
 - name: Retro - General
   fontAwesome: th
@@ -526,6 +532,8 @@
     url: http://blog.kevtris.org/blogfiles/Nitty%20Gritty%20Gameboy%20VRAM%20Timing.txt
   - name: Cycle Accurate Game Boy Docs (Old and Unmaintained)
     url: https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf
+  - name: Game Boy Test Roms
+    url: https://github.com/c-sp/game-boy-test-roms
 
 - name: Emulation 8080
   fontAwesome: th
@@ -604,6 +612,8 @@
     url: https://www.radix-ui.com/
   - name: Orval
     url: https://orval.dev/
+  - name: JSON Web Tokens
+    url: https://jwt.io/
 
 - name: Web Tutorials
   items:
@@ -619,7 +629,6 @@
     url: https://bun.sh/
   - name: Deno
     url: https://deno.com/
-
 
 - name: Databases
   fontAwesome: th
@@ -640,6 +649,8 @@
     url: https://github.com/mbdavid/LiteDB
   - name: Supabase
     url: https://supabase.com/
+  - name: Neon
+    url: https://neon.tech/
   - name: SQLite
     url: https://www.sqlite.org/
   - name: Turso (SQLite for Production)
@@ -650,6 +661,8 @@
     url: https://orm.drizzle.team/
   - name: Prisma ORM
     url: https://www.prisma.io/
+  - name: SqlKata (SQL Query Builder for C#)
+    url: https://sqlkata.com/
   - name: 2023 State of Databases for Serverless and Edge
     url: https://leerob.substack.com/p/databases-serverless-edge
 
@@ -660,6 +673,14 @@
     url: https://vercel.com/
   - name: Dokku
     url: https://dokku.com/
+  - name: Shiper
+    url: https://shiper.app/
+  - name: Coolify
+    url: https://coolify.io/
+  - name: Fly.io
+    url: https://fly.io/
+  - name: Cloudinary (Image and Video Upload)
+    url: https://cloudinary.com/
 
 - name: Web Samples
   fontAwesome: th
