@@ -10,10 +10,8 @@ layout: home
 
 <script>
     var images = [
-    {% for slider in site.data.sliders %}
-    {% if slider.isVisible == true %}        "{{slider.file}}",
-    {% endif %}
-    {% endfor %}
+    {% for slider in site.data.sliders %}{% if slider.isVisible == true %}        "{{slider.file}}",
+    {% endif %}{% endfor %}
     ];
 
     var image = images[Math.round(Math.random() * images.length)];
