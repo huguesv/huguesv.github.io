@@ -681,6 +681,8 @@
     url: https://fly.io/
   - name: Cloudinary (Image and Video Upload)
     url: https://cloudinary.com/
+  - name: MonsterASP.NET
+    url: https://www.monsterasp.net/
 
 - name: Web Samples
   fontAwesome: th

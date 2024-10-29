@@ -104,7 +104,43 @@
   - name: NzbForYou
     url: https://www.nzbforyou.com/index
 
-- name: Reddit
+- name: Reddit - Programming
+  fontAwesome: th
+  items:
+  - name: r/dotnet
+    url: https://www.reddit.com/r/dotnet/
+  - name: r/csharp
+    url: https://www.reddit.com/r/csharp/
+  - name: r/typescript
+    url: https://www.reddit.com/r/typescript/
+  - name: r/golang
+    url: https://www.reddit.com/r/golang/
+  - name: r/nextjs
+    url: https://www.reddit.com/r/nextjs/
+  - name: r/react
+    url: https://www.reddit.com/r/react/
+  - name: r/sveltejs
+    url: https://www.reddit.com/r/sveltejs/
+  - name: r/vuejs
+    url: https://www.reddit.com/r/vuejs/
+  - name: r/AvaloniaUI
+    url: https://www.reddit.com/r/AvaloniaUI/
+  - name: r/mongodb
+    url: https://www.reddit.com/r/mongodb/
+  - name: r/docker
+    url: https://www.reddit.com/r/docker/
+  - name: r/VisualStudio
+    url: https://www.reddit.com/r/VisualStudio/
+  - name: r/vscode
+    url: https://www.reddit.com/r/vscode/
+  - name: r/retrogamedev
+    url: https://www.reddit.com/r/retrogamedev/
+  - name: r/EmuDev
+    url: https://www.reddit.com/r/EmuDev/
+  - name: r/gamedev
+    url: https://www.reddit.com/r/gamedev/
+
+- name: Reddit - Gaming
   fontAwesome: th
   items:
   - name: r/emulation
@@ -113,26 +149,24 @@
     url: https://www.reddit.com/r/fpgagaming/
   - name: r/MiSTerFPGA
     url: https://www.reddit.com/r/MiSTerFPGA/
-  - name: r/EmuDev
-    url: https://www.reddit.com/r/EmuDev/
-  - name: r/CSharp
-    url: https://www.reddit.com/r/csharp/
-  - name: r/DotNet
-    url: https://www.reddit.com/r/dotnet/
-  - name: r/VisualStudio
-    url: https://www.reddit.com/r/VisualStudio/
-  - name: r/vscode
-    url: https://www.reddit.com/r/vscode/
-  - name: r/nextjs
-    url: https://www.reddit.com/r/nextjs/
-  - name: r/react
-    url: https://www.reddit.com/r/react/
-  - name: r/typescript
-    url: https://www.reddit.com/r/typescript/
-  - name: r/futurama
-    url: https://www.reddit.com/r/futurama/
-  - name: r/formula1
-    url: https://www.reddit.com/r/formula1/
+  - name: r/ps3hacks
+    url: https://www.reddit.com/r/ps3hacks/
+  - name: r/dosgaming
+    url: https://www.reddit.com/r/dosgaming/
+  - name: r/dos
+    url: https://www.reddit.com/r/DOS/
+  - name: r/msdos
+    url: https://www.reddit.com/r/MSDOS/
+  - name: r/retrogaming
+    url: https://www.reddit.com/r/retrogaming/
+  - name: r/persona
+    url: https://www.reddit.com/r/PERSoNA/
+  - name: r/Sierra
+    url: https://www.reddit.com/r/Sierra/
+
+- name: Reddit - Roms
+  fontAwesome: th
+  items:
   - name: r/Roms
     url: https://www.reddit.com/r/Roms/
   - name: r/Roms Megathread
@@ -145,38 +179,24 @@
     url: https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/
   - name: r/DataHoarder
     url: https://www.reddit.com/r/DataHoarder/
-  - name: r/ps3hacks
-    url: https://www.reddit.com/r/ps3hacks/
-  - name: r/dosgaming
-    url: https://www.reddit.com/r/dosgaming/
-  - name: r/dos
-    url: https://www.reddit.com/r/DOS/
-  - name: r/msdos
-    url: https://www.reddit.com/r/MSDOS/
-  - name: r/retrogaming
-    url: https://www.reddit.com/r/retrogaming/
-  - name: r/retrogamedev
-    url: https://www.reddit.com/r/retrogamedev/
-  - name: r/gamedev
-    url: https://www.reddit.com/r/gamedev/
-  - name: r/midi
-    url: https://www.reddit.com/r/midi/
-  - name: r/Sierra
-    url: https://www.reddit.com/r/Sierra/
   - name: r/opendirectories
     url: https://www.reddit.com/r/opendirectories/
   - name: r/GamePreservationists
     url: https://www.reddit.com/r/GamePreservationists/
-  - name: r/MechanicalKeyboards
-    url: https://www.reddit.com/r/MechanicalKeyboards/
-  - name: r/ErgoMechKeyboards
-    url: https://www.reddit.com/r/ErgoMechKeyboards/
-  - name: r/SurfaceLinux/
-    url: https://www.reddit.com/r/SurfaceLinux/
+
+- name: Reddit - Misc
+  fontAwesome: th
+  items:
+  - name: r/formula1
+    url: https://www.reddit.com/r/formula1/
   - name: r/tokipona/
     url: https://www.reddit.com/r/tokipona/
-  - name: r/persona
-    url: https://www.reddit.com/r/PERSoNA/
+  - name: r/InternetIsBeautiful
+    url: https://www.reddit.com/r/InternetIsBeautiful/
+
+- name: Reddit - Android
+  fontAwesome: th
+  items:
   - name: r/samsung
     url: https://www.reddit.com/r/samsung/
   - name: r/PickAnAndroidForMe/
@@ -187,8 +207,10 @@
     url: https://www.reddit.com/r/Android/
   - name: r/androidafterlife/
     url: https://www.reddit.com/r/androidafterlife/
-  - name: r/InternetIsBeautiful
-    url: https://www.reddit.com/r/InternetIsBeautiful/
+
+- name: Reddit - Regional
+  fontAwesome: th
+  items:
   - name: r/BellevueWA
     url: https://www.reddit.com/r/BellevueWA/
   - name: r/Seattle
@@ -198,9 +220,17 @@
   - name: r/Washington
     url: https://www.reddit.com/r/Washington/
 
-- name: Reddit PC Hardware
+- name: Reddit - Hardware
   fontAwesome: th
   items:
+  - name: r/MechanicalKeyboards
+    url: https://www.reddit.com/r/MechanicalKeyboards/
+  - name: r/ErgoMechKeyboards
+    url: https://www.reddit.com/r/ErgoMechKeyboards/
+  - name: r/midi
+    url: https://www.reddit.com/r/midi/
+  - name: r/SurfaceLinux/
+    url: https://www.reddit.com/r/SurfaceLinux/
   - name: r/PcRetailers
     url: https://www.reddit.com/r/PcRetailers/
   - name: r/MiniPCs
@@ -449,6 +479,8 @@
     url: https://weplaydos.games/
   - name: King's Quest VI Demake
     url: https://www.atarimania.com/game-atari-st-king-s-quest-vi-heir-today-gone-tomorrow_43026.html
+  - name: Macintosh Repository
+    url: https://www.macintoshrepository.org/
 
 - name: Books
   fontAwesome: th
@@ -517,6 +549,8 @@
     url: https://github.com/SvenGDK/PS-Multi-Tools
   - name: yt-dlp
     url: https://github.com/yt-dlp
+  - name: yt2doc
+    url: https://github.com/shun-liang/yt2doc
   - name: itchiodl
     url: https://github.com/Emersont1/itchio
   - name: Archive.org-Downloader
@@ -553,6 +587,8 @@
     url: https://thesierraadventure.com/
   - name: AGI Programmer's Wiki
     url: http://agiwiki.sierrahelp.com/index.php/Main_Page
+  - name: Doomlazer SCI Patches
+    url: https://github.com/Doomlazer
 
 - name: Videogame Stores
   fontAwesome: th
@@ -801,6 +837,8 @@
     url: https://www.apartmentratings.com/
   - name: Furnished Finder
     url: https://www.furnishedfinder.com/
+  - name: HotPads
+    url: https://hotpads.com/
 
 - name: Cities
   fontAwesome: th
