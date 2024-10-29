@@ -3,7 +3,7 @@ layout: home
 ---
 
 <div class="text-center">
-    <img id="slider" />
+    <img id="slider" width="960" height="320" />
     <br />
     <h1>Welcome!</h1>
 </div>
@@ -14,7 +14,8 @@ layout: home
     {% endif %}{% endfor %}
     ];
 
-    var image = images[Math.floor(Math.random() * images.length)];
+    var imageIndex = Math.floor(Math.random() * images.length);
+    var image = images[imageIndex] ?? images[0];
     var imageUrl = "/assets/slider/" + image;
     document.getElementById("slider").setAttribute("src", imageUrl);
 </script>
