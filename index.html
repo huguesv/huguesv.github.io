@@ -14,7 +14,7 @@ layout: home
     {% endif %}{% endfor %}
     ];
 
-    var image = images[Math.round(Math.random() * images.length)];
+    var image = images[Math.floor(Math.random() * images.length)];
     var imageUrl = "/assets/slider/" + image;
     document.getElementById("slider").setAttribute("src", imageUrl);
 </script>
