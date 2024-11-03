@@ -1,0 +1,9 @@
+{% for video in include.videos %}
+{% if video.isVisible == true %}
+<li class="youtube">
+    <iframe width="560" height="315" src="{{ video.embed }}" title="{{ video.date }} - {{ video.name }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p class="card-text">{{ video.date }} - {{ video.name }}</p>
+    <br />
+</li>
+{% endif %}
+{% endfor %}

@@ -63,6 +63,8 @@
     url: https://github.com/Lime3DS/Lime3DS
   - name: Madarine - 3DS (C++)
     url: https://github.com/mandarine3ds/mandarine
+  - name: ShadPS4 - PS4 (C++)
+    url: https://github.com/shadps4-emu/shadPS4
 
 - name: Consoles
   fontAwesome: th
