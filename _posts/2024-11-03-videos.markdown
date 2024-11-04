@@ -1,0 +1,9 @@
+---
+layout: post
+title: "New section added for videos"
+date: 2024-11-03
+categories: web
+---
+I've created a new [YouTube channel](https://www.youtube.com/@OutdoorsMemoriesPNW/videos) where I'm uploading some of the hiking videos I've filmed with the GoPro I got last year.
+
+The videos are linked from the [Videos](/videos) section.
