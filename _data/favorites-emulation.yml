@@ -63,6 +63,8 @@
     url: https://github.com/Lime3DS/Lime3DS
   - name: Madarine - 3DS (C++)
     url: https://github.com/mandarine3ds/mandarine
+  - name: Panda3DS - 3DS (C++)
+    url: https://github.com/wheremyfoodat/Panda3DS
   - name: ShadPS4 - PS4 (C++)
     url: https://github.com/shadps4-emu/shadPS4
 
