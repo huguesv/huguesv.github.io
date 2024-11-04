@@ -89,8 +89,12 @@
     url: https://www.healthcare.gov/
   - name: Fight Your Health Insurance
     url: https://fighthealthinsurance.com/
+  - name: Insurance Agent Lookup
+    url: https://fortress.wa.gov/oic/consumertoolkit/Search.aspx
   - name: WA Health Plan Finder
     url: https://www.wahealthplanfinder.org/us/en/tools-and-resources/health-care-education/cost-savings-options.html
+  - name: Achieve Alpha Insurance
+    url: https://wahealthplan.org/
 
 - name: Usenet Indexers
   fontAwesome: th
@@ -335,6 +339,8 @@
     url: https://retrogamecorps.com/
   - name: Torrminatorr
     url: https://torrminatorr.com/
+  - name: MDK
+    url: https://mdk.cab/
 
 - name: MiSTer Shops
   fontAwesome: th

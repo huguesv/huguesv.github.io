@@ -157,6 +157,8 @@
     url: https://github.com/sharpdx/SharpDX
   - name: SDL2-CS (Ryujinx fork)
     url: https://github.com/Ryujinx/SDL2-CS
+  - name: SDL2.NET
+    url: https://github.com/DiegoG1019/SDL2.NET
   - name: NAudio
     url: https://github.com/naudio/NAudio
   - name: Terminal.Gui
@@ -441,6 +443,10 @@
     url: https://www.youtube.com/watch?v=XKy1cE4EYMk
   - name: Music Players and Libraries
     url: http://www.dcee.net/Files/Programm/Sound/
+  - name: microsoft/MIDI
+    url: https://github.com/microsoft/midi
+  - name: Windows MIDI Services
+    url: https://microsoft.github.io/MIDI/
 
 - name: Retro - Apple II
   fontAwesome: th
@@ -614,11 +620,27 @@
     url: https://orval.dev/
   - name: JSON Web Tokens
     url: https://jwt.io/
+  - name: Angular
+    url: https://angular.dev/
+  - name: Svelte
+    url: https://svelte.dev/
+  - name: shadcn-svelte
+    url: https://next.shadcn-svelte.com/
+  - name: Vue.js
+    url: https://vuejs.org/
+  - name: Nuxt
+    url: https://nuxt.com/
+  - name: LightNap
+    url: https://github.com/SharpLogic/LightNap
 
 - name: Web Tutorials
   items:
   - name: safak repositories
     url: https://github.com/safak?tab=repositories
+  - name: Full-Stack with Next.js and .NET API Backend
+    url: https://argosco.io/building-a-full-stack-application-with-next-js-and-net-api-backend/net/
+  - name: FAQ About JWT in .NET
+    url: https://argosco.io/10-most-frequently-asked-questions-about-jwt-in-net/net/
 
 - name: Node.js Runtimes
   fontAwesome: th
@@ -839,6 +861,10 @@
   items:
   - name: doom-sharp
     url: https://github.com/wcabus/doom-sharp
+  - name: Rogue Legacy
+    url: https://github.com/flibitijibibo/RogueLegacy1/
+  - name: VVVVVV
+    url: https://github.com/TerryCavanagh/VVVVVV
 
 - name: Programming Rust
   fontAwesome: th
