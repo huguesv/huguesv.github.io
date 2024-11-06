@@ -209,6 +209,8 @@
     url: https://github.com/MrScautHD/Raylib-CSharp
   - name: NSwag
     url: https://github.com/RicoSuter/NSwag
+  - name: Mapperly
+    url: https://github.com/riok/mapperly
 
 - name: Java Libraries
   fontAwesome: th
@@ -735,8 +737,12 @@
     url: https://jekyllrb.com/
   - name: Jekyll Minima Theme
     url: https://github.com/jekyll/minima/tree/master
+  - name: Jekyll Minimal Mistakes Theme
+    url: https://mmistakes.github.io/minimal-mistakes/
   - name: Jekyll webrick error
     url: https://github.com/jekyll/jekyll/issues/8523
+  - name: Free Jekyll Themes
+    url: https://jekyllthemes.io/free
 
 - name: Hosting
   fontAwesome: th
