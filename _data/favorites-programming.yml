@@ -211,12 +211,10 @@
     url: https://github.com/RicoSuter/NSwag
   - name: Mapperly
     url: https://github.com/riok/mapperly
-
-- name: Java Libraries
-  fontAwesome: th
-  items:
-  - name: DiskImageReader
-    url: https://github.com/mng1dev/DiskImageReader
+  - name: OneOf
+    url: https://github.com/mcintyre321/OneOf
+  - name: FluentResults
+    url: https://github.com/altmann/FluentResults
 
 - name: .NET Preservation Libraries
   fontAwesome: th
@@ -289,6 +287,22 @@
     url: https://github.com/Erikvdv/realworldapiminimal
   - name: modular-monolith-with-ddd
     url: https://github.com/kgrzybek/modular-monolith-with-ddd
+  - name: dotnet/eShop
+    url: https://github.com/dotnet/eShop
+  - name: bitwarden/server
+    url: https://github.com/bitwarden/server
+  - name: jellyfin
+    url: https://github.com/jellyfin/jellyfin
+  - name: IdentityServer
+    url: https://github.com/DuendeSoftware/IdentityServer/
+  - name: Clean Architecture Template
+    url: https://github.com/mikolaj-jankowski/Clean-Architecture-And-Domain-Driven-Design-Solution-Template
+
+- name: Java Libraries
+  fontAwesome: th
+  items:
+  - name: DiskImageReader
+    url: https://github.com/mng1dev/DiskImageReader
 
 - name: Retro - General
   fontAwesome: th
@@ -397,6 +411,8 @@
     url: https://courses.cs.washington.edu/courses/cse477/00sp/projectwebs/groupb/PS2-mouse/Prog_mouse.html
   - name: Awesome DOS
     url: https://github.com/balintkissdev/awesome-dos
+  - name: VSCode DJGPP Allegro DOSBox
+    url: https://www.reddit.com/r/retrogamedev/comments/1fih3ic/vscode_dosbox_allegro_djgpp_setup_to_develop/
 
 - name: Retro - DOS - GitHub
   fontAwesome: th
@@ -634,6 +650,11 @@
     url: https://nuxt.com/
   - name: LightNap
     url: https://github.com/SharpLogic/LightNap
+
+- name: Web Tools
+  items:
+  - name: Restapia
+    url: https://www.restapia.app/
 
 - name: Web Tutorials
   items:
