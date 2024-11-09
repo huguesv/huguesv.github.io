@@ -115,6 +115,8 @@
     url: https://www.reddit.com/r/dotnet/
   - name: r/csharp
     url: https://www.reddit.com/r/csharp/
+  - name: r/aspnetcore
+    url: https://www.reddit.com/r/aspnetcore/
   - name: r/typescript
     url: https://www.reddit.com/r/typescript/
   - name: r/golang
