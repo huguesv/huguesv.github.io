@@ -28,7 +28,7 @@
   - name: Overlake Medical
     url: https://www.overlakehospital.org/locations
   - name: Dentist - William Peterson
-    url: http://www.williamjpetersondds.com/
+    url: https://www.petersonandfranklin.com/
 
 - name: Seattle
   fontAwesome: th
@@ -597,6 +597,8 @@
     url: http://agiwiki.sierrahelp.com/index.php/Main_Page
   - name: Doomlazer SCI Patches
     url: https://github.com/Doomlazer
+  - name: "King's Quest IV: The Perils of Rosella Retold"
+    url: https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/
 
 - name: Videogame Stores
   fontAwesome: th
