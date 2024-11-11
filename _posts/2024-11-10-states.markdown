@@ -1,0 +1,78 @@
+---
+layout: post
+title: "United States Capitols"
+date: 2024-11-10
+categories: travel
+---
+I've created a new photo album to document the capitol buildings I've photographed over the years. It's in a scrapbook format, one page per state/district. It's available in the [photos](/photos) section.
+
+As of November 2024, I have:
+- 32 states (or district) visited
+- 21 capitol buildings in my photo album
+- 19 states yet to be visited
+
+<br/>
+
+<picture>
+<source srcset="/assets/posts/2024-11-10-states-dark.png"  media="(prefers-color-scheme: dark)"/>
+<source srcset="/assets/posts/2024-11-10-states-light.png" media="(prefers-color-scheme: light)"/>
+<img alt="Map of USA states visited as of November 2024" src="/assets/posts/2024-11-10-states-light.png"/>
+</picture>
+
+<br/>
+
+Here's the raw data, including the name of the capital cities.
+
+|State Code|Capital City  |State Name          |State Visited|
+|----------|--------------|--------------------|-------------|
+|AL        |Montgomery    |Alabama             |No           |
+|AK        |Juneau        |Alaska              |No           |
+|AZ        |Phoenix       |Arizona             |Yes          |
+|AR        |Little Rock   |Arkansas            |No           |
+|CA        |Sacramento    |California          |Yes          |
+|CO        |Denver        |Colorado            |Yes, Capitol |
+|CT        |Hartford      |Connecticut         |Yes, Capitol |
+|DE        |Dover         |Delaware            |No           |
+|FL        |Tallahassee   |Florida             |Yes          |
+|GA        |Atlanta       |Georgia             |No           |
+|HI        |Honolulu      |Hawaii              |Yes, Capitol |
+|ID        |Boise         |Idaho               |Yes, Capitol |
+|IL        |Springfield   |Illinois            |Yes          |
+|IN        |Indianapolis  |Indiana             |Yes, Capitol |
+|IA        |Des Moines    |Iowa                |No           |
+|KS        |Topeka        |Kansas              |Yes, Capitol |
+|KY        |Frankfort     |Kentucky            |No           |
+|LA        |Baton Rouge   |Louisiana           |No           |
+|ME        |Augusta       |Maine               |Yes          |
+|MD        |Annapolis     |Maryland            |No           |
+|MA        |Boston        |Massachusetts       |Yes, Capitol |
+|MI        |Lansing       |Michigan            |No           |
+|MN        |Saint Paul    |Minnesota           |Yes, Capitol |
+|MS        |Jackson       |Mississippi         |No           |
+|MO        |Jefferson City|Missouri            |Yes, Capitol |
+|MT        |Helena        |Montana             |Yes          |
+|NE        |Lincoln       |Nebraska            |No           |
+|NV        |Carson City   |Nevada              |Yes          |
+|NH        |Concord       |New Hampshire       |Yes, Capitol |
+|NJ        |Trenton       |New Jersey          |Yes, Capitol |
+|NM        |Santa Fe      |New Mexico          |Yes, Capitol |
+|NY        |Albany        |New York            |Yes          |
+|NC        |Raleigh       |North Carolina      |No           |
+|ND        |Bismarck      |North Dakota        |No           |
+|OH        |Columbus      |Ohio                |Yes, Capitol |
+|OK        |Oklahoma City |Oklahoma            |No           |
+|OR        |Salem         |Oregon              |Yes, Capitol |
+|PA        |Harrisburg    |Pennsylvania        |Yes, Capitol |
+|RI        |Providence    |Rhode Island        |Yes, Capitol |
+|SC        |Columbia      |South Carolina      |No           |
+|SD        |Pierre        |South Dakota        |Yes          |
+|TN        |Nashville     |Tennessee           |No           |
+|TX        |Austin        |Texas               |Yes          |
+|UT        |Salt Lake City|Utah                |Yes, Capitol |
+|VT        |Montpelier    |Vermont             |Yes, Capitol |
+|VA        |Richmond      |Virginia            |No           |
+|WA        |Olympia       |Washington          |Yes, Capitol |
+|WV        |Charleston    |West Virginia       |No           |
+|WI        |Madison       |Wisconsin           |Yes, Capitol |
+|WY        |Cheyenne      |Wyoming             |Yes          |
+|DC        |Washington    |District of Columbia|Yes, Capitol |
