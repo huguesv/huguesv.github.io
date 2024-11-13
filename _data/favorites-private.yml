@@ -92,7 +92,7 @@
   - name: Insurance Agent Lookup
     url: https://fortress.wa.gov/oic/consumertoolkit/Search.aspx
   - name: WA Health Plan Finder
-    url: https://www.wahealthplanfinder.org/us/en/tools-and-resources/health-care-education/cost-savings-options.html
+    url: https://wahealthplanfinder.org
   - name: Achieve Alpha Insurance
     url: https://wahealthplan.org/
 
