@@ -679,8 +679,6 @@
     url: https://github.com/drakewill-CRL/ROMSorter
   - name: igir (Rom Collection Manager)
     url: https://github.com/emmercm/igir
-  - name: Calibre
-    url: https://github.com/kovidgoyal/calibre
   - name: Carnac
     url: http://code52.org/carnac/
   - name: darktable
@@ -756,11 +754,25 @@
   - name: Scoop Package Manager
     url: https://scoop.sh/
 
+- name: Software - Readers
+  fontAwesome: th
+  items:
+  - name: Calibre
+    url: https://github.com/kovidgoyal/calibre
+  - name: Foliate
+    url: https://github.com/johnfactotum/foliate
+  - name: Kavita
+    url: https://www.kavitareader.com/
+  - name: FBReader
+    url: https://fbreader.org/
+
 - name: Software - Linux
   fontAwesome: th
   items:
   - name: bazzite
     url: https://bazzite.gg/
+  - name: linux-surface
+    url: https://github.com/linux-surface/linux-surface
 
 - name: Educational
   fontAwesome: th
