@@ -65,6 +65,10 @@
     url: https://github.com/mandarine3ds/mandarine
   - name: Panda3DS - 3DS (C++)
     url: https://github.com/wheremyfoodat/Panda3DS
+  - name: Azahar - 3DS
+    url: https://azahar-emu.org/
+  - name: MelonDS
+    url: https://github.com/melonDS-emu/melonDS
   - name: ShadPS4 - PS4 (C++)
     url: https://github.com/shadps4-emu/shadPS4
 

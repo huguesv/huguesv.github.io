@@ -936,13 +936,15 @@
   - name: Vintage Computer Festival
     url: https://vcfed.org/events/vintage-computer-festival-west/
 
-- name: Chairs
+- name: Furniture
   fontAwesome: rss
   items:
-  - name: Steelcase
+  - name: Steelcase Chairs
     url: https://www.steelcase.com/products/office-chairs/gesture/
-  - name: Union and Scale FlexFit
+  - name: Union and Scale FlexFit Chairs
     url: https://www.staples.com/union-scale-flexfit-hyken-ergonomic-mesh-swivel-task-chair-black-un59460/product_990119
+  - name: Vivo Standing Desks
+    url: https://www.standingdesknation.com/collections/vivo-standing-desks
 
 - name: Media
   fontAwesome: th

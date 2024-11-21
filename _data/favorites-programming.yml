@@ -289,6 +289,10 @@
     url: https://github.com/kgrzybek/modular-monolith-with-ddd
   - name: dotnet/eShop
     url: https://github.com/dotnet/eShop
+  - name: dotnet/eShopOnWeb
+    url: https://github.com/dotnet-architecture/eShopOnWeb
+  - name: ardalis/CleanArchitecture
+    url: https://github.com/ardalis/CleanArchitecture
   - name: bitwarden/server
     url: https://github.com/bitwarden/server
   - name: jellyfin
@@ -628,6 +632,8 @@
     url: https://nestjs.com/
   - name: shadcn
     url: https://ui.shadcn.com/
+  - name: shadcn form builder
+    url: https://www.shadcn-form.com/
   - name: React Hook form
     url: https://react-hook-form.com/
   - name: quick-lint-js
