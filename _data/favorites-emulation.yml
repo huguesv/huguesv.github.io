@@ -59,6 +59,8 @@
     url: https://sudachi.emuplace.app/
   - name: Ryujinx Mirror - Switch (C#)
     url: https://git.naxdy.org/Mirror/Ryujinx
+  - name: Citron - Switch (C++)
+    url: https://git.citron-emu.org/Citron/Citron
   - name: Lime3DS - 3DS (C++)
     url: https://github.com/Lime3DS/Lime3DS
   - name: Madarine - 3DS (C++)
