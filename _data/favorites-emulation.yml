@@ -71,6 +71,8 @@
     url: https://azahar-emu.org/
   - name: MelonDS
     url: https://github.com/melonDS-emu/melonDS
+  - name: Simple64
+    url: https://github.com/simple64/simple64
   - name: ShadPS4 - PS4 (C++)
     url: https://github.com/shadps4-emu/shadPS4
 
@@ -225,6 +227,8 @@
     url: https://github.com/dbalsom/martypc
   - name: Steem SSE - Atari ST (C++)
     url: https://sourceforge.net/projects/steemsse/
+  - name: EstyJS - Atari ST (JavaScript)
+    url: https://github.com/kaiec/EstyJs
   - name: AppleWin - Apple II (C++)
     url: https://github.com/AppleWin/AppleWin
   - name: XRoar Dragon32/64 - Coco (C)

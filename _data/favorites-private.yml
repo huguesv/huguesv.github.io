@@ -189,6 +189,8 @@
     url: https://www.reddit.com/r/opendirectories/
   - name: r/GamePreservationists
     url: https://www.reddit.com/r/GamePreservationists/
+  - name: r/SwitchPirates/
+    url: https://www.reddit.com/r/SwitchPirates/
 
 - name: Reddit - Misc
   fontAwesome: th
@@ -422,6 +424,14 @@
   - name: TFT Central LCD Monitor Info
     url: https://www.tftcentral.co.uk/
 
+- name: Floppy Disk Hardware
+  fontAwesome: th
+  items:
+  - name: Kryoflux
+    url: http://www.kryoflux.com/
+  - name: AppleSauce
+    url: https://applesaucefdc.com/
+
 - name: Classic
   fontAwesome: th
   items:
@@ -431,8 +441,6 @@
     url: http://www.replacementdocs.com/
   - name: Software Preservation Society
     url: http://www.softpres.org/
-  - name: Kryoflux
-    url: http://www.kryoflux.com/
   - name: Team Europe
     url: http://team-europe.blogspot.com/
   - name: SNES Central

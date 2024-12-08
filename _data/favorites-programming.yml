@@ -215,6 +215,8 @@
     url: https://github.com/mcintyre321/OneOf
   - name: FluentResults
     url: https://github.com/altmann/FluentResults
+  - name: TestableIO
+    url: https://github.com/TestableIO/System.IO.Abstractions
 
 - name: .NET Preservation Libraries
   fontAwesome: th
@@ -255,6 +257,8 @@
     url: https://github.com/microsoft/winui-gallery
   - name: Design and code Windows apps
     url: https://learn.microsoft.com/en-us/windows/apps/design/
+  - name: WinUI Community Templates
+    url: https://github.com/WinUICommunity/WinUICommunity-Templates
 
 - name: C Libraries
   fontAwesome: th
