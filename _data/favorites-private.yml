@@ -577,6 +577,8 @@
     url: https://github.com/LesFerch/WinSetView
   - name: spotube
     url: https://github.com/KRTirtho/spotube
+  - name: Apple Disk Tools
+    url: https://github.com/a2-4am
 
 - name: Sierra
   fontAwesome: th

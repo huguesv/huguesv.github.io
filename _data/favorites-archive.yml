@@ -189,10 +189,138 @@
     url: https://archive.org/details/exowin3x_202107
   - name: Amiga Game Disk Collection
     url: https://archive.org/details/amiga_game_disk_collection
-  - name: Apple II Flux Reads Jan 2023
+
+- name: Flux Images
+  fontAwesome: th
+  items:
+  - name: Antoine Vignau 3.5" Floppies Flux Collection (May 2019 Batch)
+    url: https://archive.org/details/Antoine_Vignau_3.5_Floppies_Flux_May_2019_Batch
+  - name: Antoine Applesauce Vignau (February 2020 batch)
+    url: https://archive.org/details/Antoine_Applesauce_Vignau_February_2020
+  - name: Antoine Applesauce Vignau (3.5" Floppies) (February 2020 Batch)
+    url: https://archive.org/details/Antoine_Vignau_3.5_Floppies_Flux_February_2020_Batch
+  - name: The Applesauce of Antoine Vignau
+    url: https://archive.org/details/Antoine_Applesauce_Vignau
+  - name: Antoine Applesauce 3.5 Vignau Spring 2023
+    url: https://archive.org/details/Antoine_Applesauce_3.5_Vignau_Spring_2023
+  - name: Antoine Applesauce 5.25 Vignau Spring 2023
+    url: https://archive.org/details/Antoine_Applesauce_5.25_Vignau_Spring_2023
+  - name: Antoine Vignau 2021 Fall 5.25
+    url: https://archive.org/details/Antoine_Vignau_2021_Fall_5.25
+  - name: Antoine Vignau 2021 Fall 3.5
+    url: https://archive.org/details/Antoine_Vignau_2021_Fall_3.5
+  - name: A2 CANADA - Collection - Numbers and A-E
+    url: https://archive.org/details/A2CAN_0-E
+  - name: A2 CANADA - Collection - F-M
+    url: https://archive.org/details/A2CAN_F-M
+  - name: A2 CANADA - Collection - N-S
+    url: https://archive.org/details/A2CAN_N-S
+  - name: A2 CANADA - Collection - T-Z
+    url: https://archive.org/details/A2CAN_T-Z
+  - name: A2 CANADA - Apple II Flux Reads Jan 2023
     url: https://archive.org/details/flux_reads_january_2023
-  - name: Apple II Flux Reads Winter 2023
+  - name: A2 CANADA - Flux Flavors Winter 2023
     url: https://archive.org/details/Flux_Flavors_Winter_2023
+  - name: A2 CANADA - 2020 Update
+    url: https://archive.org/details/A2_Canada_2020_Update
+  - name: A2 CANADA - January 2019 Update
+    url: https://archive.org/details/A2Canada7Jan19
+  - name: Ianoid - April 2020 Ianoid Flux Collection
+    url: https://archive.org/details/2020-04-ianoid-misc-fluxes
+  - name: Ianoid - Ianoid Applesauce August Collection
+    url: https://archive.org/details/Ianoid_Applesauce_August_Collection
+  - name: Ianoid - flux capacity batch 2019 10
+    url: https://archive.org/details/ianoid_flux_capacity_batch_2019_10
+  - name: Ianoid - Flux and WOZ and Fast 2020 01
+    url: https://archive.org/details/Ianoid_Flux_and_WOZ_and_Fast_2020-01
+  - name: Ianoid - 2021 ianoid valentine
+    url: https://archive.org/details/2021_ianoid_valentine
+  - name: Ianoid - applesauce readings 2021
+    url: https://archive.org/details/ianoid_applesauce_readings_2021
+  - name: Ianoid - Flux Boy Summer 2024
+    url: https://archive.org/details/ianoid_flux_boy_summer_2024
+  - name: Ianoid - Summer 2023 Heatwave
+    url: https://archive.org/details/ianoid_apple_ii_summer_2023
+  - name: Ianoid - February 2023 Al Fresco
+    url: https://archive.org/details/Ianoid_February_2023_Al_Fresco
+  - name: Ianoid - The 2022 Ianoid Fall Harvest
+    url: https://archive.org/details/ianoid_fall_harvest_2022
+  - name: Ianoid - Applesauce Fluxes March 2022 (ZIPs)
+    url: https://archive.org/details/ianoid_applesauce_fluxes_2022_03
+  - name: Ianoid - .WOZ and .A2R Collection (April 2019)
+    url: https://archive.org/details/ianoid_applesauce_jar
+  - name: apple preserves 2023 01
+    url: https://archive.org/details/apple-preserves-2023-01
+  - name: hoserama99 - Applesauce Flux Images, Set 1
+    url: https://archive.org/details/ApplesauceImages
+  - name: hoserama99 - Applesauce Flux images, Sep18
+    url: https://archive.org/details/MoreApplesauceFlux_Sep18
+  - name: hoserama99 - Applesauce Flux Images, Set 3
+    url: https://archive.org/details/MoreApplesauceFluxImages3_Sep18
+  - name: hoserama99 - Applesauce Flux Images, Set 4
+    url: https://archive.org/details/ApplesauceFlux4
+  - name: hoserama99 - Macintosh Floppy Images
+    url: https://archive.org/details/macintosh-floppy-images
+  - name: a2r_4am
+    url: https://archive.org/details/a2r_4am
+  - name: 4am flux reads 2022 december
+    url: https://archive.org/details/4am_flux_reads_2022_december
+  - name: A2R Images
+    url: https://archive.org/details/CowgodA2R
+  - name: 3.5 Floppy Flux Capacities (Primarily II/IIgs)
+    url: https://archive.org/details/Apple_II_3.5_Flux_Capacities_May_2019
+  - name: Compilations of Fluxed Disks
+    url: https://archive.org/details/flux_compilations
+  - name: Flux Capacity - The Hagstrom Collection
+    url: https://archive.org/details/flux_capacity_hagstrom
+  - name: No-Intro - Apple - II (A2R) (20220728-095306)
+    url: https://archive.org/details/apple-ii-a2r
+  - name: A2R flux images of Macintosh software
+    url: https://archive.org/details/a2r_mac
+  - name: Brian Flux Capacity
+    url: https://archive.org/details/Brian_Flux_Capacity
+  - name: Jason Scott - KansasFest 2019 RIP Collection Part 1
+    url: https://archive.org/details/KansasFest_2019_RIP_Collection_Part_1
+  - name: Jason Scott - KansasFest 2019 RIP Collection Part 2
+    url: https://archive.org/details/KansasFest_2019_RIP_Collection_Part_2
+  - name: Jason Scott - KansasFest 2019 RIP Collection Part 3
+    url: https://archive.org/details/KansasFest_2019_RIP_Collection_Part_3
+  - name: Jason Scott - KansasFest 2019 RIP Collection Part 4
+    url: https://archive.org/details/KansasFest_2019_RIP_Collection_Part_4
+  - name: Jason Scott - Kansasfest Haul Collection (December 2019 Batch)
+    url: https://archive.org/details/KFEST-2019-12
+  - name: Jason Scott - Kansasfest Fluxes Batch 2020 01
+    url: https://archive.org/details/Kansasfest_Fluxes_Batch_2020-01
+  - name: Jason Scott - DoctorWayne Fluxes
+    url: https://archive.org/details/DoctorWayne_Fluxes
+  - name: Jason Scott - Apple II Megabatch Effort (February 2019)
+    url: https://archive.org/details/2019-01-Apple-II-Megabatch-Flux
+  - name: Jason Scott - Mystery Box Collection, Winter 2019
+    url: https://archive.org/details/2019_MYSTERY_BOXES
+  - name: A2R flux images of 3.5-inch Apple II floppies
+    url: https://archive.org/details/a2r_800k
+  - name: MOCAGH Apple Flux Reversal Images
+    url: https://archive.org/details/MocaghAppleFluxReversalImages_481
+  - name: AppleSauce Flux Images 2019-01-11
+    url: https://archive.org/details/asflux_20191101
+  - name: Applesauce VCF 20190331
+    url: https://archive.org/details/ApplesauceVCF20190331
+  - name: Applesauce VCF 20190210
+    url: https://archive.org/details/ApplesauceVCF20190210
+  - name: Applesauce VCF 20190330
+    url: https://archive.org/details/ApplesauceVCF20190330
+  - name: Fahey Set 2019 07
+    url: https://archive.org/details/Fahey_Set_2019-07
+  - name: THIS AND THAT 2019 07
+    url: https://archive.org/details/THIS_AND_THAT_2019-07
+  - name: Eric Collection 2019 02
+    url: https://archive.org/details/Eric_Collection_2019-02
+  - name: Shive Collection 2020 02
+    url: https://archive.org/details/Shive_Collection_2020_02
+  - name: JASON STORAGE UNIT TREASURES 01
+    url: https://archive.org/details/JASON_STORAGE_UNIT_TREASURES_01
+  - name: Jesse Treasures 2019 06
+    url: https://archive.org/details/Jesse_Treasures_2019_06
 
 - name: Consoles (Active)
   fontAwesome: th
