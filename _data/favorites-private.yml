@@ -30,6 +30,12 @@
   - name: Dentist - William Peterson
     url: https://www.petersonandfranklin.com/
 
+- name: Places
+  fontAwesome: th
+  items:
+  - name: Infatuation - Best 25 Restaurants in Bellevue
+    url: https://www.theinfatuation.com/seattle/guides/bellevue-restaurants-bars
+
 - name: Seattle
   fontAwesome: th
   items:
@@ -93,7 +99,7 @@
     url: https://fortress.wa.gov/oic/consumertoolkit/Search.aspx
   - name: WA Health Plan Finder
     url: https://wahealthplanfinder.org
-  - name: Achieve Alpha Insurance
+  - name: Achieve Alpha Insurance - Gary Franke
     url: https://wahealthplan.org/
 
 - name: Usenet Indexers
@@ -201,6 +207,8 @@
     url: https://www.reddit.com/r/tokipona/
   - name: r/InternetIsBeautiful
     url: https://www.reddit.com/r/InternetIsBeautiful/
+  - name: r/4kbluray
+    url: https://www.reddit.com/r/4kbluray/
 
 - name: Reddit - Android
   fontAwesome: th
@@ -497,6 +505,10 @@
     url: https://www.atarimania.com/game-atari-st-king-s-quest-vi-heir-today-gone-tomorrow_43026.html
   - name: Macintosh Repository
     url: https://www.macintoshrepository.org/
+  - name: Museum of Computer Adventure Game History
+    url: https://mocagh.org/
+  - name: OS/2 Site Root
+    url: https://www.os2site.com/sw/index.html
 
 - name: Books
   fontAwesome: th
@@ -579,6 +591,8 @@
     url: https://github.com/KRTirtho/spotube
   - name: Apple Disk Tools
     url: https://github.com/a2-4am
+  - name: Rclone
+    url: https://rclone.org/
 
 - name: Sierra
   fontAwesome: th
@@ -881,6 +895,8 @@
     url: http://www.usa.com/rank/washington-state--crime-index--city-rank.htm
   - name: Niche - Places to Live Rankings
     url: https://www.niche.com/places-to-live/rankings/
+  - name: WA Cost of Living
+    url: https://www.washington.edu/news/2020/10/15/for-single-adults-and-families-alike-higher-cost-of-living-in-all-washington-counties/
 
 - name: Portland, OR
   fontAwesome: th

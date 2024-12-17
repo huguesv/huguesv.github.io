@@ -161,6 +161,8 @@
     url: https://archive.org/details/TotalReplay2
   - name: Sierra PC CD/DVD Collection
     url: https://archive.org/details/20231202_20231202_0059
+  - name: Term24 (Microsoft)
+    url: https://archive.org/details/@term24
 
 - name: Computers (Inactive)
   fontAwesome: th
@@ -189,6 +191,32 @@
     url: https://archive.org/details/exowin3x_202107
   - name: Amiga Game Disk Collection
     url: https://archive.org/details/amiga_game_disk_collection
+
+- name: Apple Software Libraries
+  fontAwesome: th
+  items:
+  - name: The 4am Collection
+    url: https://archive.org/details/apple_ii_library_4am
+  - name: Apple (WOZ Format)
+    url: https://archive.org/details/softwarelibrary_apple_woz
+
+- name: Flux Images Collections
+  fontAwesome: th
+  items:
+  - name: flux_capacity
+    url: https://archive.org/details/flux_capacity
+  - name: wozaday
+    url: https://archive.org/details/wozaday
+  - name: 4am
+    url: https://archive.org/details/@4am
+  - name: f15sim
+    url: https://archive.org/details/@f15sim
+  - name: ianoid
+    url: https://archive.org/details/@ianoid
+  - name: pauldevine
+    url: https://archive.org/details/@pauldevine
+  - name: paulhagstrom
+    url: https://archive.org/details/@paulhagstrom
 
 - name: Flux Images
   fontAwesome: th
