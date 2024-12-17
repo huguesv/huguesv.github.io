@@ -349,10 +349,16 @@
     url: https://emulation.gametechwiki.com/index.php/Main_Page
   - name: Retro Game Corps
     url: https://retrogamecorps.com/
-  - name: Torrminatorr
-    url: https://torrminatorr.com/
   - name: MDK
     url: https://mdk.cab/
+  - name: Torrminatorr
+    url: https://torrminatorr.com/
+  - name: Torrminatorr - 1fichier pt1
+    url: https://1fichier.com/dir/rmoSlpiJ
+  - name: Torrminatorr - 1fichier pt2
+    url: https://1fichier.com/dir/SpA8grcL
+  - name: gg
+    url: https://gog-games.to/
 
 - name: MiSTer Shops
   fontAwesome: th
@@ -395,6 +401,8 @@
   items:
   - name: Race Replay
     url: https://watchf1full.com/
+  - name: Sports
+    url: https://fmhy.net/videopiracyguide#live-sports
 
 - name: Releases
   fontAwesome: th
@@ -509,6 +517,10 @@
     url: https://mocagh.org/
   - name: OS/2 Site Root
     url: https://www.os2site.com/sw/index.html
+  - name: lolsuite (by dns)
+    url: https://no-intro.lolsuite.org/
+  - name: lolsuite (by ip)
+    url: http://92.35.115.29/
 
 - name: Books
   fontAwesome: th
@@ -523,6 +535,8 @@
     url: https://www.pdfdrive.com/
   - name: Anna's Archive
     url: https://annas-archive.org/
+  - name: ForCoder
+    url: https://forcoder.net/
 
 - name: Magazines
   fontAwesome: th
@@ -593,6 +607,8 @@
     url: https://github.com/a2-4am
   - name: Rclone
     url: https://rclone.org/
+  - name: DiskImageTool
+    url: https://github.com/Digitoxin1/DiskImageTool
 
 - name: Sierra
   fontAwesome: th
@@ -623,6 +639,48 @@
     url: https://github.com/Doomlazer
   - name: "King's Quest IV: The Perils of Rosella Retold"
     url: https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/
+  - name: Kawa's Server
+    url: https://helmet.kafuka.org/
+  - name: Sierra's AGI CPC Disk Protection
+    url: http://forums.sierrahelp.com/viewtopic.php?t=4212
+  - name: Syntax - SCript Interpreter
+    url: https://web.archive.org/web/20110729181959/http://www.scriptinterpreter.com/syntax
+  - name: Decompiling SCI byte code
+    url: https://mtnphil.wordpress.com/2016/04/09/decompiling-sci-byte-code-part-1/
+  - name: Colonel's Bequest Protection Crack
+    url: https://www.benshoof.org/blog/case-cracked
+  - name: King's Quest VII Walk Speed
+    url: https://www.benshoof.org/blog/
+
+- name: Sierra Repos
+  fontAwesome: th
+  items:
+  - name: Kawa-oneechan/SCI11-Plus
+    url: https://github.com/Kawa-oneechan/SCI11-Plus
+  - name: Kawa-oneechan/SCITools
+    url: https://github.com/Kawa-oneechan/SCITools
+  - name: Kawa-oneechan/SCICompanion
+    url: https://github.com/Kawa-oneechan/SCICompanion
+  - name: lanceewing/agi
+    url: https://github.com/lanceewing/agi
+  - name: lanceewing/agile
+    url: https://github.com/lanceewing/agile
+  - name: lanceewing/agile-gdx
+    url: https://github.com/lanceewing/agile-gdx
+  - name: lanceewing/agile-js
+    url: https://github.com/lanceewing/agile-js
+  - name: lanceewing/jagi
+    url: https://github.com/lanceewing/jagi
+  - name: lanceewing/picedit
+    url: https://github.com/lanceewing/picedit
+  - name: OmerMor/SCI16
+    url: https://github.com/OmerMor/SCI16
+  - name: OmerMor/SCI0
+    url: https://github.com/OmerMor/SCI0
+  - name: Deledrius/agistudio
+    url: https://github.com/Deledrius/agistudio
+  - name: sluicebox/sci-scripts
+    url: https://github.com/sluicebox/sci-scripts
 
 - name: Videogame Stores
   fontAwesome: th
@@ -777,6 +835,8 @@
     url: https://affinity.serif.com/en-us/
   - name: Scoop Package Manager
     url: https://scoop.sh/
+  - name: DevToys
+    url: https://devtoys.app/
 
 - name: Software - Readers
   fontAwesome: th

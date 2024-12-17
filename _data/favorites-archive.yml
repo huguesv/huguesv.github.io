@@ -191,6 +191,8 @@
     url: https://archive.org/details/exowin3x_202107
   - name: Amiga Game Disk Collection
     url: https://archive.org/details/amiga_game_disk_collection
+  - name: VB 1.0 Pro for DOS
+    url: https://archive.org/details/VBDOS
 
 - name: Apple Software Libraries
   fontAwesome: th
@@ -373,6 +375,14 @@
     url: https://archive.org/details/wii-u-retail-nus-usa
   - name: romhacking.net 20240801
     url: https://archive.org/details/romhacking.net-20240801
+
+- name: ScummVM
+  fontAwesome: th
+  items:
+  - name: ScummVM Complete
+    url: https://archive.org/details/scummvm_complete
+  - name: ScummVM German Collection
+    url: https://archive.org/details/scummvm-german-collection
 
 - name: Tools
   fontAwesome: th

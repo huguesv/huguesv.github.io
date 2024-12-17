@@ -97,6 +97,10 @@
     url: https://engy.us/blog/2020/01/01/implementing-a-custom-window-title-bar-in-wpf/
   - name: DotNetCore DeflateStream changes
     url: https://learn.microsoft.com/en-us/dotnet/core/compatibility/core-libraries/6.0/partial-byte-reads-in-streams
+  - name: Mutation Tests
+    url: https://daninacan.com/how-and-why-to-write-mutation-tests-in-c/
+  - name: Manage SDK Updates with Dependabot
+    url: https://devblogs.microsoft.com/dotnet/using-dependabot-to-manage-dotnet-sdk-updates/
 
 - name: .NET Foundation
   fontAwesome: th
@@ -135,6 +139,8 @@
   items:
   - name: CSharpier
     url: https://csharpier.com/
+  - name: CodeConverter
+    url: https://github.com/icsharpcode/CodeConverter
 
 - name: .NET Libraries
   fontAwesome: th
@@ -217,6 +223,18 @@
     url: https://github.com/altmann/FluentResults
   - name: TestableIO
     url: https://github.com/TestableIO/System.IO.Abstractions
+
+- name: PowerShell Gallery
+  fontAwesome: th
+  items:
+  - name: CRC
+    url: https://www.powershellgallery.com/packages/CRC
+
+- name: NuGet Gallery
+  fontAwesome: th
+  items:
+  - name: Woohoo.Emulation.TestData.CpuSM83
+    url: https://www.nuget.org/packages/Woohoo.Emulation.TestData.CpuSM83
 
 - name: .NET Preservation Libraries
   fontAwesome: th
@@ -305,6 +323,26 @@
     url: https://github.com/DuendeSoftware/IdentityServer/
   - name: Clean Architecture Template
     url: https://github.com/mikolaj-jankowski/Clean-Architecture-And-Domain-Driven-Design-Solution-Template
+  - name: CommunityToolkit/Aspire
+    url: https://github.com/CommunityToolkit/Aspire
+  - name: davidfowl/TodoApp
+    url: https://github.com/davidfowl/TodoApp
+  - name: sayedihashimi/RestaurantService
+    url: https://github.com/sayedihashimi/RestaurantService
+  - name: fdonnet/ubik_accounting
+    url: https://github.com/fdonnet/ubik_accounting
+  - name: jenius-apps/beeskie
+    url: https://github.com/jenius-apps/beeskie
+  - name: gurb/NarForum
+    url: https://github.com/gurb/NarForum
+  - name: erwinkramer/bank-api
+    url: https://github.com/erwinkramer/bank-api
+
+- name: .NET Learning
+  fontAwesome: th
+  items:
+  - name: Intro to Rx.NET
+    url: https://introtorx.com/
 
 - name: Java Libraries
   fontAwesome: th
@@ -660,6 +698,8 @@
     url: https://nuxt.com/
   - name: LightNap
     url: https://github.com/SharpLogic/LightNap
+  - name: OpenAPI TypeScript Client Generation
+    url: https://github.com/CharlieDigital/dn9-openapi-codegen
 
 - name: Web Tools
   items:
@@ -792,6 +832,24 @@
     url: https://fast-endpoints.com/
   - name: DotVVM
     url: https://www.dotvvm.com/
+  - name: Generate OpenAPI documents
+    url: https://learn.microsoft.com/en-us/aspnet/core/fundamentals/openapi/aspnetcore-openapi?view=aspnetcore-9.0&tabs=visual-studio
+  - name: Use .http files in VS 2022
+    url: https://learn.microsoft.com/en-us/aspnet/core/test/http-files?view=aspnetcore-9.0
+  - name: Build distributed apps with Aspire
+    url: https://learn.microsoft.com/en-us/credentials/applied-skills/build-distributed-apps-with-dotnet-aspire/
+  - name: Minimal API validation filter
+    url: https://benfoster.io/blog/minimal-api-validation-endpoint-filters/
+  - name: Request Validation (YouTube)
+    url: https://www.youtube.com/watch?v=1qJTVcR1VN8
+  - name: RFC 7807
+    url: https://datatracker.ietf.org/doc/html/rfc7807
+  - name: Translating Exceptions into Problem Details
+    url: https://timdeschryver.dev/blog/translating-exceptions-into-problem-details-responses
+  - name: Problem Details
+    url: https://www.milanjovanovic.tech/blog/problem-details-for-aspnetcore-apis
+  - name: OpenAPI Client Generation
+    url: https://stenbrinke.nl/blog/openapi-api-client-generation/#design-first
 
 - name: Uno Platform
   fontAwesome: th
