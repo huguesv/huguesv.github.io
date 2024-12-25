@@ -517,6 +517,10 @@
     url: https://mocagh.org/
   - name: OS/2 Site Root
     url: https://www.os2site.com/sw/index.html
+  - name: YEdit
+    url: http://www.malsmith.net/edit/
+  - name: ftp.apple.asimov.net
+    url: https://mirrors.apple2.org.za/ftp.apple.asimov.net/
   - name: lolsuite (by dns)
     url: https://no-intro.lolsuite.org/
   - name: lolsuite (by ip)
@@ -777,6 +781,8 @@
     url: https://stablebit.com/Scanner
   - name: ACDSee
     url: https://www.acdsee.com/en/index/
+  - name: Photo Mechanic
+    url: https://home.camerabits.com/
   - name: FastStone Image Viewer
     url: https://www.faststone.org/FSViewerDetail.htm
   - name: Affinity Photo

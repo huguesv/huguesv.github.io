@@ -221,6 +221,8 @@
   items:
   - name: DOSBox-X
     url: https://github.com/joncampbell123/dosbox-x
+  - name: SvarDOS
+    url: http://svardos.org/
   - name: PCjs - PC (JavaScript)
     url: https://github.com/jeffpar/pcjs
   - name: 86Box - PC (C)
@@ -254,6 +256,13 @@
   - name: Virtu - Apple IIe (C#)
     url: https://github.com/digital-jellyfish/Virtu
 
+- name: MIDI
+  items:
+  - name: Nuked-SC55
+    url: https://github.com/nukeykt/Nuked-SC55
+  - name: Nuked-OPL3
+    url: https://github.com/nukeykt/Nuked-OPL3
+
 - name: Engines
   fontAwesome: th
   items:
@@ -263,6 +272,8 @@
     url: https://aarongiles.com/dreamm/
   - name: Rigel Engine (Duke Nukem II)
     url: https://github.com/lethal-guitar/RigelEngine
+  - name: UnderworldGodot
+    url: https://github.com/hankmorgan/UnderworldGodot
   - name: NAGI
     url: https://github.com/sonneveld/nagi
   - name: FreeCol
@@ -277,6 +288,8 @@
     url: https://playnite.link/
   - name: Metropolis Launcher
     url: https://metropolis-launcher.net/
+  - name: Skraper
+    url: https://www.skraper.net/
 
 - name: Tools
   fontAwesome: th
@@ -293,10 +306,11 @@
     url: https://gitlab.com/Mr_Goldberg/goldberg_emulator
   - name: Applesauce
     url: https://applesaucefdc.com/
+  - name: LibCrypt Patcher
+    url: https://alex-free.github.io/libcrypt-patcher/
 
 - name: Guides
   fontAwesome: th
   items:
   - name: FMTowns Video Guide
     url: https://www.youtube.com/watch?v=BNvky_aPhxE
-

@@ -445,6 +445,8 @@
     url: https://www.jamesfmackenzie.com/
   - name: Stack Overflow - Keyboard Handling
     url: https://stackoverflow.com/questions/40961527/checking-if-a-key-is-down-in-ms-dos-c-c
+  - name: Blog System/5
+    url: https://blogsystem5.substack.com/archive
 
 - name: Retro - DOS
   fontAwesome: th
@@ -525,6 +527,8 @@
     url: https://retrogamecoders.com/
   - name: C64Studio
     url: https://github.com/GeorgRottensteiner/C64Studio/
+  - name: Programming the C64 with Visual Studio Code
+    url: https://retrogamecoders.com/c64-visual-studio-code/
 
 - name: Retro - Tandy Coco
   items:
