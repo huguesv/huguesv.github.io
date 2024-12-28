@@ -457,6 +457,8 @@
     url: https://www.pcorner.com/list/C
   - name: Programming the Mouse
     url: https://courses.cs.washington.edu/courses/cse477/00sp/projectwebs/groupb/PS2-mouse/Prog_mouse.html
+  - name: Stephan Sokolow's Blog
+    url: https://blog.ssokolow.com/
   - name: Awesome DOS
     url: https://github.com/balintkissdev/awesome-dos
   - name: VSCode DJGPP Allegro DOSBox

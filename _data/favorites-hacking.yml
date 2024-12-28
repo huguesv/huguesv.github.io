@@ -255,6 +255,8 @@
     url: https://gbatemp.net/threads/wii-u-usb-loading-install-wiiu-games-to-usb-or-internal-memory.445514/
   - name: Stable Nand Dumper Article
     url: https://gbatemp.net/threads/stable-nand-dumper-rednand.446819/
+  - name: MillaBasset Python Downloader
+    url: https://github.com/MillaBasset/uShop
 
 - name: Hacking 3DS
   fontAwesome: th

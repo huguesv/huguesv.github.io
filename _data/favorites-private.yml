@@ -209,6 +209,8 @@
     url: https://www.reddit.com/r/InternetIsBeautiful/
   - name: r/4kbluray
     url: https://www.reddit.com/r/4kbluray/
+  - name: r/usenet
+    url: https://www.reddit.com/r/usenet/
 
 - name: Reddit - Android
   fontAwesome: th
@@ -278,7 +280,7 @@
   - name: TOSEC
     url: https://www.tosecdev.org/
   - name: EverDrive DB
-    url: https://github.com/SmokeMonsterPacks/EverDrive-Packs-Lists-Database
+    url: https://github.com/frederic-mahe/Hardware-Target-Game-Database
   - name: SerialStation
     url: https://serialstation.com/
   - name: Switch Title Keys
@@ -351,6 +353,10 @@
     url: https://retrogamecorps.com/
   - name: MDK
     url: https://mdk.cab/
+  - name: SceneFlac
+    url: https://sceneflac.org/
+  - name: Game-2U
+    url: https://game-2u.com/
   - name: Torrminatorr
     url: https://torrminatorr.com/
   - name: Torrminatorr - 1fichier pt1
@@ -447,10 +453,14 @@
     url: http://www.kryoflux.com/
   - name: AppleSauce
     url: https://applesaucefdc.com/
+  - name: HxC2001
+    url: https://hxc2001.com/
 
 - name: Classic
   fontAwesome: th
   items:
+  - name: Mister Computer Cheat Sheet
+    url: https://pastebin.com/pM1XMe5E
   - name: Lost Treasures Fr
     url: http://www.abandonware-france.org/
   - name: Replacement Docs
@@ -507,6 +517,8 @@
     url: https://www.vogons.org/index.php
   - name: Myrient
     url: https://myrient.erista.me/
+  - name: NFGGAMES X68000 File Archive
+    url: https://nfggames.com/X68000/index.php
   - name: WePlayDOS
     url: https://weplaydos.games/
   - name: King's Quest VI Demake
@@ -521,6 +533,14 @@
     url: http://www.malsmith.net/edit/
   - name: ftp.apple.asimov.net
     url: https://mirrors.apple2.org.za/ftp.apple.asimov.net/
+  - name: Mobasuite Firmware Vault Mega
+    url: https://mega.nz/folder/9ZdQwaaY#u63KaI0MsKcIqWE2GQmUuA
+  - name: Vimm's Lair
+    url: https://vimm.net/
+  - name: CAF
+    url: https://1.cfw.pw/
+  - name: Orbis Patches
+    url: https://orbispatches.com/
   - name: lolsuite (by dns)
     url: https://no-intro.lolsuite.org/
   - name: lolsuite (by ip)
@@ -537,6 +557,8 @@
     url: https://libgen.li/index.php
   - name: PDF Drive
     url: https://www.pdfdrive.com/
+  - name: Silo.pub
+    url: https://silo.pub/
   - name: Anna's Archive
     url: https://annas-archive.org/
   - name: ForCoder
@@ -621,6 +643,8 @@
     url: http://www.rarefied.org/sci/drivers.html
   - name: Al Lowe's Humor Site
     url: http://www.allowe.com/
+  - name: Larry Laffer Dot Net
+    url: http://larrylaffer.net/
   - name: King's Quest IV Manual
     url: http://www.virtualapple.org/docs/document-4.html
   - name: Sierra Planet
@@ -1133,6 +1157,10 @@
   items:
   - name: Kq1redux
     url: http://www.edenwaith.com/products/kq1redux/
+  - name: Super Mario Bros X2
+    url: https://codehaus.wohlsoft.ru/
+  - name: Vblank Entertainment
+    url: https://www.vblank.com/
 
 - name: Security
   fontAwesome: th
