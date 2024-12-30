@@ -22,7 +22,7 @@
   fontAwesome: th
   items:
   - name: MAME
-    url: http://www.mame.net/
+    url: http://www.mamedev.org/
   - name: Bizhawk
     url: https://github.com/TASVideos/BizHawk
   - name: ares
@@ -97,6 +97,10 @@
     url: https://github.com/benvanik/xenia
   - name: BigPEmu - Jaguar (Closed Source)
     url: https://www.richwhitehouse.com/jaguar/index.php
+  - name: flycast - Sega Dreamcast
+    url: https://github.com/flyinghead/flycast
+  - name: Yabause - Sega Saturn
+    url: https://yabause.org/
 
 - name: Consoles
   fontAwesome: th
@@ -221,6 +225,8 @@
   items:
   - name: DOSBox-X
     url: https://github.com/joncampbell123/dosbox-x
+  - name: DOSBox Staging
+    url: https://github.com/dosbox-staging/dosbox-staging
   - name: SvarDOS
     url: http://svardos.org/
   - name: PCjs - PC (JavaScript)
@@ -245,6 +251,8 @@
     url: https://github.com/floooh/chips
   - name: Zen - Z80/ZX Spectrum (C#)
     url: https://github.com/stevehjohn/Zen
+  - name: Fuse - ZX Spectrum (C++)
+    url: https://fuse-emulator.sourceforge.net/
 
 - name: Computers (Inactive)
   fontAwesome: th
