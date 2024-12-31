@@ -975,12 +975,24 @@
     url: https://www.furnishedfinder.com/
   - name: HotPads
     url: https://hotpads.com/
+  - name: Apartmentguide
+    url: https://www.apartmentguide.com/
+  - name: ForRent.com
+    url: https://www.forrent.com/
+  - name: Trulia
+    url: https://www.trulia.com/rent/
+  - name: ApartmentFinder
+    url: https://www.apartmentfinder.com/
+  - name: Zillow
+    url: https://www.zillow.com/
 
 - name: Cities
   fontAwesome: th
   items:
   - name: Safest cities WA
     url: https://backgroundchecks.org/safest-cities-in-washington.html
+  - name: Homesnacks - Safest cities in WA
+    url: https://www.homesnacks.com/cities/safest-places-in-washington/
   - name: Crime Rate WA
     url: http://www.usa.com/rank/washington-state--crime-index--city-rank.htm
   - name: Niche - Places to Live Rankings

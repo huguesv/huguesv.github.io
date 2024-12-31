@@ -49,6 +49,8 @@
     url: https://github.com/roslynpad/roslynpad
   - name: YouTubeDownloader
     url: https://github.com/Tyrrrz/YoutubeDownloader
+  - name: Packaging for MacOS
+    url: https://avaloniaui.net/blog/the-definitive-guide-to-building-and-deploying-avalonia-applications-for-macos
 
 - name: .NET GitHub Actions Blogs
   fontAwesome: th
