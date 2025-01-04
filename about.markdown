@@ -13,4 +13,4 @@ You'll also find some of my photo albums.
 
 The site is built using Jekyll and hosted on GitHub Pages.
 
-Copyright (c) Hugues Valois 2024
+Copyright (c) Hugues Valois 2025
