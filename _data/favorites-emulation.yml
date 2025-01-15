@@ -207,6 +207,8 @@
     url: https://github.com/DirtyHairy/yagb
   - name: SwiftBoy - Game Boy (Swift)
     url: https://github.com/MBCook/SwiftBoy
+  - name: CODE-DMG - Game Boy (C#)
+    url: https://github.com/BotRandomness/CODE-DMG
   - name: libemulation - Multi (C++)
     url: https://github.com/openemulator/libemulation
   - name: libemulation fork - Multi (C++)

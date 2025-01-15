@@ -227,6 +227,8 @@
     url: https://github.com/altmann/FluentResults
   - name: TestableIO
     url: https://github.com/TestableIO/System.IO.Abstractions
+  - name: Shouldly
+    url: https://github.com/shouldly/shouldly
 
 - name: PowerShell Gallery
   fontAwesome: th
