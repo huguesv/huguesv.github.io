@@ -137,6 +137,8 @@
     url: https://bgb.bircd.org/
   - name: VirtualBoyGo
     url: https://github.com/CidVonHighwind/VirtualBoyGo
+  - name: NEN - NES (Rust)
+    url: https://github.com/Comba92/nen-emulator
 
 - name: Consoles
   fontAwesome: th

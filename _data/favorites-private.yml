@@ -113,6 +113,8 @@
     url: https://nzbindex.nl/
   - name: NzbForYou
     url: https://www.nzbforyou.com/index
+  - name: Radarr
+    url: https://radarr.video/
 
 - name: Reddit - Programming
   fontAwesome: th
@@ -521,8 +523,12 @@
     url: https://nfggames.com/X68000/index.php
   - name: WePlayDOS
     url: https://weplaydos.games/
+  - name: Your MS-DOS Games Resource
+    url: https://www.dosgame.at/
   - name: King's Quest VI Demake
-    url: https://www.atarimania.com/game-atari-st-king-s-quest-vi-heir-today-gone-tomorrow_43026.html
+    url: https://kq6agi.com/
+  - name: Space Quest Chapter 0
+    url: https://wiw.org/~jess/replicated.html
   - name: Macintosh Repository
     url: https://www.macintoshrepository.org/
   - name: Museum of Computer Adventure Game History
@@ -533,6 +539,10 @@
     url: http://www.malsmith.net/edit/
   - name: ftp.apple.asimov.net
     url: https://mirrors.apple2.org.za/ftp.apple.asimov.net/
+  - name: Infinite Mac
+    url: https://infinitemac.org/
+  - name: The Walkthrough King
+    url: https://www.walkthroughking.com/index.aspx
   - name: Mobasuite Firmware Vault Mega
     url: https://mega.nz/folder/9ZdQwaaY#u63KaI0MsKcIqWE2GQmUuA
   - name: Vimm's Lair
@@ -542,7 +552,7 @@
   - name: Orbis Patches
     url: https://orbispatches.com/
   - name: lolsuite (by dns)
-    url: https://no-intro.lolsuite.org/
+    url: https://lolsuite.org/
   - name: lolsuite (by ip)
     url: http://92.35.115.29/
 
