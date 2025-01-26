@@ -165,10 +165,14 @@
     url: https://github.com/mbdavid/litedb
   - name: SharpDX (archived)
     url: https://github.com/sharpdx/SharpDX
+  - name: SDL
+    url: https://github.com/libsdl-org/SDL
   - name: SDL2-CS (Ryujinx fork)
     url: https://github.com/Ryujinx/SDL2-CS
   - name: SDL2.NET
     url: https://github.com/DiegoG1019/SDL2.NET
+  - name: SDL3-CS
+    url: https://github.com/flibitijibibo/SDL3-CS
   - name: NAudio
     url: https://github.com/naudio/NAudio
   - name: Terminal.Gui
@@ -453,6 +457,8 @@
     url: https://stackoverflow.com/questions/40961527/checking-if-a-key-is-down-in-ms-dos-c-c
   - name: Blog System/5
     url: https://blogsystem5.substack.com/archive
+  - name: Jonot's Blog
+    url: https://jonot.me/
 
 - name: Retro - DOS
   fontAwesome: th
@@ -792,6 +798,8 @@
     url: https://www.monsterasp.net/
   - name: Railway
     url: https://railway.com/
+  - name: ImageKit
+    url: https://imagekit.io/
 
 - name: Web Samples
   fontAwesome: th

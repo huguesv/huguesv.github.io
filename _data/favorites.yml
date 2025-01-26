@@ -129,6 +129,8 @@
     url: https://www.strictlylimitedgames.com/
   - name: iam8bit
     url: https://www.iam8bit.com/collections/all
+  - name: Vblank Entertainment
+    url: https://www.vblank.com/
   - name: OfferUp
     url: https://offerup.com/
   - name: OMG Japan
@@ -137,6 +139,8 @@
     url: https://www.keychron.com/
   - name: NuPhy
     url: https://nuphy.com/
+  - name: Microsoft Company Store
+    url: https://store.ecompanystore.com/microsoft
 
 - name: Digital Stores
   fontAwesome: shopping-cart

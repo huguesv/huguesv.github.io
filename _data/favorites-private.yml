@@ -525,18 +525,12 @@
     url: https://weplaydos.games/
   - name: Your MS-DOS Games Resource
     url: https://www.dosgame.at/
-  - name: King's Quest VI Demake
-    url: https://kq6agi.com/
-  - name: Space Quest Chapter 0
-    url: https://wiw.org/~jess/replicated.html
   - name: Macintosh Repository
     url: https://www.macintoshrepository.org/
   - name: Museum of Computer Adventure Game History
     url: https://mocagh.org/
   - name: OS/2 Site Root
     url: https://www.os2site.com/sw/index.html
-  - name: YEdit
-    url: http://www.malsmith.net/edit/
   - name: ftp.apple.asimov.net
     url: https://mirrors.apple2.org.za/ftp.apple.asimov.net/
   - name: Infinite Mac
@@ -646,50 +640,86 @@
   - name: DiskImageTool
     url: https://github.com/Digitoxin1/DiskImageTool
 
-- name: Sierra
+- name: Sierra Sites
   fontAwesome: th
   items:
-  - name: Sound Drivers
-    url: http://www.rarefied.org/sci/drivers.html
+  - name: Sierra Gamers
+    url: https://www.sierragamers.com/
+  - name: The Sierra Chest
+    url: http://www.sierrachest.com/
+  - name: Sierra Planet
+    url: http://sierraplanet.net/
+  - name: The Sierra Adventure Book
+    url: https://thesierraadventure.com/
+  - name: Kawa's Server
+    url: https://helmet.kafuka.org/
+  - name: MIDI Music Adventure
+    url: http://www.midimusicadventures.com/
   - name: Al Lowe's Humor Site
     url: http://www.allowe.com/
   - name: Larry Laffer Dot Net
     url: http://larrylaffer.net/
-  - name: King's Quest IV Manual
-    url: http://www.virtualapple.org/docs/document-4.html
-  - name: Sierra Planet
-    url: http://sierraplanet.net/
-  - name: SCI Companion
-    url: https://github.com/icefallgames/SCICompanion
-  - name: AGD Studio
-    url: https://github.com/tonyt73/AGD-Studio
-  - name: Space Quest II Remake
-    url: https://infamousadventures.itch.io/space-quest-ii-vga-remake
-  - name: The Sierra Chest
-    url: http://www.sierrachest.com/
-  - name: MIDI Music Adventure
-    url: http://www.midimusicadventures.com/
-  - name: The Sierra Adventure Book
-    url: https://thesierraadventure.com/
-  - name: AGI Programmer's Wiki
-    url: http://agiwiki.sierrahelp.com/index.php/Main_Page
+  - name: SpaceQuest.Net
+    url: https://spacequest.net/
+  - name: Sci Programming Community
+    url: https://sciprogramming.com/
+
+- name: Sierra Patches
+  fontAwesome: th
+  items:
+  - name: Sound Drivers
+    url: http://www.rarefied.org/sci/drivers.html
   - name: Doomlazer SCI Patches
     url: https://github.com/Doomlazer
-  - name: "King's Quest IV: The Perils of Rosella Retold"
-    url: https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/
-  - name: Kawa's Server
-    url: https://helmet.kafuka.org/
-  - name: Sierra's AGI CPC Disk Protection
-    url: http://forums.sierrahelp.com/viewtopic.php?t=4212
-  - name: Syntax - SCript Interpreter
-    url: https://web.archive.org/web/20110729181959/http://www.scriptinterpreter.com/syntax
-  - name: Decompiling SCI byte code
-    url: https://mtnphil.wordpress.com/2016/04/09/decompiling-sci-byte-code-part-1/
   - name: Colonel's Bequest Protection Crack
     url: https://www.benshoof.org/blog/case-cracked
   - name: King's Quest VII Walk Speed
     url: https://www.benshoof.org/blog/
 
+- name: Sierra Tools
+  fontAwesome: th
+  items:
+  - name: SCI Companion
+    url: https://github.com/icefallgames/SCICompanion
+  - name: WinAGI
+    url: http://agiwiki.sierrahelp.com/index.php?title=WinAGI
+  - name: AGI Studio
+    url: http://agiwiki.sierrahelp.com/index.php/AGI_Studio
+  - name: QT AGI Studio
+    url: http://agiwiki.sierrahelp.com/index.php/QT_AGI_Studio
+  - name: AGILE
+    url: http://agiwiki.sierrahelp.com/index.php/AGILE
+  - name: AGI Programmer's Wiki
+    url: http://agiwiki.sierrahelp.com/index.php/Main_Page
+  - name: AGI Resources and Documentation
+    url: http://agi.sierrahelp.com/index.html
+  - name: Decompiling SCI byte code
+    url: https://mtnphil.wordpress.com/2016/04/09/decompiling-sci-byte-code-part-1/
+  - name: Sierra's AGI CPC Disk Protection
+    url: http://forums.sierrahelp.com/viewtopic.php?t=4212
+  - name: Syntax - SCript Interpreter
+    url: https://web.archive.org/web/20110729181959/http://www.scriptinterpreter.com/syntax
+
+- name: Sierra Fan Games
+  fontAwesome: th
+  items:
+  - name: King's Quest I Redux
+    url: http://www.edenwaith.com/products/kq1redux/
+  - name: King's Quest IV Retold
+    url: https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/
+  - name: King's Quest VI Demake
+    url: https://kq6agi.com/
+  - name: Space Quest II Remake
+    url: https://infamousadventures.itch.io/space-quest-ii-vga-remake
+  - name: Space Quest Chapter 0
+    url: https://wiw.org/~jess/replicated.html
+
+- name: Other Fan Games
+  fontAwesome: th
+  items:
+  - name: Super Mario Bros. X2
+    url: http://codehaus.wohlsoft.ru/
+  
 - name: Sierra Repos
   fontAwesome: th
   items:
@@ -719,6 +749,10 @@
     url: https://github.com/Deledrius/agistudio
   - name: sluicebox/sci-scripts
     url: https://github.com/sluicebox/sci-scripts
+  - name: AGKorson/WinAGI-GDS
+    url: https://github.com/AGKorson/WinAGI-GDS
+  - name: Davidebyzero/GBAGI
+    url: https://github.com/Davidebyzero/GBAGI
 
 - name: Videogame Stores
   fontAwesome: th
@@ -744,7 +778,9 @@
   - name: GPS Visualizer
     url: https://www.gpsvisualizer.com/
   - name: Open UHS
-    url: http://freshmeat.net/projects/openuhs
+    url: https://github.com/Vhati/OpenUHS
+  - name: Stefan Wolff's UHS page
+    url: https://www.swolff.dk/uhs/
   - name: VPN Providers
     url: http://torrentfreak.com/which-vpn-providers-really-take-anonymity-seriously-111007/
   - name: GameCopyWorld
@@ -757,8 +793,6 @@
     url: https://developers.google.com/speed/public-dns/
   - name: File Push
     url: https://filepush.co/
-  - name: Microsoft Company Store
-    url: https://store.ecompanystore.com/microsoft
   - name: M-Audio BX3
     url: https://m-audio.com/bx3
   - name: Web Patcher (ips, ppf, etc)
@@ -877,6 +911,12 @@
     url: https://scoop.sh/
   - name: DevToys
     url: https://devtoys.app/
+  - name: AGD Studio
+    url: https://github.com/tonyt73/AGD-Studio
+  - name: Adventure Game Studio
+    url: https://www.adventuregamestudio.co.uk/
+  - name: YEdit
+    url: http://www.malsmith.net/edit/
 
 - name: Software - Readers
   fontAwesome: th
@@ -910,13 +950,17 @@
   - name: Fit for Fifty
     url: http://fit450.com/HTML/5BX_Intro.html
 
-- name: Modern Classics
-  fontAwesome: th
+- name: GOG
+  fontAwesome: rss
   items:
-  - name: Super Mario Bros. X2
-    url: http://codehaus.wohlsoft.ru/
-  - name: Adventure Game Studio
-    url: https://www.adventuregamestudio.co.uk/
+  - name: Delisted Games 1
+    url: https://delistedgames.com/all-delisted-gog-games/
+  - name: Delisted Games 2
+    url: https://www.pcgamingwiki.com/wiki/List_of_games_delisted_from_GOG.com
+  - name: MD5-for-GOG
+    url: https://github.com/GOG-Games-com/MD5-for-GOG.com
+  - name: gogverify
+    url: https://github.com/DorianRudolph/gogverify
 
 - name: Languages
   fontAwesome: th
@@ -1161,28 +1205,6 @@
   items:
   - name: teoria
     url: https://www.teoria.com/
-
-- name: GOG
-  fontAwesome: rss
-  items:
-  - name: Delisted Games 1
-    url: https://delistedgames.com/all-delisted-gog-games/
-  - name: Delisted Games 2
-    url: https://www.pcgamingwiki.com/wiki/List_of_games_delisted_from_GOG.com
-  - name: MD5-for-GOG
-    url: https://github.com/GOG-Games-com/MD5-for-GOG.com
-  - name: gogverify
-    url: https://github.com/DorianRudolph/gogverify
-
-- name: Games
-  fontAwesome: rss
-  items:
-  - name: Kq1redux
-    url: http://www.edenwaith.com/products/kq1redux/
-  - name: Super Mario Bros X2
-    url: https://codehaus.wohlsoft.ru/
-  - name: Vblank Entertainment
-    url: https://www.vblank.com/
 
 - name: Security
   fontAwesome: th
