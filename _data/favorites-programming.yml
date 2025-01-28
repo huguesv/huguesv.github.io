@@ -233,6 +233,8 @@
     url: https://github.com/TestableIO/System.IO.Abstractions
   - name: Shouldly
     url: https://github.com/shouldly/shouldly
+  - name: SharpCompress
+    url: https://github.com/adamhathcock/sharpcompress
 
 - name: PowerShell Gallery
   fontAwesome: th

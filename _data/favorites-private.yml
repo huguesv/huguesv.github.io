@@ -299,6 +299,8 @@
     url: http://ps3ird.free.fr/
   - name: PS3 IRD DB (MidnightChannel)
     url: https://archive.midnightchannel.net/SonyPS/PS3/Disc%20Repair/
+  - name: PS3 IRD (github)
+    url: https://github.com/FlexBy420/playstation_3_ird_database
   - name: NusRipper
     url: https://github.com/zedseven/NusRipper
   - name: Preserve CD-i!
@@ -593,8 +595,12 @@
     url: http://forums.netphoria.org
   - name: SPFC
     url: http://www.spfc.org/main.html
+  - name: nindestruct
+    url: https://www.nindestruct.com/
   - name: Reflecting In The Chrome
     url: http://www.reflectinginthechrome.com/home.html
+  - name: nin.com
+    url: https://www.nin.com/
 
 - name: Tools
   fontAwesome: th
@@ -635,6 +641,8 @@
     url: https://github.com/KRTirtho/spotube
   - name: Apple Disk Tools
     url: https://github.com/a2-4am
+  - name: DeDRM (ePub)
+    url: https://github.com/13xforever/DeDRM
   - name: Rclone
     url: https://rclone.org/
   - name: DiskImageTool
@@ -675,6 +683,8 @@
     url: https://www.benshoof.org/blog/case-cracked
   - name: King's Quest VII Walk Speed
     url: https://www.benshoof.org/blog/
+  - name: Gabriel Knight Repaired Speech
+    url: https://archive.org/details/gk-speech-fix
 
 - name: Sierra Tools
   fontAwesome: th

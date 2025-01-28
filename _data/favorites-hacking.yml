@@ -75,6 +75,8 @@
     url: https://www.psx-place.com/threads/official-ps3hen-v3-3-0-hfw-released-for-4-91-firmware-from-team-ps3xploit.43199/
   - name: Coro
     url: https://ps3addict.github.io/
+  - name: psn-pkg-validator
+    url: https://github.com/13xforever/psn-pkg-validator
 
 - name: Hacking VITA
   fontAwesome: th
