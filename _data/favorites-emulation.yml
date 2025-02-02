@@ -77,6 +77,8 @@
     url: https://github.com/simple64/simple64
   - name: ShadPS4 - PS4 (C++)
     url: https://github.com/shadps4-emu/shadPS4
+  - name: ChonkyStation 3 - PS3 (C++)
+    url: https://github.com/liuk7071/ChonkyStation3
 
 - name: Consoles
   fontAwesome: th

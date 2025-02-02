@@ -315,6 +315,10 @@
     url: https://www.playstation3-center.com/
   - name: Photo Scanner Recommendations
     url: https://www.reddit.com/r/DataHoarder/comments/1f7evx5/what_is_the_current_best_affordable_scanner_for/
+  - name: Video Game History Foundation Library
+    url: https://library.gamehistory.org/
+  - name: GitHub Historical Source
+    url: https://github.com/historicalsource
 
 - name: Preservation Tools
   fontAwesome: th
@@ -355,7 +359,7 @@
     url: https://emulation.gametechwiki.com/index.php/Main_Page
   - name: Retro Game Corps
     url: https://retrogamecorps.com/
-  - name: MDK
+  - name: MDK (MAME)
     url: https://mdk.cab/
   - name: SceneFlac
     url: https://sceneflac.org/
@@ -671,6 +675,8 @@
     url: https://spacequest.net/
   - name: Sci Programming Community
     url: https://sciprogramming.com/
+  - name: Sci Programming Community - CG.EXE
+    url: https://sciprogramming.com/community/index.php?topic=2034.0
 
 - name: Sierra Patches
   fontAwesome: th
@@ -697,6 +703,10 @@
     url: http://agiwiki.sierrahelp.com/index.php/AGI_Studio
   - name: QT AGI Studio
     url: http://agiwiki.sierrahelp.com/index.php/QT_AGI_Studio
+  - name: agikit (VSCode)
+    url: https://github.com/nbudin/agikit
+  - name: CrafterCMS AGI.js
+    url: https://github.com/russdanner/craftercms-sierra-agijs
   - name: AGILE
     url: http://agiwiki.sierrahelp.com/index.php/AGILE
   - name: AGI Programmer's Wiki
@@ -729,6 +739,8 @@
   items:
   - name: Super Mario Bros. X2
     url: http://codehaus.wohlsoft.ru/
+  - name: Cave Dave (GBC)
+    url: https://thalamusdigital.itch.io/cave-dave-game-boy-color
   
 - name: Sierra Repos
   fontAwesome: th
@@ -839,6 +851,10 @@
     url: https://github.com/yuk27/BetterJoyForDolphin
   - name: Romcenter
     url: https://www.romcenter.com/
+  - name: RomVault
+    url: https://www.romvault.com/
+  - name: ClrMame
+    url: https://mamedev.emulab.it/clrmamepro/
   - name: RomSorter
     url: https://github.com/drakewill-CRL/ROMSorter
   - name: igir (Rom Collection Manager)

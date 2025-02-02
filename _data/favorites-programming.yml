@@ -49,6 +49,8 @@
     url: https://github.com/roslynpad/roslynpad
   - name: YouTubeDownloader
     url: https://github.com/Tyrrrz/YoutubeDownloader
+  - name: PicView
+    url: https://github.com/Ruben2776/PicView
   - name: Packaging for MacOS
     url: https://avaloniaui.net/blog/the-definitive-guide-to-building-and-deploying-avalonia-applications-for-macos
 
@@ -175,6 +177,14 @@
     url: https://github.com/flibitijibibo/SDL3-CS
   - name: NAudio
     url: https://github.com/naudio/NAudio
+  - name: CSCore .NET Audio Library
+    url: https://github.com/filoe/cscore
+  - name: NAudio.Flac
+    url: https://github.com/VPKSoft/NAudio.Flac
+  - name: CSFlac
+    url: https://github.com/tzachshabtay/CSFlac
+  - name: Audio Visualizer
+    url: https://github.com/Quozul/Audio-Visualizer
   - name: Terminal.Gui
     url: https://github.com/gui-cs/Terminal.Gui
   - name: Terminal.Gui Designer
@@ -874,6 +884,8 @@
     url: https://www.milanjovanovic.tech/blog/problem-details-for-aspnetcore-apis
   - name: OpenAPI Client Generation
     url: https://stenbrinke.nl/blog/openapi-api-client-generation/#design-first
+  - name: Modular Monoliths Blog Entry
+    url: https://itnext.io/a-practical-guide-to-modular-monoliths-with-net-59da23c01137
 
 - name: Uno Platform
   fontAwesome: th

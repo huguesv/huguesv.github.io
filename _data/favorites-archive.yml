@@ -35,6 +35,8 @@
     url: https://archive.org/details/@snesmanualarchive
   - name: DFXThomas (Disk Images)
     url: https://archive.org/details/@dfxthomas
+  - name: Eulisker (Disk Images)
+    url: https://archive.org/details/@eulisker
   - name: RevengeOfTheHubz (Scans)
     url: https://archive.org/details/@revengeofthehubz
   - name: JustAnotherArchivist (Repo Bundles)
@@ -113,6 +115,8 @@
     url: https://archive.org/details/mame-sl
   - name: MAME Support
     url: https://archive.org/details/mame-support
+  - name: MAME 0.272 Merged
+    url: https://archive.org/details/mame-0.272-romset-complete-merged
   - name: English Translation ROMs Collection
     url: https://archive.org/details/En-ROMs
   - name: TOSEC 2023
@@ -129,6 +133,8 @@
     url: https://archive.org/details/nintendo-super-famicom-msu1/
   - name: BMB Karaoke CVD Series (non-redump)
     url: https://archive.org/details/bmb-karaoke-cvd-series-japan-video-cd
+  - name: Gabriel Knight French
+    url: https://archive.org/details/Gabriel_Knight_The_Beast_Within_French_Version_MSDOS_1995
 
 - name: MiSTeR Collections (Active)
   fontAwesome: th
@@ -203,6 +209,10 @@
     url: https://archive.org/details/amiga_game_disk_collection
   - name: VB 1.0 Pro for DOS
     url: https://archive.org/details/VBDOS
+  - name: Amiga Backup CDs
+    url: https://archive.org/details/amiga_iso_collection
+  - name: Interaction Magazines
+    url: https://archive.org/details/interactionmagazine
 
 - name: Apple Software Libraries
   fontAwesome: th
@@ -411,6 +421,10 @@
     url: http://www.archive.org/details/SmashingPumpkins
   - name: archive.org - Zwan
     url: http://www.archive.org/details/Zwan
+  - name: archive.org - Hum
+    url: http://www.archive.org/details/Hum
+  - name: archive.org - Death Cab for Cutie
+    url: http://www.archive.org/details/DeathCabforCutie
 
 - name: GitHub
   fontAwesome: th
