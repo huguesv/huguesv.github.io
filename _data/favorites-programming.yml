@@ -173,8 +173,10 @@
     url: https://github.com/Ryujinx/SDL2-CS
   - name: SDL2.NET
     url: https://github.com/DiegoG1019/SDL2.NET
-  - name: SDL3-CS
+  - name: SDL3-CS (flibitijibibo)
     url: https://github.com/flibitijibibo/SDL3-CS
+  - name: SDL3-cs (bottlenoselabs)
+    url: https://github.com/bottlenoselabs/SDL3-cs
   - name: NAudio
     url: https://github.com/naudio/NAudio
   - name: CSCore .NET Audio Library
@@ -245,6 +247,10 @@
     url: https://github.com/shouldly/shouldly
   - name: SharpCompress
     url: https://github.com/adamhathcock/sharpcompress
+  - name: SharpYaml
+    url: https://github.com/xoofx/SharpYaml
+  - name: YamlDotNet
+    url: https://github.com/aaubry/YamlDotNet
 
 - name: PowerShell Gallery
   fontAwesome: th
