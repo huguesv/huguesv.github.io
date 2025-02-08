@@ -70,7 +70,7 @@
   - name: Creating dotnet tool
     url: https://www.dejandjenic.com/blogs/creating-dotnet-tool-and-publishing-it-from-github.html
 
-- name: .NET GitHub Actions
+- name: GitHub Actions
   fontAwesome: th
   items:
   - name: Runner Images
