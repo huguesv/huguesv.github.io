@@ -25,6 +25,8 @@
     url: http://downtownbellevue.com/
   - name: City of Bellevue
     url: https://www.bellevuewa.gov/city-news
+  - name: Bellevue Traffic Map
+    url: https://trafficmap.bellevuewa.gov/
   - name: Overlake Medical
     url: https://www.overlakehospital.org/locations
   - name: Dentist - William Peterson
@@ -819,10 +821,14 @@
     url: https://m-audio.com/bx3
   - name: Web Patcher (ips, ppf, etc)
     url: https://hack64.net/tools/patcher.php
+  - name: OSBoxes
+    url: https://www.osboxes.org/
 
 - name: Software - Mac
   fontAwesome: th
   items:
+  - name: UTM
+    url: https://mac.getutm.app/
   - name: PeaZip
     url: https://peazip.github.io/peazip-macos.html
   - name: NMac Ked
@@ -943,6 +949,8 @@
     url: https://www.adventuregamestudio.co.uk/
   - name: YEdit
     url: http://www.malsmith.net/edit/
+  - name: LLPlayer
+    url: https://github.com/umlx5h/LLPlayer
 
 - name: Software - Readers
   fontAwesome: th
@@ -1033,6 +1041,8 @@
     url: https://thenounproject.com/
   - name: Pexels
     url: https://www.pexels.com/
+  - name: Vidstack Media Icons
+    url: https://github.com/vidstack/icons
 
 - name: Finance
   fontAwesome: th

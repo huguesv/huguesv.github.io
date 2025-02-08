@@ -70,6 +70,12 @@
   - name: Creating dotnet tool
     url: https://www.dejandjenic.com/blogs/creating-dotnet-tool-and-publishing-it-from-github.html
 
+- name: .NET GitHub Actions
+  fontAwesome: th
+  items:
+  - name: Runner Images
+    url: https://github.com/actions/runner-images
+
 - name: .NET MVVM
   fontAwesome: th
   items:
@@ -139,6 +145,8 @@
     url: https://github.com/Webreaper/CentralisedPackageConverter
   - name: CsWin32
     url: https://github.com/microsoft/cswin32
+  - name: SingleFileExtractor
+    url: https://github.com/Droppers/SingleFileExtractor/
 
 - name: C# Tools
   fontAwesome: th
@@ -173,6 +181,8 @@
     url: https://github.com/Ryujinx/SDL2-CS
   - name: SDL2.NET
     url: https://github.com/DiegoG1019/SDL2.NET
+  - name: SDL3-CS (ppy)
+    url: https://github.com/ppy/SDL3-CS
   - name: SDL3-CS (flibitijibibo)
     url: https://github.com/flibitijibibo/SDL3-CS
   - name: SDL3-cs (bottlenoselabs)
@@ -900,6 +910,8 @@
     url: https://platform.uno/
   - name: Calculator Sample
     url: https://calculator.platform.uno/
+  - name: TubePlayer Workshop
+    url: https://github.com/kazo0/TubePlayer
 
 - name: Javascript Libraries
   fontAwesome: th

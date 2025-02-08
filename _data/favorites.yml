@@ -95,6 +95,8 @@
     url: https://wafflegame.net/daily
   - name: Wordle
     url: https://www.nytimes.com/games/wordle/index.html
+  - name: Murdle
+    url: https://murdle.com/
 
 - name: Ratings
   fontAwesome: film
