@@ -322,6 +322,8 @@
     url: https://applesaucefdc.com/
   - name: LibCrypt Patcher
     url: https://alex-free.github.io/libcrypt-patcher/
+  - name: Passport (4am cracking utility)
+    url: https://github.com/a2-4am/passport
 
 - name: Guides
   fontAwesome: th

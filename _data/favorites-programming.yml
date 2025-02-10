@@ -27,6 +27,8 @@
     url: https://github.com/AvaloniaUI/Avalonia
   - name: Avalonia.Labs
     url: https://github.com/AvaloniaUI/Avalonia.Labs
+  - name: Avalonia Play
+    url: https://play.avaloniaui.net/
   - name: FluentAvalonia
     url: https://github.com/amwx/FluentAvalonia
   - name: awesome-avalonia
@@ -113,6 +115,8 @@
     url: https://daninacan.com/how-and-why-to-write-mutation-tests-in-c/
   - name: Manage SDK Updates with Dependabot
     url: https://devblogs.microsoft.com/dotnet/using-dependabot-to-manage-dotnet-sdk-updates/
+  - name: FFT Audio Visualization in Unity
+    url: https://discussions.unity.com/t/fft-audio-visualization-video-tutorial/640612
 
 - name: .NET Foundation
   fontAwesome: th
@@ -261,6 +265,12 @@
     url: https://github.com/xoofx/SharpYaml
   - name: YamlDotNet
     url: https://github.com/aaubry/YamlDotNet
+  - name: Csharp-Data-Visualization
+    url: https://github.com/swharden/Csharp-Data-Visualization
+  - name: FftSharp
+    url: https://github.com/swharden/FftSharp
+  - name: SoundFlow
+    url: https://github.com/LSXPrime/SoundFlow
 
 - name: PowerShell Gallery
   fontAwesome: th
