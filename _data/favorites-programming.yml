@@ -259,8 +259,6 @@
     url: https://github.com/TestableIO/System.IO.Abstractions
   - name: Shouldly
     url: https://github.com/shouldly/shouldly
-  - name: SharpCompress
-    url: https://github.com/adamhathcock/sharpcompress
   - name: SharpYaml
     url: https://github.com/xoofx/SharpYaml
   - name: YamlDotNet
@@ -315,6 +313,12 @@
     url: https://github.com/daPhie79/tiny7z
   - name: managed-lzma
     url: https://github.com/weltkante/managed-lzma
+  - name: SharpCompress
+    url: https://github.com/adamhathcock/sharpcompress
+  - name: nitroxis LZMA library
+    url: https://gitlab.com/nitroxis/lzma
+  - name: EasyCompressor
+    url: https://github.com/mjebrahimi/EasyCompressor
 
 - name: WinUI
   fontAwesome: th

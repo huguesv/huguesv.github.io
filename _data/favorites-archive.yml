@@ -59,6 +59,8 @@
     url: https://archive.org/details/@ggg_ggg894
   - name: Darmok653
     url: https://archive.org/details/@darmok653
+  - name: WindowsBASE
+    url: https://archive.org/details/@krzygru
   - name: kailokyra
     url: https://archive.org/details/@kailokyra
   - name: purplenekonova
@@ -217,6 +219,8 @@
     url: https://archive.org/details/amiga_iso_collection
   - name: Interaction Magazines
     url: https://archive.org/details/interactionmagazine
+  - name: DJCacique (Photo and Software)
+    url: https://archive.org/details/@djcacique
 
 - name: Apple Software Libraries
   fontAwesome: th
