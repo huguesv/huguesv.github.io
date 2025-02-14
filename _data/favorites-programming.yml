@@ -185,6 +185,8 @@
     url: https://github.com/Ryujinx/SDL2-CS
   - name: SDL2.NET
     url: https://github.com/DiegoG1019/SDL2.NET
+  - name: SDL2-CS (ppy)
+    url: https://github.com/ppy/SDL2-CS
   - name: SDL3-CS (ppy)
     url: https://github.com/ppy/SDL3-CS
   - name: SDL3-CS (flibitijibibo)
