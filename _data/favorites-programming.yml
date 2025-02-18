@@ -31,6 +31,8 @@
     url: https://play.avaloniaui.net/
   - name: FluentAvalonia
     url: https://github.com/amwx/FluentAvalonia
+  - name: Consolonia
+    url: https://github.com/jinek/Consolonia
   - name: awesome-avalonia
     url: https://github.com/AvaloniaCommunity/awesome-avalonia
   - name: Avalonia + MVVM + Reactive UI Samples
@@ -195,10 +197,12 @@
     url: https://github.com/bottlenoselabs/SDL3-cs
   - name: NAudio
     url: https://github.com/naudio/NAudio
-  - name: CSCore .NET Audio Library
-    url: https://github.com/filoe/cscore
+  - name: NLayer
+    url: https://github.com/naudio/NLayer
   - name: NAudio.Flac
     url: https://github.com/VPKSoft/NAudio.Flac
+  - name: CSCore .NET Audio Library
+    url: https://github.com/filoe/cscore
   - name: CSFlac
     url: https://github.com/tzachshabtay/CSFlac
   - name: Audio Visualizer
@@ -209,8 +213,6 @@
     url: https://github.com/gui-cs/TerminalGuiDesigner
   - name: Spectre.Console
     url: https://github.com/spectreconsole/spectre.console
-  - name: Consolonia
-    url: https://github.com/jinek/Consolonia
   - name: Modern.Forms
     url: https://github.com/modern-forms/Modern.Forms
   - name: ScottPlot
