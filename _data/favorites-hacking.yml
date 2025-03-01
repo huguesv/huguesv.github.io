@@ -77,6 +77,8 @@
     url: https://ps3addict.github.io/
   - name: psn-pkg-validator
     url: https://github.com/13xforever/psn-pkg-validator
+  - name: windsurfer1122 pkg repos
+    url: https://github.com/windsurfer1122
 
 - name: Hacking VITA
   fontAwesome: th

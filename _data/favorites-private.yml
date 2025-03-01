@@ -955,6 +955,12 @@
     url: http://www.malsmith.net/edit/
   - name: LLPlayer
     url: https://github.com/umlx5h/LLPlayer
+  - name: Inkscape
+    url: https://inkscape.org/
+  - name: ImageMagick
+    url: https://imagemagick.org/index.php
+  - name: ShareX
+    url: https://github.com/ShareX/ShareX
 
 - name: Software - Readers
   fontAwesome: th
@@ -1047,6 +1053,10 @@
     url: https://www.pexels.com/
   - name: Vidstack Media Icons
     url: https://github.com/vidstack/icons
+  - name: SVG Repo
+    url: https://www.svgrepo.com/
+  - name: Icons Icons
+    url: https://icon-icons.com/
 
 - name: Finance
   fontAwesome: th

@@ -153,7 +153,11 @@
     url: https://github.com/microsoft/cswin32
   - name: SingleFileExtractor
     url: https://github.com/Droppers/SingleFileExtractor/
-
+  - name: Objective Sharpie
+    url: https://github.com/MicrosoftDocs/xamarin-docs/tree/live/docs/cross-platform/macios/binding/objective-sharpie
+  - name: CodeConverter
+    url: https://github.com/icsharpcode/CodeConverter
+    
 - name: C# Tools
   fontAwesome: th
   items:
@@ -273,6 +277,8 @@
     url: https://github.com/swharden/FftSharp
   - name: SoundFlow
     url: https://github.com/LSXPrime/SoundFlow
+  - name: macios
+    url: https://github.com/dotnet/macios
 
 - name: PowerShell Gallery
   fontAwesome: th
@@ -1056,3 +1062,12 @@
   items:
   - name: Signing VSIX Packages
     url: https://learn.microsoft.com/en-us/visualstudio/extensibility/signing-vsix-packages?view=vs-2022
+
+- name: AutoCAD
+  fontAwesome: th
+  items:
+  - name: AutoCAD API
+    url: https://aps.autodesk.com/developer/overview/autocad
+  - name: Managed .NET Developer's Guide
+    url: https://help.autodesk.com/view/OARX/2025/ENU/?guid=GUID-C3F3C736-40CF-44A0-9210-55F6A939B6F2
+

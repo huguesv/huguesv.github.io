@@ -95,6 +95,8 @@
     url: https://wafflegame.net/daily
   - name: Wordle
     url: https://www.nytimes.com/games/wordle/index.html
+  - name: Connections
+    url: https://www.nytimes.com/games/connections
   - name: Murdle
     url: https://murdle.com/
 
