@@ -57,6 +57,8 @@
     url: https://github.com/Ruben2776/PicView
   - name: Packaging for MacOS
     url: https://avaloniaui.net/blog/the-definitive-guide-to-building-and-deploying-avalonia-applications-for-macos
+  - name: ShareX for Avalonia
+    url: https://github.com/BrycensRanch/SnapX/tree/feat/initial-avalonia-ui
 
 - name: .NET GitHub Actions Blogs
   fontAwesome: th
@@ -399,6 +401,10 @@
     url: https://github.com/gurb/NarForum
   - name: erwinkramer/bank-api
     url: https://github.com/erwinkramer/bank-api
+  - name: Gaseous
+    url: https://github.com/gaseous-project/gaseous-server
+  - name: Hasheous
+    url: https://github.com/gaseous-project/hasheous
 
 - name: .NET Learning
   fontAwesome: th

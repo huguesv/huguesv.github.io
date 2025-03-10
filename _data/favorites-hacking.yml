@@ -79,6 +79,8 @@
     url: https://github.com/13xforever/psn-pkg-validator
   - name: windsurfer1122 pkg repos
     url: https://github.com/windsurfer1122
+  - name: PS3HEN
+    url: https://github.com/PS3Xploit/PS3HEN
 
 - name: Hacking VITA
   fontAwesome: th
