@@ -257,6 +257,8 @@
     url: https://github.com/floooh/chips
   - name: Zen - Z80/ZX Spectrum (C#)
     url: https://github.com/stevehjohn/Zen
+  - name: ZXBox - ZX Spectrum (C#)
+    url: https://github.com/EngstromJimmy/ZXSpectrum
   - name: Fuse - ZX Spectrum (C++)
     url: https://fuse-emulator.sourceforge.net/
 
