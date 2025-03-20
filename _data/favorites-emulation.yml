@@ -57,10 +57,8 @@
     url: https://suyu.dev/
   - name: Sudachi - Switch (C++)
     url: https://sudachi.emuplace.app/
-  - name: Ryujinx - Switch (C#)
-    url: https://github.com/GreemDev/Ryujinx
-  - name: Ryujinx Old Mirror - Switch (C#)
-    url: https://git.naxdy.org/Mirror/Ryujinx
+  - name: Ryujinx (Ryubing) - Switch (C#)
+    url: https://git.ryujinx.app/ryubing/ryujinx
   - name: Citron - Switch (C++)
     url: https://git.citron-emu.org/Citron/Citron
   - name: Lime3DS - 3DS (C++)

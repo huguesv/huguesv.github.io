@@ -281,6 +281,8 @@
     url: https://github.com/LSXPrime/SoundFlow
   - name: macios
     url: https://github.com/dotnet/macios
+  - name: ZLinq
+    url: https://github.com/Cysharp/ZLinq
 
 - name: PowerShell Gallery
   fontAwesome: th
