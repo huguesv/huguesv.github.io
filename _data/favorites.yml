@@ -181,22 +181,18 @@
   items:
   - name: YouTube
     url: https://youtube.com
-  - name: Netflix
-    url: https://netflix.com
-  - name: Amazon Prime
-    url: https://smile.amazon.com/prime
   - name: F1 TV
     url: https://f1tv.formula1.com/en/
   - name: Twitch
     url: https://www.twitch.tv/
-  - name: Peacock
-    url: https://www.peacocktv.com/
   - name: Pluto TV
     url: https://pluto.tv/tv/
-  - name: YouTube TV
-    url: https://tv.youtube.com
-  - name: Netflix Global Search
-    url: http://unogs.com/
+  - name: Netflix
+    url: https://netflix.com
+  - name: Amazon Prime
+    url: https://www.amazon.com/amazonprime
+  - name: Peacock
+    url: https://www.peacocktv.com/
   - name: Hoopla
     url: https://www.hoopladigital.com/
 
@@ -211,29 +207,3 @@
     url: https://www.atptour.com/en/tournaments
   - name: Hockey
     url: https://www.nhl.com/
-
-- name: MiSTer
-  fontAwesome: th
-  items:
-  - name: MiSTer FPGA Forum
-    url: https://misterfpga.org/
-  - name: MiSTer Wiki
-    url: https://github.com/MiSTer-devel/Main_MiSTer/wiki
-  - name: Mr Fusion
-    url: https://github.com/MiSTer-devel/mr-fusion
-  - name: theypsilon/Update_All_MiSTer
-    url: https://github.com/theypsilon/Update_All_MiSTer
-  - name: ScummVM
-    url: https://github.com/bbond007/MiSTer_ScummVM
-  - name: MiSTer-devel/Updater_script_MiSTer
-    url: https://github.com/MiSTer-devel/Updater_script_MiSTer
-  - name: Jotego Binaries
-    url: https://github.com/jotego/jtbin
-  - name: Creative Music Sound System
-    url: https://github.com/chimaera66/Creative-Music-Sound-System-for-MiSTer
-  - name: MiSTer Super Attract Mode
-    url: https://github.com/mrchrisster/MiSTer_SAM
-  - name: MiSTer MIDI Interface
-    url: https://www.legacypixels.com/mister/midi.html
-  - name: MiSTer Computer Cheat Sheet
-    url: https://pastebin.com/pM1XMe5E
