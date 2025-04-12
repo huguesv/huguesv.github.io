@@ -845,6 +845,8 @@
   items:
   - name: SmartTube
     url: https://github.com/yuliskov/SmartTube
+  - name: Android Auto Scrolling Issue
+    url: https://support.google.com/androidauto/thread/325803988/scrolling-issue-in-apps?hl=en
 
 - name: Software - Windows
   fontAwesome: th
@@ -1263,11 +1265,3 @@
   items:
   - name: Internet Crime Complaint Center
     url: https://www.ic3.gov/
-
-- name: Blogs
-  fontAwesome: rss
-  items:
-  - name: Scott Hanselman
-    url: http://www.hanselman.com/blog/
-  - name: Visual Studio Blog
-    url: https://devblogs.microsoft.com/visualstudio/

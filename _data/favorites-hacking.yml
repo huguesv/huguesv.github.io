@@ -208,6 +208,48 @@
   - name: LibHac
     url: https://github.com/Thealexbarney/LibHac.git
 
+- name: Hacking Switch 2025
+  fontAwesome: th
+  items:
+  - name: Gamecard-Installer-NX (archived)
+    url: https://github.com/ITotalJustice/Gamecard-Installer-NX
+  - name: Logic Sunrise Guide
+    url: https://www.logic-sunrise.com/forums/topic/86960-tutoguide-hacker-sa-switch-facilement-avec-kosmos-et-atmosphere/page-1
+  - name: SupercellNx
+    url: https://github.com/daeken/SupercellNx
+  - name: DeepSea
+    url: https://github.com/Team-Neptune/DeepSea
+  - name: Ultimate-Switch-Hack-Script
+    url: https://github.com/shadow2560/Ultimate-Switch-Hack-Script
+  - name: switch_AIO_LS_pack (2025)
+    url: https://github.com/shadow2560/switch_AIO_LS_pack
+  - name: Lockpick_RCM
+    url: https://gitee.com/mirrors_shchmue/Lockpick_RCM
+  - name: TheProdKeys
+    url: https://theprodkeys.com/v12/
+  - name: prodkeys
+    url: https://prodkeys.net/
+  - name: AtmoPack-Vanilla
+    url: https://gitlab.com/THZoria/AtmoPack-Vanilla
+  - name: aio-switch-updater
+    url: https://github.com/HamletDuFromage/aio-switch-updater
+  - name: nx-links
+    url: https://github.com/HamletDuFromage/nx-links
+  - name: hekate
+    url: https://github.com/CTCaer/hekate
+  - name: Switch Hack Guide
+    url: https://switch.hacks.guide/
+  - name: SciresM GitHub Repos
+    url: https://github.com/SciresM?tab=repositories
+  - name: locklockinglocker
+    url: https://archive.org/details/locklockinglocker
+  - name: sigmapatches 17.0.0
+    url: https://web.archive.org/web/20231212135819/https://sigmapatches.coomer.party/
+  - name: gbatemp syspatch discussion
+    url: https://gbatemp.net/threads/do-you-have-to-do-something-special-to-get-sigpatches-working-on-fw-18-1-0-atmosphere-1-7-1.662571/
+  - name: sys-patch
+    url: https://github.com/impeeza/sys-patch
+
 - name: Hacking NES Mini
   fontAwesome: th
   items:
@@ -347,7 +389,11 @@
 - name: Hacking
   fontAwesome: th
   items:
-  - name: Darthsternie's Firmware Archive
+  - name: Darthsternie's Firmware Archive (PS, Nintendo, Xbox)
     url: https://darthsternie.net/
   - name: PS4 System Firmwares (archive.org)
     url: https://archive.org/details/PS4-System-Firmwares
+  - name: MAS (GitHub)
+    url: https://github.com/massgravel/Microsoft-Activation-Scripts
+  - name: MAS (Web)
+    url: https://massgrave.dev/

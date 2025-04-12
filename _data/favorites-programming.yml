@@ -18,6 +18,14 @@
   - name: Archive Favorites
     url: /favorites-archive
 
+- name: Blogs
+  fontAwesome: th
+  items:
+  - name: Scott Hanselman
+    url: http://www.hanselman.com/blog/
+  - name: Visual Studio Blog
+    url: https://devblogs.microsoft.com/visualstudio/
+
 - name: .NET Avalonia
   fontAwesome: th
   items:
@@ -279,10 +287,14 @@
     url: https://github.com/swharden/FftSharp
   - name: SoundFlow
     url: https://github.com/LSXPrime/SoundFlow
+  - name: Sonora
+    url: https://github.com/ImAxel0/Sonora
   - name: macios
     url: https://github.com/dotnet/macios
   - name: ZLinq
     url: https://github.com/Cysharp/ZLinq
+  - name: UI.WPF.Modern
+    url: https://github.com/iNKORE-NET/UI.WPF.Modern
 
 - name: PowerShell Gallery
   fontAwesome: th
@@ -314,6 +326,16 @@
   - name: Machine.Specifications
     url: https://github.com/machine/machine.specifications
 
+- name: .NET Mac
+  fontAwesome: th
+  items:
+  - name: Avalonia macOS Deployment
+    url: https://docs.avaloniaui.net/docs/deployment/macOS
+  - name: Creating Icons (icns)
+    url: https://dentrassi.de/2014/02/25/creating-mac-os-x-icons-icns-on-linux/
+  - name: Create dmg GitHub Action
+    url: https://github.com/L-Super/create-dmg-actions
+
 - name: .NET Archive Libraries
   fontAwesome: th
   items:
@@ -333,6 +355,8 @@
     url: https://gitlab.com/nitroxis/lzma
   - name: EasyCompressor
     url: https://github.com/mjebrahimi/EasyCompressor
+  - name: AvalonStudio 7z example code
+    url: https://github.com/VitalElement/AvalonStudio/blob/azure-packages/AvalonStudio/PackageManager/PackageManager.cs#L297
 
 - name: WinUI
   fontAwesome: th
@@ -343,6 +367,8 @@
     url: https://learn.microsoft.com/en-us/windows/apps/design/
   - name: WinUI Community Templates
     url: https://github.com/WinUICommunity/WinUICommunity-Templates
+  - name: WinUI.TableView
+    url: https://github.com/w-ahmad/WinUI.TableView
 
 - name: C Libraries
   fontAwesome: th
@@ -413,6 +439,8 @@
   items:
   - name: Intro to Rx.NET
     url: https://introtorx.com/
+  - name: Spectrogram Video
+    url: https://www.youtube.com/watch?v=MS1Qgo710Vo
 
 - name: Java Libraries
   fontAwesome: th
@@ -992,6 +1020,10 @@
     url: https://deps.dev/
   - name: jsign
     url: https://github.com/ebourg/jsign
+  - name: kdl
+    url: https://kdl.dev/
+  - name: VS 2027 Community
+    url: https://archive.org/details/VS2017CE
 
 - name: Reference
   fontAwesome: th
@@ -1079,3 +1111,32 @@
   - name: Managed .NET Developer's Guide
     url: https://help.autodesk.com/view/OARX/2025/ENU/?guid=GUID-C3F3C736-40CF-44A0-9210-55F6A939B6F2
 
+- name: Audio CDs
+  fontAwesome: th
+  items:
+  - name: MusicBrainz
+    url: https://musicbrainz.org/
+  - name: MusicBrainz / FreeDB
+    url: https://musicbrainz.org/doc/FreeDB
+  - name: cuetools.net
+    url: https://github.com/gchudov/cuetools.net
+  - name: CueTools DB
+    url: https://db.cue.tools/
+  - name: AccurateRip
+    url: https://www.accuraterip.com/
+  - name: Exact Audio Copy
+    url: https://www.exactaudiocopy.org/
+  - name: CD-Runner
+    url: https://www.cdrunner.com/index.htm
+  - name: MusicBrainz TOC
+    url: https://muman.ch/muman/index.htm?murip_musicbrainz_toc.htm
+  - name: MusicBrainz Disc ID Calc
+    url: https://musicbrainz.org/doc/Disc_ID_Calculation
+  - name: NuGet - mbdiscid
+    url: https://www.nuget.org/packages/MetaBrainz.MusicBrainz.dotnet-mbdiscid#readme-body-tab
+  - name: NuGet - MetaBrainz.MusicBrainz.DiscId
+    url: https://www.nuget.org/packages/MetaBrainz.MusicBrainz.DiscId#readme-body-tab
+  - name: MetaBrainz.MusicBrainz.DiscId
+    url: https://github.com/Zastai/MetaBrainz.MusicBrainz.DiscId
+  - name: MetaBrainz.MusicBrainz
+    url: https://github.com/Zastai/MetaBrainz.MusicBrainz
