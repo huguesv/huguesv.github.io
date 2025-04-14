@@ -1,0 +1,319 @@
+- name: Hugues Valois
+  fontAwesome: th
+  items:
+  - name: Public Favorites
+    url: /favorites
+  - name: Private Favorites
+    url: /favorites-private
+  - name: Reddit Favorites
+    url: /favorites-reddit
+  - name: Software Favorites
+    url: /favorites-software
+  - name: Programming Favorites
+    url: /favorites-programming
+  - name: Redump Favorites
+    url: /favorites-redump
+  - name: Emulation Favorites
+    url: /favorites-emulation
+  - name: Retro Favorites
+    url: /favorites-retro
+  - name: Hacking Favorites
+    url: /favorites-hacking
+  - name: Travel Favorites
+    url: /favorites-travel
+  - name: Archive Favorites
+    url: /favorites-archive
+
+- name: Preservation
+  fontAwesome: th
+  items:
+  - name: No-Intro
+    url: http://datomatic.no-intro.org/
+  - name: Redump
+    url: http://redump.org/
+  - name: Redump Wiki
+    url: http://wiki.redump.org/
+  - name: TOSEC
+    url: https://www.tosecdev.org/
+  - name: EverDrive DB
+    url: https://github.com/frederic-mahe/Hardware-Target-Game-Database
+  - name: SerialStation
+    url: https://serialstation.com/
+  - name: Switch Title Keys
+    url: https://github.com/malikis/ns
+  - name: WiiBrew Title Database
+    url: http://wiiubrew.org/wiki/Title_database
+  - name: DSi TMD Files
+    url: https://gbatemp.net/threads/tmd-files-preservation.471610/
+  - name: Video Game Preservation Collective
+    url: https://www.preservegames.org/
+  - name: PS3 IRD DB (aldostools.org)
+    url: https://ps3.aldostools.org/ird.html
+  - name: PS3 IRD DB (free.fr)
+    url: http://ps3ird.free.fr/
+  - name: PS3 IRD DB (MidnightChannel)
+    url: https://archive.midnightchannel.net/SonyPS/PS3/Disc%20Repair/
+  - name: PS3 IRD (github)
+    url: https://github.com/FlexBy420/playstation_3_ird_database
+  - name: NusRipper
+    url: https://github.com/zedseven/NusRipper
+  - name: Preserve CD-i!
+    url: https://preserve-cdi.blogspot.com/
+  - name: Hit Save!
+    url: https://hitsave.org/
+  - name: Dumping.Guide
+    url: https://dumping.guide/start
+  - name: Redump Source Code 2010
+    url: https://github.com/Dremora/redump
+  - name: PlayStation 3 Center
+    url: https://www.playstation3-center.com/
+  - name: Photo Scanner Recommendations
+    url: https://www.reddit.com/r/DataHoarder/comments/1f7evx5/what_is_the_current_best_affordable_scanner_for/
+  - name: Video Game History Foundation Library
+    url: https://library.gamehistory.org/
+  - name: GitHub Historical Source
+    url: https://github.com/historicalsource
+
+- name: Classic
+  fontAwesome: th
+  items:
+  - name: Mister Computer Cheat Sheet
+    url: https://pastebin.com/pM1XMe5E
+  - name: Lost Treasures Fr
+    url: http://www.abandonware-france.org/
+  - name: Replacement Docs
+    url: http://www.replacementdocs.com/
+  - name: Software Preservation Society
+    url: http://www.softpres.org/
+  - name: Team Europe
+    url: http://team-europe.blogspot.com/
+  - name: SNES Central
+    url: http://www.snescentral.com/index.php
+  - name: Universal Hint System
+    url: http://www.uhs-hints.com/hints/allhints.php
+  - name: 128bit.me
+    url: http://128bit.me/index.php?action=forum
+  - name: MAME No Filler
+    url: http://forum.arcadecontrols.com/index.php/topic,149708.0.html
+  - name: WinWorld
+    url: https://winworldpc.com/library/operating-systems
+  - name: Good Old Days
+    url: http://www.goodolddays.net/
+  - name: Planet Emulation - Atari ST
+    url: https://www.planetemu.net/machine/atari-st
+  - name: Vetusware (Abandonware)
+    url: https://vetusware.com/
+  - name: AmigaVision (Collection)
+    url: https://amiga.vision/
+  - name: AmigaVision GitHub
+    url: https://github.com/amigavision/AmigaVision
+  - name: DiscMaster
+    url: https://discmaster.textfiles.com/
+  - name: CPC Archives
+    url: https://www.cpc-power.com/cpcarchives/index.php?page=accueil
+  - name: RetroArchive
+    url: http://www.retroarchive.org/cdrom/index.html
+  - name: IBMPC.org
+    url: https://ibm-pc.org/
+  - name: Steve's Computer Collection
+    url: https://oldcomputers.net/
+  - name: 0MHz DOS Collection
+    url: https://0mhz.net/
+  - name: EmuMovies
+    url: https://emumovies.com/
+  - name: PSP UMD Video and Music Checklist
+    url: https://docs.google.com/spreadsheets/d/1sdw_JpFOMHv3ASk5RyWXGmv80xyec4v1rSEgXkeF-RE/edit?pli=1#gid=0
+  - name: Renascene Vita Excel Sheet
+    url: https://disk.yandex.ru/d/9p7MpG3lHyyZFA
+  - name: Hidden Palace
+    url: https://hiddenpalace.org/Main_Page
+  - name: startgame
+    url: https://startgame.world/
+  - name: bitsavers.org
+    url: https://bitsavers.org/
+  - name: VOGONS
+    url: https://www.vogons.org/index.php
+  - name: Myrient
+    url: https://myrient.erista.me/
+  - name: NFGGAMES X68000 File Archive
+    url: https://nfggames.com/X68000/index.php
+  - name: WePlayDOS
+    url: https://weplaydos.games/
+  - name: Your MS-DOS Games Resource
+    url: https://www.dosgame.at/
+  - name: Macintosh Repository
+    url: https://www.macintoshrepository.org/
+  - name: Museum of Computer Adventure Game History
+    url: https://mocagh.org/
+  - name: OS/2 Site Root
+    url: https://www.os2site.com/sw/index.html
+  - name: ftp.apple.asimov.net
+    url: https://mirrors.apple2.org.za/ftp.apple.asimov.net/
+  - name: The Dragon Archive
+    url: https://worldofdragon.org/index.php?title=Main_Page
+  - name: Infinite Mac
+    url: https://infinitemac.org/
+  - name: The Walkthrough King
+    url: https://www.walkthroughking.com/index.aspx
+  - name: Mobasuite Firmware Vault Mega
+    url: https://mega.nz/folder/9ZdQwaaY#u63KaI0MsKcIqWE2GQmUuA
+  - name: Vimm's Lair
+    url: https://vimm.net/
+  - name: CAF
+    url: https://1.cfw.pw/
+  - name: Orbis Patches
+    url: https://orbispatches.com/
+  - name: lolsuite (by dns)
+    url: https://lolsuite.org/
+  - name: lolsuite (by ip)
+    url: http://92.35.115.29/
+
+- name: Sierra Sites
+  fontAwesome: th
+  items:
+  - name: Sierra Gamers
+    url: https://www.sierragamers.com/
+  - name: The Sierra Chest
+    url: http://www.sierrachest.com/
+  - name: Sierra Planet
+    url: http://sierraplanet.net/
+  - name: The Sierra Adventure Book
+    url: https://thesierraadventure.com/
+  - name: Kawa's Server
+    url: https://helmet.kafuka.org/
+  - name: MIDI Music Adventure
+    url: http://www.midimusicadventures.com/
+  - name: Al Lowe's Humor Site
+    url: http://www.allowe.com/
+  - name: Larry Laffer Dot Net
+    url: http://larrylaffer.net/
+  - name: SpaceQuest.Net
+    url: https://spacequest.net/
+  - name: Sci Programming Community
+    url: https://sciprogramming.com/
+  - name: Sci Programming Community - CG.EXE
+    url: https://sciprogramming.com/community/index.php?topic=2034.0
+
+- name: Sierra Patches
+  fontAwesome: th
+  items:
+  - name: Sound Drivers
+    url: http://www.rarefied.org/sci/drivers.html
+  - name: Doomlazer SCI Patches
+    url: https://github.com/Doomlazer
+  - name: Colonel's Bequest Protection Crack
+    url: https://www.benshoof.org/blog/case-cracked
+  - name: King's Quest VII Walk Speed
+    url: https://www.benshoof.org/blog/
+  - name: Gabriel Knight Repaired Speech
+    url: https://archive.org/details/gk-speech-fix
+
+- name: Sierra Tools
+  fontAwesome: th
+  items:
+  - name: SCI Companion
+    url: https://github.com/icefallgames/SCICompanion
+  - name: WinAGI
+    url: http://agiwiki.sierrahelp.com/index.php?title=WinAGI
+  - name: AGI Studio
+    url: http://agiwiki.sierrahelp.com/index.php/AGI_Studio
+  - name: QT AGI Studio
+    url: http://agiwiki.sierrahelp.com/index.php/QT_AGI_Studio
+  - name: agikit (VSCode)
+    url: https://github.com/nbudin/agikit
+  - name: CrafterCMS AGI.js
+    url: https://github.com/russdanner/craftercms-sierra-agijs
+  - name: AGILE
+    url: http://agiwiki.sierrahelp.com/index.php/AGILE
+  - name: AGI Programmer's Wiki
+    url: http://agiwiki.sierrahelp.com/index.php/Main_Page
+  - name: AGI Resources and Documentation
+    url: http://agi.sierrahelp.com/index.html
+  - name: Decompiling SCI byte code
+    url: https://mtnphil.wordpress.com/2016/04/09/decompiling-sci-byte-code-part-1/
+  - name: Sierra's AGI CPC Disk Protection
+    url: http://forums.sierrahelp.com/viewtopic.php?t=4212
+  - name: Syntax - SCript Interpreter
+    url: https://web.archive.org/web/20110729181959/http://www.scriptinterpreter.com/syntax
+
+- name: Sierra Fan Games
+  fontAwesome: th
+  items:
+  - name: King's Quest I Redux
+    url: http://www.edenwaith.com/products/kq1redux/
+  - name: King's Quest IV Retold
+    url: https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/
+  - name: King's Quest VI Demake
+    url: https://kq6agi.com/
+  - name: Space Quest II Remake
+    url: https://infamousadventures.itch.io/space-quest-ii-vga-remake
+  - name: Space Quest Chapter 0
+    url: https://wiw.org/~jess/replicated.html
+
+- name: Other Fan Games
+  fontAwesome: th
+  items:
+  - name: Super Mario Bros. X2
+    url: http://codehaus.wohlsoft.ru/
+  - name: Cave Dave (GBC)
+    url: https://thalamusdigital.itch.io/cave-dave-game-boy-color
+  
+- name: Sierra Repos
+  fontAwesome: th
+  items:
+  - name: Kawa-oneechan/SCI11-Plus
+    url: https://github.com/Kawa-oneechan/SCI11-Plus
+  - name: Kawa-oneechan/SCITools
+    url: https://github.com/Kawa-oneechan/SCITools
+  - name: Kawa-oneechan/SCICompanion
+    url: https://github.com/Kawa-oneechan/SCICompanion
+  - name: lanceewing/agi
+    url: https://github.com/lanceewing/agi
+  - name: lanceewing/agile
+    url: https://github.com/lanceewing/agile
+  - name: lanceewing/agile-gdx
+    url: https://github.com/lanceewing/agile-gdx
+  - name: lanceewing/agile-js
+    url: https://github.com/lanceewing/agile-js
+  - name: lanceewing/jagi
+    url: https://github.com/lanceewing/jagi
+  - name: lanceewing/picedit
+    url: https://github.com/lanceewing/picedit
+  - name: OmerMor/SCI16
+    url: https://github.com/OmerMor/SCI16
+  - name: OmerMor/SCI0
+    url: https://github.com/OmerMor/SCI0
+  - name: Deledrius/agistudio
+    url: https://github.com/Deledrius/agistudio
+  - name: sluicebox/sci-scripts
+    url: https://github.com/sluicebox/sci-scripts
+  - name: AGKorson/WinAGI-GDS
+    url: https://github.com/AGKorson/WinAGI-GDS
+  - name: Davidebyzero/GBAGI
+    url: https://github.com/Davidebyzero/GBAGI
+
+- name: Floppy Disk Hardware
+  fontAwesome: th
+  items:
+  - name: Kryoflux
+    url: http://www.kryoflux.com/
+  - name: AppleSauce
+    url: https://applesaucefdc.com/
+  - name: HxC2001
+    url: https://hxc2001.com/
+
+- name: MiSTer Shops
+  fontAwesome: th
+  items:
+  - name: Retro Remake
+    url: https://retroremake.co/
+  - name: MiSTer Add-Ons Shop
+    url: https://misteraddons.com/
+  - name: MiSTer UK Shop
+    url: https://misterfpga.co.uk/
+  - name: MiSTer Multisystem
+    url: http://www.heber.co.uk/product/multisystem/
+  - name: RMC - The Store
+    url: https://rmcretro.store/
+  - name: MiSTer Multisystem User Manual
+    url: https://www.rmcretro.com/assets/manuals/MiSTer_Multisystem_manual_and_operational_guide_November2021_V2r3.pdf

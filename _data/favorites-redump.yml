@@ -15,6 +15,8 @@
     url: /favorites-redump
   - name: Emulation Favorites
     url: /favorites-emulation
+  - name: Retro Favorites
+    url: /favorites-retro
   - name: Hacking Favorites
     url: /favorites-hacking
   - name: Travel Favorites
