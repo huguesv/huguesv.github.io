@@ -55,6 +55,14 @@
     url: https://www.python.org/downloads/
   - name: NVM for Windows
     url: https://github.com/coreybutler/nvm-windows/
+  - name: Deno
+    url: https://deno.com/
+  - name: Go
+    url: https://go.dev/doc/install/
+  - name: Ruby
+    url: https://www.ruby-lang.org/en/downloads/
+  - name: Rust
+    url: https://www.rust-lang.org/tools/install
 
 - name: Blogs
   fontAwesome: th
@@ -337,14 +345,18 @@
 - name: PowerShell Gallery
   fontAwesome: th
   items:
+  - name: PowerShell Gallery
+    url: https://www.powershellgallery.com/
   - name: CRC
     url: https://www.powershellgallery.com/packages/CRC
 
 - name: NuGet Gallery
   fontAwesome: th
   items:
-  - name: Woohoo.Emulation.TestData.CpuSM83
-    url: https://www.nuget.org/packages/Woohoo.Emulation.TestData.CpuSM83
+  - name: NuGet
+    url: https://www.nuget.org/
+  - name: NuGet (hugues_valois)
+    url: https://www.nuget.org/profiles/hugues_valois
 
 - name: .NET Preservation Libraries
   fontAwesome: th
