@@ -24,6 +24,14 @@
   - name: Archive Favorites
     url: /favorites-archive
 
+- name: Mail
+  fontAwesome: envelope-o
+  items:
+  - name: Outlook
+    url: http://www.outlook.com
+  - name: Gmail
+    url: http://mail.google.com
+
 - name: Bellevue
   fontAwesome: th
   items:

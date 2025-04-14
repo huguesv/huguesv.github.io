@@ -168,14 +168,6 @@
   - name: ZOOM Platform
     url: https://www.zoom-platform.com/
 
-- name: Mail
-  fontAwesome: envelope-o
-  items:
-  - name: Outlook
-    url: http://www.outlook.com
-  - name: Gmail
-    url: http://mail.google.com
-
 - name: Streaming
   fontAwesome: th
   items:

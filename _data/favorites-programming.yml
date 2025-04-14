@@ -24,6 +24,38 @@
   - name: Archive Favorites
     url: /favorites-archive
 
+- name: Repositories
+  fontAwesome: th
+  items:
+  - name: GitHub
+    url: http://www.github.com/
+  - name: GitHub (huguesv)
+    url: http://www.github.com/huguesv/
+  - name: GitLab
+    url: http://www.gitlab.com/
+
+- name: Software
+  fontAwesome: th
+  items:
+  - name: Visual Studio
+    url: https://visualstudio.microsoft.com/downloads/
+  - name: Visual Studio Code
+    url: https://code.visualstudio.com/download/
+  - name: JetBrains
+    url: https://www.jetbrains.com/
+  - name: Git
+    url: https://git-scm.com/downloads
+
+- name: Runtimes and SDKs
+  fontAwesome: th
+  items:
+  - name: .NET
+    url: https://dotnet.microsoft.com/en-us/download/
+  - name: Python
+    url: https://www.python.org/downloads/
+  - name: NVM for Windows
+    url: https://github.com/coreybutler/nvm-windows/
+
 - name: Blogs
   fontAwesome: th
   items:
