@@ -1,0 +1,177 @@
+- name: Hugues Valois
+  fontAwesome: th
+  items:
+  - name: Public Favorites
+    url: /favorites
+  - name: Private Favorites
+    url: /favorites-private
+  - name: Reddit Favorites
+    url: /favorites-reddit
+  - name: Software Favorites
+    url: /favorites-software
+  - name: Programming Favorites
+    url: /favorites-programming
+  - name: Redump Favorites
+    url: /favorites-redump
+  - name: Emulation Favorites
+    url: /favorites-emulation
+  - name: Hacking Favorites
+    url: /favorites-hacking
+  - name: Travel Favorites
+    url: /favorites-travel
+  - name: Archive Favorites
+    url: /favorites-archive
+
+- name: Reddit - Programming
+  fontAwesome: th
+  items:
+  - name: r/dotnet
+    url: https://www.reddit.com/r/dotnet/
+  - name: r/csharp
+    url: https://www.reddit.com/r/csharp/
+  - name: r/aspnetcore
+    url: https://www.reddit.com/r/aspnetcore/
+  - name: r/typescript
+    url: https://www.reddit.com/r/typescript/
+  - name: r/golang
+    url: https://www.reddit.com/r/golang/
+  - name: r/nextjs
+    url: https://www.reddit.com/r/nextjs/
+  - name: r/react
+    url: https://www.reddit.com/r/react/
+  - name: r/sveltejs
+    url: https://www.reddit.com/r/sveltejs/
+  - name: r/vuejs
+    url: https://www.reddit.com/r/vuejs/
+  - name: r/AvaloniaUI
+    url: https://www.reddit.com/r/AvaloniaUI/
+  - name: r/mongodb
+    url: https://www.reddit.com/r/mongodb/
+  - name: r/docker
+    url: https://www.reddit.com/r/docker/
+  - name: r/VisualStudio
+    url: https://www.reddit.com/r/VisualStudio/
+  - name: r/vscode
+    url: https://www.reddit.com/r/vscode/
+  - name: r/retrogamedev
+    url: https://www.reddit.com/r/retrogamedev/
+  - name: r/EmuDev
+    url: https://www.reddit.com/r/EmuDev/
+  - name: r/gamedev
+    url: https://www.reddit.com/r/gamedev/
+
+- name: Reddit - Gaming
+  fontAwesome: th
+  items:
+  - name: r/emulation
+    url: https://www.reddit.com/r/emulation/
+  - name: r/fpgagaming
+    url: https://www.reddit.com/r/fpgagaming/
+  - name: r/MiSTerFPGA
+    url: https://www.reddit.com/r/MiSTerFPGA/
+  - name: r/ps3hacks
+    url: https://www.reddit.com/r/ps3hacks/
+  - name: r/dosgaming
+    url: https://www.reddit.com/r/dosgaming/
+  - name: r/dos
+    url: https://www.reddit.com/r/DOS/
+  - name: r/msdos
+    url: https://www.reddit.com/r/MSDOS/
+  - name: r/retrogaming
+    url: https://www.reddit.com/r/retrogaming/
+  - name: r/persona
+    url: https://www.reddit.com/r/PERSoNA/
+  - name: r/Sierra
+    url: https://www.reddit.com/r/Sierra/
+
+- name: Reddit - Roms
+  fontAwesome: th
+  items:
+  - name: r/Roms
+    url: https://www.reddit.com/r/Roms/
+  - name: r/Roms Megathread
+    url: https://r-roms.github.io/
+  - name: r/PiratedGames
+    url: https://www.reddit.com/r/PiratedGames/
+  - name: r/FREEMEDIAHECKYEAH
+    url: https://www.reddit.com/r/FREEMEDIAHECKYEAH/
+  - name: r/FREEMEDIAHECKYEAH Wiki
+    url: https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/
+  - name: r/DataHoarder
+    url: https://www.reddit.com/r/DataHoarder/
+  - name: r/opendirectories
+    url: https://www.reddit.com/r/opendirectories/
+  - name: r/GamePreservationists
+    url: https://www.reddit.com/r/GamePreservationists/
+  - name: r/SwitchPirates/
+    url: https://www.reddit.com/r/SwitchPirates/
+
+- name: Reddit - Misc
+  fontAwesome: th
+  items:
+  - name: r/formula1
+    url: https://www.reddit.com/r/formula1/
+  - name: r/tokipona/
+    url: https://www.reddit.com/r/tokipona/
+  - name: r/InternetIsBeautiful
+    url: https://www.reddit.com/r/InternetIsBeautiful/
+  - name: r/4kbluray
+    url: https://www.reddit.com/r/4kbluray/
+  - name: r/usenet
+    url: https://www.reddit.com/r/usenet/
+
+- name: Reddit - Android
+  fontAwesome: th
+  items:
+  - name: r/samsung
+    url: https://www.reddit.com/r/samsung/
+  - name: r/PickAnAndroidForMe/
+    url: https://www.reddit.com/r/PickAnAndroidForMe/
+  - name: r/Smartphones/
+    url: https://www.reddit.com/r/Smartphones/
+  - name: r/Android/
+    url: https://www.reddit.com/r/Android/
+  - name: r/androidafterlife/
+    url: https://www.reddit.com/r/androidafterlife/
+
+- name: Reddit - Regional
+  fontAwesome: th
+  items:
+  - name: r/BellevueWA
+    url: https://www.reddit.com/r/BellevueWA/
+  - name: r/Seattle
+    url: https://www.reddit.com/r/Seattle/
+  - name: r/kingcounty
+    url: https://www.reddit.com/r/kingcounty/
+  - name: r/Washington
+    url: https://www.reddit.com/r/Washington/
+
+- name: Reddit - Hardware
+  fontAwesome: th
+  items:
+  - name: r/MechanicalKeyboards
+    url: https://www.reddit.com/r/MechanicalKeyboards/
+  - name: r/ErgoMechKeyboards
+    url: https://www.reddit.com/r/ErgoMechKeyboards/
+  - name: r/midi
+    url: https://www.reddit.com/r/midi/
+  - name: r/SurfaceLinux/
+    url: https://www.reddit.com/r/SurfaceLinux/
+  - name: r/PcRetailers
+    url: https://www.reddit.com/r/PcRetailers/
+  - name: r/MiniPCs
+    url: https://www.reddit.com/r/MiniPCs/
+  - name: r/BeelinkOfficial
+    url: https://www.reddit.com/r/BeelinkOfficial/
+  - name: r/Monitors
+    url: https://www.reddit.com/r/Monitors/
+  - name: r/oled_monitors
+    url: https://www.reddit.com/r/oled_monitors/
+  - name: r/OLED_Gaming
+    url: https://www.reddit.com/r/OLED_Gaming/
+  - name: r/pcgaming
+    url: https://www.reddit.com/r/pcgaming/
+  - name: r/buildapc
+    url: https://www.reddit.com/r/buildapc/
+  - name: r/PcBuild
+    url: https://www.reddit.com/r/PcBuild/

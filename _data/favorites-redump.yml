@@ -5,6 +5,10 @@
     url: /favorites
   - name: Private Favorites
     url: /favorites-private
+  - name: Reddit Favorites
+    url: /favorites-reddit
+  - name: Software Favorites
+    url: /favorites-software
   - name: Programming Favorites
     url: /favorites-programming
   - name: Redump Favorites

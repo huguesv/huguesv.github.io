@@ -1,0 +1,274 @@
+- name: Hugues Valois
+  fontAwesome: th
+  items:
+  - name: Public Favorites
+    url: /favorites
+  - name: Private Favorites
+    url: /favorites-private
+  - name: Reddit Favorites
+    url: /favorites-reddit
+  - name: Software Favorites
+    url: /favorites-software
+  - name: Programming Favorites
+    url: /favorites-programming
+  - name: Redump Favorites
+    url: /favorites-redump
+  - name: Emulation Favorites
+    url: /favorites-emulation
+  - name: Hacking Favorites
+    url: /favorites-hacking
+  - name: Travel Favorites
+    url: /favorites-travel
+  - name: Archive Favorites
+    url: /favorites-archive
+
+- name: Tools
+  fontAwesome: th
+  items:
+  - name: XDelta GUI
+    url: http://thejbnet.com/progs/xgui/
+  - name: GameArchives
+    url: https://github.com/maxton/GameArchives
+  - name: DiscImageCreator
+    url: https://github.com/saramibreak/DiscImageCreator
+  - name: UmdImageCreator
+    url: https://github.com/saramibreak/UmdImageCreator
+  - name: Redumper
+    url: https://github.com/superg/redumper
+  - name: Aaru
+    url: https://github.com/aaru-dps/Aaru
+  - name: Rufus USB Boot
+    url: http://rufus.akeo.ie/
+  - name: SAMdisk
+    url: https://simonowen.com/samdisk/
+  - name: DxWnd
+    url: https://sourceforge.net/projects/dxwnd/
+  - name: PS-Multi-Tools
+    url: https://github.com/SvenGDK/PS-Multi-Tools
+  - name: yt-dlp
+    url: https://github.com/yt-dlp
+  - name: yt2doc
+    url: https://github.com/shun-liang/yt2doc
+  - name: itchiodl
+    url: https://github.com/Emersont1/itchio
+  - name: Archive.org-Downloader
+    url: https://github.com/MiniGlome/Archive.org-Downloader#readme
+  - name: gogcli
+    url: https://github.com/Magnitus-/gogcli
+  - name: WinSetView
+    url: https://github.com/LesFerch/WinSetView
+  - name: spotube
+    url: https://github.com/KRTirtho/spotube
+  - name: Apple Disk Tools
+    url: https://github.com/a2-4am
+  - name: DeDRM (ePub)
+    url: https://github.com/13xforever/DeDRM
+  - name: Rclone
+    url: https://rclone.org/
+  - name: DiskImageTool
+    url: https://github.com/Digitoxin1/DiskImageTool
+
+- name: Windows
+  fontAwesome: th
+  items:
+  - name: aseprite
+    url: https://github.com/aseprite/aseprite
+  - name: LibreSprite
+    url: https://github.com/LibreSprite/LibreSprite
+  - name: Privoxy
+    url: http://www.privoxy.org/
+  - name: MegaBasterd
+    url: https://github.com/tonikelope/megabasterd
+  - name: BetterJoyForCemu
+    url: https://github.com/Davidobot/BetterJoyForCemu
+  - name: BetterJoyForDolphin
+    url: https://github.com/yuk27/BetterJoyForDolphin
+  - name: Romcenter
+    url: https://www.romcenter.com/
+  - name: RomVault
+    url: https://www.romvault.com/
+  - name: ClrMame
+    url: https://mamedev.emulab.it/clrmamepro/
+  - name: RomSorter
+    url: https://github.com/drakewill-CRL/ROMSorter
+  - name: igir (Rom Collection Manager)
+    url: https://github.com/emmercm/igir
+  - name: Carnac
+    url: http://code52.org/carnac/
+  - name: darktable
+    url: https://www.darktable.org/
+  - name: Windows Powertoys
+    url: https://github.com/microsoft/PowerToys
+  - name: VidCoder
+    url: https://github.com/RandomEngy/VidCoder
+  - name: eDex
+    url: https://github.com/GitSquared/edex-ui
+  - name: HD Tune
+    url: https://www.hdtune.com/
+  - name: Stablebit Scanner
+    url: https://stablebit.com/Scanner
+  - name: ACDSee
+    url: https://www.acdsee.com/en/index/
+  - name: Photo Mechanic
+    url: https://home.camerabits.com/
+  - name: FastStone Image Viewer
+    url: https://www.faststone.org/FSViewerDetail.htm
+  - name: Affinity Photo
+    url: https://affinity.serif.com/en-us/photo/
+  - name: Paint.NET
+    url: https://www.getpaint.net/download.html
+  - name: 5KPlayer
+    url: https://www.5kplayer.com/
+  - name: CPU-Z
+    url: https://www.cpuid.com/softwares/cpu-z.html
+  - name: CoreTemp
+    url: https://www.alcpu.com/CoreTemp/
+  - name: Fan Control
+    url: https://getfancontrol.com/
+  - name: mpv
+    url: https://mpv.io/
+  - name: Obsidian
+    url: https://obsidian.md/
+  - name: Obsidian Plugin - remotely-save
+    url: https://github.com/remotely-save/remotely-save
+  - name: Files
+    url: https://github.com/files-community/Files
+  - name: WizTree
+    url: https://diskanalyzer.com/
+  - name: WinDirStat
+    url: https://windirstat.net/download.html
+  - name: Nerd Fonts
+    url: https://www.nerdfonts.com/font-downloads
+  - name: RAD - Reality Adlib Tracker
+    url: https://www.3eality.com/productions/reality-adlib-tracker
+  - name: VGCollect
+    url: https://vgcollect.com/
+  - name: Simplenote
+    url: https://simplenote.com/
+  - name: SumatraPDF
+    url: https://github.com/sumatrapdfreader/sumatrapdf
+  - name: VLC
+    url: https://www.videolan.org/
+  - name: VLC libdvdcss
+    url: https://www.videolan.org/developers/libdvdcss.html
+  - name: Redump Wiki BD-Video Key Extraction
+    url: http://wiki.redump.org/index.php?title=BD-Video_Key_Extraction
+  - name: Bluray Playback with libaacs
+    url: https://forum.doom9.org/showthread.php?p=1886086#post1886086
+  - name: Win11 Context Menu Customization
+    url: https://www.elevenforum.com/t/disable-show-more-options-context-menu-in-windows-11.1589/
+  - name: Audacity
+    url: https://github.com/audacity/audacity
+  - name: Windows Terminal Themes
+    url: https://windowsterminalthemes.dev/
+  - name: WordTsar
+    url: http://wordtsar.ca/
+  - name: Lossless Cut
+    url: https://github.com/mifi/lossless-cut
+  - name: Affinity (Photo Editing)
+    url: https://affinity.serif.com/en-us/
+  - name: Scoop Package Manager
+    url: https://scoop.sh/
+  - name: DevToys
+    url: https://devtoys.app/
+  - name: AGD Studio
+    url: https://github.com/tonyt73/AGD-Studio
+  - name: Adventure Game Studio
+    url: https://www.adventuregamestudio.co.uk/
+  - name: YEdit
+    url: http://www.malsmith.net/edit/
+  - name: LLPlayer
+    url: https://github.com/umlx5h/LLPlayer
+  - name: Inkscape
+    url: https://inkscape.org/
+  - name: ImageMagick
+    url: https://imagemagick.org/index.php
+  - name: ShareX
+    url: https://github.com/ShareX/ShareX
+
+- name: Video Editing
+  fontAwesome: th
+  items:
+  - name: Shotcut
+    url: https://shotcut.org/
+  - name: OpenShot
+    url: https://www.openshot.org/
+  - name: Vidcutter
+    url: https://github.com/ozmartian/vidcutter
+  - name: DaVinci Resolve
+    url: https://www.blackmagicdesign.com/products/davinciresolve
+  - name: Kdenlive
+    url: https://kdenlive.org/en/
+
+- name: Windows - MIDI
+  fontAwesome: th
+  items:
+  - name: AudioKit Synth One
+    url: https://audiokitpro.com/synth/
+  - name: Cakewalk
+    url: https://www.bandlab.com/products/cakewalk
+  - name: MidiEditor
+    url: https://github.com/markusschwenk/midieditor/
+  - name: Zynthian Open Synth Platform
+    url: https://zynthian.org/
+  - name: King of FM Synth (Mac and iOS)
+    url: https://www.synthtopia.com/content/2023/05/03/new-free-synth-is-king-of-fm/
+  - name: Reaper
+    url: https://www.reaper.fm/
+  - name: xMIDI
+    url: https://github.com/mordolpl/xMIDI
+  - name: Ableton Live 11 Lite
+    url: https://www.ableton.com/en/products/live-lite/
+  - name: lmms
+    url: https://github.com/LMMS/lmms
+  - name: FL Studio
+    url: https://www.image-line.com/fl-studio/
+
+- name: Windows - Readers
+  fontAwesome: th
+  items:
+  - name: Calibre
+    url: https://github.com/kovidgoyal/calibre
+  - name: Foliate
+    url: https://github.com/johnfactotum/foliate
+  - name: Kavita
+    url: https://www.kavitareader.com/
+  - name: FBReader
+    url: https://fbreader.org/
+
+- name: Preservation Tools
+  fontAwesome: th
+  items:
+  - name: APrip (PSX Protection Bypass)
+    url: https://github.com/alex-free/aprip
+  - name: Media Preservation Frontend (MPF)
+    url: https://github.com/SabreTools/MPF
+  - name: ps3-disc-dumper
+    url: https://github.com/13xforever/ps3-disc-dumper
+
+- name: Mac
+  fontAwesome: th
+  items:
+  - name: UTM
+    url: https://mac.getutm.app/
+  - name: PeaZip
+    url: https://peazip.github.io/peazip-macos.html
+  - name: NMac Ked
+    url: https://nmac.to/now/
+
+- name: Android
+  fontAwesome: th
+  items:
+  - name: SmartTube
+    url: https://github.com/yuliskov/SmartTube
+  - name: Android Auto Scrolling Issue
+    url: https://support.google.com/androidauto/thread/325803988/scrolling-issue-in-apps?hl=en
+
+- name: Linux
+  fontAwesome: th
+  items:
+  - name: bazzite
+    url: https://bazzite.gg/
+  - name: linux-surface
+    url: https://github.com/linux-surface/linux-surface
+
