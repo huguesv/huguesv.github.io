@@ -77,6 +77,8 @@
     url: https://github.com/aseprite/aseprite
   - name: LibreSprite
     url: https://github.com/LibreSprite/LibreSprite
+  - name: Pixi Editor
+    url: https://github.com/PixiEditor/PixiEditor    
   - name: Privoxy
     url: http://www.privoxy.org/
   - name: MegaBasterd
