@@ -419,6 +419,8 @@
     url: https://github.com/WinUICommunity/WinUICommunity-Templates
   - name: WinUI.TableView
     url: https://github.com/w-ahmad/WinUI.TableView
+  - name: Windows CommunityToolkit
+    url: https://github.com/CommunityToolkit/Windows
 
 - name: C Libraries
   fontAwesome: th
