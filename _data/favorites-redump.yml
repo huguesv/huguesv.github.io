@@ -45,8 +45,6 @@
     url: http://wiki.redump.org/
   - name: Missing Discs
     url: http://wiki.redump.org/index.php?title=Discs_not_yet_dumped
-  - name: MIA
-    url: http://wiki.redump.org/index.php?title=MIA_Lists
   - name: List of SID codes
     url: http://wiki.redump.org/index.php?title=List_of_SID_codes
 
