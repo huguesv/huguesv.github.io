@@ -45,6 +45,8 @@
     url: https://www.overlakehospital.org/locations
   - name: Dentist - William Peterson
     url: https://www.petersonandfranklin.com/
+  - name: Samena Swim & Recreation Club
+    url: https://samena.com/
 
 - name: Places
   fontAwesome: th

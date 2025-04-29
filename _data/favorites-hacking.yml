@@ -87,6 +87,8 @@
     url: https://github.com/windsurfer1122
   - name: PS3HEN
     url: https://github.com/PS3Xploit/PS3HEN
+  - name: Redrrx ps3dec (rust)
+    url: https://github.com/Redrrx/ps3dec
 
 - name: Hacking VITA
   fontAwesome: th
