@@ -213,6 +213,8 @@
 - name: Releases
   fontAwesome: th
   items:
+  - name: HDEncode.com
+    url: https://hdencode.org/
   - name: ROM-NEWS
     url: http://rom-news.org/3ds
   - name: PreDB.me

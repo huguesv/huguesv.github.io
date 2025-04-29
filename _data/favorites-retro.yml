@@ -161,8 +161,10 @@
     url: https://vimm.net/
   - name: CAF
     url: https://1.cfw.pw/
-  - name: Orbis Patches
+  - name: Orbis Patches (PS4)
     url: https://orbispatches.com/
+  - name: Prospero Patches (PS5)
+    url: https://prosperopatches.com/
   - name: lolsuite (by dns)
     url: https://lolsuite.org/
   - name: lolsuite (by ip)

@@ -1052,6 +1052,8 @@
 - name: Misc
   fontAwesome: th
   items:
+  - name: Shields.io
+    url: https://shields.io/
   - name: Spice86 (PC Emulator and RE Tool)
     url: https://github.com/OpenRakis/Spice86
   - name: rvx (Retro VoXel graphics framework)
