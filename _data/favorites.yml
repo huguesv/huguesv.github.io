@@ -31,20 +31,16 @@
 - name: Games
   fontAwesome: gamepad
   items:
-  - name: Polygon
-    url: http://www.polygon.com/
-  - name: The Sixth Axis
-    url: http://www.thesixthaxis.com/
   - name: Video Games Chronicle
     url: https://www.videogameschronicle.com/
   - name: Eurogamer
     url: https://www.eurogamer.net/
+  - name: The Sixth Axis
+    url: http://www.thesixthaxis.com/
   - name: Kotaku
     url: http://www.kotaku.com/
   - name: Nintendo Life
     url: http://www.nintendolife.com/
-  - name: PSLS
-    url: http://www.playstationlifestyle.net/
   - name: PlayStation Universe
     url: http://www.psu.com/
   - name: COG Connected
