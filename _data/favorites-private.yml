@@ -531,6 +531,10 @@
   items:
   - name: Blu-ray Authority
     url: https://blurayauthority.com/
+  - name: Blu-ray.com
+    url: https://www.blu-ray.com/
+  - name: GRUV
+    url: https://www.gruv.com/
   - name: All 4K Releases
     url: https://docs.google.com/spreadsheets/d/1XgBqUDMwN-_CvbQssa7KVY_j56kimrgfePAH7i3dStM/edit?pli=1#gid=583459674
 

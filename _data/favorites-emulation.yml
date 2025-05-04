@@ -107,6 +107,8 @@
     url: https://github.com/flyinghead/flycast
   - name: Yabause - Sega Saturn
     url: https://yabause.org/
+  - name: Ymir
+    url: https://github.com/StrikerX3/Ymir
 
 - name: Consoles
   fontAwesome: th
