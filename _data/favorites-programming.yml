@@ -135,6 +135,8 @@
   items:
   - name: Runner Images
     url: https://github.com/actions/runner-images
+  - name: Convert MD to HTML
+    url: https://github.com/marketplace/actions/converts-markdown-text-to-html
 
 - name: .NET MVVM
   fontAwesome: th
@@ -421,6 +423,8 @@
     url: https://github.com/w-ahmad/WinUI.TableView
   - name: Windows CommunityToolkit
     url: https://github.com/CommunityToolkit/Windows
+  - name: Windows Developer
+    url: https://developer.microsoft.com/en-us/windows/develop/
 
 - name: C Libraries
   fontAwesome: th
