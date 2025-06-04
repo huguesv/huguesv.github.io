@@ -91,6 +91,10 @@
     url: https://www.proshred.com/seattle/
   - name: Abandoned Places in Washington
     url: https://urbexunderground.com/abandoned-places-in-washington/
+  - name: Seattle Bike Club Maps
+    url: https://www.seattlebiketours.org/members/library.html
+  - name: CyclOSM - OpenStreetMap
+    url: https://www.cyclosm.org/#map=14/47.6974/-122.1766/cyclosm
 
 - name: Usenet Indexers
   fontAwesome: th
@@ -487,6 +491,8 @@
   items:
   - name: AllTrails
     url: https://www.alltrails.com/
+  - name: AllTrails - 10 Best Waterfalls
+    url: https://www.alltrails.com/us/washington/waterfall
   - name: Washington Trails Association
     url: https://www.wta.org/
 
@@ -589,3 +595,8 @@
   items:
   - name: Internet Crime Complaint Center
     url: https://www.ic3.gov/
+
+- name: File Hosting
+  items:
+  - name: 1fichier paypal resellers
+    url: https://premiumkeys.com/1fichier-premium-paypal.html

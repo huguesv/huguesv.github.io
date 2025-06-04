@@ -31,6 +31,8 @@
     url: http://www.github.com/
   - name: GitHub (huguesv)
     url: http://www.github.com/huguesv/
+  - name: GitHub (Autoenergie)
+    url: http://www.github.com/Autoenergie/
   - name: GitLab
     url: http://www.gitlab.com/
 
@@ -71,6 +73,8 @@
     url: http://www.hanselman.com/blog/
   - name: Visual Studio Blog
     url: https://devblogs.microsoft.com/visualstudio/
+  - name: Windows Blog
+    url: https://blogs.windows.com/
 
 - name: .NET Avalonia
   fontAwesome: th
@@ -343,6 +347,8 @@
     url: https://github.com/Cysharp/ZLinq
   - name: UI.WPF.Modern
     url: https://github.com/iNKORE-NET/UI.WPF.Modern
+  - name: Vortice.Windows
+    url: https://github.com/amerkoleci/Vortice.Windows
 
 - name: PowerShell Gallery
   fontAwesome: th
@@ -399,6 +405,8 @@
     url: https://github.com/luuksommers/SevenZipSharp.Interop/
   - name: tiny7z
     url: https://github.com/daPhie79/tiny7z
+  - name: 7z.Libs
+    url: https://github.com/3F/7z.Libs
   - name: managed-lzma
     url: https://github.com/weltkante/managed-lzma
   - name: SharpCompress

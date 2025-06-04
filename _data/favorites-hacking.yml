@@ -129,6 +129,8 @@
     url: https://github.com/Yoti/pkg2zip
   - name: lusid1/pkg2zip
     url: https://github.com/lusid1/pkg2zip
+  - name: mmozeiko/pkg2zip
+    url: https://github.com/mmozeiko/pkg2zip
   - name: Decrypt PSN Store Vita Wiki
     url: https://www.gamebrew.org/wiki/Decrypt_PSN_Store_Vita
   - name: NPS-Browser (Android)

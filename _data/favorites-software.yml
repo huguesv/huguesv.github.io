@@ -189,6 +189,8 @@
     url: https://imagemagick.org/index.php
   - name: ShareX
     url: https://github.com/ShareX/ShareX
+  - name: Edit
+    url: https://github.com/microsoft/edit
 
 - name: Video Editing
   fontAwesome: th

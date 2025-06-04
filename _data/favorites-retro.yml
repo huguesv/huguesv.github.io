@@ -170,7 +170,7 @@
   - name: lolsuite (by dns)
     url: https://lolsuite.org/
   - name: lolsuite (by ip)
-    url: http://92.35.115.29/
+    url: http://92.35.115.9/
   - name: lolsuite 2 (by ip)
     url: http://188.93.233.62/
 
