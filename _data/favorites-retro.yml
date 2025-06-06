@@ -323,3 +323,9 @@
     url: https://rmcretro.store/
   - name: MiSTer Multisystem User Manual
     url: https://www.rmcretro.com/assets/manuals/MiSTer_Multisystem_manual_and_operational_guide_November2021_V2r3.pdf
+
+- name: Games
+  items:
+  - name: ftxui-tetris
+    url: https://github.com/C010UR/ftxui-tetris
+    
