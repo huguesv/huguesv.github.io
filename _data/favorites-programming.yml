@@ -89,6 +89,8 @@
     url: https://play.avaloniaui.net/
   - name: FluentAvalonia
     url: https://github.com/amwx/FluentAvalonia
+  - name: Devolutions/avalonia-extensions
+    url: https://github.com/Devolutions/avalonia-extensions
   - name: Consolonia
     url: https://github.com/jinek/Consolonia
   - name: awesome-avalonia
@@ -199,8 +201,6 @@
     url: https://github.com/dotnet/roslyn
   - name: csharplang
     url: https://github.com/dotnet/csharplang
-  - name: format
-    url: https://github.com/dotnet/format
 
 - name: .NET Tools
   fontAwesome: th
@@ -213,6 +213,10 @@
     url: https://github.com/Webreaper/CentralisedPackageConverter
   - name: CsWin32
     url: https://github.com/microsoft/cswin32
+  - name: Riverside.Win32
+    url: https://github.com/Lamparter/Win32
+  - name: win32metadata
+    url: https://github.com/microsoft/win32metadata
   - name: SingleFileExtractor
     url: https://github.com/Droppers/SingleFileExtractor/
   - name: Objective Sharpie
