@@ -437,6 +437,8 @@
     url: https://github.com/CommunityToolkit/Windows
   - name: Windows Developer
     url: https://developer.microsoft.com/en-us/windows/develop/
+  - name: Multilingual App Toolkit
+    url: https://learn.microsoft.com/en-us/windows/apps/design/globalizing/use-mat
 
 - name: C Libraries
   fontAwesome: th
