@@ -173,6 +173,8 @@
     url: https://github.com/flatz/pkg_pfs_tool
   - name: PS4 Official Firmwares
     url: https://darksoftware.xyz/PS4/FWlist#
+  - name: PS4-PKG-Tool
+    url: https://github.com/pearlxcore/PS4-PKG-Tool
 
 - name: Hacking PS5
   fontAwesome: th
