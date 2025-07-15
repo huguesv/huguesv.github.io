@@ -353,6 +353,8 @@
     url: https://github.com/iNKORE-NET/UI.WPF.Modern
   - name: Vortice.Windows
     url: https://github.com/amerkoleci/Vortice.Windows
+  - name: SabreTools.RedumpLib
+    url: https://github.com/SabreTools/SabreTools.RedumpLib
 
 - name: PowerShell Gallery
   fontAwesome: th

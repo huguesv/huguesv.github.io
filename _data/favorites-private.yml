@@ -173,6 +173,8 @@
     url: https://www.ninlive.com/home.html
   - name: nin.com
     url: https://www.nin.com/
+  - name: VGMdb (Music of Visual Arts and Games)
+    url: https://vgmdb.net/  
 
 - name: Streaming
   fontAwesome: th

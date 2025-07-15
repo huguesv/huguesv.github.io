@@ -73,6 +73,8 @@
     url: https://archive.org/details/@purple-nekonova
   - name: redump
     url: https://archive.org/details/@redump
+  - name: EagleForce
+    url: https://archive.org/details/@eagleforce
 
 - name: Users (Inactive)
   fontAwesome: th
@@ -417,6 +419,8 @@
     url: https://archive.org/details/jtag-complete-xbla-games
   - name: PSVgameSD
     url: https://archive.org/details/nointro-sony-playstation-vita-PSVgameSD
+  - name: No-Intro 2024 Backup
+    url: https://archive.org/details/ef_no-intro_2024_backup
 
 - name: ScummVM
   fontAwesome: th

@@ -191,6 +191,10 @@
     url: https://github.com/ShareX/ShareX
   - name: Edit
     url: https://github.com/microsoft/edit
+  - name: Snap2Html
+    url: https://www.rlvision.com/snap2html/about.php
+  - name: VVV (Virtual Volumes View)
+    url: https://www.fsoft.it/VVV/
 
 - name: Video Editing
   fontAwesome: th
