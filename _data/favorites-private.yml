@@ -143,8 +143,6 @@
     url: https://mdk.cab/
   - name: The Old Computer (Sub Req)
     url: https://www.theoldcomputer.com/roms/
-  - name: SceneFlac
-    url: https://sceneflac.org/
   - name: Game-2U
     url: https://game-2u.com/
   - name: Torrminatorr
@@ -170,7 +168,7 @@
   - name: nindestruct
     url: https://www.nindestruct.com/
   - name: NIN Live Archive
-    url: https://www.ninlive.com/home.html
+    url: https://www.ninlive.com/
   - name: nin.com
     url: https://www.nin.com/
   - name: VGMdb (Music of Visual Arts and Games)

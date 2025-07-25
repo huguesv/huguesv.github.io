@@ -320,6 +320,10 @@
     url: https://metropolis-launcher.net/
   - name: Skraper
     url: https://www.skraper.net/
+  - name: RomM
+    url: https://github.com/rommapp/romm
+  - name: RomM Android
+    url: https://github.com/mattsays/romm-android
 
 - name: Tools
   fontAwesome: th

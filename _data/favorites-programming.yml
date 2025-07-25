@@ -119,6 +119,8 @@
     url: https://avaloniaui.net/blog/the-definitive-guide-to-building-and-deploying-avalonia-applications-for-macos
   - name: ShareX for Avalonia
     url: https://github.com/BrycensRanch/SnapX/tree/feat/initial-avalonia-ui
+  - name: ImageFan Reloaded
+    url: https://github.com/mihnea-radulescu/imagefanreloaded
 
 - name: .NET GitHub Actions Blogs
   fontAwesome: th
@@ -223,6 +225,8 @@
     url: https://github.com/MicrosoftDocs/xamarin-docs/tree/live/docs/cross-platform/macios/binding/objective-sharpie
   - name: CodeConverter
     url: https://github.com/icsharpcode/CodeConverter
+  - name: NuGet Package Explorer
+    url: https://github.com/NuGetPackageExplorer/NuGetPackageExplorer
     
 - name: C# Tools
   fontAwesome: th
