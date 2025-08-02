@@ -69,6 +69,8 @@
     url: https://rclone.org/
   - name: DiskImageTool
     url: https://github.com/Digitoxin1/DiskImageTool
+  - name: Termix - File Manager Terminal (C#)
+    url: https://github.com/amrohan/termix
 
 - name: Windows
   fontAwesome: th

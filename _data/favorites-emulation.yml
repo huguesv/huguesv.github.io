@@ -57,20 +57,14 @@
     url: https://github.com/cemu-project/Cemu
   - name: Cemu - WudCompress
     url: https://github.com/cemu-project/WudCompress
-  - name: decaf-emu - Wii U (C++)
-    url: https://github.com/decaf-emu/decaf-emu
-  - name: Suyu - Switch (C++)
-    url: https://suyu.dev/
   - name: Sudachi - Switch (C++)
     url: https://sudachi.emuplace.app/
   - name: Ryujinx (Ryubing) - Switch (C#)
     url: https://git.ryujinx.app/ryubing/ryujinx
   - name: Citron - Switch (C++)
     url: https://git.citron-emu.org/Citron/Citron
-  - name: Lime3DS - 3DS (C++)
-    url: https://github.com/Lime3DS/Lime3DS
-  - name: Madarine - 3DS (C++)
-    url: https://github.com/mandarine3ds/mandarine
+  - name: Eden - Switch (C++)
+    url: https://eden-emu.dev/
   - name: Panda3DS - 3DS (C++)
     url: https://github.com/wheremyfoodat/Panda3DS
   - name: Azahar - 3DS (C++)
@@ -81,8 +75,6 @@
     url: https://github.com/melonDS-emu/melonDS
   - name: ShadPS4 - PS4 (C++)
     url: https://github.com/shadps4-emu/shadPS4
-  - name: ChonkyStation 3 - PS3 (C++)
-    url: https://github.com/liuk7071/ChonkyStation3
   - name: Gopher64 - N64 (Rust)
     url: https://github.com/gopher64/gopher64
 
@@ -107,11 +99,9 @@
     url: https://github.com/xenia-canary/xenia-canary
   - name: BigPEmu - Jaguar (Closed Source)
     url: https://www.richwhitehouse.com/jaguar/index.php
-  - name: flycast - Sega Dreamcast
+  - name: flycast - Sega Dreamcast (C++)
     url: https://github.com/flyinghead/flycast
-  - name: Yabause - Sega Saturn
-    url: https://yabause.org/
-  - name: Ymir
+  - name: Ymir - Sega Saturn (C++)
     url: https://github.com/StrikerX3/Ymir
 
 - name: Consoles
@@ -121,8 +111,6 @@
     url: https://www.retrodev.com/blastem/
   - name: Dos Emulator (Rust)
     url: https://github.com/Lichtso/DOS-Emulator
-  - name: SheepShaver
-    url: https://sheepshaver.cebix.net/
   - name: SameBoy - Game Boy (C)
     url: https://github.com/LIJI32/SameBoy
   - name: Gearboy - Game Boy (C++)
@@ -137,10 +125,6 @@
     url: https://github.com/nukeykt/Nuked-MD
   - name: Nuked-MD-FPGA - MegaDrive (FPGA)
     url: https://github.com/nukeykt/Nuked-MD-FPGA
-  - name: GPCS4 - PS4 (C++)
-    url: https://github.com/Inori/GPCS4
-  - name: psOff - PS4 (C++)
-    url: https://github.com/SysRay/psOff_public
   - name: gbe-plus - Game Boy + Advance (C++)
     url: https://github.com/shonumi/gbe-plus
   - name: mgba - Game Boy Advance (C)
@@ -164,9 +148,19 @@
   - name: NET - NES (C#)
     url: https://github.com/BotRandomness/NET-NES
 
+- name: Consoles (Wip)
+  fontAwesome: th
+  items:
+  - name: ChonkyStation 3 - PS3 (C++)
+    url: https://github.com/liuk7071/ChonkyStation3
+
 - name: Consoles (Inactive)
   fontAwesome: th
   items:
+  - name: Yabause - Sega Saturn
+    url: https://yabause.org/
+  - name: psOff - PS4 (C++)
+    url: https://github.com/SysRay/psOff_public
   - name: Cogwheel - Sega SMS+GG (C#)
     url: http://benryves.com/projects/cogwheel
   - name: Sharp C64 (C#)
@@ -193,6 +187,14 @@
 - name: Consoles (Inactive)
   fontAwesome: th
   items:
+  - name: GPCS4 - PS4 (C++)
+    url: https://github.com/Inori/GPCS4
+  - name: decaf-emu - Wii U (C++)
+    url: https://github.com/decaf-emu/decaf-emu
+  - name: Suyu - Switch (C++)
+    url: https://suyu.dev/
+  - name: Mandarine - 3DS (C++)
+    url: https://github.com/mandarine3ds/mandarine
   - name: Zenga - Sega SMS (JavaScript)
     url: https://github.com/friol/zenga
   - name: TermBoy - Game Boy (Go)
@@ -275,6 +277,8 @@
     url: https://github.com/EngstromJimmy/ZXSpectrum
   - name: Fuse - ZX Spectrum (C++)
     url: https://fuse-emulator.sourceforge.net/
+  - name: SheepShaver - Macintosh (C++)
+    url: https://github.com/cebix/macemu
 
 - name: Computers (Inactive)
   fontAwesome: th
