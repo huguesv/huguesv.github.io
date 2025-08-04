@@ -93,6 +93,8 @@
     url: https://www.romcenter.com/
   - name: RomVault
     url: https://www.romvault.com/
+  - name: RomVault GitHub
+    url: https://github.com/RomVault/RVWorld
   - name: ClrMame
     url: https://mamedev.emulab.it/clrmamepro/
   - name: RomSorter
