@@ -227,6 +227,8 @@
     url: https://github.com/icsharpcode/CodeConverter
   - name: NuGet Package Explorer
     url: https://github.com/NuGetPackageExplorer/NuGetPackageExplorer
+  - name: DotNet Events Viewer
+    url: https://github.com/verdie-g/dotnet-events-viewer
     
 - name: C# Tools
   fontAwesome: th
