@@ -91,11 +91,7 @@
   items:
   - name: No-Intro Packs
     url: https://archive.org/details/ni-romsets
-  - name: No-Intro Private Packs
-    url: https://archive.org/details/no-intro-priv
   - name: No-Intro Private Dats
-    url: https://archive.org/details/no-intro-priv-dat
-  - name: No-Intro Private Dats (Newer)
     url: https://archive.org/details/no-intro-private-dats
   - name: 3DS Encrypted - Part 1
     url: https://archive.org/details/3ds-main-encrypted
