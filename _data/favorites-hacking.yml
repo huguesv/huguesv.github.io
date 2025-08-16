@@ -175,6 +175,8 @@
     url: https://darksoftware.xyz/PS4/FWlist#
   - name: PS4-PKG-Tool
     url: https://github.com/pearlxcore/PS4-PKG-Tool
+  - name: BD-JB-1250
+    url: https://github.com/Gezine/BD-JB-1250
 
 - name: Hacking PS5
   fontAwesome: th

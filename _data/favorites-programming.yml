@@ -396,6 +396,20 @@
   - name: Machine.Specifications
     url: https://github.com/machine/machine.specifications
 
+- name: .NET Code Coverage
+  fontAwesome: th
+  items:
+  - name: FineCodeCoverage
+    url: https://github.com/FortuneN/FineCodeCoverage
+  - name: Coverlet
+    url: https://github.com/coverlet-coverage/coverlet
+  - name: ReportGenerator
+    url: https://github.com/danielpalme/ReportGenerator
+  - name: 
+    url: 
+  - name: Automating .NET Core Builds with GitHub Actions - Clean, Build, Test, and Report
+    url: https://elanchezhiyan-p.medium.com/automating-net-core-builds-with-github-actions-clean-build-test-and-report-12adeb93e442
+  
 - name: .NET Mac
   fontAwesome: th
   items:
@@ -1026,6 +1040,8 @@
     url: https://learn.microsoft.com/en-us/aspnet/core/test/http-files?view=aspnetcore-9.0
   - name: Build distributed apps with Aspire
     url: https://learn.microsoft.com/en-us/credentials/applied-skills/build-distributed-apps-with-dotnet-aspire/
+  - name: Building a Full-Stack App with React and Aspire - A Step-by-Step Guide
+    url: https://devblogs.microsoft.com/dotnet/new-aspire-app-with-react/
   - name: Minimal API validation filter
     url: https://benfoster.io/blog/minimal-api-validation-endpoint-filters/
   - name: Request Validation (YouTube)
@@ -1220,3 +1236,13 @@
     url: https://github.com/Zastai/MetaBrainz.MusicBrainz.DiscId
   - name: MetaBrainz.MusicBrainz
     url: https://github.com/Zastai/MetaBrainz.MusicBrainz
+
+- name: Packaging
+  fontAwesome: th
+  items:
+  - name: Velopack
+    url: https://github.com/velopack/velopack
+  - name: Wix Toolset
+    url: https://github.com/wixtoolset
+  - name: Nullsoft NSIS
+    url: https://sourceforge.net/projects/nsis/

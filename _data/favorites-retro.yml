@@ -328,4 +328,8 @@
   items:
   - name: ftxui-tetris
     url: https://github.com/C010UR/ftxui-tetris
+  - name: Balatro (GBA)
+    url: https://github.com/cellos51/balatro-gba
+  - name: Labyrinth of the Dragon (GBC)
+    url: https://github.com/NesHacker/LabyrinthOfTheDragon
     
