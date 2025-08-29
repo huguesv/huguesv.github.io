@@ -5,12 +5,12 @@
     url: http://www.engadget.com/
   - name: Ars Technica
     url: http://arstechnica.com/
+  - name: Windows Report
+    url: https://windowsreport.com/
   - name: Windows Central
     url: http://www.windowscentral.com/
   - name: Android Central
     url: https://www.androidcentral.com/
-  - name: Windows Report
-    url: https://windowsreport.com/
   - name: Tom's Hardware
     url: http://www.tomshardware.com/
   - name: Consumer Reports
@@ -97,8 +97,6 @@
     url: https://www.nytimes.com/games/wordle/index.html
   - name: Connections
     url: https://www.nytimes.com/games/connections
-  - name: Murdle
-    url: https://murdle.com/
 
 - name: Ratings
   fontAwesome: film

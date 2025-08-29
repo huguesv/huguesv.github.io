@@ -283,6 +283,8 @@
     url: https://github.com/tzachshabtay/CSFlac
   - name: Audio Visualizer
     url: https://github.com/Quozul/Audio-Visualizer
+  - name: Flyleaf
+    url: https://github.com/SuRGeoNix/Flyleaf
   - name: Terminal.Gui
     url: https://github.com/gui-cs/Terminal.Gui
   - name: Terminal.Gui Designer

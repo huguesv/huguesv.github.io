@@ -219,6 +219,10 @@
     url: http://redump.org/discs/sort/added/dir/desc/system/ps3
   - name: Latest PS4
     url: http://redump.org/discs/sort/added/dir/desc/system/ps4
+  - name: Latest PS5
+    url: http://redump.org/discs/sort/added/dir/desc/system/ps5
+  - name: Latest PSP
+    url: http://redump.org/discs/sort/added/dir/desc/system/psp
   - name: Latest XBOX
     url: http://redump.org/discs/sort/added/dir/desc/system/xbox
   - name: Latest XBOX360

@@ -177,6 +177,8 @@
     url: https://github.com/pearlxcore/PS4-PKG-Tool
   - name: BD-JB-1250
     url: https://github.com/Gezine/BD-JB-1250
+  - name: PKG-Zone
+    url: https://pkg-zone.com/
 
 - name: Hacking PS5
   fontAwesome: th

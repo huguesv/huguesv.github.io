@@ -143,8 +143,6 @@
     url: https://mdk.cab/
   - name: The Old Computer (Sub Req)
     url: https://www.theoldcomputer.com/roms/
-  - name: Game-2U
-    url: https://game-2u.com/
   - name: Torrminatorr
     url: https://torrminatorr.com/
   - name: Torrminatorr - 1fichier pt1
@@ -273,6 +271,10 @@
     url: https://www.brookaccessory.com/index.html
   - name: TFT Central LCD Monitor Info
     url: https://www.tftcentral.co.uk/
+  - name: 8BitDo
+    url: https://www.8bitdo.com/
+  - name: GameSir
+    url: https://gamesir.com/
 
 - name: Videogame Stores
   fontAwesome: th
@@ -423,6 +425,10 @@
     url: https://www.svgrepo.com/
   - name: Icons Icons
     url: https://icon-icons.com/
+  - name: SF Symbols
+    url: https://developer.apple.com/sf-symbols/
+  - name: SF Symbols as SVG
+    url: https://github.com/g-a-v-i-n/sf-symbols
 
 - name: Finance
   fontAwesome: th

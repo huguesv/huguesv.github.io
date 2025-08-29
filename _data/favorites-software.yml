@@ -288,3 +288,7 @@
   - name: linux-surface
     url: https://github.com/linux-surface/linux-surface
 
+- name: Terminal UI
+  items:
+  - name: Awesome TUIs
+    url: https://github.com/rothgar/awesome-tuis

@@ -333,3 +333,8 @@
   - name: Labyrinth of the Dragon (GBC)
     url: https://github.com/NesHacker/LabyrinthOfTheDragon
     
+- name: Decompilation
+  items:
+  - name: Zelda - Link's Awakening
+    url: https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated
+    
