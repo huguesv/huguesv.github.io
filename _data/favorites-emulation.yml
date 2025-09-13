@@ -57,14 +57,14 @@
     url: https://github.com/cemu-project/Cemu
   - name: Cemu - WudCompress
     url: https://github.com/cemu-project/WudCompress
-  - name: Sudachi - Switch (C++)
-    url: https://sudachi.emuplace.app/
   - name: Ryujinx (Ryubing) - Switch (C#)
     url: https://git.ryujinx.app/ryubing/ryujinx
-  - name: Citron - Switch (C++)
-    url: https://git.citron-emu.org/Citron/Citron
+  - name: Ryujinx - LibHac
+    url: https://git.ryujinx.app/ryubing/libhac
   - name: Eden - Switch (C++)
     url: https://eden-emu.dev/
+  - name: Citron - Switch (C++)
+    url: https://git.citron-emu.org/Citron/Citron
   - name: Panda3DS - 3DS (C++)
     url: https://github.com/wheremyfoodat/Panda3DS
   - name: Azahar - 3DS (C++)
@@ -191,6 +191,8 @@
     url: https://github.com/Inori/GPCS4
   - name: decaf-emu - Wii U (C++)
     url: https://github.com/decaf-emu/decaf-emu
+  - name: Sudachi - Switch (C++)
+    url: https://sudachi.emuplace.app/
   - name: Suyu - Switch (C++)
     url: https://suyu.dev/
   - name: Mandarine - 3DS (C++)
