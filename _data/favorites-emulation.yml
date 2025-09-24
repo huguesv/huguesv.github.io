@@ -1,5 +1,4 @@
 - name: Hugues Valois
-  fontAwesome: th
   items:
   - name: Public Favorites
     url: /favorites
@@ -25,7 +24,6 @@
     url: /favorites-archive
 
 - name: Multi Systems
-  fontAwesome: th
   items:
   - name: MAME
     url: http://www.mamedev.org/
@@ -49,7 +47,6 @@
     url: https://github.com/raddad772/jsmoo
 
 - name: Consoles
-  fontAwesome: th
   items:
   - name: Dolphin - GameCube and Wii (C++)
     url: https://github.com/dolphin-emu/dolphin
@@ -79,7 +76,6 @@
     url: https://github.com/gopher64/gopher64
 
 - name: Consoles
-  fontAwesome: th
   items:
   - name: PCSX2 GitHub - PS2 (C++)
     url: https://github.com/PCSX2/pcsx2
@@ -105,7 +101,6 @@
     url: https://github.com/StrikerX3/Ymir
 
 - name: Consoles
-  fontAwesome: th
   items:
   - name: BlastEm - Genesis (C)
     url: https://www.retrodev.com/blastem/
@@ -137,7 +132,6 @@
     url: https://github.com/Comba92/nen-emulator
 
 - name: Consoles
-  fontAwesome: th
   items:
   - name: EMU7800 - Atari 2600+7800 (C#)
     url: https://github.com/emu7800/emu7800.github.io
@@ -149,13 +143,11 @@
     url: https://github.com/BotRandomness/NET-NES
 
 - name: Consoles (Wip)
-  fontAwesome: th
   items:
   - name: ChonkyStation 3 - PS3 (C++)
     url: https://github.com/liuk7071/ChonkyStation3
 
 - name: Consoles (Inactive)
-  fontAwesome: th
   items:
   - name: Yabause - Sega Saturn
     url: https://yabause.org/
@@ -185,7 +177,6 @@
     url: https://github.com/fsdp15/Space-Owner---Space-Invaders-Intel-8080-Emulator
 
 - name: Consoles (Inactive)
-  fontAwesome: th
   items:
   - name: GPCS4 - PS4 (C++)
     url: https://github.com/Inori/GPCS4
@@ -245,7 +236,6 @@
     url: https://github.com/simple64/simple64
 
 - name: Computers
-  fontAwesome: th
   items:
   - name: DOSBox-X
     url: https://github.com/joncampbell123/dosbox-x
@@ -283,7 +273,6 @@
     url: https://github.com/cebix/macemu
 
 - name: Computers (Inactive)
-  fontAwesome: th
   items:
   - name: DOSBox - PC (C++)
     url: http://sourceforge.net/projects/dosbox
@@ -300,7 +289,6 @@
     url: https://github.com/nukeykt/Nuked-OPL3
 
 - name: Engines
-  fontAwesome: th
   items:
   - name: ScummVM
     url: http://www.scummvm.org/
@@ -318,7 +306,6 @@
     url: https://www.freeciv.org/
 
 - name: Frontends
-  fontAwesome: th
   items:
   - name: Playnite
     url: https://playnite.link/
@@ -332,7 +319,6 @@
     url: https://github.com/mattsays/romm-android
 
 - name: Tools
-  fontAwesome: th
   items:
   - name: MSA Converter (Atari ST)
     url: http://msaconverter.free.fr/index.html
@@ -352,13 +338,11 @@
     url: https://github.com/a2-4am/passport
 
 - name: Guides
-  fontAwesome: th
   items:
   - name: FMTowns Video Guide
     url: https://www.youtube.com/watch?v=BNvky_aPhxE
 
 - name: MiSTer
-  fontAwesome: th
   items:
   - name: MiSTer FPGA Forum
     url: https://misterfpga.org/

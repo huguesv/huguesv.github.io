@@ -1,5 +1,4 @@
 - name: Hugues Valois
-  fontAwesome: th
   items:
   - name: Public Favorites
     url: /favorites
@@ -25,7 +24,6 @@
     url: /favorites-archive
 
 - name: Repositories
-  fontAwesome: th
   items:
   - name: GitHub
     url: http://www.github.com/
@@ -37,7 +35,6 @@
     url: http://www.gitlab.com/
 
 - name: Software
-  fontAwesome: th
   items:
   - name: Visual Studio
     url: https://visualstudio.microsoft.com/downloads/
@@ -49,7 +46,6 @@
     url: https://git-scm.com/downloads
 
 - name: Runtimes and SDKs
-  fontAwesome: th
   items:
   - name: .NET
     url: https://dotnet.microsoft.com/en-us/download/
@@ -67,7 +63,6 @@
     url: https://www.rust-lang.org/tools/install
 
 - name: Blogs
-  fontAwesome: th
   items:
   - name: Scott Hanselman
     url: http://www.hanselman.com/blog/
@@ -77,7 +72,6 @@
     url: https://blogs.windows.com/
 
 - name: .NET Avalonia
-  fontAwesome: th
   items:
   - name: r/AvaloniaUI
     url: https://www.reddit.com/r/AvaloniaUI/
@@ -91,6 +85,8 @@
     url: https://github.com/amwx/FluentAvalonia
   - name: Devolutions/avalonia-extensions
     url: https://github.com/Devolutions/avalonia-extensions
+  - name: ShadUI
+    url: https://github.com/accntech/shad-ui
   - name: Consolonia
     url: https://github.com/jinek/Consolonia
   - name: awesome-avalonia
@@ -123,7 +119,6 @@
     url: https://github.com/mihnea-radulescu/imagefanreloaded
 
 - name: .NET GitHub Actions Blogs
-  fontAwesome: th
   items:
   - name: Publish Code Coverage
     url: https://josh-ops.com/posts/github-code-coverage/
@@ -139,7 +134,6 @@
     url: https://www.dejandjenic.com/blogs/creating-dotnet-tool-and-publishing-it-from-github.html
 
 - name: GitHub Actions
-  fontAwesome: th
   items:
   - name: Runner Images
     url: https://github.com/actions/runner-images
@@ -147,7 +141,6 @@
     url: https://github.com/marketplace/actions/converts-markdown-text-to-html
 
 - name: .NET MVVM
-  fontAwesome: th
   items:
   - name: Community Toolkit
     url: https://github.com/CommunityToolkit/dotnet
@@ -161,7 +154,6 @@
     url: https://github.com/MvvmCross/MvvmCross
 
 - name: .NET WPF
-  fontAwesome: th
   items:
   - name: WPF UI
     url: https://github.com/lepoco/wpfui
@@ -173,7 +165,6 @@
     url: https://github.com/coffeesurplus/midipiano/
 
 - name: .NET Blogs
-  fontAwesome: th
   items:
   - name: WPF Custom Title Bar
     url: https://engy.us/blog/2020/01/01/implementing-a-custom-window-title-bar-in-wpf/
@@ -187,7 +178,6 @@
     url: https://discussions.unity.com/t/fft-audio-visualization-video-tutorial/640612
 
 - name: .NET Foundation
-  fontAwesome: th
   items:
   - name: dotnet
     url: https://github.com/dotnet/dotnet
@@ -205,7 +195,6 @@
     url: https://github.com/dotnet/csharplang
 
 - name: .NET Tools
-  fontAwesome: th
   items:
   - name: SharpLab
     url: https://sharplab.io/
@@ -231,7 +220,6 @@
     url: https://github.com/verdie-g/dotnet-events-viewer
     
 - name: C# Tools
-  fontAwesome: th
   items:
   - name: CSharpier
     url: https://csharpier.com/
@@ -239,7 +227,6 @@
     url: https://github.com/icsharpcode/CodeConverter
 
 - name: .NET Libraries
-  fontAwesome: th
   items:
   - name: language-ext
     url: https://github.com/louthy/language-ext#functional-effects-and-io
@@ -365,7 +352,6 @@
     url: https://github.com/SabreTools/SabreTools.RedumpLib
 
 - name: PowerShell Gallery
-  fontAwesome: th
   items:
   - name: PowerShell Gallery
     url: https://www.powershellgallery.com/
@@ -373,7 +359,6 @@
     url: https://www.powershellgallery.com/packages/CRC
 
 - name: NuGet Gallery
-  fontAwesome: th
   items:
   - name: NuGet
     url: https://www.nuget.org/
@@ -381,13 +366,11 @@
     url: https://www.nuget.org/profiles/hugues_valois
 
 - name: .NET Preservation Libraries
-  fontAwesome: th
   items:
   - name: LibIRD
     url: https://github.com/Deterous/LibIRD
 
 - name: .NET Testing Libraries
-  fontAwesome: th
   items:
   - name: AutoFixture
     url: https://github.com/AutoFixture/AutoFixture
@@ -399,7 +382,6 @@
     url: https://github.com/machine/machine.specifications
 
 - name: .NET Code Coverage
-  fontAwesome: th
   items:
   - name: FineCodeCoverage
     url: https://github.com/FortuneN/FineCodeCoverage
@@ -413,7 +395,6 @@
     url: https://elanchezhiyan-p.medium.com/automating-net-core-builds-with-github-actions-clean-build-test-and-report-12adeb93e442
   
 - name: .NET Mac
-  fontAwesome: th
   items:
   - name: Avalonia macOS Deployment
     url: https://docs.avaloniaui.net/docs/deployment/macOS
@@ -423,7 +404,6 @@
     url: https://github.com/L-Super/create-dmg-actions
 
 - name: .NET Archive Libraries
-  fontAwesome: th
   items:
   - name: UnrarNative
     url: https://github.com/huang-zhibiao/Zhibiao/tree/master/src/Zhibiao.UnrarNative
@@ -447,7 +427,6 @@
     url: https://github.com/VitalElement/AvalonStudio/blob/azure-packages/AvalonStudio/PackageManager/PackageManager.cs#L297
 
 - name: WinUI
-  fontAwesome: th
   items:
   - name: WinUI-Gallery
     url: https://github.com/microsoft/winui-gallery
@@ -465,7 +444,6 @@
     url: https://learn.microsoft.com/en-us/windows/apps/design/globalizing/use-mat
 
 - name: C Libraries
-  fontAwesome: th
   items:
   - name: libsoundio
     url: http://libsound.io/
@@ -473,7 +451,6 @@
     url: https://github.com/silentbicycle/greatest
 
 - name: .NET Samples
-  fontAwesome: th
   items:
   - name: dotnet-console-demo
     url: https://github.com/jasonterando/dotnet-console-demo
@@ -529,7 +506,6 @@
     url: https://github.com/gaseous-project/hasheous
 
 - name: .NET Learning
-  fontAwesome: th
   items:
   - name: Intro to Rx.NET
     url: https://introtorx.com/
@@ -537,13 +513,11 @@
     url: https://www.youtube.com/watch?v=MS1Qgo710Vo
 
 - name: Java Libraries
-  fontAwesome: th
   items:
   - name: DiskImageReader
     url: https://github.com/mng1dev/DiskImageReader
 
 - name: Retro - General
-  fontAwesome: th
   items:
   - name: 8bitworkshop
     url: https://8bitworkshop.com/
@@ -555,13 +529,11 @@
     url: https://retrogamecoders.com/introduction-to-trse-programming/
 
 - name: Retro - Genesis / Mega Drive
-  fontAwesome: th
   items:
   - name: SGDK
     url: https://github.com/Stephane-D/SGDK
 
 - name: Retro - SMS
-  fontAwesome: th
   items:
   - name: devkitSMS
     url: https://github.com/sverx/devkitSMS
@@ -569,7 +541,6 @@
     url: https://github.com/jflores82/raposadosol
 
 - name: Retro - SNES
-  fontAwesome: th
   items:
   - name: SNES Dev Wiki
     url: https://snes.nesdev.org/wiki/SNESdev_Wiki
@@ -577,7 +548,6 @@
     url: https://wiki.superfamicom.org/
 
 - name: Retro - NES
-  fontAwesome: th
   items:
   - name: NES Dev Wiki
     url: https://www.nesdev.org/wiki/Nesdev_Wiki
@@ -591,7 +561,6 @@
     url: https://www.emulationonline.com/systems/nes/apu-audio/
 
 - name: Retro - GameBoy
-  fontAwesome: th
   items:
   - name: Gameboy Dev Wiki
     url: https://gbdev.gg8.se/wiki/articles/Main_Page
@@ -605,7 +574,6 @@
     url: https://medium.com/codex/rust-adventure-to-develop-a-game-boy-emulator-part-2-cpu-registers-macros-23691dc83cdb
 
 - name: Retro - 6502
-  fontAwesome: th
   items:
   - name: Merlin 32 Cross Assembler
     url: https://brutaldeluxe.fr/products/crossdevtools/merlin/index.html
@@ -627,7 +595,6 @@
     url: http://sun.hasenbraten.de/vasm/
 
 - name: Retro - PC
-  fontAwesome: th
   items:
   - name: MS QuickC Programming Documentation
     url: https://www.pcjs.org/documents/books/mspl13/c/mspqc/
@@ -643,7 +610,6 @@
     url: https://jonot.me/
 
 - name: Retro - DOS
-  fontAwesome: th
   items:
   - name: Retro Programming
     url: http://www.retroprogramming.com/
@@ -659,7 +625,6 @@
     url: https://www.reddit.com/r/retrogamedev/comments/1fih3ic/vscode_dosbox_allegro_djgpp_setup_to_develop/
 
 - name: Retro - DOS - GitHub
-  fontAwesome: th
   items:
   - name: berk76/tc_libs
     url: https://github.com/berk76/tc_libs
@@ -685,7 +650,6 @@
     url: https://github.com/Fortyseven/RA_1993
 
 - name: Retro - Sound
-  fontAwesome: th
   items:
   - name: Programming the MPU-401 in UART mode
     url: http://www.piclist.com/techref/io/serial/midi/mpu.html
@@ -711,13 +675,11 @@
     url: https://microsoft.github.io/MIDI/
 
 - name: Retro - Apple II
-  fontAwesome: th
   items:
   - name: Apple II graphics
     url: https://nicole.express/2024/phasing-in-and-out-of-existence.html
 
 - name: Retro - C64
-  fontAwesome: th
   items:
   - name: Retro Game Coders (C64)
     url: https://retrogamecoders.com/
@@ -732,13 +694,11 @@
     url: https://github.com/dougmasten/awesome-coco
 
 - name: Retro - Assembly
-  fontAwesome: th
   items:
   - name: ChibiAkumas Tutorials
     url: https://www.chibiakumas.com/
 
 - name: Emulation Documentation
-  fontAwesome: th
   items:
   - name: emudev.de (gb, nes, c64, si, snes)
     url: https://emudev.de/
@@ -762,7 +722,6 @@
     url: http://www.emulators.com/docs/nx25_nostradamus.htm
 
 - name: Emulation - NES
-  fontAwesome: th
   items:
   - name: Instruction Set - 6502
     url: https://www.masswerk.at/6502/6502_instruction_set.html
@@ -778,7 +737,6 @@
     url: https://github.com/MrPolymorph/Poly6502
 
 - name: Emulation - Game Boy
-  fontAwesome: th
   items:
   - name: gbops, an accurate opcode table for the Game Boy
     url: https://izik1.github.io/gbops/
@@ -806,7 +764,6 @@
     url: https://github.com/c-sp/game-boy-test-roms
 
 - name: Emulation 8080
-  fontAwesome: th
   items:
   - name: Intel 8080 instruction set
     url: https://www.pastraiser.com/cpu/i8080/i8080_opcodes.html
@@ -814,7 +771,6 @@
     url: https://altairclone.com/downloads/manuals/8080%20Programmers%20Manual.pdf
 
 - name: Emulation Testing
-  fontAwesome: th
   items:
   - name: Testing your CPU emulator
     url: https://raddad772.github.io/2022/06/18/testing-your-emulator.html
@@ -830,7 +786,6 @@
     url: https://github.com/orgs/SingleStepTests/repositories
 
 - name: Emulation Discussions
-  fontAwesome: th
   items:
   - name: reddit - best documented console
     url: https://www.reddit.com/r/EmuDev/comments/yna6ae/what_is_the_best_documented_console/
@@ -848,7 +803,6 @@
     url: https://forums.nesdev.org/viewtopic.php?t=15944
 
 - name: Web
-  fontAwesome: th
   items:
   - name: Playwright
     url: https://playwright.dev/
@@ -916,7 +870,6 @@
     url: https://argosco.io/10-most-frequently-asked-questions-about-jwt-in-net/net/
 
 - name: Node.js Runtimes
-  fontAwesome: th
   items:
   - name: Node.js
     url: https://nodejs.org/
@@ -926,7 +879,6 @@
     url: https://deno.com/
 
 - name: Databases
-  fontAwesome: th
   items:
   - name: PostgreSQL
     url: https://www.postgresql.org/
@@ -962,7 +914,6 @@
     url: https://leerob.substack.com/p/databases-serverless-edge
 
 - name: Hosting
-  fontAwesome: th
   items:
   - name: Vercel (Node, Python, Postgres)
     url: https://vercel.com/
@@ -984,25 +935,21 @@
     url: https://imagekit.io/
 
 - name: Web Samples
-  fontAwesome: th
   items:
   - name: RecreatedApps
     url: https://github.com/CodingWithLewis/RecreatedApps
 
 - name: Web Templates
-  fontAwesome: th
   items:
   - name: supastarter (Next.js, Nuxt, Sveltekit)
     url: https://supastarter.dev/
 
 - name: SwiftUI
-  fontAwesome: th
   items:
   - name: SwiftUI Tutorials
     url: https://developer.apple.com/tutorials/swiftui
 
 - name: GitHub Pages
-  fontAwesome: th
   items:
   - name: Quickstart for GitHub Pages
     url: https://docs.github.com/en/pages/quickstart
@@ -1020,13 +967,11 @@
     url: https://jekyllthemes.io/free
 
 - name: Hosting
-  fontAwesome: th
   items:
   - name: Railway
     url: https://railway.app/
 
 - name: ASP.NET
-  fontAwesome: th
   items:
   - name: AspNetStatic
     url: https://github.com/ZarehD/AspNetStatic
@@ -1060,7 +1005,6 @@
     url: https://itnext.io/a-practical-guide-to-modular-monoliths-with-net-59da23c01137
 
 - name: Uno Platform
-  fontAwesome: th
   items:
   - name: Uno Platform
     url: https://platform.uno/
@@ -1070,13 +1014,11 @@
     url: https://github.com/kazo0/TubePlayer
 
 - name: Javascript Libraries
-  fontAwesome: th
   items:
   - name: mermaid
     url: https://github.com/mermaid-js/mermaid
 
 - name: Languages
-  fontAwesome: th
   items:
   - name: Zig
     url: https://ziglang.org/
@@ -1086,15 +1028,15 @@
     url: https://nim-lang.org/
   - name: Rust Programming Language Book
     url: https://doc.rust-lang.org/book/
+  - name: BlitzMax
+    url: https://blitzmax.org/
 
 - name: Compilers
-  fontAwesome: th
   items:
   - name: ANTLR
     url: https://www.antlr.org/index.html
 
 - name: Misc
-  fontAwesome: th
   items:
   - name: Shields.io
     url: https://shields.io/
@@ -1124,13 +1066,11 @@
     url: https://archive.org/details/VS2017CE
 
 - name: Reference
-  fontAwesome: th
   items:
   - name: x86 and amd64 instruction reference
     url: https://www.felixcloutier.com/x86/index.html
 
 - name: Game Development - Godot
-  fontAwesome: th
   items:
   - name: Godot
     url: https://godotengine.org/
@@ -1138,19 +1078,16 @@
     url: https://github.com/godotengine/godot-demo-projects
 
 - name: Game Development - Stride
-  fontAwesome: th
   items:
   - name: Stride
     url: https://www.stride3d.net/
 
 - name: Game Development - Unreal
-  fontAwesome: th
   items:
   - name: UnrealSharp
     url: https://github.com/UnrealSharp/UnrealSharp
 
 - name: Game Development - XNA/MonoGame
-  fontAwesome: th
   items:
   - name: MonoGame
     url: https://monogame.net/
@@ -1160,7 +1097,6 @@
     url: https://github.com/CartBlanche/MonoGame-Samples
 
 - name: Game Development - Software
-  fontAwesome: th
   items:
   - name: Tiled
     url: https://www.mapeditor.org/
@@ -1168,7 +1104,6 @@
     url: https://wareya.github.io/webtyler/
 
 - name: Game Development - Samples
-  fontAwesome: th
   items:
   - name: doom-sharp
     url: https://github.com/wcabus/doom-sharp
@@ -1178,7 +1113,6 @@
     url: https://github.com/TerryCavanagh/VVVVVV
 
 - name: Programming Rust
-  fontAwesome: th
   items:
   - name: The Rust Programming Language
     url: https://doc.rust-lang.org/book/title-page.html
@@ -1188,7 +1122,6 @@
     url: https://github.com/ZoeyR/rls-vs2017
 
 - name: Programming Go
-  fontAwesome: th
   items:
   - name: JetBrains Go Rest Guide
     url: https://www.jetbrains.com/guide/go/tutorials/rest_api_series/stdlib/
@@ -1201,13 +1134,11 @@
     url: https://docs.flutter.dev/
     
 - name: Security
-  fontAwesome: th
   items:
   - name: Signing VSIX Packages
     url: https://learn.microsoft.com/en-us/visualstudio/extensibility/signing-vsix-packages?view=vs-2022
 
 - name: AutoCAD
-  fontAwesome: th
   items:
   - name: AutoCAD API
     url: https://aps.autodesk.com/developer/overview/autocad
@@ -1215,7 +1146,6 @@
     url: https://help.autodesk.com/view/OARX/2025/ENU/?guid=GUID-C3F3C736-40CF-44A0-9210-55F6A939B6F2
 
 - name: Audio CDs
-  fontAwesome: th
   items:
   - name: MusicBrainz
     url: https://musicbrainz.org/
@@ -1245,7 +1175,6 @@
     url: https://github.com/Zastai/MetaBrainz.MusicBrainz
 
 - name: Packaging
-  fontAwesome: th
   items:
   - name: Velopack
     url: https://github.com/velopack/velopack
@@ -1253,3 +1182,9 @@
     url: https://github.com/wixtoolset
   - name: Nullsoft NSIS
     url: https://sourceforge.net/projects/nsis/
+
+- name: Microsoft Store
+  items:
+  - name: Registration
+    url: https://blogs.windows.com/windowsdeveloper/2025/09/10/free-developer-registration-for-individual-developers-on-microsoft-store/
+    

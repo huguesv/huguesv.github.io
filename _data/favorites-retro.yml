@@ -1,5 +1,4 @@
 - name: Hugues Valois
-  fontAwesome: th
   items:
   - name: Public Favorites
     url: /favorites
@@ -25,7 +24,6 @@
     url: /favorites-archive
 
 - name: Preservation
-  fontAwesome: th
   items:
   - name: No-Intro
     url: http://datomatic.no-intro.org/
@@ -75,7 +73,6 @@
     url: https://github.com/historicalsource
 
 - name: Classic
-  fontAwesome: th
   items:
   - name: Mister Computer Cheat Sheet
     url: https://pastebin.com/pM1XMe5E
@@ -175,7 +172,6 @@
     url: http://188.93.233.62/
 
 - name: Sierra Sites
-  fontAwesome: th
   items:
   - name: Sierra Gamers
     url: https://www.sierragamers.com/
@@ -201,7 +197,6 @@
     url: https://sciprogramming.com/community/index.php?topic=2034.0
 
 - name: Sierra Patches
-  fontAwesome: th
   items:
   - name: Sound Drivers
     url: http://www.rarefied.org/sci/drivers.html
@@ -213,9 +208,10 @@
     url: https://www.benshoof.org/blog/
   - name: Gabriel Knight Repaired Speech
     url: https://archive.org/details/gk-speech-fix
+  - name: EcoQuest Restoration
+    url: https://github.com/Doomlazer/EQ1-CDR
 
 - name: Sierra Tools
-  fontAwesome: th
   items:
   - name: SCI Companion
     url: https://github.com/icefallgames/SCICompanion
@@ -243,7 +239,6 @@
     url: https://web.archive.org/web/20110729181959/http://www.scriptinterpreter.com/syntax
 
 - name: Sierra Fan Games
-  fontAwesome: th
   items:
   - name: King's Quest I Redux
     url: http://www.edenwaith.com/products/kq1redux/
@@ -257,7 +252,6 @@
     url: https://wiw.org/~jess/replicated.html
 
 - name: Other Fan Games
-  fontAwesome: th
   items:
   - name: Super Mario Bros. X2
     url: http://codehaus.wohlsoft.ru/
@@ -265,7 +259,6 @@
     url: https://thalamusdigital.itch.io/cave-dave-game-boy-color
   
 - name: Sierra Repos
-  fontAwesome: th
   items:
   - name: Kawa-oneechan/SCI11-Plus
     url: https://github.com/Kawa-oneechan/SCI11-Plus
@@ -299,7 +292,6 @@
     url: https://github.com/Davidebyzero/GBAGI
 
 - name: Floppy Disk Hardware
-  fontAwesome: th
   items:
   - name: Kryoflux
     url: http://www.kryoflux.com/
@@ -309,7 +301,6 @@
     url: https://hxc2001.com/
 
 - name: MiSTer Shops
-  fontAwesome: th
   items:
   - name: Retro Remake
     url: https://retroremake.co/

@@ -1,5 +1,4 @@
 - name: Hugues Valois
-  fontAwesome: th
   items:
   - name: Public Favorites
     url: /favorites
@@ -25,7 +24,6 @@
     url: /favorites-archive
 
 - name: Tools
-  fontAwesome: th
   items:
   - name: XDelta GUI
     url: http://thejbnet.com/progs/xgui/
@@ -73,7 +71,6 @@
     url: https://github.com/amrohan/termix
 
 - name: Windows
-  fontAwesome: th
   items:
   - name: aseprite
     url: https://github.com/aseprite/aseprite
@@ -203,7 +200,6 @@
     url: https://winaero.com/winaero-tweaker/
 
 - name: Video Editing
-  fontAwesome: th
   items:
   - name: Shotcut
     url: https://shotcut.org/
@@ -217,7 +213,6 @@
     url: https://kdenlive.org/en/
 
 - name: Windows - MIDI
-  fontAwesome: th
   items:
   - name: AudioKit Synth One
     url: https://audiokitpro.com/synth/
@@ -241,7 +236,6 @@
     url: https://www.image-line.com/fl-studio/
 
 - name: Windows - Readers
-  fontAwesome: th
   items:
   - name: Calibre
     url: https://github.com/kovidgoyal/calibre
@@ -252,8 +246,12 @@
   - name: FBReader
     url: https://fbreader.org/
 
+- name: Windows - AI
+  items:
+  - name: ProseFlow
+    url: https://github.com/LSXPrime/ProseFlow
+
 - name: Preservation Tools
-  fontAwesome: th
   items:
   - name: APrip (PSX Protection Bypass)
     url: https://github.com/alex-free/aprip
@@ -261,9 +259,10 @@
     url: https://github.com/SabreTools/MPF
   - name: ps3-disc-dumper
     url: https://github.com/13xforever/ps3-disc-dumper
-
+  - name: SBI Tools
+    url: https://github.com/Kippykip/SBITools
+    
 - name: Mac
-  fontAwesome: th
   items:
   - name: UTM
     url: https://mac.getutm.app/
@@ -273,15 +272,13 @@
     url: https://nmac.to/now/
 
 - name: Android
-  fontAwesome: th
   items:
   - name: SmartTube
     url: https://github.com/yuliskov/SmartTube
-  - name: Android Auto Scrolling Issue
-    url: https://support.google.com/androidauto/thread/325803988/scrolling-issue-in-apps?hl=en
+  - name: AntennaPod
+    url: https://github.com/AntennaPod/AntennaPod
 
 - name: Linux
-  fontAwesome: th
   items:
   - name: bazzite
     url: https://bazzite.gg/

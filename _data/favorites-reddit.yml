@@ -1,5 +1,4 @@
 - name: Hugues Valois
-  fontAwesome: th
   items:
   - name: Public Favorites
     url: /favorites
@@ -25,7 +24,6 @@
     url: /favorites-archive
 
 - name: Reddit - Programming
-  fontAwesome: th
   items:
   - name: r/dotnet
     url: https://www.reddit.com/r/dotnet/
@@ -67,7 +65,6 @@
     url: https://www.reddit.com/r/FlutterDev/
 
 - name: Reddit - Gaming
-  fontAwesome: th
   items:
   - name: r/emulation
     url: https://www.reddit.com/r/emulation/
@@ -91,7 +88,6 @@
     url: https://www.reddit.com/r/Sierra/
 
 - name: Reddit - Roms
-  fontAwesome: th
   items:
   - name: r/Roms
     url: https://www.reddit.com/r/Roms/
@@ -113,7 +109,6 @@
     url: https://www.reddit.com/r/SwitchPirates/
 
 - name: Reddit - Misc
-  fontAwesome: th
   items:
   - name: r/formula1
     url: https://www.reddit.com/r/formula1/
@@ -127,7 +122,6 @@
     url: https://www.reddit.com/r/usenet/
 
 - name: Reddit - Android
-  fontAwesome: th
   items:
   - name: r/samsung
     url: https://www.reddit.com/r/samsung/
@@ -141,7 +135,6 @@
     url: https://www.reddit.com/r/androidafterlife/
 
 - name: Reddit - Regional
-  fontAwesome: th
   items:
   - name: r/BellevueWA
     url: https://www.reddit.com/r/BellevueWA/
@@ -153,7 +146,6 @@
     url: https://www.reddit.com/r/Washington/
 
 - name: Reddit - Hardware
-  fontAwesome: th
   items:
   - name: r/MechanicalKeyboards
     url: https://www.reddit.com/r/MechanicalKeyboards/

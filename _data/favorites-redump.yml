@@ -1,5 +1,4 @@
 - name: Hugues Valois
-  fontAwesome: th
   items:
   - name: Public Favorites
     url: /favorites
@@ -25,7 +24,6 @@
     url: /favorites-archive
 
 - name: Redump
-  fontAwesome: th
   items:
   - name: Home
     url: http://redump.org
@@ -41,7 +39,6 @@
     url: https://sony.redump.info/
 
 - name: Wiki
-  fontAwesome: th
   items:
   - name: Wiki Home
     url: http://wiki.redump.org/
@@ -51,7 +48,6 @@
     url: http://wiki.redump.org/index.php?title=List_of_SID_codes
 
 - name: Discs
-  fontAwesome: th
   items:
   - name: Acorn Archimedes
     url: http://redump.org/discs/system/arch/
@@ -209,7 +205,6 @@
     url: http://redump.org/discs/system/gamewave/
 
 - name: Latest
-  fontAwesome: th
   items:
   - name: Latest PS1
     url: http://redump.org/discs/sort/added/dir/desc/system/psx

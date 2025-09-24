@@ -1,5 +1,4 @@
 - name: Hugues Valois
-  fontAwesome: th
   items:
   - name: Public Favorites
     url: /favorites
@@ -25,7 +24,6 @@
     url: /favorites-archive
 
 - name: Users (Active)
-  fontAwesome: th
   items:
   - name: CVLT OF MIRRORS
     url: https://archive.org/details/@cvlt_of_mirrors
@@ -77,7 +75,6 @@
     url: https://archive.org/details/@eagleforce
 
 - name: Users (Inactive)
-  fontAwesome: th
   items:
   - name: Forest of Illusion
     url: https://archive.org/details/@rvt-r
@@ -87,7 +84,6 @@
     url: https://archive.org/details/@disk_blitz
 
 - name: No-Intro Collections (Active)
-  fontAwesome: th
   items:
   - name: No-Intro Packs
     url: https://archive.org/details/ni-romsets
@@ -99,7 +95,6 @@
     url: https://archive.org/details/3ds-main-encrypted-p2
 
 - name: Redump Collections (Active)
-  fontAwesome: th
   items:
   - name: Redump Info
     url: https://archive.org/details/Redump-Info
@@ -109,13 +104,11 @@
     url: https://archive.org/details/BMB-Karaoke-CDi
 
 - name: Redump Collections (Inactive)
-  fontAwesome: th
   items:
   - name: PC Compatible Collection A
     url: https://archive.org/details/redump_pc_A
 
 - name: Misc Collections (Active)
-  fontAwesome: th
   items:
   - name: HTGDB Gamepacks
     url: https://archive.org/details/htgdb-gamepacks
@@ -149,7 +142,6 @@
     url: https://archive.org/details/Gabriel_Knight_The_Beast_Within_French_Version_MSDOS_1995
 
 - name: MiSTeR Collections (Active)
-  fontAwesome: th
   items:
   - name: 0Mhz DOS Collection
     url: https://archive.org/details/0mhz-dos
@@ -161,7 +153,6 @@
     url: https://archive.org/details/neon68k
 
 - name: MiSTeR (Inactive)
-  fontAwesome: th
   items:
   - name: Sharp X68000 Starter Pack
     url: https://archive.org/details/mister_x68k
@@ -181,7 +172,6 @@
     url: https://archive.org/details/MiSTer_DOS-Sierra_Collection
 
 - name: Computers (Active)
-  fontAwesome: th
   items:
   - name: Code Wheels
     url: https://archive.org/details/code-wheels
@@ -195,7 +185,6 @@
     url: https://archive.org/details/@term24
 
 - name: Computers (Inactive)
-  fontAwesome: th
   items:
   - name: Classic Mac Disk Images Collection
     url: https://archive.org/details/ClassicMacImages
@@ -231,7 +220,6 @@
     url: https://archive.org/details/@djcacique
 
 - name: Apple Software Libraries
-  fontAwesome: th
   items:
   - name: The 4am Collection
     url: https://archive.org/details/apple_ii_library_4am
@@ -239,7 +227,6 @@
     url: https://archive.org/details/softwarelibrary_apple_woz
 
 - name: Flux Images Collections
-  fontAwesome: th
   items:
   - name: flux_capacity
     url: https://archive.org/details/flux_capacity
@@ -257,7 +244,6 @@
     url: https://archive.org/details/@paulhagstrom
 
 - name: Flux Images
-  fontAwesome: th
   items:
   - name: Antoine Vignau 3.5" Floppies Flux Collection (May 2019 Batch)
     url: https://archive.org/details/Antoine_Vignau_3.5_Floppies_Flux_May_2019_Batch
@@ -389,7 +375,6 @@
     url: https://archive.org/details/Jesse_Treasures_2019_06
 
 - name: Consoles (Active)
-  fontAwesome: th
   items:
   - name: Nintendo - Super Famicom - MSU1
     url: https://archive.org/details/nintendo-super-famicom-msu1
@@ -397,7 +382,6 @@
     url: https://archive.org/details/nintendo-switch-global-firmwares
 
 - name: Consoles (Inactive)
-  fontAwesome: th
   items:
   - name: VGM Complete Cartridge Collection
     url: https://archive.org/details/vgm-complete-cartridge-collection.-7z
@@ -419,7 +403,6 @@
     url: https://archive.org/details/ef_no-intro_2024_backup
 
 - name: ScummVM
-  fontAwesome: th
   items:
   - name: ScummVM Complete
     url: https://archive.org/details/scummvm_complete
@@ -427,13 +410,11 @@
     url: https://archive.org/details/scummvm-german-collection
 
 - name: Tools
-  fontAwesome: th
   items:
   - name: UMDumper
     url: https://archive.org/details/umdumper.-7z
 
 - name: Live Music Archive
-  fontAwesome: th
   items:
   - name: archive.org - Smashing Pumpkins
     url: http://www.archive.org/details/SmashingPumpkins
@@ -445,7 +426,6 @@
     url: http://www.archive.org/details/DeathCabforCutie
 
 - name: GitHub
-  fontAwesome: th
   items:
   - name: Historical Source
     url: https://github.com/historicalsource

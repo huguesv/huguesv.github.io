@@ -1,5 +1,4 @@
 - name: Hugues Valois
-  fontAwesome: th
   items:
   - name: Public Favorites
     url: /favorites
@@ -25,7 +24,6 @@
     url: /favorites-archive
 
 - name: Hacking BluRay
-  fontAwesome: th
   items:
   - name: BlurayTestAndDecrypt
     url: https://forum.doom9.org/showthread.php?t=173796
@@ -37,7 +35,6 @@
     url: https://forum.doom9.org/showthread.php?t=172472
 
 - name: Hacking PS
-  fontAwesome: th
   items:
   - name: PlayStation Firmware MediaFire
     url: https://www.mediafire.com/ofws#61eiba4qagzbu
@@ -45,7 +42,6 @@
     url: https://github.com/KOPElan/PSX-Download-Helper
 
 - name: Hacking PS3
-  fontAwesome: th
   items:
   - name: PS3 Dev wiki
     url: http://www.psdevwiki.com/ps3/Main_Page
@@ -91,7 +87,6 @@
     url: https://github.com/Redrrx/ps3dec
 
 - name: Hacking VITA
-  fontAwesome: th
   items:
   - name: Vita Guide
     url: https://vita.hacks.guide/
@@ -143,7 +138,6 @@
     url: https://github.com/1jtp8sobiu/NPS_JP
 
 - name: Hacking PSP
-  fontAwesome: th
   items:
   - name: PSP Custom Firmware Guide (2024)
     url: https://www.pspunk.com/psp-cfw/
@@ -157,7 +151,6 @@
     url: http://code.google.com/p/procfw/
 
 - name: Hacking PS4
-  fontAwesome: th
   items:
   - name: PS4 Dev Wiki
     url: http://www.psdevwiki.com/ps4/
@@ -181,13 +174,11 @@
     url: https://pkg-zone.com/
 
 - name: Hacking PS5
-  fontAwesome: th
   items:
   - name: ps5-pkg
     url: https://github.com/1jtp8sobiu/ps5-pkg
 
 - name: Hacking Switch
-  fontAwesome: th
   items:
   - name: No-Intro Dumping Guide
     url: https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide
@@ -215,7 +206,6 @@
     url: https://gbatemp.net/threads/ultimate-guide-to-upgrade-your-firmware-atmosphere.661148/
 
 - name: Hacking Switch
-  fontAwesome: th
   items:
   - name: Atmosphere
     url: https://github.com/Atmosphere-NX/Atmosphere
@@ -225,7 +215,6 @@
     url: https://github.com/Thealexbarney/LibHac.git
 
 - name: Hacking Switch 2025
-  fontAwesome: th
   items:
   - name: Gamecard-Installer-NX (archived)
     url: https://github.com/ITotalJustice/Gamecard-Installer-NX
@@ -267,7 +256,6 @@
     url: https://github.com/impeeza/sys-patch
 
 - name: Hacking NES Mini
-  fontAwesome: th
   items:
   - name: Hakchi2
     url: https://github.com/TeamShinkansen/hakchi2/releases/
@@ -275,7 +263,6 @@
     url: https://docs.google.com/spreadsheets/d/12HKfz4ZQBy6Ip5awvh8t2aV5cVswYlnsdKxn9xoIW2Y/edit#gid=2014317767
 
 - name: Hacking Wii U
-  fontAwesome: th
   items:
   - name: WiiU Brew
     url: http://wiiubrew.org/wiki/Main_Page
@@ -323,7 +310,6 @@
     url: https://github.com/MillaBasset/uShop
 
 - name: Hacking 3DS
-  fontAwesome: th
   items:
   - name: 3DS Hacks guide
     url: https://3ds.hacks.guide/
@@ -375,7 +361,6 @@
     url: https://github.com/xxmichibxx/Batch-CIA-3DS-Decryptor-Redux
 
 - name: Hacking Wii
-  fontAwesome: th
   items:
   - name: libWiiSharp
     url: https://github.com/dnasdw/libwiisharp
@@ -385,13 +370,11 @@
     url: https://github.com/WiiDatabase/PyNUSD
 
 - name: Hacking DS
-  fontAwesome: th
   items:
   - name: Tinke DS Viewer
     url: https://github.com/pleonex/tinke/
 
 - name: Hacking Xbox
-  fontAwesome: th
   items:
   - name: XBE Format
     url: http://www.caustik.com/cxbx/download/xbe.htm
@@ -408,7 +391,6 @@
     url: https://kindlemodding.org/
     
 - name: Hacking
-  fontAwesome: th
   items:
   - name: Darthsternie's Firmware Archive (PS, Nintendo, Xbox)
     url: https://darthsternie.net/

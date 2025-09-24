@@ -1,5 +1,4 @@
 - name: Hugues Valois
-  fontAwesome: th
   items:
   - name: Public Favorites
     url: /favorites
@@ -25,7 +24,6 @@
     url: /favorites-archive
 
 - name: Road Trips and Planning
-  fontAwesome: th
   items:
   - name: Road Trippers
     url: https://roadtrippers.com/
@@ -43,7 +41,6 @@
     url: https://crimegrade.org/crime-in-my-area/
 
 - name: Accomodations
-  fontAwesome: th
   items:
   - name: Expedia
     url: https://expedia.com/
@@ -61,7 +58,6 @@
     url: https://www.interstaterestareas.com/interstate-90-rest-areas/
 
 - name: Japan Shopping
-  fontAwesome: th
   items:
   - name: Buyee
     url: https://buyee.jp/?lang=en
@@ -69,13 +65,11 @@
     url: https://www.jauce.com/
 
 - name: Japanese Language
-  fontAwesome: th
   items:
   - name: JapanesePod101
     url: https://www.japanesepod101.com/
 
 - name: Japan Tourism
-  fontAwesome: th
   items:
   - name: Asia Travel Bug
     url: https://asiatravelbug.com/
@@ -91,7 +85,6 @@
     url: https://www.tokyustay.co.jp/e/
 
 - name: Japan Customs / Airport
-  fontAwesome: th
   items:
   - name: Visit Japan Web
     url: https://www.vjw.digital.go.jp/main/#/vjwpco001
@@ -99,9 +92,10 @@
     url: https://www.narita-airport.jp/en
   - name: Airport Bus TYO-NRT
     url: https://tyo-nrt.com/en
+  - name: Journey Japan eSim
+    url: https://jjesim.com/
 
 - name: Japan Transport
-  fontAwesome: th
   items:
   - name: Japan Airlines
     url: https://www.jal.co.jp/jp/en/
@@ -113,7 +107,6 @@
     url: https://www.japan-experience.com/
 
 - name: Hawaii
-  fontAwesome: th
   items:
   - name: VRBO
     url: http://www.vrbo.com/
