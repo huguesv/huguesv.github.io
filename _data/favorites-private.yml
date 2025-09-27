@@ -439,6 +439,11 @@
   - name: Zillow
     url: https://www.zillow.com/
 
+- name: Apartments - Vancouver, WA
+  items:
+  - name: Haven Hills
+    url: https://www.liveathavenhills.com/
+
 - name: Cities
   items:
   - name: Safest cities WA

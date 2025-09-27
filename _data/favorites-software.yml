@@ -198,6 +198,14 @@
     url: https://www.fsoft.it/VVV/
   - name: Winaero Tweaker
     url: https://winaero.com/winaero-tweaker/
+  - name: WinSCP
+    url: https://github.com/winscp/winscp
+  - name: KeePass
+    url: https://keepass.info/
+  - name: Password Safe
+    url: https://github.com/pwsafe/pwsafe
+  - name: ShaderGlass
+    url: https://github.com/mausimus/ShaderGlass
 
 - name: Video Editing
   items:

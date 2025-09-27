@@ -218,6 +218,8 @@
     url: https://github.com/NuGetPackageExplorer/NuGetPackageExplorer
   - name: DotNet Events Viewer
     url: https://github.com/verdie-g/dotnet-events-viewer
+  - name: ILSpy
+    url: https://github.com/icsharpcode/ILSpy
     
 - name: C# Tools
   items:
