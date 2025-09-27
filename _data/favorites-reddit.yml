@@ -120,6 +120,8 @@
     url: https://www.reddit.com/r/4kbluray/
   - name: r/usenet
     url: https://www.reddit.com/r/usenet/
+  - name: r/microsoft
+    url: https://www.reddit.com/r/microsoft/
 
 - name: Reddit - Android
   items:

@@ -323,6 +323,8 @@
     url: https://github.com/cellos51/balatro-gba
   - name: Labyrinth of the Dragon (GBC)
     url: https://github.com/NesHacker/LabyrinthOfTheDragon
+  - name: Super Mario Bros Remastered
+    url: https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public
     
 - name: Decompilation
   items:
