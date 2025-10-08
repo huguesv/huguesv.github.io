@@ -334,6 +334,8 @@
     url: https://github.com/xoofx/SharpYaml
   - name: YamlDotNet
     url: https://github.com/aaubry/YamlDotNet
+  - name: YamlRecords
+    url: https://github.com/ChrisPritchard/YamlRecords/
   - name: Csharp-Data-Visualization
     url: https://github.com/swharden/Csharp-Data-Visualization
   - name: FftSharp
@@ -893,9 +895,7 @@
   - name: Mongoose OM
     url: https://mongoosejs.com/
   - name: LiteDB
-    url: https://www.litedb.org/
-  - name: LiteDB (GitHub)
-    url: https://github.com/mbdavid/LiteDB
+    url: https://github.com/litedb-org/LiteDB
   - name: Supabase
     url: https://supabase.com/
   - name: Neon
@@ -1019,6 +1019,8 @@
   items:
   - name: mermaid
     url: https://github.com/mermaid-js/mermaid
+  - name: biome
+    url: https://github.com/biomejs/biome
 
 - name: Languages
   items:
