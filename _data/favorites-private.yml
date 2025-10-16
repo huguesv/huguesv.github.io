@@ -142,8 +142,6 @@
     url: https://1fichier.com/dir/rmoSlpiJ
   - name: Torrminatorr - 1fichier pt2
     url: https://1fichier.com/dir/SpA8grcL
-  - name: LiveNuMetal
-    url: https://livenumetal.es/
   - name: gg
     url: https://gog-games.to/
 
@@ -167,6 +165,12 @@
     url: https://vgmdb.net/  
   - name: Discogs
     url: https://www.discogs.com/
+  - name: LiveNuMetal
+    url: https://livenumetal.es/
+  - name: Best Lossless
+    url: https://bestlossless.com/
+  - name: Get Metal
+    url: https://getmetal.club/
 
 - name: Streaming
   items:
