@@ -165,12 +165,19 @@
     url: https://vgmdb.net/  
   - name: Discogs
     url: https://www.discogs.com/
+
+- name: Music Releases
+  items:
   - name: LiveNuMetal
     url: https://livenumetal.es/
   - name: Best Lossless
     url: https://bestlossless.com/
   - name: Get Metal
     url: https://getmetal.club/
+  - name: HD24Bit
+    url: https://hd24bit.com/
+  - name: New Album Releases
+    url: https://newalbumreleases.net/
 
 - name: Streaming
   items:
@@ -268,6 +275,8 @@
     url: https://www.8bitdo.com/
   - name: GameSir
     url: https://gamesir.com/
+  - name: Unitek
+    url: https://www.unitek-products.com/
 
 - name: Videogame Stores
   items:

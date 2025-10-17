@@ -38,7 +38,9 @@
   - name: Aaru
     url: https://github.com/aaru-dps/Aaru
   - name: Rufus USB Boot
-    url: http://rufus.akeo.ie/
+    url: https://rufus.ie/en/
+  - name: Balena Etcher
+    url: https://etcher.balena.io/
   - name: SAMdisk
     url: https://simonowen.com/samdisk/
   - name: DxWnd
@@ -206,6 +208,8 @@
     url: https://github.com/pwsafe/pwsafe
   - name: ShaderGlass
     url: https://github.com/mausimus/ShaderGlass
+  - name: RetroScrap 2000
+    url: https://github.com/gruetze-software/RetroScrap-2000-Releases
 
 - name: Video Editing
   items:

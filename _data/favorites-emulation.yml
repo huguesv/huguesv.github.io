@@ -112,6 +112,10 @@
     url: https://github.com/drhelius/Gearboy
   - name: PyBoy - Game Boy (Python)
     url: https://github.com/Baekalfen/PyBoy
+  - name: CrankBoy - Game Boy (C)
+    url: https://github.com/CrankBoyHQ/crankboy-app
+  - name: Peanut-GB - Game Boy (C)
+    url: https://github.com/deltabeard/Peanut-GB
   - name: NanoBoyAdvance - Game Boy Advance (C++)
     url: https://github.com/nba-emu/NanoBoyAdvance
   - name: Mesen2 - Multi (C++)

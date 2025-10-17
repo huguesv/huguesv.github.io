@@ -354,6 +354,8 @@
     url: https://github.com/amerkoleci/Vortice.Windows
   - name: SabreTools.RedumpLib
     url: https://github.com/SabreTools/SabreTools.RedumpLib
+  - name: libchdr
+    url: https://github.com/rtissera/libchdr
 
 - name: PowerShell Gallery
   items:
@@ -863,6 +865,8 @@
   items:
   - name: Restapia
     url: https://www.restapia.app/
+  - name: Requestly
+    url: https://requestly.com/
 
 - name: Web Tutorials
   items:
