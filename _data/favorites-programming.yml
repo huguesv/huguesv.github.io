@@ -33,6 +33,8 @@
     url: http://www.github.com/Autoenergie/
   - name: GitLab
     url: http://www.gitlab.com/
+  - name: Gitea Mirror
+    url: https://giteamirror.com/
 
 - name: Software
   items:
@@ -510,6 +512,10 @@
     url: https://github.com/gaseous-project/gaseous-server
   - name: Hasheous
     url: https://github.com/gaseous-project/hasheous
+  - name: MshExplorer
+    url: https://github.com/Simply-Cod/MshExplorer
+  - name: Poker.net
+    url: https://github.com/JBelthoff/poker.net
 
 - name: .NET Learning
   items:
@@ -599,6 +605,8 @@
     url: http://6502.org/tutorials/
   - name: vasm assembler
     url: http://sun.hasenbraten.de/vasm/
+  - name: Dotnet6502
+    url: https://github.com/KallDrexx/Dotnet6502
 
 - name: Retro - PC
   items:
@@ -1018,6 +1026,8 @@
     url: https://calculator.platform.uno/
   - name: TubePlayer Workshop
     url: https://github.com/kazo0/TubePlayer
+  - name: Eppie
+    url: https://github.com/Eppie-io/Eppie-App
 
 - name: Javascript Libraries
   items:

@@ -122,3 +122,8 @@
     url: http://www.gohawaii.com/maui
   - name: "Maui: Gannon's"
     url: http://www.gannonsrestaurant.com/
+
+- name: Bellevue
+  items:
+  - name: Airport Shuttle
+    url: https://www.visitbellevuewa.com/listing/bellevue-airport-shuttle/2753/

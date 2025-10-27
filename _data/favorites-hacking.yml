@@ -108,6 +108,8 @@
     url: https://github.com/TheOfficialFloW/NoNpDrm
   - name: Henkaku
     url: https://enso.henkaku.xyz/
+  - name: Henkaku NodeMCU
+    url: https://www.logic-sunrise.com/news-1213460-vita-modifiez-votre-vita-avec-henkaku-et-une-carte-nodemcu-avec-psv-esphaku-v20.html
   - name: psvpfstools
     url: https://github.com/motoharu-gosuto/psvpfstools
   - name: PSVGameSD
