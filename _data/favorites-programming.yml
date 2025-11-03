@@ -47,6 +47,11 @@
   - name: Git
     url: https://git-scm.com/downloads
 
+- name: Visual Studio Extensions
+  items:
+  - name: Vanta Black Theme
+    url: https://github.com/madskristensen/VantaBlack
+
 - name: Runtimes and SDKs
   items:
   - name: .NET
@@ -93,6 +98,8 @@
     url: https://github.com/jinek/Consolonia
   - name: awesome-avalonia
     url: https://github.com/AvaloniaCommunity/awesome-avalonia
+  - name: Responsive.Avalonia
+    url: https://github.com/russkyc/responsive-avalonia
   - name: Avalonia + MVVM + Reactive UI Samples
     url: https://github.com/stars/raid-teyar/lists/avalonia
   - name: AngelSix YouTube Tutorials
@@ -101,6 +108,8 @@
     url: https://github.com/FrankenApps/Avalonia-CustomTitleBarTemplate
   - name: Fluent Icons for Avalonia
     url: https://avaloniaui.github.io/icons.html
+  - name: Lucide SVG Icons
+    url: https://lucide.dev/
   - name: Avalonia.Css
     url: https://github.com/liwuqingxin/Avalonia.Css
   - name: AvaloniaILSpy
@@ -240,6 +249,8 @@
     url: https://github.com/mayuki/Cocona
   - name: SkiaSharp
     url: https://github.com/mono/SkiaSharp
+  - name: VelloSharp
+    url: https://wieslawsoltes.github.io/VelloSharp/
   - name: Silk.NET
     url: https://github.com/dotnet/Silk.NET
   - name: opentk
@@ -287,7 +298,7 @@
   - name: ScottPlot
     url: https://github.com/ScottPlot/ScottPlot
   - name: LiveCharts2
-    url: https://github.com/beto-rodriguez/LiveCharts2
+    url: https://github.com/Live-Charts/LiveCharts2
   - name: Microsoft.Data.Sqlite overview
     url: https://learn.microsoft.com/en-us/dotnet/standard/data/sqlite
   - name: System.CommandLine overview
