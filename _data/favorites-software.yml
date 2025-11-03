@@ -71,6 +71,8 @@
     url: https://github.com/Digitoxin1/DiskImageTool
   - name: Termix - File Manager Terminal (C#)
     url: https://github.com/amrohan/termix
+  - name: Myrient Downloader
+    url: https://github.com/bradrevans/myrient-downloader
 
 - name: Windows
   items:

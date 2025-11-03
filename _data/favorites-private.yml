@@ -90,6 +90,8 @@
     url: https://www.seattlebiketours.org/members/library.html
   - name: CyclOSM - OpenStreetMap
     url: https://www.cyclosm.org/#map=14/47.6974/-122.1766/cyclosm
+  - name: Interim Computer Museum
+    url: https://icm.museum/
 
 - name: Usenet Indexers
   items:
