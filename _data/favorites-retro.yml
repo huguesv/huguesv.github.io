@@ -35,6 +35,8 @@
     url: https://www.tosecdev.org/
   - name: EverDrive DB
     url: https://github.com/frederic-mahe/Hardware-Target-Game-Database
+  - name: Omnidat
+    url: https://omni-games.info/omnidat.php
   - name: SerialStation
     url: https://serialstation.com/
   - name: Switch Title Keys

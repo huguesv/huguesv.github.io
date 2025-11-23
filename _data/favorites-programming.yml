@@ -82,6 +82,8 @@
   items:
   - name: .NET Conf 2025 Agenda
     url: https://dotnetconf.com/agenda
+  - name: .NET Foundation
+    url: https://dotnetfoundation.org/
 
 - name: .NET Avalonia
   items:
@@ -236,7 +238,9 @@
     url: https://github.com/verdie-g/dotnet-events-viewer
   - name: ILSpy
     url: https://github.com/icsharpcode/ILSpy
-    
+  - name: DocFx-Plus
+    url: https://github.com/dotmake-build/docfx-plus
+
 - name: C# Tools
   items:
   - name: CSharpier
@@ -532,6 +536,8 @@
     url: https://github.com/Simply-Cod/MshExplorer
   - name: Poker.net
     url: https://github.com/JBelthoff/poker.net
+  - name: Podliner (Podcast TUI)
+    url: https://github.com/timkicker/podliner
 
 - name: .NET Learning
   items:
@@ -717,6 +723,8 @@
     url: https://github.com/GeorgRottensteiner/C64Studio/
   - name: Programming the C64 with Visual Studio Code
     url: https://retrogamecoders.com/c64-visual-studio-code/
+  - name: RetroC64
+    url: https://retroc64.github.io/
 
 - name: Retro - Tandy Coco
   items:

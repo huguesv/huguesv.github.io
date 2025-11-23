@@ -47,16 +47,6 @@
     url: https://sourceforge.net/projects/dxwnd/
   - name: PS-Multi-Tools
     url: https://github.com/SvenGDK/PS-Multi-Tools
-  - name: yt-dlp
-    url: https://github.com/yt-dlp
-  - name: yt2doc
-    url: https://github.com/shun-liang/yt2doc
-  - name: itchiodl
-    url: https://github.com/Emersont1/itchio
-  - name: Archive.org-Downloader
-    url: https://github.com/MiniGlome/Archive.org-Downloader#readme
-  - name: gogcli
-    url: https://github.com/Magnitus-/gogcli
   - name: WinSetView
     url: https://github.com/LesFerch/WinSetView
   - name: spotube
@@ -71,6 +61,23 @@
     url: https://github.com/Digitoxin1/DiskImageTool
   - name: Termix - File Manager Terminal (C#)
     url: https://github.com/amrohan/termix
+  - name: Myrient Downloader
+    url: https://github.com/bradrevans/myrient-downloader
+
+- name: Download Tools
+  items:
+  - name: yt-dlp
+    url: https://github.com/yt-dlp
+  - name: yt2doc
+    url: https://github.com/shun-liang/yt2doc
+  - name: itchiodl
+    url: https://github.com/Emersont1/itchio
+  - name: Archive.org-Downloader
+    url: https://github.com/MiniGlome/Archive.org-Downloader#readme
+  - name: gogcli
+    url: https://github.com/Magnitus-/gogcli
+  - name: Stacks
+    url: https://github.com/zelestcarlyone/stacks
   - name: Myrient Downloader
     url: https://github.com/bradrevans/myrient-downloader
 

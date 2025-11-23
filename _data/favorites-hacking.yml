@@ -361,6 +361,8 @@
     url: https://github.com/zoogie/MSET9
   - name: Batch-CIA-3DS-Decryptor-Redux
     url: https://github.com/xxmichibxx/Batch-CIA-3DS-Decryptor-Redux
+  - name: 3DSConverters
+    url: https://github.com/dihny/3DSConverters
 
 - name: Hacking Wii
   items:
