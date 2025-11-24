@@ -80,6 +80,8 @@
     url: https://github.com/zelestcarlyone/stacks
   - name: Myrient Downloader
     url: https://github.com/bradrevans/myrient-downloader
+  - name: Lidarr
+    url: https://github.com/Lidarr/Lidarr
 
 - name: Windows
   items:
