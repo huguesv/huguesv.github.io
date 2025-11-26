@@ -134,6 +134,8 @@
     url: https://github.com/CidVonHighwind/VirtualBoyGo
   - name: NEN - NES (Rust)
     url: https://github.com/Comba92/nen-emulator
+  - name: ADAM+
+    url: https://github.com/dvdh1961/ADAMP
 
 - name: Consoles
   items:

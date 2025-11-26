@@ -379,6 +379,19 @@
   - name: libchdr
     url: https://github.com/rtissera/libchdr
 
+- name: .NET Testing Libraries
+  items:
+  - name: Imposter
+    url: https://github.com/themidnightgospel/Imposter
+  - name: FakeItEasy
+    url: https://github.com/FakeItEasy/FakeItEasy
+  - name: NSubtitute
+    url: https://github.com/nsubstitute/NSubstitute
+  - name: Rocks
+    url: https://github.com/JasonBock/Rocks
+  - name: Mockolate
+    url: https://github.com/aweXpect/Mockolate
+
 - name: PowerShell Gallery
   items:
   - name: PowerShell Gallery
