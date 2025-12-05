@@ -218,6 +218,13 @@
     url: https://archive.org/details/interactionmagazine
   - name: DJCacique (Photo and Software)
     url: https://archive.org/details/@djcacique
+  - name: Warez Serial Databases Collection 20251007 TWC
+    url: https://archive.org/details/warez-serial-databases-collection-20251007-twc
+  - name: ibm-wgam-wbiz-collection
+    url: https://archive.org/details/ibm-wgam-wbiz-collection
+  - name: wbiz-lists ALL
+    url: https://archive.org/details/wbiz-0001-0895-all.txt
+
 
 - name: Apple Software Libraries
   items:

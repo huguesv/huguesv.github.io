@@ -194,6 +194,8 @@
     url: https://devblogs.microsoft.com/dotnet/using-dependabot-to-manage-dotnet-sdk-updates/
   - name: FFT Audio Visualization in Unity
     url: https://discussions.unity.com/t/fft-audio-visualization-video-tutorial/640612
+  - name: Reinventing how .NET Ships
+    url: https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/
 
 - name: .NET Foundation
   items:

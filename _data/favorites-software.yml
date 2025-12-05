@@ -301,6 +301,13 @@
   - name: AntennaPod
     url: https://github.com/AntennaPod/AntennaPod
 
+- name: LG TV
+  items:
+  - name: youtube-webos
+    url: https://github.com/webosbrew/youtube-webos
+  - name: Homebrew Channel
+    url: https://github.com/webosbrew/webos-homebrew-channel
+
 - name: Linux
   items:
   - name: bazzite
