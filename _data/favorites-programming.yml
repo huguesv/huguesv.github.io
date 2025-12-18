@@ -1144,6 +1144,11 @@
   - name: UnrealSharp
     url: https://github.com/UnrealSharp/UnrealSharp
 
+- name: Game Development - Love
+  items:
+  - name: Love
+    url: https://love2d.org/
+
 - name: Game Development - XNA/MonoGame
   items:
   - name: MonoGame

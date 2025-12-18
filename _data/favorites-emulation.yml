@@ -93,6 +93,8 @@
     url: https://github.com/xenia-project/xenia
   - name: Xenia Canary - Xbox 360 (C++)
     url: https://github.com/xenia-canary/xenia-canary
+  - name: Xenia Edge - Xbox 360 (C++)
+    url: https://github.com/has207/xenia-edge
   - name: BigPEmu - Jaguar (Closed Source)
     url: https://www.richwhitehouse.com/jaguar/index.php
   - name: flycast - Sega Dreamcast (C++)
