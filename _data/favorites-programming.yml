@@ -1067,6 +1067,8 @@
     url: https://github.com/kazo0/TubePlayer
   - name: Eppie
     url: https://github.com/Eppie-io/Eppie-App
+  - name: Uno Winamp
+    url: https://github.com/ArchieCoder/UnoWinamp
 
 - name: Javascript Libraries
   items:

@@ -221,6 +221,8 @@
     url: https://github.com/mausimus/ShaderGlass
   - name: RetroScrap 2000
     url: https://github.com/gruetze-software/RetroScrap-2000-Releases
+  - name: WindowsEdgeLight
+    url: https://github.com/shanselman/WindowsEdgeLight
 
 - name: Video Editing
   items:
