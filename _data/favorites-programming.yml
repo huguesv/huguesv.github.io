@@ -304,6 +304,8 @@
     url: https://github.com/gui-cs/TerminalGuiDesigner
   - name: Spectre.Console
     url: https://github.com/spectreconsole/spectre.console
+  - name: Termina
+    url: https://github.com/Aaronontheweb/Termina
   - name: Modern.Forms
     url: https://github.com/modern-forms/Modern.Forms
   - name: ScottPlot
