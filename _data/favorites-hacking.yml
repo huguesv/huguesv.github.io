@@ -310,6 +310,10 @@
     url: https://gbatemp.net/threads/stable-nand-dumper-rednand.446819/
   - name: MillaBasset Python Downloader
     url: https://github.com/MillaBasset/uShop
+  - name: WUDecrypt
+    url: https://github.com/maki-chan/wudecrypt
+  - name : Crediar Releases Repo
+    url: https://crediar.dev/crediar/misc
 
 - name: Hacking 3DS
   items:

@@ -62,6 +62,8 @@
     url: https://eden-emu.dev/
   - name: Citron - Switch (C++)
     url: https://git.citron-emu.org/Citron/Citron
+  - name: Hydra - Switch (C++)
+    url: https://github.com/SamoZ256/hydra
   - name: Panda3DS - 3DS (C++)
     url: https://github.com/wheremyfoodat/Panda3DS
   - name: Azahar - 3DS (C++)
