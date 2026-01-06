@@ -555,6 +555,8 @@
     url: https://github.com/JBelthoff/poker.net
   - name: Podliner (Podcast TUI)
     url: https://github.com/timkicker/podliner
+  - name: sharpdbg
+    url: https://github.com/MattParkerDev/sharpdbg
 
 - name: .NET Learning
   items:
