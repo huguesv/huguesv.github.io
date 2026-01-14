@@ -233,7 +233,7 @@
   - name: SubSource
     url: https://subsource.net/
   - name: NSW Releases
-    url: http://www.nswdb.com/
+    url: https://nswdb.com/
   - name: GOG Database
     url: https://www.gogdb.org/
   - name: dats.site
