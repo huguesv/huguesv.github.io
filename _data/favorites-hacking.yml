@@ -268,6 +268,8 @@
   items:
   - name: Wii U Hacks Guide
     url: https://wiiu.hacks.guide/#/
+  - name: Wii U Brew
+    url: http://wiiubrew.org/wiki/Main_Page
   - name: Aroma
     url: https://aroma.foryour.cafe/
   - name: wud2app
@@ -285,8 +287,6 @@
 
 - name: Hacking Wii U (Legacy)
   items:
-  - name: WiiU Brew
-    url: http://wiiubrew.org/wiki/Main_Page
   - name: uTikDownloadHelper
     url: https://github.com/DanTheMan827/uTikDownloadHelper
   - name: FunKiiU
@@ -331,6 +331,8 @@
     url: https://github.com/maki-chan/wudecrypt
   - name : Crediar Releases Repo
     url: https://crediar.dev/crediar/misc
+  - name: Title Keys
+    url: https://phunlabs.github.io/
 
 - name: Hacking 3DS
   items:

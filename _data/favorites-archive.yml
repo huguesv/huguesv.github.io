@@ -420,6 +420,8 @@
   items:
   - name: UMDumper
     url: https://archive.org/details/umdumper.-7z
+  - name: PSP Metrowerks Compilers
+    url: https://archive.org/details/mws-psp
 
 - name: Live Music Archive
   items:

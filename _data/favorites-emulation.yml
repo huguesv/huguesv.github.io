@@ -74,6 +74,8 @@
     url: https://github.com/melonDS-emu/melonDS
   - name: ShadPS4 - PS4 (C++)
     url: https://github.com/shadps4-emu/shadPS4
+  - name: ShadPS4 PKG Extractor
+    url: https://github.com/AzaharPlus/shadPS4Plus
   - name: Gopher64 - N64 (Rust)
     url: https://github.com/gopher64/gopher64
 
@@ -281,6 +283,8 @@
     url: https://fuse-emulator.sourceforge.net/
   - name: SheepShaver - Macintosh (C++)
     url: https://github.com/cebix/macemu
+  - name: Infinite Mac
+    url: https://infinitemac.org/
 
 - name: Computers (Inactive)
   items:
