@@ -264,7 +264,26 @@
   - name: SNES Compatibility
     url: https://docs.google.com/spreadsheets/d/12HKfz4ZQBy6Ip5awvh8t2aV5cVswYlnsdKxn9xoIW2Y/edit#gid=2014317767
 
-- name: Hacking Wii U
+- name: Hacking Wii U (2026)
+  items:
+  - name: Wii U Hacks Guide
+    url: https://wiiu.hacks.guide/#/
+  - name: Aroma
+    url: https://aroma.foryour.cafe/
+  - name: wud2app
+    url: https://github.com/FIX94/wud2app
+  - name: WUP Installer GX2 WUHB
+    url: https://github.com/Fangal-Airbag/wup-installer-gx2
+  - name: WUDD - Wii U Disc Dumper
+    url: https://github.com/wiiu-env/wudd
+  - name: NUSspli
+    url: https://github.com/V10lator/NUSspli
+  - name: SigpatchesModuleWiiU
+    url: https://github.com/marco-calautti/SigpatchesModuleWiiU
+  - name: WiiUDownloader
+    url: https://github.com/Xpl0itU/WiiUDownloader
+
+- name: Hacking Wii U (Legacy)
   items:
   - name: WiiU Brew
     url: http://wiiubrew.org/wiki/Main_Page
@@ -290,8 +309,6 @@
     url: https://github.com/VitaSmith/cdecrypt
   - name: neobrain/cdecrypt (outdated)
     url: https://github.com/neobrain/cdecrypt
-  - name: NUSspli
-    url: https://github.com/V10lator/NUSspli
   - name: Bloquer Mises a Jour Article
     url: https://www.logic-sunrise.com/news-950209-wii-u-bloquer-les-mises-a-jour-de-votre-wii-u-sans-dns-et-sans-spoof.html
   - name: Block System Updates Article
