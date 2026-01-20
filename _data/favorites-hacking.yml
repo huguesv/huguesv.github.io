@@ -182,22 +182,12 @@
 
 - name: Hacking Switch
   items:
-  - name: No-Intro Dumping Guide
-    url: https://wiki.no-intro.org/index.php?title=Nintendo_Switch_Dumping_Guide
   - name: NH Switch Guide
     url: https://nh-server.github.io/switch-guide/
-  - name: Kosmos
-    url: https://github.com/AtlasNX/Kosmos/releases
-  - name: 4NXCI
-    url: https://github.com/The-4n/4NXCI/releases
-  - name: Kosmos Joonie86 Ppatches
-    url: https://github.com/Joonie86/hekate/releases
   - name: NSC Builder
     url: https://github.com/julesontheroad/NSC_BUILDER/releases
   - name: ChoiDuJour
     url: https://switchtools.sshnuke.net/
-  - name: Lockpick RCM (dead)
-    url: https://github.com/shchmue/Lockpick_RCM/releases
   - name: Tegra RCM GUI
     url: https://github.com/eliboa/TegraRcmGUI
   - name: Goldleaf
@@ -207,17 +197,14 @@
   - name: Upgrading Atmosphere
     url: https://gbatemp.net/threads/ultimate-guide-to-upgrade-your-firmware-atmosphere.661148/
 
-- name: Hacking Switch
+- name: Hacking Switch (2025)
   items:
+  - name: Switch Hack Guide
+    url: https://switch.hacks.guide/
   - name: Atmosphere
     url: https://github.com/Atmosphere-NX/Atmosphere
   - name: NCA Encrypt/Decrypt
     url: https://github.com/switch-stuff/NAX0-Crypter
-  - name: LibHac
-    url: https://github.com/Thealexbarney/LibHac.git
-
-- name: Hacking Switch 2025
-  items:
   - name: Gamecard-Installer-NX (archived)
     url: https://github.com/ITotalJustice/Gamecard-Installer-NX
   - name: Logic Sunrise Guide
@@ -232,8 +219,6 @@
     url: https://github.com/shadow2560/switch_AIO_LS_pack
   - name: Lockpick_RCM
     url: https://gitee.com/mirrors_shchmue/Lockpick_RCM
-  - name: TheProdKeys
-    url: https://theprodkeys.com/v12/
   - name: prodkeys
     url: https://prodkeys.net/
   - name: AtmoPack-Vanilla
@@ -244,8 +229,6 @@
     url: https://github.com/HamletDuFromage/nx-links
   - name: hekate
     url: https://github.com/CTCaer/hekate
-  - name: Switch Hack Guide
-    url: https://switch.hacks.guide/
   - name: SciresM GitHub Repos
     url: https://github.com/SciresM?tab=repositories
   - name: locklockinglocker
@@ -284,19 +267,17 @@
     url: https://github.com/marco-calautti/SigpatchesModuleWiiU
   - name: WiiUDownloader
     url: https://github.com/Xpl0itU/WiiUDownloader
+  - name: wud2app
+    url: https://github.com/FIX94/wud2app
 
 - name: Hacking Wii U (Legacy)
   items:
-  - name: uTikDownloadHelper
-    url: https://github.com/DanTheMan827/uTikDownloadHelper
   - name: FunKiiU
     url: https://github.com/llakssz/FunKiiU
   - name: wiiu-things
     url: https://github.com/ihaveamac/wiiu-things
   - name: wudump
     url: https://github.com/FIX94/wudump
-  - name: wud2app
-    url: https://github.com/FIX94/wud2app
   - name: wupinstaller
     url: https://github.com/Yardape8000/wupinstaller/tree/y1.2.1
   - name: sign_patcher
@@ -309,10 +290,6 @@
     url: https://github.com/VitaSmith/cdecrypt
   - name: neobrain/cdecrypt (outdated)
     url: https://github.com/neobrain/cdecrypt
-  - name: Bloquer Mises a Jour Article
-    url: https://www.logic-sunrise.com/news-950209-wii-u-bloquer-les-mises-a-jour-de-votre-wii-u-sans-dns-et-sans-spoof.html
-  - name: Block System Updates Article
-    url: https://gbatemp.net/threads/block-wii-u-system-updates-without-dns-blocking.477944/
   - name: Haxchi
     url: https://github.com/smealum/haxchi
   - name: Haxchi Mod Article
@@ -389,14 +366,8 @@
     url: https://github.com/Asia81/HackingToolkit3DS
   - name: Convert 3DS to CIA
     url: https://github.com/maorninja/Follow-up-Guide
-  - name: FBI Ticket Installer
-    url: https://fbiticket.uk/?sort=titleID
-  - name: freeshop
-    url: https://notabug.org/btucker/freeShop
   - name: GroovyFX
     url: https://github.com/Ptrk25/GroovyFX
-  - name: PlaiCDN
-    url: https://github.com/Plailect/PlaiCDN
   - name: nustool
     url: https://github.com/SciresM/nustool
   - name: Shameless
@@ -452,7 +423,3 @@
     url: https://darthsternie.net/
   - name: PS4 System Firmwares (archive.org)
     url: https://archive.org/details/PS4-System-Firmwares
-  - name: MAS (GitHub)
-    url: https://github.com/massgravel/Microsoft-Activation-Scripts
-  - name: MAS (Web)
-    url: https://massgrave.dev/

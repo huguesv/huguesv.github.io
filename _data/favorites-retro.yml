@@ -27,6 +27,8 @@
   items:
   - name: No-Intro
     url: http://datomatic.no-intro.org/
+  - name: No-Intro Wiki
+    url: https://wiki.no-intro.org/index.php
   - name: Redump
     url: http://redump.org/
   - name: Redump Wiki
