@@ -334,18 +334,49 @@
   - name: Title Keys
     url: https://phunlabs.github.io/
 
-- name: Hacking 3DS
+- name: Hacking 3DS (2026)
   items:
   - name: 3DS Hacks guide
     url: https://3ds.hacks.guide/
+  - name: Luma3DS
+    url: https://github.com/LumaTeam/Luma3DS
+  - name: SafeB9SInstaller
+    url: https://github.com/d0k3/SafeB9SInstaller/
+  - name: Boot9strap
+    url: https://github.com/SciresM/boot9strap/
+  - name: New 3DS ss
+    url: https://archive.org/details/secret_sector.bin
+  - name: FBI-NH
+    url: https://github.com/nh-server/FBI-NH
+  - name: Homebrew Launcher Wrapper
+    url: https://github.com/PabloMK7/homebrew_launcher_dummy
+  - name: Anemone 3DS
+    url: https://github.com/astronautlevel2/Anemone3DS
+  - name: Checkpoint
+    url: https://github.com/BernardoGiordano/Checkpoint
+  - name: ftpd
+    url: https://github.com/mtheall/ftpd
+  - name: Universal Updater
+    url: https://github.com/Universal-Team/Universal-Updater/
+  - name: GodMode9
+    url: https://github.com/d0k3/GodMode9
+  - name: Batch CIA 3DS Decryptor
+    url: https://gbatemp.net/threads/batch-cia-3ds-decryptor-a-simple-batch-file-to-decrypt-cia-3ds.512385/
+  - name: Project_CTR (3DSGuy fork)
+    url: https://github.com/3DSGuy/Project_CTR
+  - name: hShop
+    url: https://hshop.erista.me/
+
+- name: Hacking 3DS (Legacy)
+  items:
   - name: 3D Brew
     url: http://www.3dbrew.org/wiki/Main_Page
   - name: 3DS-rom-tools
     url: https://github.com/ihaveamac/3DS-rom-tools
   - name: FunKeyCIA
     url: https://github.com/llakssz/FunKeyCIA/
-  - name: make_cdn_cia
-    url: https://github.com/YodaDaCoda/make_cdn_cia
+  - name: ctr_toolkit (make_cdn_cia)
+    url: https://github.com/Tiger21820/ctr_toolkit
   - name: FBI
     url: https://github.com/Steveice10/FBI
   - name: 3ds-xorpads
@@ -378,8 +409,6 @@
     url: https://github.com/ihaveamac/3dsconv
   - name: 3dsencryptv4 (use with pycryptodome on python 2.7)
     url: https://archive.org/details/3dsEncryptV4
-  - name: Luma3DS
-    url: https://github.com/LumaTeam/Luma3DS
   - name: MSET9
     url: https://github.com/zoogie/MSET9
   - name: Batch-CIA-3DS-Decryptor-Redux
