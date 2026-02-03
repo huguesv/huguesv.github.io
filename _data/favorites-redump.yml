@@ -35,6 +35,8 @@
     url: http://redump.org/statistics/
   - name: Wiki
     url: http://wiki.redump.org/
+  - name: Redump Mirror
+    url: https://old.redump.info/
   - name: Sony Serial Info
     url: https://sony.redump.info/
   - name: Capitalization Standards

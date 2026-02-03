@@ -33,6 +33,8 @@
     url: http://redump.org/
   - name: Redump Wiki
     url: http://wiki.redump.org/
+  - name: Redump Mirror
+    url: https://old.redump.info/
   - name: TOSEC
     url: https://www.tosecdev.org/
   - name: EverDrive DB

@@ -179,6 +179,8 @@
   items:
   - name: ps5-pkg
     url: https://github.com/1jtp8sobiu/ps5-pkg
+  - name: PS5PKGReader
+    url: https://github.com/SvenGDK/PS5PKGReader
 
 - name: Hacking Switch
   items:
@@ -213,6 +215,8 @@
     url: https://github.com/daeken/SupercellNx
   - name: DeepSea
     url: https://github.com/Team-Neptune/DeepSea
+  - name: LockSmith-RCM
+    url: https://github.com/shadow2560/LockSmith-RCM
   - name: Ultimate-Switch-Hack-Script
     url: https://github.com/shadow2560/Ultimate-Switch-Hack-Script
   - name: switch_AIO_LS_pack (2025)
@@ -311,6 +315,13 @@
   - name: Title Keys
     url: https://phunlabs.github.io/
 
+- name: Hacking DSi
+  items:
+  - name: DSpico
+    url: https://www.lnh-team.org/
+  - name: DSpico USB-C
+    url: https://store.phenommod.com/?product=dspico-pre-order
+    
 - name: Hacking 3DS (2026)
   items:
   - name: 3DS Hacks guide

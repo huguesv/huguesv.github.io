@@ -44,6 +44,11 @@
     url: https://www.petersonandfranklin.com/
   - name: Samena Swim & Recreation Club
     url: https://samena.com/
+  - name: Lake Sammamish Half
+    url: https://www.orcarunning.com/lake-sammamish-half/
+  - name: Mount Baker Bicycle Club - Route 20
+    url: https://www.mtbakerbikeclub.org/content.aspx?page_id=5&club_id=608345&item_id=112967
+
 
 - name: Places
   items:
@@ -92,6 +97,11 @@
     url: https://www.cyclosm.org/#map=14/47.6974/-122.1766/cyclosm
   - name: Interim Computer Museum
     url: https://icm.museum/
+
+- name: Places
+  items:
+  - name: Computer History Museum
+    url: https://computerhistory.org/
 
 - name: Usenet Indexers
   items:
@@ -144,6 +154,8 @@
     url: https://1fichier.com/dir/rmoSlpiJ
   - name: Torrminatorr - 1fichier pt2
     url: https://1fichier.com/dir/SpA8grcL
+  - name: Onkyo4k
+    url: https://onkyo4k.com/
   - name: gg
     url: https://gog-games.to/
 

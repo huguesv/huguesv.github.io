@@ -134,6 +134,8 @@
     url: https://github.com/shonumi/gbe-plus
   - name: mgba - Game Boy Advance (C)
     url: https://github.com/mgba-emu/mgba
+  - name: Hades - Game Boy Advance (C)
+    url: https://github.com/hades-emu/Hades
   - name: GBG - Game Boy (Closed Source)
     url: https://bgb.bircd.org/
   - name: VirtualBoyGo

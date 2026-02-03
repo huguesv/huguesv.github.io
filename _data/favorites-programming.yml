@@ -68,6 +68,8 @@
     url: https://www.ruby-lang.org/en/downloads/
   - name: Rust
     url: https://www.rust-lang.org/tools/install
+  - name: WinAppCLI
+    url: https://github.com/microsoft/winappCli
 
 - name: Blogs
   items:
