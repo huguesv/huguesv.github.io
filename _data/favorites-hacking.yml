@@ -198,6 +198,18 @@
     url: https://github.com/DarkMatterCore/nxdumptool/releases/tag/v1.1.5
   - name: Upgrading Atmosphere
     url: https://gbatemp.net/threads/ultimate-guide-to-upgrade-your-firmware-atmosphere.661148/
+  - name: MissionControl
+    url: https://github.com/ndeadly/MissionControl
+  - name: ftpd
+    url: https://github.com/mtheall/ftpd
+  - name: JKSV
+    url: https://github.com/J-D-K/JKSV
+  - name: SwitchThemeInjector
+    url: https://github.com/exelix11/SwitchThemeInjector
+  - name: NX-Shell
+    url: https://github.com/joel16/NX-Shell
+  - name: Goldleaf
+    url: https://github.com/XorTroll/Goldleaf
 
 - name: Hacking Switch (2025)
   items:
