@@ -210,6 +210,10 @@
     url: https://github.com/joel16/NX-Shell
   - name: Goldleaf
     url: https://github.com/XorTroll/Goldleaf
+  - name: Awoo-Installer (superceded by CyberFoil)
+    url: https://github.com/Huntereb/Awoo-Installer
+  - name: CyberFoil
+    url: https://github.com/luketanti/CyberFoil
 
 - name: Hacking Switch (2025)
   items:
