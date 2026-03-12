@@ -29,6 +29,8 @@
     url: http://datomatic.no-intro.org/
   - name: No-Intro Wiki
     url: https://wiki.no-intro.org/index.php
+  - name: No-Intro MIA
+    url: https://datomatic.no-intro.org/report_mia.html
   - name: Redump
     url: http://redump.org/
   - name: Redump Wiki
@@ -174,6 +176,8 @@
     url: https://prosperopatches.com/
   - name: Progetto-Snaps (MAME)
     url: https://www.progettosnaps.net/index.php
+  - name: Lost Level Archive (github)
+    url: https://github.com/televandalist/lost-level-archive
   - name: lolsuite (by dns)
     url: https://lolsuite.org/
   - name: lolsuite (by ip)
@@ -182,6 +186,12 @@
     url: http://188.93.233.62/
   - name: MDK
     url: https://mdk.cab/
+  - name: PS4AR
+    url: https://ps4ar.com/0/0/home.html
+  - name: NPS_JP
+    url: https://github.com/1jtp8sobiu/NPS_JP
+  - name: NoPayStation
+    url: https://nopaystation.com/
 
 - name: Sierra Sites
   items:

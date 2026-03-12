@@ -198,6 +198,8 @@
     url: https://discussions.unity.com/t/fft-audio-visualization-video-tutorial/640612
   - name: Reinventing how .NET Ships
     url: https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/
+  - name: Windows Widgets
+    url: https://xakpc.dev/windows-widgets/
 
 - name: .NET Foundation
   items:
@@ -308,6 +310,10 @@
     url: https://github.com/spectreconsole/spectre.console
   - name: Termina
     url: https://github.com/Aaronontheweb/Termina
+  - name: XenoAtom.Terminal.UI
+    url: https://github.com/XenoAtom/XenoAtom.Terminal.UI/
+  - name: XenoAtom.CommandLine
+    url: https://github.com/XenoAtom/XenoAtom.CommandLine/
   - name: Modern.Forms
     url: https://github.com/modern-forms/Modern.Forms
   - name: ScottPlot
@@ -384,6 +390,12 @@
     url: https://github.com/SabreTools/SabreTools.RedumpLib
   - name: libchdr
     url: https://github.com/rtissera/libchdr
+  - name: ZstdSharp
+    url: https://github.com/oleg-st/ZstdSharp
+  - name: LibOrbisPkg
+    url: https://github.com/OpenOrbis/LibOrbisPkg
+  - name: NewStyleCopAnalyzers
+    url: https://github.com/bjornhellander/NewStyleCopAnalyzers
 
 - name: .NET Testing Libraries
   items:
@@ -559,6 +571,12 @@
     url: https://github.com/timkicker/podliner
   - name: sharpdbg
     url: https://github.com/MattParkerDev/sharpdbg
+  - name: Opcilloscope
+    url: https://github.com/SquareWaveSystems/opcilloscope
+  - name: LzyDotNet
+    url: https://github.com/ckob/lazydotnet
+  - name: Surge
+    url: https://github.com/surge-downloader/surge
 
 - name: .NET Learning
   items:
@@ -913,6 +931,8 @@
     url: https://github.com/SharpLogic/LightNap
   - name: OpenAPI TypeScript Client Generation
     url: https://github.com/CharlieDigital/dn9-openapi-codegen
+  - name: lunet
+    url: https://github.com/lunet-io/lunet
 
 - name: Web Tools
   items:

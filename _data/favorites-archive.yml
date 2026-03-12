@@ -140,6 +140,14 @@
     url: https://archive.org/details/bmb-karaoke-cvd-series-japan-video-cd
   - name: Gabriel Knight French
     url: https://archive.org/details/Gabriel_Knight_The_Beast_Within_French_Version_MSDOS_1995
+  - name: Complete Sega MD+ Collection
+    url: https://archive.org/details/mdplus_collection_22_04_16
+  - name: MAME CHDs (Merged)
+    url: https://archive.org/details/mame-chd-collection
+  - name: MAME ROMs (Merged)
+    url: https://archive.org/details/mame-roms-merged_
+  - name: PlayStation T-En Collection
+    url: https://archive.org/details/ps-t-en-collection
 
 - name: MiSTeR Collections (Active)
   items:
@@ -208,6 +216,8 @@
     url: https://archive.org/details/MODTRACKERS
   - name: eXoWin3x 2.0
     url: https://archive.org/details/exowin3x_202107
+  - name: eXoWin9x
+    url: https://archive.org/details/eXoWin9x
   - name: Amiga Game Disk Collection
     url: https://archive.org/details/amiga_game_disk_collection
   - name: VB 1.0 Pro for DOS
@@ -225,6 +235,12 @@
   - name: wbiz-lists ALL
     url: https://archive.org/details/wbiz-0001-0895-all.txt
 
+- name: Myrient
+  items:
+  - name: nintendo - misc
+    url: https://archive.org/details/4chan-eurocom-and-thq-leak-2022-11-09-no.-14-miscellaneous-02.zip-world
+  - name: no-intro
+    url: https://archive.org/details/ProjectPhoenix
 
 - name: Apple Software Libraries
   items:

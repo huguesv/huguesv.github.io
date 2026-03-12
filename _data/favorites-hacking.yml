@@ -174,6 +174,10 @@
     url: https://github.com/Gezine/BD-JB-1250
   - name: PKG-Zone
     url: https://pkg-zone.com/
+  - name: Save Wizard
+    url: https://www.savewizard.net/
+  - name: Payload Injector
+    url: https://github.com/Feyzee61/psx_payload_injector
 
 - name: Hacking PS5
   items:
@@ -195,7 +199,7 @@
   - name: Goldleaf
     url: https://github.com/XorTroll/Goldleaf/releases
   - name: nxdumptool
-    url: https://github.com/DarkMatterCore/nxdumptool/releases/tag/v1.1.5
+    url: https://github.com/DarkMatterCore/nxdumptool
   - name: Upgrading Atmosphere
     url: https://gbatemp.net/threads/ultimate-guide-to-upgrade-your-firmware-atmosphere.661148/
   - name: MissionControl
@@ -214,6 +218,10 @@
     url: https://github.com/Huntereb/Awoo-Installer
   - name: CyberFoil
     url: https://github.com/luketanti/CyberFoil
+  - name: Lockpick_RCM (GbaTemp)
+    url: https://gbatemp.net/download/lockpick_rcm-zoria-decscot.39669/
+  - name: Titlekey Extractor
+    url: https://alienfusiongenerator.com/switch-rom-titlekey-extractor-online/
 
 - name: Hacking Switch (2025)
   items:
@@ -259,6 +267,8 @@
     url: https://gbatemp.net/threads/do-you-have-to-do-something-special-to-get-sigpatches-working-on-fw-18-1-0-atmosphere-1-7-1.662571/
   - name: sys-patch
     url: https://github.com/impeeza/sys-patch
+  - name: Lockpick_RCM
+    url: https://github.com/saneki/Lockpick_RCM
 
 - name: Hacking NES Mini
   items:
@@ -370,6 +380,8 @@
     url: https://github.com/3DSGuy/Project_CTR
   - name: hShop
     url: https://hshop.erista.me/
+  - name: NDecrypt
+    url: https://github.com/SabreTools/NDecrypt
 
 - name: Hacking 3DS (Legacy)
   items:

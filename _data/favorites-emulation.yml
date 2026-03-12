@@ -60,8 +60,6 @@
     url: https://git.ryujinx.app/ryubing/libhac
   - name: Eden - Switch (C++)
     url: https://eden-emu.dev/
-  - name: Citron - Switch (C++)
-    url: https://git.citron-emu.org/Citron/Citron
   - name: Hydra - Switch (C++)
     url: https://github.com/SamoZ256/hydra
   - name: Panda3DS - 3DS (C++)
@@ -352,6 +350,8 @@
     url: https://alex-free.github.io/libcrypt-patcher/
   - name: Passport (4am cracking utility)
     url: https://github.com/a2-4am/passport
+  - name: JiFFI2 (Atari Jaguar Converter)
+    url: https://github.com/djipi/JiFFI2
 
 - name: Guides
   items:

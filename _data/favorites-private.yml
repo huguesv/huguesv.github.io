@@ -199,6 +199,8 @@
     url: https://watchf1full.com/
   - name: Sports
     url: https://fmhy.net/videopiracyguide#live-sports
+  - name: OnHockey.TV
+    url: https://onhockey.tv/
 
 - name: Books
   items:
@@ -435,6 +437,12 @@
     url: https://developer.apple.com/sf-symbols/
   - name: SF Symbols as SVG
     url: https://github.com/g-a-v-i-n/sf-symbols
+  - name: SteamGridDB
+    url: https://www.steamgriddb.com/
+  - name: ScreenScraper
+    url: https://www.screenscraper.fr/
+  - name: LibRetro Thumbnails
+    url: https://thumbnails.libretro.com/
 
 - name: Finance
   items:

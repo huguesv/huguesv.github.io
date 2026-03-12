@@ -203,6 +203,8 @@
     url: https://imagemagick.org/index.php
   - name: ShareX
     url: https://github.com/ShareX/ShareX
+  - name: SnapX
+    url: https://github.com/SnapXL/SnapX
   - name: Edit
     url: https://github.com/microsoft/edit
   - name: Snap2Html
@@ -223,6 +225,8 @@
     url: https://github.com/gruetze-software/RetroScrap-2000-Releases
   - name: WindowsEdgeLight
     url: https://github.com/shanselman/WindowsEdgeLight
+  - name: Rom Properties
+    url: https://github.com/GerbilSoft/rom-properties
 
 - name: Video Editing
   items:
@@ -295,6 +299,10 @@
     url: https://peazip.github.io/peazip-macos.html
   - name: NMac Ked
     url: https://nmac.to/now/
+  - name: QSpace
+    url: https://qspace.awehunt.com/en-us/index.html
+  - name: iTerm2
+    url: https://iterm2.com/
 
 - name: Android
   items:
