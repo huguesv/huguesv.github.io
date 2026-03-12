@@ -303,6 +303,8 @@
     url: https://qspace.awehunt.com/en-us/index.html
   - name: iTerm2
     url: https://iterm2.com/
+  - name: DriveVault
+    url: https://apps.apple.com/gb/app/drivevault-offline-catalog/id6751731655?mt=12
 
 - name: Android
   items:
