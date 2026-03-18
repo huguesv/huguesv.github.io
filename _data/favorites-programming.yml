@@ -288,12 +288,16 @@
     url: https://github.com/flibitijibibo/SDL3-CS
   - name: SDL3-cs (bottlenoselabs)
     url: https://github.com/bottlenoselabs/SDL3-cs
+  - name: SDL3Sharp
+    url: https://github.com/Sdl3Sharp/Sdl3Sharp
   - name: NAudio
     url: https://github.com/naudio/NAudio
   - name: NLayer
     url: https://github.com/naudio/NLayer
   - name: NAudio.Flac
     url: https://github.com/VPKSoft/NAudio.Flac
+  - name: MP3Sharp
+    url: https://github.com/ZaneDubya/MP3Sharp
   - name: CSCore .NET Audio Library
     url: https://github.com/filoe/cscore
   - name: CSFlac
@@ -577,6 +581,8 @@
     url: https://github.com/ckob/lazydotnet
   - name: Surge
     url: https://github.com/surge-downloader/surge
+  - name: FluentTaskScheduler
+    url: https://github.com/TRGamer-tech/FluentTaskScheduler
 
 - name: .NET Learning
   items:

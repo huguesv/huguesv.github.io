@@ -82,6 +82,8 @@
     url: https://archive.org/details/wozaday
   - name: Apple II Canada Flux
     url: https://archive.org/details/@disk_blitz
+  - name: FakeShemp
+    url: https://archive.org/details/@fakeshemp
 
 - name: No-Intro Collections (Active)
   items:

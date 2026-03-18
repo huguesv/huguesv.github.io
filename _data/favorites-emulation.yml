@@ -352,6 +352,8 @@
     url: https://github.com/a2-4am/passport
   - name: JiFFI2 (Atari Jaguar Converter)
     url: https://github.com/djipi/JiFFI2
+  - name: 98Bridge
+    url: https://github.com/NullMagic2/98Bridge
 
 - name: Guides
   items:
