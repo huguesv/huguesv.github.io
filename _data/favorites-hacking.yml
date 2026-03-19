@@ -220,6 +220,8 @@
     url: https://github.com/luketanti/CyberFoil
   - name: Lockpick_RCM (GbaTemp)
     url: https://gbatemp.net/download/lockpick_rcm-zoria-decscot.39669/
+  - name: Lockpick_RCMaster
+    url: https://github.com/THZoria/Lockpick_RCMaster
   - name: Titlekey Extractor
     url: https://alienfusiongenerator.com/switch-rom-titlekey-extractor-online/
 
