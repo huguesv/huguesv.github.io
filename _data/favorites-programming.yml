@@ -400,6 +400,8 @@
     url: https://github.com/OpenOrbis/LibOrbisPkg
   - name: NewStyleCopAnalyzers
     url: https://github.com/bjornhellander/NewStyleCopAnalyzers
+  - name: MiniPdf
+    url: https://github.com/mini-software/MiniPdf
 
 - name: .NET Testing Libraries
   items:

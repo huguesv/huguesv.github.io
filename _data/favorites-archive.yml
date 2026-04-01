@@ -73,6 +73,8 @@
     url: https://archive.org/details/@redump
   - name: EagleForce
     url: https://archive.org/details/@eagleforce
+  - name: genexo
+    url: https://archive.org/details/@genexo
 
 - name: Users (Inactive)
   items:
