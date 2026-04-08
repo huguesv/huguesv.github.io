@@ -200,7 +200,7 @@
   - name: Inkscape
     url: https://inkscape.org/
   - name: ImageMagick
-    url: https://imagemagick.org/index.php
+    url: https://github.com/ImageMagick/ImageMagick
   - name: ShareX
     url: https://github.com/ShareX/ShareX
   - name: SnapX
