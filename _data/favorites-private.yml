@@ -443,6 +443,8 @@
     url: https://www.screenscraper.fr/
   - name: LibRetro Thumbnails
     url: https://thumbnails.libretro.com/
+  - name: FlatIcon
+    url: https://www.flaticon.com/
 
 - name: Finance
   items:

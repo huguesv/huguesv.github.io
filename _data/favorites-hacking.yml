@@ -194,6 +194,8 @@
   items:
   - name: NH Switch Guide
     url: https://nh-server.github.io/switch-guide/
+  - name: Reddit Wiki
+    url: https://www.reddit.com/r/SwitchPirates/wiki/index/
   - name: NSC Builder
     url: https://github.com/julesontheroad/NSC_BUILDER/releases
   - name: ChoiDuJour
@@ -434,12 +436,14 @@
 
 - name: Hacking Wii
   items:
-  - name: libWiiSharp
+  - name: libWiiSharp (2010)
     url: https://github.com/dnasdw/libwiisharp
-  - name: nusdownloader
+  - name: nusdownloader (2011)
     url: https://code.google.com/p/nusdownloader/
-  - name: PyNUSD
+  - name: PyNUSD (2020)
     url: https://github.com/WiiDatabase/PyNUSD
+  - name: NUSGet (2026)
+    url: https://github.com/NinjaCheetah/NUSGet
 
 - name: Hacking DS
   items:

@@ -159,6 +159,8 @@
     url: https://github.com/actions/runner-images
   - name: Convert MD to HTML
     url: https://github.com/marketplace/actions/converts-markdown-text-to-html
+  - name: Get XML Info
+    url: https://github.com/marketplace/actions/get-xml-info
 
 - name: .NET MVVM
   items:
@@ -463,6 +465,8 @@
   items:
   - name: Avalonia macOS Deployment
     url: https://docs.avaloniaui.net/docs/deployment/macOS
+  - name: Avalonia macOS Guide Blog
+    url: https://avaloniaui.net/blog/the-definitive-guide-to-building-and-deploying-avalonia-applications-for-macos/
   - name: Creating Icons (icns)
     url: https://dentrassi.de/2014/02/25/creating-mac-os-x-icons-icns-on-linux/
   - name: Create dmg GitHub Action
@@ -1283,6 +1287,6 @@
 
 - name: Microsoft Store
   items:
-  - name: Registration
-    url: https://blogs.windows.com/windowsdeveloper/2025/09/10/free-developer-registration-for-individual-developers-on-microsoft-store/
+  - name: Microsoft Partner Center
+    url: https://partner.microsoft.com/en-US/dashboard/apps-and-games/overview
     
