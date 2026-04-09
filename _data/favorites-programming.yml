@@ -51,6 +51,8 @@
   items:
   - name: Vanta Black Theme
     url: https://github.com/madskristensen/VantaBlack
+  - name: XamlStyler
+    url: https://github.com/Xavalon/XamlStyler
 
 - name: Runtimes and SDKs
   items:
