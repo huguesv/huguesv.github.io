@@ -406,6 +406,10 @@
     url: https://github.com/bjornhellander/NewStyleCopAnalyzers
   - name: MiniPdf
     url: https://github.com/mini-software/MiniPdf
+  - name: PolySharp
+    url: https://github.com/Sergio0694/PolySharp
+  - name: InjectorPP.Net
+    url: https://github.com/microsoft/injectorppfordotnet
 
 - name: .NET Testing Libraries
   items:
@@ -947,6 +951,8 @@
     url: https://github.com/CharlieDigital/dn9-openapi-codegen
   - name: lunet
     url: https://github.com/lunet-io/lunet
+  - name: copyparty
+    url: https://github.com/9001/copyparty
 
 - name: Web Tools
   items:
