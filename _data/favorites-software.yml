@@ -312,6 +312,8 @@
     url: https://github.com/yuliskov/SmartTube
   - name: AntennaPod
     url: https://github.com/AntennaPod/AntennaPod
+  - name: NOVA Video Player
+    url: https://github.com/nova-video-player/aos-AVP
 
 - name: LG TV
   items:
