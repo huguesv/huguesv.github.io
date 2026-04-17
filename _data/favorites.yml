@@ -1,5 +1,4 @@
 - name: News
-  fontAwesome: desktop
   items:
   - name: Engadget
     url: http://www.engadget.com/
@@ -19,7 +18,6 @@
     url: https://cleantechnica.com/
 
 - name: Forums
-  fontAwesome: forumbee
   items:
   - name: Slashdot
     url: http://slashdot.org/
@@ -31,7 +29,6 @@
     url: http://www.cheapassgamer.com/
 
 - name: Games
-  fontAwesome: gamepad
   items:
   - name: Video Games Chronicle
     url: https://www.videogameschronicle.com/
@@ -71,7 +68,6 @@
     url: https://www.trueachievements.com/
 
 - name: Games
-  fontAwesome: gamepad
   items:
   - name: GameFAQs
     url: http://www.gamefaqs.com/
@@ -89,7 +85,6 @@
     url: http://blog.us.playstation.com/
 
 - name: Online Games
-  fontAwesome: gamepad
   items:
   - name: Waffle
     url: https://wafflegame.net/daily
@@ -99,7 +94,6 @@
     url: https://www.nytimes.com/games/connections
 
 - name: Ratings
-  fontAwesome: film
   items:
   - name: Rotten Tomatoes
     url: http://www.rottentomatoes.com/
@@ -113,7 +107,6 @@
     url: https://www.thestorygraph.com/
 
 - name: Stores
-  fontAwesome: shopping-cart
   items:
   - name: Amazon
     url: http://www.amazon.com
@@ -145,7 +138,6 @@
     url: https://store.ecompanystore.com/microsoft
 
 - name: Digital Stores
-  fontAwesome: shopping-cart
   items:
   - name: GOG
     url: https://www.gog.com/
@@ -167,7 +159,6 @@
     url: https://www.zoom-platform.com/
 
 - name: Streaming
-  fontAwesome: th
   items:
   - name: YouTube
     url: https://youtube.com
@@ -187,7 +178,6 @@
     url: https://www.hoopladigital.com/
 
 - name: Sports
-  fontAwesome: th
   items:
   - name: Formula 1
     url: https://www.formula1.com/
@@ -197,3 +187,17 @@
     url: https://www.atptour.com/en/tournaments
   - name: Hockey
     url: https://www.nhl.com/
+
+- name: Maps
+  items:
+  - name: Google Maps
+    url: https://maps.google.com/
+  - name: Open Street Map
+    url: https://www.openstreetmap.org/
+  - name: Komoot
+    url: https://www.komoot.com/
+  - name: Ride with GPS
+    url: https://ridewithgps.com/
+  - name: Strava
+    url: https://www.strava.com/
+    
