@@ -227,6 +227,8 @@
     url: https://github.com/shanselman/WindowsEdgeLight
   - name: Rom Properties
     url: https://github.com/GerbilSoft/rom-properties
+  - name: GreenFlame
+    url: https://github.com/greenflamehq/greenflame
 
 - name: Video Editing
   items:
