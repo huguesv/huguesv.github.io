@@ -445,6 +445,8 @@
     url: https://thumbnails.libretro.com/
   - name: FlatIcon
     url: https://www.flaticon.com/
+  - name: Pixabay
+    url: https://pixabay.com/
 
 - name: Finance
   items:
