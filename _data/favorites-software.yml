@@ -229,6 +229,8 @@
     url: https://github.com/GerbilSoft/rom-properties
   - name: GreenFlame
     url: https://github.com/greenflamehq/greenflame
+  - name: SystemManager
+    url: https://github.com/laurentiu021/SystemManager
 
 - name: Video Editing
   items:
@@ -292,6 +294,8 @@
     url: https://github.com/13xforever/ps3-disc-dumper
   - name: SBI Tools
     url: https://github.com/Kippykip/SBITools
+  - name: disc-xplorer
+    url: https://github.com/whatever-industries/disc-xplorer
     
 - name: Mac
   items:
@@ -316,6 +320,10 @@
     url: https://github.com/AntennaPod/AntennaPod
   - name: NOVA Video Player
     url: https://github.com/nova-video-player/aos-AVP
+  - name: Metro
+    url: https://github.com/MuntashirAkon/Metro
+  - name: Gramophone
+    url: https://github.com/FoedusProgramme/Gramophone
 
 - name: LG TV
   items:

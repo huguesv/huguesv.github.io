@@ -114,6 +114,8 @@
     url: https://github.com/amigavision/AmigaVision
   - name: Neon68K
     url: https://neon68k.com/
+  - name: OneLoad64
+    url: https://oneload64.github.io/
   - name: DiscMaster
     url: https://discmaster.textfiles.com/
   - name: CPC Archives
@@ -347,6 +349,8 @@
     url: https://github.com/C010UR/ftxui-tetris
   - name: Balatro (GBA)
     url: https://github.com/cellos51/balatro-gba
+  - name: Balatro (PSP)
+    url: https://github.com/Luxotick/pspalatro
   - name: Labyrinth of the Dragon (GBC)
     url: https://github.com/NesHacker/LabyrinthOfTheDragon
   - name: Super Mario Bros Remastered
@@ -358,4 +362,5 @@
     url: https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated
   - name: Zelda Reverse Engineering Team
     url: https://github.com/zeldaret
-    
+  - name: decomp.dev
+    url: https://decomp.dev/

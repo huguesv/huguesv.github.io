@@ -139,6 +139,8 @@
     url: https://github.com/BrycensRanch/SnapX/tree/feat/initial-avalonia-ui
   - name: ImageFan Reloaded
     url: https://github.com/mihnea-radulescu/imagefanreloaded
+  - name: Material.Avalonia
+    url: https://github.com/AvaloniaCommunity/Material.Avalonia
 
 - name: .NET GitHub Actions Blogs
   items:
@@ -505,6 +507,8 @@
   items:
   - name: WinUI-Gallery
     url: https://github.com/microsoft/winui-gallery
+  - name: microsoft-ui-reactor
+    url: https://github.com/microsoft/microsoft-ui-reactor
   - name: Design and code Windows apps
     url: https://learn.microsoft.com/en-us/windows/apps/design/
   - name: WinUI Community Templates
@@ -517,6 +521,18 @@
     url: https://developer.microsoft.com/en-us/windows/develop/
   - name: Multilingual App Toolkit
     url: https://learn.microsoft.com/en-us/windows/apps/design/globalizing/use-mat
+  - name: WinUI.Markdown
+    url: https://github.com/aadhil-kh/WinUI.Markdown
+  - name: TemplateStudioStarter
+    url: https://github.com/parko65/TemplateStudioStarter
+  - name: DesktopFlyouts
+    url: https://github.com/0x5bfa/DesktopFlyouts
+  - name: UWPSpy
+    url: https://github.com/m417z/UWPSpy
+  - name: UNO - WPF to WinUI Equivalents Reference
+    url: https://platform.uno/docs/articles/wpf-winui-equivalents.html
+  - name: Awesomewinui
+    url: https://github.com/scottkuhl/awesome-winui
 
 - name: C Libraries
   items:
@@ -595,6 +611,10 @@
     url: https://github.com/surge-downloader/surge
   - name: FluentTaskScheduler
     url: https://github.com/TRGamer-tech/FluentTaskScheduler
+  - name: FluentFlyout
+    url: https://github.com/unchihugo/FluentFlyout
+  - name: AudioWaveformVisualizer
+    url: https://github.com/illsk1lls/AudioWaveformVisualizer
 
 - name: .NET Learning
   items:

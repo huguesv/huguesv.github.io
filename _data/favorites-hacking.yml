@@ -155,6 +155,8 @@
     url: https://github.com/qwikrazor87/npdrm_free
   - name: Pro PSP Firmware
     url: http://code.google.com/p/procfw/
+  - name: ARK-4
+    url: https://github.com/PSP-Archive/ARK-4
 
 - name: Hacking PS4
   items:

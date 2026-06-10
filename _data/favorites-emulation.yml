@@ -68,6 +68,8 @@
     url: https://github.com/azahar-emu/azahar
   - name: Azahar Plus - 3DS (C++)
     url: https://github.com/AzaharPlus/AzaharPlus
+  - name: 3Beans (C++)
+    url: https://github.com/Hydr8gon/3Beans
   - name: MelonDS
     url: https://github.com/melonDS-emu/melonDS
   - name: ShadPS4 - PS4 (C++)
@@ -122,8 +124,8 @@
     url: https://github.com/deltabeard/Peanut-GB
   - name: NanoBoyAdvance - Game Boy Advance (C++)
     url: https://github.com/nba-emu/NanoBoyAdvance
-  - name: Mesen2 - Multi (C++)
-    url: https://github.com/SourMesen/Mesen2
+  - name: MesenCE - Multi (C++)
+    url: https://github.com/nesdev-org/MesenCE
   - name: Nuked-MD - MegaDrive (C)
     url: https://github.com/nukeykt/Nuked-MD
   - name: Nuked-MD-FPGA - MegaDrive (FPGA)
@@ -142,6 +144,8 @@
     url: https://github.com/Comba92/nen-emulator
   - name: ADAM+
     url: https://github.com/dvdh1961/ADAMP
+  - name: jgenesis (Rust)
+    url: https://github.com/jsgroth/jgenesis
 
 - name: Consoles
   items:
@@ -285,6 +289,8 @@
     url: https://github.com/cebix/macemu
   - name: Infinite Mac
     url: https://infinitemac.org/
+  - name: winevdm
+    url: https://github.com/otya128/winevdm
 
 - name: Computers (Inactive)
   items:
@@ -301,6 +307,8 @@
     url: https://github.com/nukeykt/Nuked-SC55
   - name: Nuked-OPL3
     url: https://github.com/nukeykt/Nuked-OPL3
+  - name: Nuked-SC55 ROMs
+    url: https://archive.org/details/nuked-sc-55-clap-rom-files
 
 - name: Engines
   items:
