@@ -54,6 +54,11 @@
   - name: XamlStyler
     url: https://github.com/Xavalon/XamlStyler
 
+- name: Visual Studio Extensions
+  items:
+  - name: C# Dev Tools
+    url: https://github.com/jakubkozera/vsc-csharp-dev-tools
+    
 - name: Runtimes and SDKs
   items:
   - name: .NET
