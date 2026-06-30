@@ -29,14 +29,8 @@
     url: https://archive.org/details/@cvlt_of_mirrors
   - name: ChadMaster
     url: https://archive.org/details/@chadmaster
-  - name: Storage Manager
-    url: https://archive.org/details/@storage_manager
   - name: neozeede (old software)
     url: https://archive.org/details/@neozeede
-  - name: K1rkl4nd (console manuals)
-    url: https://archive.org/details/@k1rkl4nd
-  - name: SNESManualArchive (console manuals)
-    url: https://archive.org/details/@snesmanualarchive
   - name: DFXThomas (Disk Images)
     url: https://archive.org/details/@dfxthomas
   - name: Eulisker (Disk Images)
@@ -47,32 +41,22 @@
     url: https://archive.org/details/@justanotherarchivist
   - name: Seventy7
     url: https://archive.org/details/@seventy777
-  - name: madhattersez
-    url: https://archive.org/details/@madhattersez
   - name: digitoxin
     url: https://archive.org/details/@digitoxin
   - name: kitsunebi77 (magazines)
     url: https://archive.org/details/@kitsunebi77
-  - name: Arquivist
-    url: https://archive.org/details/@arquivist
   - name: katua87
     url: https://archive.org/details/@katua87
   - name: tls01 (CDs)
     url: https://archive.org/details/@tls01
   - name: -=GGG=-
     url: https://archive.org/details/@ggg_ggg894
-  - name: Darmok653
-    url: https://archive.org/details/@darmok653
-  - name: WindowsBASE
-    url: https://archive.org/details/@krzygru
   - name: kailokyra
     url: https://archive.org/details/@kailokyra
   - name: purplenekonova
     url: https://archive.org/details/@purple-nekonova
   - name: redump
     url: https://archive.org/details/@redump
-  - name: EagleForce
-    url: https://archive.org/details/@eagleforce
   - name: genexo
     url: https://archive.org/details/@genexo
   - name: maelly_pooh
@@ -81,6 +65,8 @@
     url: https://archive.org/details/@aadam_jacobs_collection
   - name: moondandy
     url: https://archive.org/details/@moondandy
+  - name: madhattersez
+    url: https://archive.org/details/@madhattersez
 
 - name: Users (Inactive)
   items:
@@ -92,6 +78,14 @@
     url: https://archive.org/details/@disk_blitz
   - name: FakeShemp
     url: https://archive.org/details/@fakeshemp
+  - name: K1rkl4nd (console manuals)
+    url: https://archive.org/details/@k1rkl4nd
+  - name: SNESManualArchive (console manuals)
+    url: https://archive.org/details/@snesmanualarchive
+  - name: Darmok653 (CHD)
+    url: https://archive.org/details/@darmok653
+  - name: EagleForce
+    url: https://archive.org/details/@eagleforce
 
 - name: No-Intro Collections (Active)
   items:
@@ -247,8 +241,6 @@
 
 - name: Myrient
   items:
-  - name: nintendo - misc
-    url: https://archive.org/details/4chan-eurocom-and-thq-leak-2022-11-09-no.-14-miscellaneous-02.zip-world
   - name: no-intro
     url: https://archive.org/details/ProjectPhoenix
 
