@@ -146,6 +146,8 @@
     url: https://github.com/dvdh1961/ADAMP
   - name: jgenesis (Rust)
     url: https://github.com/jsgroth/jgenesis
+  - name: pyemu (Python)
+    url: https://github.com/LEGASEGA/pyemu
 
 - name: Consoles
   items:

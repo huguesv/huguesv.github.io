@@ -165,6 +165,8 @@
     url: https://simplenote.com/
   - name: SumatraPDF
     url: https://github.com/sumatrapdfreader/sumatrapdf
+  - name: Koodo Reader
+    url: https://github.com/koodo-reader/koodo-reader
   - name: VLC
     url: https://www.videolan.org/
   - name: VLC libdvdcss
