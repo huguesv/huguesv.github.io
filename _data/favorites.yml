@@ -203,3 +203,12 @@
   - name: Strava
     url: https://www.strava.com/
     
+- name: Portals
+  items:
+  - name: Microsoft Rewards
+    url: https://rewards.bing.com/dashboard
+  - name: Reddit
+    url: https://www.reddit.com/
+  - name: Hacker News
+    url: https://news.ycombinator.com/
+    
