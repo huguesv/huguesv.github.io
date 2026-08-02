@@ -78,6 +78,8 @@
     url: https://github.com/AzaharPlus/shadPS4Plus
   - name: Gopher64 - N64 (Rust)
     url: https://github.com/gopher64/gopher64
+  - name: KytyPS5 - PS5 (C++)
+    url: https://github.com/KytyPS5/KytyPS5
 
 - name: Consoles
   items:
