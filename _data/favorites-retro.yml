@@ -32,11 +32,9 @@
   - name: No-Intro MIA
     url: https://datomatic.no-intro.org/report_mia.html
   - name: Redump
-    url: http://redump.org/
+    url: http://redump.info/
   - name: Redump Wiki
-    url: http://wiki.redump.org/
-  - name: Redump Mirror
-    url: https://old.redump.info/
+    url: http://wiki.redump.info/
   - name: TOSEC
     url: https://www.tosecdev.org/
   - name: EverDrive DB
@@ -142,10 +140,6 @@
     url: https://bitsavers.org/
   - name: VOGONS
     url: https://www.vogons.org/index.php
-  - name: Myrient
-    url: https://myrient.erista.me/
-  - name: Minerva Archive
-    url: https://minerva-archive.org/
   - name: hShop
     url: https://hshop.erista.me/
   - name: NFGGAMES X68000 File Archive
@@ -194,6 +188,10 @@
     url: https://github.com/1jtp8sobiu/NPS_JP
   - name: NoPayStation
     url: https://nopaystation.com/
+  - name: What is the Apple IIGS
+    url: https://whatisthe2gs.apple2.org.za/
+  - name: Minerva Archive
+    url: https://minerva-archive.org/
 
 - name: Sierra Sites
   items:

@@ -48,7 +48,8 @@
     url: https://www.orcarunning.com/lake-sammamish-half/
   - name: Mount Baker Bicycle Club - Route 20
     url: https://www.mtbakerbikeclub.org/content.aspx?page_id=5&club_id=608345&item_id=112967
-
+  - name: King County Library Events
+    url: https://kcls.bibliocommons.com/v2/events
 
 - name: Places
   items:
@@ -201,6 +202,8 @@
     url: https://fmhy.net/videopiracyguide#live-sports
   - name: OnHockey.TV
     url: https://onhockey.tv/
+  - name: Baseball
+    url: https://streamed.pk/category/baseball
 
 - name: Books
   items:
@@ -628,3 +631,6 @@
     url: https://balatrogame.fandom.com/wiki/Jokers
   - name: NES Rankings
     url: https://8bitnintendo.science/
+  - name: Switch Cart Revisions
+    url: https://benoitren.be/switch-cartridgerevisions.html
+

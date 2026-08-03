@@ -146,6 +146,10 @@
     url: https://github.com/mihnea-radulescu/imagefanreloaded
   - name: Material.Avalonia
     url: https://github.com/AvaloniaCommunity/Material.Avalonia
+  - name: FluentIcons
+    url: https://github.com/davidxuang/FluentIcons
+  - name: Avalonia Navigation Playground
+    url: https://github.com/jsuarezruiz/avalonia-navigation-playground
 
 - name: .NET GitHub Actions Blogs
   items:
@@ -194,6 +198,11 @@
     url: https://github.com/microsoft/WPF-Samples
   - name: Midi Piano
     url: https://github.com/coffeesurplus/midipiano/
+
+- name: ASP.NET
+  items:
+  - name: Fluent UI Blazor Library
+    url: https://github.com/ModernMube/OwnAudioSharp.git
 
 - name: .NET Blogs
   items:
@@ -257,6 +266,9 @@
     url: https://github.com/icsharpcode/ILSpy
   - name: DocFx-Plus
     url: https://github.com/dotmake-build/docfx-plus
+  - name: .NET Skills
+    url : https://github.com/dotnet/skills
+
 
 - name: C# Tools
   items:
@@ -317,18 +329,6 @@
     url: https://github.com/Quozul/Audio-Visualizer
   - name: Flyleaf
     url: https://github.com/SuRGeoNix/Flyleaf
-  - name: Terminal.Gui
-    url: https://github.com/gui-cs/Terminal.Gui
-  - name: Terminal.Gui Designer
-    url: https://github.com/gui-cs/TerminalGuiDesigner
-  - name: Spectre.Console
-    url: https://github.com/spectreconsole/spectre.console
-  - name: Termina
-    url: https://github.com/Aaronontheweb/Termina
-  - name: XenoAtom.Terminal.UI
-    url: https://github.com/XenoAtom/XenoAtom.Terminal.UI/
-  - name: XenoAtom.CommandLine
-    url: https://github.com/XenoAtom/XenoAtom.CommandLine/
   - name: Modern.Forms
     url: https://github.com/modern-forms/Modern.Forms
   - name: ScottPlot
@@ -351,10 +351,6 @@
     url: https://github.com/maxton/GameArchives
   - name: BLAKE3
     url: https://github.com/xoofx/Blake3.NET
-  - name: Console Framework
-    url: https://github.com/elw00d/consoleframework
-  - name: Guis.cs
-    url: https://github.com/migueldeicaza/gui.cs
   - name: pinvoke
     url: https://github.com/dotnet/pinvoke
   - name: MeltySynth
@@ -417,6 +413,35 @@
     url: https://github.com/Sergio0694/PolySharp
   - name: InjectorPP.Net
     url: https://github.com/microsoft/injectorppfordotnet
+  - name: OwnAudioSharp
+    url: https://github.com/ModernMube/OwnAudioSharp
+  - name: MiniAudioExNET
+    url: https://github.com/japajoe/MiniAudioExNET
+
+- name: .NET Console Libraries
+  items:
+  - name: Console Framework
+    url: https://github.com/elw00d/consoleframework
+  - name: Guis.cs
+    url: https://github.com/migueldeicaza/gui.cs
+  - name: Terminal.Gui
+    url: https://github.com/gui-cs/Terminal.Gui
+  - name: Terminal.Gui Designer
+    url: https://github.com/gui-cs/TerminalGuiDesigner
+  - name: Spectre.Console
+    url: https://github.com/spectreconsole/spectre.console
+  - name: Termina
+    url: https://github.com/Aaronontheweb/Termina
+  - name: XenoAtom.Terminal.UI
+    url: https://github.com/XenoAtom/XenoAtom.Terminal.UI/
+  - name: XenoAtom.CommandLine
+    url: https://github.com/XenoAtom/XenoAtom.CommandLine/
+  - name: XenoAtom.CommandLine
+    url: https://github.com/XenoAtom/XenoAtom.CommandLine/
+  - name: Jumbee.Console
+    url: https://github.com/allisterb/Jumbee.Console
+  - name: Consolonia
+    url: https://github.com/jinek/Consolonia
 
 - name: .NET Testing Libraries
   items:
@@ -983,6 +1008,8 @@
     url: https://github.com/lunet-io/lunet
   - name: copyparty
     url: https://github.com/9001/copyparty
+  - name: NiceGUI
+    url: https://nicegui.io/
 
 - name: Web Tools
   items:

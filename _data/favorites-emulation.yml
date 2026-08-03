@@ -74,6 +74,8 @@
     url: https://github.com/melonDS-emu/melonDS
   - name: ShadPS4 - PS4 (C++)
     url: https://github.com/shadps4-emu/shadPS4
+  - name: ShadPKG - PS4 (C++)
+    url: https://github.com/seregonwar/ShadPKG
   - name: ShadPS4 PKG Extractor
     url: https://github.com/AzaharPlus/shadPS4Plus
   - name: Gopher64 - N64 (Rust)
