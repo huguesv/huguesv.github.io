@@ -80,6 +80,8 @@
     url: https://github.com/gopher64/gopher64
   - name: KytyPS5 - PS5 (C++)
     url: https://github.com/KytyPS5/KytyPS5
+  - name: SharpEmu - PS5 (C#)
+    url: https://github.com/sharpemu/sharpemu
 
 - name: Consoles
   items:
