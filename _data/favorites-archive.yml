@@ -73,6 +73,8 @@
     url: https://archive.org/details/@chaosrenegade22
   - name: superbio (Redump)
     url: https://archive.org/details/@superbio
+  - name: Amigafan (Amigavision)
+    url: https://archive.org/details/@amigafan
 
 - name: Users (Inactive)
   items:
@@ -163,8 +165,6 @@
   items:
   - name: 0Mhz DOS Collection
     url: https://archive.org/details/0mhz-dos
-  - name: AmigaVision
-    url: https://archive.org/details/amigavision-2024
   - name: MacPack for FPGA
     url: https://archive.org/details/macpack
   - name: Neon68K
