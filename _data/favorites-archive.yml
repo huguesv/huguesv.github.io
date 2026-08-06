@@ -273,6 +273,8 @@
     url: https://archive.org/details/@pauldevine
   - name: paulhagstrom
     url: https://archive.org/details/@paulhagstrom
+  - name: telev78
+    url: https://archive.org/details/@telev78
 
 - name: Flux Images
   items:
@@ -404,6 +406,8 @@
     url: https://archive.org/details/JASON_STORAGE_UNIT_TREASURES_01
   - name: Jesse Treasures 2019 06
     url: https://archive.org/details/Jesse_Treasures_2019_06
+  - name: Atari ST IPF/SCP Flux Stream
+    url: https://archive.org/details/stream-ipf
 
 - name: Consoles (Active)
   items:
