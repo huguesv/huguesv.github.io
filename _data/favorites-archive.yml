@@ -73,10 +73,12 @@
     url: https://archive.org/details/@amigafan
   - name: kailokyra
     url: https://archive.org/details/@kailokyra
-  - name: purplenekonova
+  - name: purplenekonova (Redump)
     url: https://archive.org/details/@purple-nekonova
-  - name: thatpurplecat
+  - name: thatpurplecat (Redump)
     url: https://archive.org/details/@thatpurplecat
+  - name: zxyo (Redump)
+    url: https://archive.org/details/@zxyo
 
 - name: Users (Inactive)
   items:
