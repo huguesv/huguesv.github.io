@@ -442,6 +442,8 @@
     url: https://github.com/allisterb/Jumbee.Console
   - name: Consolonia
     url: https://github.com/jinek/Consolonia
+  - name: ConsoleEx
+    url: https://github.com/nickprotop/consoleex
 
 - name: .NET Testing Libraries
   items:

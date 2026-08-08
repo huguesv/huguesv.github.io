@@ -63,6 +63,10 @@
     url: https://www.reddit.com/r/dartlang/
   - name: r/FlutterDev
     url: https://www.reddit.com/r/FlutterDev/
+  - name: r/godot
+    url: https://www.reddit.com/r/godot/
+  - name: r/gamedev
+    url: https://www.reddit.com/r/gamedev/
 
 - name: Reddit - Gaming
   items:
