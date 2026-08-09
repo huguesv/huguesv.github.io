@@ -53,8 +53,6 @@
     url: https://archive.org/details/@ggg_ggg894
   - name: redump
     url: https://archive.org/details/@redump
-  - name: genexo
-    url: https://archive.org/details/@genexo
   - name: maelly_pooh
     url: https://archive.org/details/@maelly_pooh
   - name: aadam_jacobs_collection
@@ -77,8 +75,12 @@
     url: https://archive.org/details/@purple-nekonova
   - name: thatpurplecat (Redump)
     url: https://archive.org/details/@thatpurplecat
+  - name: amds2025 (Redump)
+    url: https://archive.org/details/@amds2025
   - name: zxyo (Redump)
     url: https://archive.org/details/@zxyo
+  - name: genexo (Redump)
+    url: https://archive.org/details/@genexo
 
 - name: Users (Inactive)
   items:
