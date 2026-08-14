@@ -112,17 +112,10 @@
   - name: 3DS Encrypted - Part 2
     url: https://archive.org/details/3ds-main-encrypted-p2
 
-- name: Redump Collections (Active)
+- name: Redump Collections (Inactive)
   items:
   - name: Redump Info
     url: https://archive.org/details/Redump-Info
-  - name: Wii RVZ USA
-    url: https://archive.org/details/wii_rvz_usa
-  - name: BMB Karaoke
-    url: https://archive.org/details/BMB-Karaoke-CDi
-
-- name: Redump Collections (Inactive)
-  items:
   - name: PC Compatible Collection A
     url: https://archive.org/details/redump_pc_A
 
