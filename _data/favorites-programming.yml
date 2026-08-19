@@ -344,10 +344,6 @@
     url: https://github.com/ChrisPritchard/YamlRecords/
   - name: Csharp-Data-Visualization
     url: https://github.com/swharden/Csharp-Data-Visualization
-  - name: SoundFlow
-    url: https://github.com/LSXPrime/SoundFlow
-  - name: Sonora
-    url: https://github.com/ImAxel0/Sonora
   - name: macios
     url: https://github.com/dotnet/macios
   - name: ZLinq
@@ -434,6 +430,10 @@
     url: https://github.com/PortAudio/portaudio
   - name: PortAudioSharp2
     url: https://github.com/csukuangfj/PortAudioSharp2
+  - name: SoundFlow
+    url: https://github.com/LSXPrime/SoundFlow
+  - name: Sonora
+    url: https://github.com/ImAxel0/Sonora
 
 - name: .NET Console Libraries
   items:
