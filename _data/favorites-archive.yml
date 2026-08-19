@@ -81,6 +81,8 @@
     url: https://archive.org/details/@zxyo
   - name: genexo (Redump)
     url: https://archive.org/details/@genexo
+  - name: illyadumps (Redump)
+    url: https://archive.org/details/@illyadumps
 
 - name: Users (Inactive)
   items:
@@ -111,6 +113,8 @@
     url: https://archive.org/details/3ds-main-encrypted
   - name: 3DS Encrypted - Part 2
     url: https://archive.org/details/3ds-main-encrypted-p2
+  - name: Non-Game
+    url: https://archive.org/details/NonIntro-NonGame
 
 - name: Redump Collections (Inactive)
   items:
@@ -243,6 +247,8 @@
     url: https://archive.org/details/ibm-wgam-wbiz-collection
   - name: wbiz-lists ALL
     url: https://archive.org/details/wbiz-0001-0895-all.txt
+  - name: Neo Kobe NEC PC-8801
+    url: https://archive.org/details/Neo_Kobe_NEC_PC-8801_2016-02-25
 
 - name: Myrient
   items:

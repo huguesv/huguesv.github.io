@@ -150,6 +150,8 @@
     url: https://github.com/davidxuang/FluentIcons
   - name: Avalonia Navigation Playground
     url: https://github.com/jsuarezruiz/avalonia-navigation-playground
+  - name: MarkView.Avalonia
+    url: https://github.com/Kryptos-FR/MarkView.Avalonia
 
 - name: .NET GitHub Actions Blogs
   items:
@@ -269,7 +271,6 @@
   - name: .NET Skills
     url : https://github.com/dotnet/skills
 
-
 - name: C# Tools
   items:
   - name: CSharpier
@@ -277,56 +278,26 @@
   - name: CodeConverter
     url: https://github.com/icsharpcode/CodeConverter
 
-- name: .NET Libraries
+- name: PowerShell Gallery
+  items:
+  - name: PowerShell Gallery
+    url: https://www.powershellgallery.com/
+  - name: CRC
+    url: https://www.powershellgallery.com/packages/CRC
+
+- name: NuGet Gallery
+  items:
+  - name: NuGet
+    url: https://www.nuget.org/
+  - name: NuGet (hugues_valois)
+    url: https://www.nuget.org/profiles/hugues_valois
+
+- name: .NET General Libraries
   items:
   - name: language-ext
     url: https://github.com/louthy/language-ext#functional-effects-and-io
-  - name: Catel
-    url: https://github.com/catel/catel
-  - name: Cocona
-    url: https://github.com/mayuki/Cocona
-  - name: SkiaSharp
-    url: https://github.com/mono/SkiaSharp
-  - name: VelloSharp
-    url: https://wieslawsoltes.github.io/VelloSharp/
-  - name: Silk.NET
-    url: https://github.com/dotnet/Silk.NET
-  - name: opentk
-    url: https://github.com/opentk/opentk
   - name: LiteDB
     url: https://github.com/mbdavid/litedb
-  - name: SharpDX (archived)
-    url: https://github.com/sharpdx/SharpDX
-  - name: SDL
-    url: https://github.com/libsdl-org/SDL
-  - name: SDL2-CS (Ryujinx fork)
-    url: https://github.com/Ryujinx/SDL2-CS
-  - name: SDL2.NET
-    url: https://github.com/DiegoG1019/SDL2.NET
-  - name: SDL2-CS (ppy)
-    url: https://github.com/ppy/SDL2-CS
-  - name: SDL3-CS (ppy)
-    url: https://github.com/ppy/SDL3-CS
-  - name: SDL3-CS (flibitijibibo)
-    url: https://github.com/flibitijibibo/SDL3-CS
-  - name: SDL3-cs (bottlenoselabs)
-    url: https://github.com/bottlenoselabs/SDL3-cs
-  - name: SDL3Sharp
-    url: https://github.com/Sdl3Sharp/Sdl3Sharp
-  - name: NAudio
-    url: https://github.com/naudio/NAudio
-  - name: NLayer
-    url: https://github.com/naudio/NLayer
-  - name: NAudio.Flac
-    url: https://github.com/VPKSoft/NAudio.Flac
-  - name: MP3Sharp
-    url: https://github.com/ZaneDubya/MP3Sharp
-  - name: CSCore .NET Audio Library
-    url: https://github.com/filoe/cscore
-  - name: CSFlac
-    url: https://github.com/tzachshabtay/CSFlac
-  - name: Audio Visualizer
-    url: https://github.com/Quozul/Audio-Visualizer
   - name: Flyleaf
     url: https://github.com/SuRGeoNix/Flyleaf
   - name: Modern.Forms
@@ -353,16 +324,6 @@
     url: https://github.com/xoofx/Blake3.NET
   - name: pinvoke
     url: https://github.com/dotnet/pinvoke
-  - name: MeltySynth
-    url: https://github.com/sinshu/meltysynth
-  - name: Aelian.FFT
-    url: https://github.com/Aelian-Software/Aelian.FFT
-  - name: ShapeEngine
-    url: https://github.com/DaveGreen-Games/ShapeEngine
-  - name: Raylib
-    url: https://github.com/raysan5/raylib
-  - name: Raylib-CSharp
-    url: https://github.com/MrScautHD/Raylib-CSharp
   - name: NSwag
     url: https://github.com/RicoSuter/NSwag
   - name: Mapperly
@@ -383,8 +344,6 @@
     url: https://github.com/ChrisPritchard/YamlRecords/
   - name: Csharp-Data-Visualization
     url: https://github.com/swharden/Csharp-Data-Visualization
-  - name: FftSharp
-    url: https://github.com/swharden/FftSharp
   - name: SoundFlow
     url: https://github.com/LSXPrime/SoundFlow
   - name: Sonora
@@ -397,14 +356,6 @@
     url: https://github.com/iNKORE-NET/UI.WPF.Modern
   - name: Vortice.Windows
     url: https://github.com/amerkoleci/Vortice.Windows
-  - name: SabreTools.RedumpLib
-    url: https://github.com/SabreTools/SabreTools.RedumpLib
-  - name: libchdr
-    url: https://github.com/rtissera/libchdr
-  - name: ZstdSharp
-    url: https://github.com/oleg-st/ZstdSharp
-  - name: LibOrbisPkg
-    url: https://github.com/OpenOrbis/LibOrbisPkg
   - name: NewStyleCopAnalyzers
     url: https://github.com/bjornhellander/NewStyleCopAnalyzers
   - name: MiniPdf
@@ -413,13 +364,83 @@
     url: https://github.com/Sergio0694/PolySharp
   - name: InjectorPP.Net
     url: https://github.com/microsoft/injectorppfordotnet
+
+- name: .NET Multimedia Libraries
+  items:
+  - name: SkiaSharp
+    url: https://github.com/mono/SkiaSharp
+  - name: VelloSharp
+    url: https://wieslawsoltes.github.io/VelloSharp/
+  - name: Silk.NET
+    url: https://github.com/dotnet/Silk.NET
+  - name: opentk
+    url: https://github.com/opentk/opentk
+  - name: SharpDX (archived)
+    url: https://github.com/sharpdx/SharpDX
+  - name: SDL
+    url: https://github.com/libsdl-org/SDL
+  - name: SDL2-CS (Ryujinx fork)
+    url: https://github.com/Ryujinx/SDL2-CS
+  - name: SDL2.NET
+    url: https://github.com/DiegoG1019/SDL2.NET
+  - name: SDL2-CS (ppy)
+    url: https://github.com/ppy/SDL2-CS
+  - name: SDL3-CS (ppy)
+    url: https://github.com/ppy/SDL3-CS
+  - name: SDL3-CS (flibitijibibo)
+    url: https://github.com/flibitijibibo/SDL3-CS
+  - name: SDL3-cs (bottlenoselabs)
+    url: https://github.com/bottlenoselabs/SDL3-cs
+  - name: SDL3Sharp
+    url: https://github.com/Sdl3Sharp/Sdl3Sharp
+  - name: ShapeEngine
+    url: https://github.com/DaveGreen-Games/ShapeEngine
+  - name: Raylib
+    url: https://github.com/raysan5/raylib
+  - name: Raylib-CSharp
+    url: https://github.com/MrScautHD/Raylib-CSharp
+  - name: libvlcsharp
+    url: https://github.com/videolan/libvlcsharp
+
+- name: .NET Audio Libraries
+  items:
+  - name: FftSharp
+    url: https://github.com/swharden/FftSharp
+  - name: MeltySynth
+    url: https://github.com/sinshu/meltysynth
+  - name: Aelian.FFT
+    url: https://github.com/Aelian-Software/Aelian.FFT
+  - name: LibOrbisPkg
+    url: https://github.com/OpenOrbis/LibOrbisPkg
+  - name: NAudio
+    url: https://github.com/naudio/NAudio
+  - name: NLayer
+    url: https://github.com/naudio/NLayer
+  - name: NAudio.Flac
+    url: https://github.com/VPKSoft/NAudio.Flac
+  - name: MP3Sharp
+    url: https://github.com/ZaneDubya/MP3Sharp
+  - name: CSCore .NET Audio Library
+    url: https://github.com/filoe/cscore
+  - name: CSFlac
+    url: https://github.com/tzachshabtay/CSFlac
+  - name: Audio Visualizer
+    url: https://github.com/Quozul/Audio-Visualizer
   - name: OwnAudioSharp
     url: https://github.com/ModernMube/OwnAudioSharp
   - name: MiniAudioExNET
     url: https://github.com/japajoe/MiniAudioExNET
+  - name: PortAudio
+    url: https://github.com/PortAudio/portaudio
+  - name: PortAudioSharp2
+    url: https://github.com/csukuangfj/PortAudioSharp2
 
 - name: .NET Console Libraries
   items:
+  - name: Cocona (Archived)
+    url: https://github.com/mayuki/Cocona
+  - name: ConsoleAppFramework
+    url: https://github.com/Cysharp/ConsoleAppFramework
   - name: Console Framework
     url: https://github.com/elw00d/consoleframework
   - name: Guis.cs
@@ -444,6 +465,8 @@
     url: https://github.com/jinek/Consolonia
   - name: ConsoleEx
     url: https://github.com/nickprotop/consoleex
+  - name: Hypa-TTFX
+    url: https://github.com/Hypabolic/Hypa-TTFX
 
 - name: .NET Testing Libraries
   items:
@@ -458,24 +481,12 @@
   - name: Mockolate
     url: https://github.com/aweXpect/Mockolate
 
-- name: PowerShell Gallery
-  items:
-  - name: PowerShell Gallery
-    url: https://www.powershellgallery.com/
-  - name: CRC
-    url: https://www.powershellgallery.com/packages/CRC
-
-- name: NuGet Gallery
-  items:
-  - name: NuGet
-    url: https://www.nuget.org/
-  - name: NuGet (hugues_valois)
-    url: https://www.nuget.org/profiles/hugues_valois
-
 - name: .NET Preservation Libraries
   items:
   - name: LibIRD
     url: https://github.com/Deterous/LibIRD
+  - name: SabreTools.RedumpLib
+    url: https://github.com/SabreTools/SabreTools.RedumpLib
 
 - name: .NET Testing Libraries
   items:
@@ -534,6 +545,10 @@
     url: https://github.com/mjebrahimi/EasyCompressor
   - name: AvalonStudio 7z example code
     url: https://github.com/VitalElement/AvalonStudio/blob/azure-packages/AvalonStudio/PackageManager/PackageManager.cs#L297
+  - name: libchdr
+    url: https://github.com/rtissera/libchdr
+  - name: ZstdSharp
+    url: https://github.com/oleg-st/ZstdSharp
 
 - name: WinUI
   items:
@@ -565,6 +580,10 @@
     url: https://platform.uno/docs/articles/wpf-winui-equivalents.html
   - name: Awesomewinui
     url: https://github.com/scottkuhl/awesome-winui
+  - name: Zarem IDE for ASM (WinUI Example)
+    url: https://github.com/Avid29/Zarem
+  - name: XAML Studio
+    url: https://github.com/dotnet/XAMLStudio
 
 - name: C Libraries
   items:
@@ -715,6 +734,8 @@
     url: https://gbdev.io/pandocs/
   - name: Rust adventure
     url: https://medium.com/codex/rust-adventure-to-develop-a-game-boy-emulator-part-2-cpu-registers-macros-23691dc83cdb
+  - name: Gameboy Emulator in F#
+    url: https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/
 
 - name: Retro - 6502
   items:
@@ -1264,6 +1285,8 @@
     url: https://www.monogameextended.net/
   - name: MonoGame-Samples
     url: https://github.com/CartBlanche/MonoGame-Samples
+  - name: Monocle Engine
+    url: https://github.com/JamesMcMahon/monocle-engine
 
 - name: Game Development - Software
   items:
