@@ -192,6 +192,8 @@
     url: https://whatisthe2gs.apple2.org.za/
   - name: Minerva Archive
     url: https://minerva-archive.org/
+  - name: MAME on usenet
+    url: https://nzbindex.nl/search?groups=alt.binaries.emulators.mame
 
 - name: Sierra Sites
   items:
