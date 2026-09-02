@@ -112,6 +112,8 @@
   items:
   - name: Amazon
     url: http://www.amazon.com
+  - name: Amazon Best Sellers
+    url: https://www.amazon.com/gp/bestsellers/digital-text/154606011/ref=zg_bs?ie=UTF8&tf=1
   - name: Woot
     url: http://woot.com
   - name: ebay
@@ -191,6 +193,8 @@
     url: https://www.autosport.com/
   - name: Tennis
     url: https://www.atptour.com/en/tournaments
+  - name: US Open Tennis
+    url: https://www.usopen.org/en_US/about/tv_us.html
   - name: Hockey
     url: https://www.nhl.com/
 

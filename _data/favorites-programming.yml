@@ -152,6 +152,8 @@
     url: https://github.com/jsuarezruiz/avalonia-navigation-playground
   - name: MarkView.Avalonia
     url: https://github.com/Kryptos-FR/MarkView.Avalonia
+  - name: Avalonia.Controls.Maui
+    url: https://github.com/AvaloniaUI/Avalonia.Controls.Maui
 
 - name: .NET GitHub Actions Blogs
   items:
@@ -389,6 +391,8 @@
     url: https://github.com/bottlenoselabs/SDL3-cs
   - name: SDL3Sharp
     url: https://github.com/Sdl3Sharp/Sdl3Sharp
+  - name: CSDL3
+    url: https://github.com/Atompapst/CSDL3
   - name: ShapeEngine
     url: https://github.com/DaveGreen-Games/ShapeEngine
   - name: Raylib
@@ -666,6 +670,8 @@
     url: https://github.com/unchihugo/FluentFlyout
   - name: AudioWaveformVisualizer
     url: https://github.com/illsk1lls/AudioWaveformVisualizer
+  - name: Devolutions UniGetUI (Avalonia)
+    url: https://github.com/Devolutions/UniGetUI
 
 - name: .NET Learning
   items:

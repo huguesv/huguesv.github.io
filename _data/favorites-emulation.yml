@@ -84,6 +84,8 @@
     url: https://github.com/KytyPS5/KytyPS5
   - name: SharpEmu - PS5 (C#)
     url: https://github.com/sharpemu/sharpemu
+  - name: Nextendo
+    url: https://github.com/NextendoNetwork/Ryujinx-Nextendo
 
 - name: Consoles
   items:

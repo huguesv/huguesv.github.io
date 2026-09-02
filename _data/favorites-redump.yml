@@ -50,3 +50,10 @@
     url: https://wiki.redump.info/index.php?title=Capitalization_Standards
   - name: Sony Serial Info
     url: https://sony.redump.info/
+  - name: Adapters
+    url: https://wiki.redump.info/IDE_and_SATA_adapter_compatibility
+
+- name: Tools
+  items:
+  - name: Redump Tools
+    url: https://ednessp.github.io/live/redump
