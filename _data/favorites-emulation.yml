@@ -84,8 +84,10 @@
     url: https://github.com/KytyPS5/KytyPS5
   - name: SharpEmu - PS5 (C#)
     url: https://github.com/sharpemu/sharpemu
-  - name: Nextendo
+  - name: Nextendo - Switch (C#)
     url: https://github.com/NextendoNetwork/Ryujinx-Nextendo
+  - name: NXEmu - Switch (C++)
+    url: https://www.nxemu.com/
 
 - name: Consoles
   items:
@@ -93,6 +95,8 @@
     url: https://github.com/PCSX2/pcsx2
   - name: Play! - PS2 (C++)
     url: https://github.com/jpd002/Play-
+  - name: ARMSX2 - PS2 (C++)
+    url: https://github.com/armsx2/armsx2
   - name: PPSSPP - PSP (C++)
     url: https://github.com/hrydgard/ppsspp
   - name: Vita3K - PSVITA (C++)

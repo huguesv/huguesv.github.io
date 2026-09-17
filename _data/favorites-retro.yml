@@ -194,6 +194,8 @@
     url: https://minerva-archive.org/
   - name: MAME on usenet
     url: https://nzbindex.nl/search?groups=alt.binaries.emulators.mame
+  - name: NeXT Software
+    url: https://fsck.technology/software/NeXT/
 
 - name: Sierra Sites
   items:

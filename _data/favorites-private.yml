@@ -208,6 +208,8 @@
     url: https://streamfree.top/
   - name: Streamed
     url: https://strmd.link/
+  - name: WatchSports
+    url: https://watchsports.su/
 
 - name: Books
   items:
@@ -321,6 +323,8 @@
     url: https://owners.honda.com/vehicles/roadside-assistance
   - name: Bellevue Honda
     url: https://www.bellevuehonda.com/
+  - name: Honda CR-V Owners Club
+    url: https://www.crvownersclub.com/
 
 - name: Health
   items:
@@ -639,3 +643,5 @@
     url: https://letsago.science/
   - name: Switch Cart Revisions
     url: https://benoitren.be/switch-cartridgerevisions.html
+  - name: Stardew Valley Switch 2 Physical
+    url: https://www.fangamer.com/products/stardew-valley-switch-2-physical

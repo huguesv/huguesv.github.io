@@ -198,6 +198,8 @@
     url: https://github.com/lepoco/wpfui
   - name: ModernWpf
     url: https://github.com/Kinnara/ModernWpf
+  - name: LibreWpf
+    url: https://github.com/wieslawsoltes/LibreWPF
   - name: WPF Samples
     url: https://github.com/microsoft/WPF-Samples
   - name: Midi Piano
@@ -588,6 +590,8 @@
     url: https://github.com/Avid29/Zarem
   - name: XAML Studio
     url: https://github.com/dotnet/XAMLStudio
+  - name: WinUI Agent
+    url: https://devblogs.microsoft.com/ifdef-windows/build-native-windows-apps-with-ai-agents-for-winui-and-windows-app-sdk/
 
 - name: C Libraries
   items:
@@ -1283,7 +1287,7 @@
   - name: Love
     url: https://love2d.org/
 
-- name: Game Development - XNA/MonoGame
+- name: Game Development - .NET
   items:
   - name: MonoGame
     url: https://monogame.net/
@@ -1293,6 +1297,8 @@
     url: https://github.com/CartBlanche/MonoGame-Samples
   - name: Monocle Engine
     url: https://github.com/JamesMcMahon/monocle-engine
+  - name: Void
+    url: https://github.com/Shmellyorc/Void
 
 - name: Game Development - Software
   items:
