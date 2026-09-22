@@ -676,6 +676,8 @@
     url: https://github.com/illsk1lls/AudioWaveformVisualizer
   - name: Devolutions UniGetUI (Avalonia)
     url: https://github.com/Devolutions/UniGetUI
+  - name: Pianoroll (Avalonia)
+    url: https://github.com/sysrpl/pianoroll
 
 - name: .NET Learning
   items:
