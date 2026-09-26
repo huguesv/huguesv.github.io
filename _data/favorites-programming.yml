@@ -686,6 +686,15 @@
   - name: Spectrogram Video
     url: https://www.youtube.com/watch?v=MS1Qgo710Vo
 
+- name: Android
+  items:
+  - name: Android Studio
+    url: https://developer.android.com/studio
+  - name: Jetpack Compose Docs
+    url: https://developer.android.com/develop/ui/compose/documentation
+  - name: Compose Multiplatform
+    url: https://kotlinlang.org/compose-multiplatform/
+
 - name: Java Libraries
   items:
   - name: DiskImageReader
