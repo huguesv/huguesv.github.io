@@ -124,7 +124,7 @@
   - name: Wololo.net
     url: http://wololo.net/
   - name: GBA Temp
-    url: http://gbatemp.net/index.php?act=home
+    url: https://gbatemp.net/
   - name: Planet Emulation
     url: http://www.planetemu.net/news
   - name: EmuCR
