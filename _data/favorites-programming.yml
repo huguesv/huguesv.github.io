@@ -701,6 +701,8 @@
     url: https://github.com/android/nowinandroid
   - name: android/architecture-samples
     url: https://github.com/android/architecture-samples
+  - name: android/compose-samples
+    url: https://github.com/android/compose-samples
 
 - name: Java Libraries
   items:
