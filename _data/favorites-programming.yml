@@ -695,6 +695,13 @@
   - name: Compose Multiplatform
     url: https://kotlinlang.org/compose-multiplatform/
 
+- name: Android Samples
+  items:
+  - name: android/nowinandroid
+    url: https://github.com/android/nowinandroid
+  - name: android/architecture-samples
+    url: https://github.com/android/architecture-samples
+
 - name: Java Libraries
   items:
   - name: DiskImageReader
