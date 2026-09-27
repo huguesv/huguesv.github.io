@@ -692,6 +692,8 @@
     url: https://developer.android.com/studio
   - name: Jetpack Compose Docs
     url: https://developer.android.com/develop/ui/compose/documentation
+  - name: Jetpack Compose Courses
+    url: https://developer.android.com/courses/jetpack-compose/course
   - name: Compose Multiplatform
     url: https://kotlinlang.org/compose-multiplatform/
 

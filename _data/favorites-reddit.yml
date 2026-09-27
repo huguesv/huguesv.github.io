@@ -67,6 +67,8 @@
     url: https://www.reddit.com/r/godot/
   - name: r/gamedev
     url: https://www.reddit.com/r/gamedev/
+  - name: r/androiddev
+    url: https://www.reddit.com/r/androiddev/
 
 - name: Reddit - Gaming
   items:
