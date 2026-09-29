@@ -88,6 +88,8 @@
     url: https://github.com/NextendoNetwork/Ryujinx-Nextendo
   - name: NXEmu - Switch (C++)
     url: https://www.nxemu.com/
+  - name: Suyu - Switch (C++)
+    url: https://github.com/dougchansan/suyu-v0.0.4
 
 - name: Consoles
   items:

@@ -279,6 +279,8 @@
     url: https://github.com/impeeza/sys-patch
   - name: Lockpick_RCM
     url: https://github.com/saneki/Lockpick_RCM
+  - name: Hekate Sept 2026 Update
+    url: https://www.logic-sunrise.com/news-1223417-switch-hekate-v654-et-nyx-v194-support-du-firmware-2300.html
 
 - name: Hacking NES Mini
   items:
