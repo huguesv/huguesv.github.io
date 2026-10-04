@@ -396,8 +396,8 @@
     url: https://github.com/theypsilon/Update_All_MiSTer
   - name: ScummVM
     url: https://github.com/bbond007/MiSTer_ScummVM
-  - name: MiSTer-devel/Updater_script_MiSTer
-    url: https://github.com/MiSTer-devel/Updater_script_MiSTer
+  - name: MiSTer-devel
+    url: https://github.com/MiSTer-devel/
   - name: Jotego Binaries
     url: https://github.com/jotego/jtbin
   - name: Creative Music Sound System
@@ -410,3 +410,5 @@
     url: https://pastebin.com/pM1XMe5E
   - name: archive.org login
     url: https://www.reddit.com/r/MiSTerFPGA/comments/1gpizp0/login_to_archiveorg_with_update_all/
+  - name: Nintendo DS Hybrid Core
+    url: https://github.com/SplashDev88/NDS4MiSTer
