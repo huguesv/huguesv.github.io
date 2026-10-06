@@ -391,10 +391,6 @@
     url: https://delistedgames.com/all-delisted-gog-games/
   - name: Delisted Games 2
     url: https://www.pcgamingwiki.com/wiki/List_of_games_delisted_from_GOG.com
-  - name: MD5-for-GOG
-    url: https://github.com/GOG-Games-com/MD5-for-GOG.com
-  - name: gogverify
-    url: https://github.com/DorianRudolph/gogverify
 
 - name: Languages
   items:
