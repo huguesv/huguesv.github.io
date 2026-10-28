@@ -307,6 +307,8 @@
     url: https://infinitemac.org/
   - name: winevdm
     url: https://github.com/otya128/winevdm
+  - name: OpenCDi (Rust)
+    url: https://github.com/sigsantilio/opencdi
 
 - name: Computers (Inactive)
   items:

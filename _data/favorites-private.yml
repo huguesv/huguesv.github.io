@@ -44,8 +44,6 @@
     url: https://www.petersonandfranklin.com/
   - name: Samena Swim & Recreation Club
     url: https://samena.com/
-  - name: Lake Sammamish Half
-    url: https://www.orcarunning.com/lake-sammamish-half/
   - name: Mount Baker Bicycle Club - Route 20
     url: https://www.mtbakerbikeclub.org/content.aspx?page_id=5&club_id=608345&item_id=112967
   - name: King County Library Events
@@ -641,3 +639,9 @@
     url: https://benoitren.be/switch-cartridgerevisions.html
   - name: Stardew Valley Switch 2 Physical
     url: https://www.fangamer.com/products/stardew-valley-switch-2-physical
+
+- name: Volunteering
+  items:
+  - name: Cancer Road to Recovery
+    url: https://www.cancer.org/involved/volunteer/road-to-recovery.html
+    

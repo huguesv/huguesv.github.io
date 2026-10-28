@@ -592,6 +592,8 @@
     url: https://github.com/dotnet/XAMLStudio
   - name: WinUI Agent
     url: https://devblogs.microsoft.com/ifdef-windows/build-native-windows-apps-with-ai-agents-for-winui-and-windows-app-sdk/
+  - name: WinUI Tray Apps
+    url: https://tray-land.github.io/tray-tober.github.io/
 
 - name: C Libraries
   items:
