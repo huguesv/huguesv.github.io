@@ -30,66 +30,6 @@
   - name: Gmail
     url: http://mail.google.com
 
-- name: Washington
-  items:
-  - name: Downtown Bellevue Network
-    url: http://downtownbellevue.com/
-  - name: City of Bellevue
-    url: https://www.bellevuewa.gov/city-news
-  - name: WSDOT Blog
-    url: https://wsdotblog.blogspot.com/
-  - name: Bellevue Traffic Map
-    url: https://trafficmap.bellevuewa.gov/
-  - name: Overlake Medical
-    url: https://www.overlakehospital.org/locations
-  - name: Dentist - William Peterson
-    url: https://www.petersonandfranklin.com/
-  - name: King County Government
-    url: http://www.kingcounty.gov/
-  - name: Smith Tower
-    url: http://smithtower.com/
-  - name: Seattle Public Library
-    url: http://www.spl.org/
-  - name: King County Library System
-    url: http://www.kcls.org/
-  - name: Seattle Burke Gilman Trail
-    url: https://www.seattle.gov/parks/find/parks/burke-gilman-trail
-  - name: The Bellingham Herald
-    url: https://www.bellinghamherald.com/
-  - name: Skagit Valley Tulip Festival
-    url: https://tulipfestival.org/
-  - name: Washington State Fair
-    url: https://www.thefair.com/washington-state-fair/
-  - name: Northwest Railway Museum
-    url: https://trainmuseum.org/
-  - name: The Urbanist
-    url: https://www.theurbanist.org/
-  - name: Seattle Bike Club Maps
-    url: https://www.seattlebiketours.org/members/library.html
-  - name: CyclOSM - OpenStreetMap
-    url: https://www.cyclosm.org/#map=14/47.6974/-122.1766/cyclosm
-  - name: Interim Computer Museum
-    url: https://icm.museum/
-
-- name: California
-  items:
-  - name: Computer History Museum
-    url: https://computerhistory.org/
-
-- name: Oregon
-  items:
-  - name: Quarterworld
-    url: https://www.quarterworldarcade.com/
-  - name: Portland Retro Gaming Expo (September)
-    url: https://www.retrogamingexpo.com/
-
-- name: Texas
-  items:
-  - name: Time Rift Arcade
-    url: https://timeriftarcade.com/
-  - name: Electric Starship Arcade
-    url: https://electricstarshiparcade.com/
-
 - name: Usenet Indexers
   items:
   - name: NzbPlanet
@@ -166,6 +106,66 @@
     url: https://vgmdb.net/  
   - name: Discogs
     url: https://www.discogs.com/
+
+- name: Washington
+  items:
+  - name: Downtown Bellevue Network
+    url: http://downtownbellevue.com/
+  - name: City of Bellevue
+    url: https://www.bellevuewa.gov/city-news
+  - name: WSDOT Blog
+    url: https://wsdotblog.blogspot.com/
+  - name: Bellevue Traffic Map
+    url: https://trafficmap.bellevuewa.gov/
+  - name: Overlake Medical
+    url: https://www.overlakehospital.org/locations
+  - name: Dentist - William Peterson
+    url: https://www.petersonandfranklin.com/
+  - name: King County Government
+    url: http://www.kingcounty.gov/
+  - name: Smith Tower
+    url: http://smithtower.com/
+  - name: Seattle Public Library
+    url: http://www.spl.org/
+  - name: King County Library System
+    url: http://www.kcls.org/
+  - name: Seattle Burke Gilman Trail
+    url: https://www.seattle.gov/parks/find/parks/burke-gilman-trail
+  - name: The Bellingham Herald
+    url: https://www.bellinghamherald.com/
+  - name: Skagit Valley Tulip Festival
+    url: https://tulipfestival.org/
+  - name: Washington State Fair
+    url: https://www.thefair.com/washington-state-fair/
+  - name: Northwest Railway Museum
+    url: https://trainmuseum.org/
+  - name: The Urbanist
+    url: https://www.theurbanist.org/
+  - name: Seattle Bike Club Maps
+    url: https://www.seattlebiketours.org/members/library.html
+  - name: CyclOSM - OpenStreetMap
+    url: https://www.cyclosm.org/#map=14/47.6974/-122.1766/cyclosm
+  - name: Interim Computer Museum
+    url: https://icm.museum/
+
+- name: California
+  items:
+  - name: Computer History Museum
+    url: https://computerhistory.org/
+
+- name: Oregon
+  items:
+  - name: Quarterworld
+    url: https://www.quarterworldarcade.com/
+  - name: Portland Retro Gaming Expo (September)
+    url: https://www.retrogamingexpo.com/
+
+- name: Texas
+  items:
+  - name: Time Rift Arcade
+    url: https://timeriftarcade.com/
+  - name: Electric Starship Arcade
+    url: https://electricstarshiparcade.com/
 
 - name: Music Releases
   items:

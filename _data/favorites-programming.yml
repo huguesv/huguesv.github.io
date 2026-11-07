@@ -1011,6 +1011,8 @@
 
 - name: Web
   items:
+  - name: Hugo
+    url: https://gohugo.io/
   - name: Playwright
     url: https://playwright.dev/
   - name: Fluent UI React Components
