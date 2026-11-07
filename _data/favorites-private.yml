@@ -30,42 +30,24 @@
   - name: Gmail
     url: http://mail.google.com
 
-- name: Bellevue
+- name: Washington
   items:
   - name: Downtown Bellevue Network
     url: http://downtownbellevue.com/
   - name: City of Bellevue
     url: https://www.bellevuewa.gov/city-news
+  - name: WSDOT Blog
+    url: https://wsdotblog.blogspot.com/
   - name: Bellevue Traffic Map
     url: https://trafficmap.bellevuewa.gov/
   - name: Overlake Medical
     url: https://www.overlakehospital.org/locations
   - name: Dentist - William Peterson
     url: https://www.petersonandfranklin.com/
-  - name: Samena Swim & Recreation Club
-    url: https://samena.com/
-  - name: Mount Baker Bicycle Club - Route 20
-    url: https://www.mtbakerbikeclub.org/content.aspx?page_id=5&club_id=608345&item_id=112967
-  - name: King County Library Events
-    url: https://kcls.bibliocommons.com/v2/events
-
-- name: Places
-  items:
-  - name: Infatuation - Best 25 Restaurants in Bellevue
-    url: https://www.theinfatuation.com/seattle/guides/bellevue-restaurants-bars
-
-- name: Seattle
-  items:
-  - name: WSDOT Blog
-    url: https://wsdotblog.blogspot.com/
-  - name: King County Public Health
-    url: http://www.kingcounty.gov/healthservices/health/ehs/foodsafety/inspections.aspx
-  - name: Weather
-    url: http://www.weather.com/weather/tenday/98004
+  - name: King County Government
+    url: http://www.kingcounty.gov/
   - name: Smith Tower
     url: http://smithtower.com/
-  - name: University of Washington TV
-    url: http://www.uwtv.org/
   - name: Seattle Public Library
     url: http://www.spl.org/
   - name: King County Library System
@@ -74,22 +56,14 @@
     url: https://www.seattle.gov/parks/find/parks/burke-gilman-trail
   - name: The Bellingham Herald
     url: https://www.bellinghamherald.com/
-  - name: Seattle NorthCountry
-    url: https://www.seattlenorthcountry.com/
   - name: Skagit Valley Tulip Festival
     url: https://tulipfestival.org/
-  - name: Seattle Retro Gaming Expo
-    url: http://seattleretro.org/
   - name: Washington State Fair
     url: https://www.thefair.com/washington-state-fair/
   - name: Northwest Railway Museum
     url: https://trainmuseum.org/
   - name: The Urbanist
     url: https://www.theurbanist.org/
-  - name: Shredding Service
-    url: https://www.proshred.com/seattle/
-  - name: Abandoned Places in Washington
-    url: https://urbexunderground.com/abandoned-places-in-washington/
   - name: Seattle Bike Club Maps
     url: https://www.seattlebiketours.org/members/library.html
   - name: CyclOSM - OpenStreetMap
@@ -97,10 +71,24 @@
   - name: Interim Computer Museum
     url: https://icm.museum/
 
-- name: Places
+- name: California
   items:
   - name: Computer History Museum
     url: https://computerhistory.org/
+
+- name: Oregon
+  items:
+  - name: Quarterworld
+    url: https://www.quarterworldarcade.com/
+  - name: Portland Retro Gaming Expo (September)
+    url: https://www.retrogamingexpo.com/
+
+- name: Texas
+  items:
+  - name: Time Rift Arcade
+    url: https://timeriftarcade.com/
+  - name: Electric Starship Arcade
+    url: https://electricstarshiparcade.com/
 
 - name: Usenet Indexers
   items:
@@ -258,7 +246,7 @@
   - name: GOG Database
     url: https://www.gogdb.org/
   - name: dats.site
-    url: https://dats.site/home.php
+    url: https://dats.site/
   - name: srrDB
     url: https://www.srrdb.com/
 
@@ -281,8 +269,8 @@
 
 - name: Mobile Hardware
   items:
-  - name: CMF by Nothing
-    url: https://cmf.tech/
+  - name: Nothing Tech
+    url: https://us.nothing.tech/
 
 - name: Hardware
   items:
@@ -292,21 +280,12 @@
     url: http://www.r4ids.cn/
   - name: Brook Accessories
     url: https://www.brookaccessory.com/index.html
-  - name: TFT Central LCD Monitor Info
-    url: https://www.tftcentral.co.uk/
   - name: 8BitDo
     url: https://www.8bitdo.com/
   - name: GameSir
     url: https://gamesir.com/
   - name: Unitek
     url: https://www.unitek-products.com/
-
-- name: Videogame Stores
-  items:
-  - name: Nicalis
-    url: https://store.nicalis.com/
-  - name: Solaris Japan
-    url: http://solarisjapan.com/products/PlayStation-Network-Pointcard-5000.html
 
 - name: Stores
   items:
@@ -483,10 +462,10 @@
   - name: Zillow
     url: https://www.zillow.com/
 
-- name: Apartments - Vancouver, WA
+- name: Hotels/Short Term Rentals
   items:
-  - name: Haven Hills
-    url: https://www.liveathavenhills.com/
+  - name: Airbnb
+    url: https://www.airbnb.com/
 
 - name: Cities
   items:
@@ -500,20 +479,6 @@
     url: https://www.niche.com/places-to-live/rankings/
   - name: WA Cost of Living
     url: https://www.washington.edu/news/2020/10/15/for-single-adults-and-families-alike-higher-cost-of-living-in-all-washington-counties/
-
-- name: Portland, OR
-  items:
-  - name: Quarterworld
-    url: https://www.quarterworldarcade.com/
-  - name: Portland Retro Gaming Expo (September)
-    url: https://www.retrogamingexpo.com/
-
-- name: Dallas, TX
-  items:
-  - name: Time Rift Arcade
-    url: https://timeriftarcade.com/
-  - name: Electric Starship Arcade
-    url: https://electricstarshiparcade.com/
 
 - name: Hiking
   items:
