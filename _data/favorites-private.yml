@@ -38,6 +38,8 @@
     url: https://nzbgeek.info/dashboard.php
   - name: NzbIndex
     url: https://nzbindex.nl/
+  - name: altHUB
+    url: https://althub.co.za/
   - name: NzbForYou
     url: https://www.nzbforyou.com/index
   - name: Radarr
