@@ -115,11 +115,11 @@
   - name: SharpEmu - PS5 (C#)
     url: https://github.com/sharpemu/sharpemu
   - name: Nextendo - Switch (C#)
-    url: https://github.com/NextendoNetwork/Ryujinx-Nextendo
+    url: https://git.nextendo.network/NextendoNetwork/citron-nextendo
   - name: NXEmu - Switch (C++)
     url: https://www.nxemu.com/
   - name: Suyu - Switch (C++)
-    url: https://github.com/dougchansan/suyu-v0.0.4
+    url: https://github.com/suyu-emu/suyu-main
 
 - name: Consoles
   items:
@@ -129,6 +129,8 @@
     url: https://github.com/jpd002/Play-
   - name: ARMSX2 - PS2 (C++)
     url: https://github.com/armsx2/armsx2
+  - name: DuckStation
+    url: https://duckstation.org/
   - name: PPSSPP - PSP (C++)
     url: https://github.com/hrydgard/ppsspp
   - name: Vita3K - PSVITA (C++)
@@ -180,8 +182,6 @@
     url: https://github.com/mgba-emu/mgba
   - name: Hades - Game Boy Advance (C)
     url: https://github.com/hades-emu/Hades
-  - name: GBG - Game Boy (Closed Source)
-    url: https://bgb.bircd.org/
   - name: VirtualBoyGo
     url: https://github.com/CidVonHighwind/VirtualBoyGo
   - name: NEN - NES (Rust)
@@ -204,19 +204,12 @@
   - name: NET - NES (C#)
     url: https://github.com/BotRandomness/NET-NES
 
-- name: Consoles (Wip)
-  items:
-  - name: ChonkyStation 3 - PS3 (C++)
-    url: https://github.com/liuk7071/ChonkyStation3
-
 - name: Consoles (Inactive)
   items:
   - name: Yabause - Sega Saturn
     url: https://yabause.org/
   - name: psOff - PS4 (C++)
     url: https://github.com/SysRay/psOff_public
-  - name: Cogwheel - Sega SMS+GG (C#)
-    url: http://benryves.com/projects/cogwheel
   - name: Sharp C64 (C#)
     url: https://sourceforge.net/projects/sharp-c64/
   - name: Soywiz PSP (D)
@@ -240,16 +233,12 @@
 
 - name: Consoles (Inactive)
   items:
+  - name: ChonkyStation 3 - PS3 (C++)
+    url: https://github.com/liuk7071/ChonkyStation3
   - name: GPCS4 - PS4 (C++)
     url: https://github.com/Inori/GPCS4
   - name: decaf-emu - Wii U (C++)
     url: https://github.com/decaf-emu/decaf-emu
-  - name: Sudachi - Switch (C++)
-    url: https://sudachi.emuplace.app/
-  - name: Suyu - Switch (C++)
-    url: https://suyu.dev/
-  - name: Mandarine - 3DS (C++)
-    url: https://github.com/mandarine3ds/mandarine
   - name: Zenga - Sega SMS (JavaScript)
     url: https://github.com/friol/zenga
   - name: TermBoy - Game Boy (Go)
@@ -286,16 +275,12 @@
     url: https://github.com/openemulator/libemulation
   - name: libemulation fork - Multi (C++)
     url: https://github.com/mr-stivo/libemulation
-  - name: EvrestEmule - NES (JavaScript)
-    url: https://github.com/FBDev64/EvrestEmule-v2
   - name: nes-py - NES (Python)
     url: https://github.com/Kautenja/nes-py
   - name: SNESticle - SNES (C++)
     url: https://github.com/iaddis/SNESticle
   - name: XQEMU - XBOX (C)
     url: https://github.com/xqemu/xqemu
-  - name: Simple64
-    url: https://github.com/simple64/simple64
 
 - name: Computers
   items:
@@ -385,8 +370,6 @@
     url: https://www.skraper.net/
   - name: RomM
     url: https://github.com/rommapp/romm
-  - name: RomM Android
-    url: https://github.com/mattsays/romm-android
 
 - name: Tools
   items:

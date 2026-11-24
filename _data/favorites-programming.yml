@@ -46,6 +46,8 @@
     url: https://www.jetbrains.com/
   - name: Git
     url: https://git-scm.com/downloads
+  - name: codalus
+    url: https://github.com/stavroskasidis/codalus-ide
 
 - name: Visual Studio Extensions
   items:

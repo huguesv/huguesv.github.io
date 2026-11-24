@@ -233,6 +233,10 @@
     url: https://github.com/greenflamehq/greenflame
   - name: SystemManager
     url: https://github.com/laurentiu021/SystemManager
+  - name: Winhanced
+    url: https://www.winhanced.com/
+  - name: Flac Verifier
+    url: https://github.com/FraysKosher/flac-verifier
 
 - name: Video Editing
   items:
